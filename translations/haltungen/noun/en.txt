@@ -1,0 +1,4 @@
+attitudes
+stances
+postures
+positions

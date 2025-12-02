@@ -1,0 +1,4 @@
+recuperar
+obtener
+consultar
+acceder

@@ -1,0 +1,4 @@
+thesis
+proposition
+hypothesis
+argument

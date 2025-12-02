@@ -1,0 +1,4 @@
+zariadenie
+prístroj
+nástroj
+príslušenstvo

@@ -1,0 +1,5 @@
+trekken
+verhuizen
+aantrekken
+uittrekken
+slepen

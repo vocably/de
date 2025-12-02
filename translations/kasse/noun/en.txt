@@ -1,0 +1,5 @@
+cash register
+checkout
+till
+cash desk
+counter

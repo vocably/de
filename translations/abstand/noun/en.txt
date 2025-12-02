@@ -1,0 +1,5 @@
+distance
+gap
+interval
+space
+margin

@@ -1,0 +1,4 @@
+slogans
+catchphrases
+mottos
+watchwords

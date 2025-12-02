@@ -1,0 +1,4 @@
+trust
+trusted
+trusts
+trusting

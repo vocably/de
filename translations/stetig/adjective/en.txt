@@ -1,0 +1,4 @@
+constant
+steady
+continuous
+consistent

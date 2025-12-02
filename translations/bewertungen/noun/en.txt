@@ -1,0 +1,4 @@
+reviews
+assessments
+evaluations
+ratings

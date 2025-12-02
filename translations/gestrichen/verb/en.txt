@@ -1,0 +1,6 @@
+painted
+canceled
+deleted
+struck
+brushed
+cut

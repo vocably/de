@@ -1,0 +1,3 @@
+observe something
+watch something
+monitor something

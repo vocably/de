@@ -1,0 +1,5 @@
+is occupied
+is busy
+engages
+deals
+concerns itself

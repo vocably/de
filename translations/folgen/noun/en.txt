@@ -1,0 +1,4 @@
+consequences
+results
+effects
+sequences

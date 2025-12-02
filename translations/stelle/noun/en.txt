@@ -1,0 +1,6 @@
+place
+position
+job
+spot
+site
+location

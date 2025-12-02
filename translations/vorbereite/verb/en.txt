@@ -1,0 +1,4 @@
+prepare
+am preparing
+get ready
+am getting ready

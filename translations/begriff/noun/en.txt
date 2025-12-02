@@ -1,0 +1,4 @@
+concept
+term
+notion
+idea

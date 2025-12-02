@@ -1,0 +1,4 @@
+stop
+stopped
+stopping
+stops

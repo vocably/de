@@ -1,0 +1,4 @@
+unit
+unity
+entity
+oneness

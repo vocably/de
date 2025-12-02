@@ -1,0 +1,4 @@
+normal
+regular
+standard
+typical

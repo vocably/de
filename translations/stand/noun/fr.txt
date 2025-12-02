@@ -1,0 +1,5 @@
+stand
+niveau
+état
+kiosque
+position

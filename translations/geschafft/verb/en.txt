@@ -1,0 +1,4 @@
+managed
+accomplished
+done
+completed

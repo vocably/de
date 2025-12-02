@@ -1,0 +1,8 @@
+order
+sequence
+command
+arrangement
+regulation
+decree
+directive
+instruction

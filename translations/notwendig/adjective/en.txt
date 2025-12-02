@@ -1,0 +1,4 @@
+necessary
+essential
+required
+indispensable

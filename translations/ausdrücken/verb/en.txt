@@ -1,0 +1,3 @@
+express
+squeeze out
+print out

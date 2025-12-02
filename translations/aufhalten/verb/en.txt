@@ -1,0 +1,5 @@
+hold up
+delay
+stop
+detain
+keep open

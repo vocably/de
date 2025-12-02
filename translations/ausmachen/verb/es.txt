@@ -1,0 +1,5 @@
+apagar
+constituir
+importar
+quedar
+distinguir

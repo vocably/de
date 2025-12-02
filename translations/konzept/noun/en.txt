@@ -1,0 +1,4 @@
+concept
+plan
+idea
+draft

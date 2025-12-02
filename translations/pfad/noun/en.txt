@@ -1,0 +1,4 @@
+path
+trail
+track
+way

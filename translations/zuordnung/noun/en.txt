@@ -1,0 +1,5 @@
+assignment
+allocation
+mapping
+association
+correlation

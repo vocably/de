@@ -1,0 +1,4 @@
+perspective
+viewpoint
+point of view
+outlook

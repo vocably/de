@@ -1,0 +1,3 @@
+individual case
+isolated case
+exception

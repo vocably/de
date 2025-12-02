@@ -1,0 +1,4 @@
+medicine
+medication
+drug
+pharmaceutical

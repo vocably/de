@@ -1,0 +1,3 @@
+çıkarılabilir
+sökülebilir
+uzaklaştırılabilir

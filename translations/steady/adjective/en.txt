@@ -1,0 +1,5 @@
+steady
+constant
+stable
+consistent
+firm

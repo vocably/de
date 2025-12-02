@@ -1,0 +1,4 @@
+sacado
+lanzado
+publicado
+estrenado

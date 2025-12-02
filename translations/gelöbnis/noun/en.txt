@@ -1,0 +1,3 @@
+pledge
+vow
+oath

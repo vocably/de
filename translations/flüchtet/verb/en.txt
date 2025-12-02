@@ -1,0 +1,4 @@
+flees
+is fleeing
+escapes
+is escaping

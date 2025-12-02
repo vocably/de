@@ -1,0 +1,4 @@
+incident
+occurrence
+event
+happening

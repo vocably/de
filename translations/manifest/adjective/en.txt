@@ -1,0 +1,3 @@
+manifest
+obvious
+clear

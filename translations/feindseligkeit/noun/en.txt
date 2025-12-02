@@ -1,0 +1,4 @@
+hostility
+enmity
+antagonism
+unfriendliness

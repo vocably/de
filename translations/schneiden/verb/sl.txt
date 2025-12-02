@@ -1,0 +1,5 @@
+rezati
+odrezati
+prerezati
+zarezati
+narezati

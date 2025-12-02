@@ -1,0 +1,5 @@
+apply
+be valid
+count
+hold
+pertain

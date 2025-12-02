@@ -1,0 +1,4 @@
+shorten
+reduce
+cut
+trim

@@ -1,0 +1,3 @@
+administer
+dispense
+give

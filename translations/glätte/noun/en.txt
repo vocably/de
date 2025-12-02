@@ -1,0 +1,4 @@
+smoothness
+slickness
+slipperiness
+polish

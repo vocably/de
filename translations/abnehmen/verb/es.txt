@@ -1,0 +1,4 @@
+perder
+quitar
+disminuir
+aceptar

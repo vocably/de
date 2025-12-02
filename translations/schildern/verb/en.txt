@@ -1,0 +1,4 @@
+describe
+depict
+narrate
+portray

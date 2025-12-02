@@ -1,0 +1,3 @@
+compare
+am comparing
+do compare

@@ -1,0 +1,5 @@
+notizia
+comunicazione
+segnalazione
+annuncio
+messaggio

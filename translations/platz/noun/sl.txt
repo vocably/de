@@ -1,0 +1,4 @@
+prostor
+mesto
+kraj
+trg

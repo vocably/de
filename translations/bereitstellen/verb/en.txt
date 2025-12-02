@@ -1,0 +1,5 @@
+provide
+supply
+make available
+allocate
+deploy

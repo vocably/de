@@ -1,0 +1,8 @@
+task
+assignment
+exercise
+duty
+function
+problem
+mission
+job

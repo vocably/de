@@ -1,0 +1,5 @@
+leader
+chief
+head
+commander
+captain

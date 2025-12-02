@@ -1,0 +1,4 @@
+posunúť
+odložiť
+presunúť
+preložiť

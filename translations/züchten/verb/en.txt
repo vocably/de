@@ -1,0 +1,4 @@
+breed
+cultivate
+rear
+raise

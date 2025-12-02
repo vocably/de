@@ -1,0 +1,5 @@
+walk
+corridor
+aisle
+course
+gear

@@ -1,0 +1,3 @@
+gradual
+paulatino
+lento

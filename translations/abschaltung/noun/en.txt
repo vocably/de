@@ -1,0 +1,4 @@
+shutdown
+disconnection
+deactivation
+switch-off

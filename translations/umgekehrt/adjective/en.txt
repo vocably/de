@@ -1,0 +1,5 @@
+reversed
+inverse
+opposite
+converse
+inverted

@@ -1,0 +1,8 @@
+cut
+section
+editing
+average
+intersection
+slice
+cross-section
+incision

@@ -1,0 +1,3 @@
+slit open
+slashed open
+cut open

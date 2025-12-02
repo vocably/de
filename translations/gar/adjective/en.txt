@@ -1,0 +1,4 @@
+done
+cooked
+ready
+quite

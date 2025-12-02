@@ -1,0 +1,9 @@
+hit
+blow
+strike
+beat
+shock
+impact
+punch
+stroke
+knock

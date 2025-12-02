@@ -1,0 +1,17 @@
+{
+  "source": "Alge",
+  "number": "singular",
+  "lemma": "Alge",
+  "lemmaPos": "noun",
+  "definitions": [
+    "eine Pflanze, die im Wasser lebt",
+    "einfacher, photosynthetisch aktiver Organismus"
+  ],
+  "examples": [
+    "Die Alge wächst im Teich.",
+    "Algen sind wichtig für das Ökosystem."
+  ],
+  "synonyms": ["Seegras", "Tang"],
+  "transcript": "ˈalɡə",
+  "gender": "feminine"
+}
