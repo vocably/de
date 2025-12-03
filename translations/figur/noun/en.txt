@@ -1,0 +1,5 @@
+figure
+character
+shape
+statue
+figurine

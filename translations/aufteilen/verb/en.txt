@@ -1,0 +1,4 @@
+divide
+split
+distribute
+allocate

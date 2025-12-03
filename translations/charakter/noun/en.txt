@@ -1,0 +1,4 @@
+character
+nature
+personality
+temperament

@@ -1,0 +1,4 @@
+esfuerzo
+gasto
+desembolso
+inversión

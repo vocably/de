@@ -1,0 +1,4 @@
+detener
+parar
+interrumpir
+impedir
