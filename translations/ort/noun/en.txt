@@ -1,0 +1,6 @@
+place
+location
+spot
+site
+town
+village

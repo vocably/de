@@ -1,0 +1,5 @@
+ability
+skill
+capability
+competence
+aptitude

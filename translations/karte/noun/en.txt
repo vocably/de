@@ -1,0 +1,10 @@
+card
+map
+chart
+ticket
+menu
+plan
+diagram
+bank card
+credit card
+debit card

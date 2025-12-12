@@ -1,0 +1,5 @@
+blocked
+closed
+restricted
+barred
+locked

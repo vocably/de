@@ -1,0 +1,4 @@
+döntő
+meghatározó
+kulcsfontosságú
+létfontosságú

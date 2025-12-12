@@ -1,0 +1,6 @@
+receive
+get
+welcome
+greet
+entertain
+be broadcast

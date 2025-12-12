@@ -1,0 +1,10 @@
+assume
+presume
+suspect
+believe
+guess
+imagine
+conjecture
+hypothesize
+speculate
+surmise

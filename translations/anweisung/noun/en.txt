@@ -1,0 +1,5 @@
+instruction
+directive
+order
+guidance
+command

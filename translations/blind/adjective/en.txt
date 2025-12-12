@@ -1,0 +1,6 @@
+blind
+undirected
+random
+disordered
+unseeing
+aimless

@@ -1,0 +1,4 @@
+raccomandato
+consigliato
+suggerito
+proposto

@@ -1,0 +1,5 @@
+artırma
+yükseltme
+çoğaltma
+aşama
+derece

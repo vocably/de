@@ -1,0 +1,5 @@
+unfold
+develop
+expand
+spread
+open

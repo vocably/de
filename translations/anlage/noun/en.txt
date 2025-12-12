@@ -1,0 +1,8 @@
+facility
+investment
+system
+installation
+attachment
+plant
+site
+layout

@@ -1,0 +1,3 @@
+immediate
+direct
+instantaneous

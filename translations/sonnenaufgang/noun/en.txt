@@ -1,0 +1,4 @@
+sunrise
+daybreak
+dawn
+sunup

@@ -1,0 +1,4 @@
+vlak
+gibanje
+smer
+poteza

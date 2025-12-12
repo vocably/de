@@ -1,0 +1,3 @@
+present
+attending
+in attendance
