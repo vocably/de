@@ -1,4 +1,0 @@
-zero
-nought
-nil
-nothing
