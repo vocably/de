@@ -1,0 +1,5 @@
+en peligro
+en riesgo
+amenazado
+en vías de extinción
+vulnerable

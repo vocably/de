@@ -1,0 +1,4 @@
+metszet
+metszethalmaz
+közös rész
+átfedés

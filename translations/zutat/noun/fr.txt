@@ -1,0 +1,4 @@
+ingrédient
+composant
+additif
+élément

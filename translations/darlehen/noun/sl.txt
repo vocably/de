@@ -1,0 +1,3 @@
+posojilo
+kredit
+izposojeno vsoto

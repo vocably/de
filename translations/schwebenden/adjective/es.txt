@@ -1,0 +1,6 @@
+flotante
+suspendido
+pendiente
+delicado
+etéreo
+ligero

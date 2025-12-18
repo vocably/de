@@ -1,0 +1,6 @@
+stall
+stand
+booth
+state
+situation
+condition

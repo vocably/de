@@ -1,0 +1,8 @@
+businesses
+companies
+enterprises
+firms
+operations
+establishments
+plants
+works

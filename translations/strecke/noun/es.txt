@@ -1,0 +1,5 @@
+la distancia
+el tramo
+el trayecto
+la sección
+el recorrido

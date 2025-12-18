@@ -1,0 +1,4 @@
+failed
+did not succeed
+was unsuccessful
+went wrong

@@ -1,0 +1,5 @@
+salta
+omite
+se salta
+se omite
+se transmite

@@ -1,0 +1,6 @@
+strategy
+approach
+tactic
+policy
+procedure
+plan

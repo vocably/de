@@ -1,0 +1,6 @@
+fraction
+part
+portion
+bit
+fragment
+segment

@@ -1,0 +1,10 @@
+ability
+skill
+faculty
+proficiency
+competence
+capability
+aptitude
+talent
+gift
+capacity

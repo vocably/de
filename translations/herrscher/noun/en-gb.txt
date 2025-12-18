@@ -1,0 +1,7 @@
+ruler
+sovereign
+monarch
+governor
+lord
+potentate
+prince

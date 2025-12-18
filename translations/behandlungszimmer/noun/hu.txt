@@ -1,0 +1,4 @@
+kezelő
+kezelőhelyiség
+vizsgáló
+vizsgálóhelyiség

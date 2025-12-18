@@ -1,0 +1,6 @@
+pot
+način
+metoda
+smer
+razvoj
+tok dogodkov

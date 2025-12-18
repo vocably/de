@@ -1,0 +1,5 @@
+phrase
+proposition
+ensemble
+mouvement
+règle

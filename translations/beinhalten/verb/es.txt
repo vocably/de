@@ -1,0 +1,5 @@
+incluir
+contener
+abarcar
+comprender
+implicar

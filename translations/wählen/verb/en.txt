@@ -1,0 +1,6 @@
+choose
+select
+vote
+elect
+opt
+pick

@@ -1,0 +1,4 @@
+facteur
+coefficient
+élément
+variable

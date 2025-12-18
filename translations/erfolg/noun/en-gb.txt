@@ -1,0 +1,4 @@
+success
+achievement
+result
+outcome

@@ -1,0 +1,5 @@
+meuble
+ameublement
+pièce de mobilier
+article d'ameublement
+mobilier

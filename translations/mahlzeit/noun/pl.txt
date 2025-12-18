@@ -1,0 +1,3 @@
+posiłek
+obiad
+uczta
