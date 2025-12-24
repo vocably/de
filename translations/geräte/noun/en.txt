@@ -1,0 +1,7 @@
+device
+apparatus
+tool
+implement
+appliance
+instrument
+equipment

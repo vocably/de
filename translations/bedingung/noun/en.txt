@@ -1,0 +1,6 @@
+condition
+term
+provision
+stipulation
+prerequisite
+requirement

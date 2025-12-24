@@ -1,0 +1,5 @@
+rusts
+corrodes
+is damaged by rust
+loses its luster
+deteriorates

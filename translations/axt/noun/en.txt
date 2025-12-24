@@ -1,0 +1,4 @@
+axe
+hatchet
+battle-axe
+poleaxe

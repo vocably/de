@@ -1,0 +1,5 @@
+corner
+edge
+nook
+recess
+angle

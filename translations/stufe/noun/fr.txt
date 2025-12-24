@@ -1,0 +1,6 @@
+marche
+degré
+niveau
+étape
+barreau
+échelon

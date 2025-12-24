@@ -1,0 +1,4 @@
+warrior
+fighter
+soldier
+combatant

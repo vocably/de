@@ -1,0 +1,5 @@
+nécessaire
+requis
+obligatoire
+indispensable
+exigé
