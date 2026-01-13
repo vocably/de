@@ -1,4 +1,0 @@
-cut off
-trim
-score
-perform

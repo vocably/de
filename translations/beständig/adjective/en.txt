@@ -1,5 +1,0 @@
-consistent
-stable
-constant
-durable
-steady

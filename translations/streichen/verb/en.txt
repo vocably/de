@@ -1,6 +1,0 @@
-paint
-cancel
-delete
-strike
-spread
-stroke

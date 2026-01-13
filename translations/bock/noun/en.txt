@@ -1,4 +1,0 @@
-buck
-ram
-billy goat
-stand

@@ -1,5 +1,0 @@
-noise
-din
-racket
-clamor
-uproar

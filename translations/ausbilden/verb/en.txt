@@ -1,5 +1,0 @@
-train
-educate
-develop
-instruct
-form

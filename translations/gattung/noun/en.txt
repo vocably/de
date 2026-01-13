@@ -1,5 +1,0 @@
-genus
-type
-species
-kind
-category

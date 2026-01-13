@@ -1,5 +1,0 @@
-données
-informations
-indications
-déclarations
-précisions

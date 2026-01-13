@@ -1,4 +1,0 @@
-sortir
-publier
-lancer
-émettre

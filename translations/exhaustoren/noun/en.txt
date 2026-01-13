@@ -1,3 +1,0 @@
-exhausters
-fans
-ventilators

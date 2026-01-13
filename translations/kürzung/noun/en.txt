@@ -1,4 +1,0 @@
-reduction
-cut
-cutback
-curtailment

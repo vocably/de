@@ -1,6 +1,0 @@
-aid
-tool
-resource
-device
-instrument
-means

@@ -1,4 +1,0 @@
-expects
-expected
-is expecting
-was expecting

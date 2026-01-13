@@ -1,4 +1,0 @@
-cancelar
-anular
-revocar
-rescindir

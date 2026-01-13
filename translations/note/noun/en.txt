@@ -1,5 +1,0 @@
-note
-grade
-mark
-memo
-annotation

@@ -1,5 +1,0 @@
-expire
-run out
-elapse
-proceed
-drain

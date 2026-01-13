@@ -1,5 +1,0 @@
-changeable
-variable
-unpredictable
-volatile
-inconsistent

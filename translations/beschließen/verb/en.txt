@@ -1,6 +1,0 @@
-decide
-resolve
-pass
-conclude
-finish
-terminate

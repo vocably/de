@@ -1,4 +1,0 @@
-stir
-move
-touch
-mix

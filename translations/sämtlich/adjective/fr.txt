@@ -1,6 +1,0 @@
-tout
-complet
-entier
-intégral
-exhaustif
-global

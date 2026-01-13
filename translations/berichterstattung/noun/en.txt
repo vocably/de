@@ -1,4 +1,0 @@
-reporting
-coverage
-news coverage
-reportage

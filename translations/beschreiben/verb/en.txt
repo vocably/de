@@ -1,4 +1,0 @@
-describe
-described
-describing
-describes

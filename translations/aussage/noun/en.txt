@@ -1,4 +1,0 @@
-statement
-testimony
-assertion
-proposition

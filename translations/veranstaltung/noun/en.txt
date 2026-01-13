@@ -1,5 +1,0 @@
-event
-function
-activity
-meeting
-occasion

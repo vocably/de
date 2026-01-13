@@ -1,5 +1,0 @@
-conditions
-terms
-prerequisites
-circumstances
-requirements

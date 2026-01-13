@@ -1,8 +1,0 @@
-direction
-trend
-orientation
-tendency
-line
-drift
-bearing
-run

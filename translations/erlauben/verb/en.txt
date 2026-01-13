@@ -1,5 +1,0 @@
-allow
-permit
-enable
-authorize
-grant permission

@@ -1,4 +1,0 @@
-dwarf
-gnome
-midget
-little person

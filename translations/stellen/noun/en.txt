@@ -1,4 +1,0 @@
-positions
-places
-jobs
-posts

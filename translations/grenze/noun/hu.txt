@@ -1,9 +1,0 @@
-határ
-államhatár
-területhatár
-határvonal
-vég
-szegély
-perem
-korlát
-limit

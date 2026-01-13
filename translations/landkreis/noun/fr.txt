@@ -1,3 +1,0 @@
-arrondissement
-district
-cercle

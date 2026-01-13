@@ -1,4 +1,0 @@
-instruct
-direct
-order
-assign

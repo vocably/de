@@ -1,4 +1,0 @@
-classify
-grade
-rank
-categorize

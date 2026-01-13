@@ -1,5 +1,0 @@
-convert
-transform
-change
-transmute
-alter

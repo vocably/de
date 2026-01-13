@@ -1,6 +1,0 @@
-terrain
-site
-grounds
-area
-land
-premises

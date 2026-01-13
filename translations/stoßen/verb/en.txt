@@ -1,6 +1,0 @@
-push
-bump
-thrust
-jab
-butt
-poke

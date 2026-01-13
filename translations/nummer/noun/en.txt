@@ -1,5 +1,0 @@
-number
-figure
-entry
-item
-digit

@@ -1,4 +1,0 @@
-interrupt
-break
-discontinue
-suspend

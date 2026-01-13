@@ -1,3 +1,0 @@
-booking text
-entry text
-transaction text

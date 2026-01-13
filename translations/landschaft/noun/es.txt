@@ -1,5 +1,0 @@
-paisaje
-región
-comarca
-área
-territorio

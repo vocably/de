@@ -1,4 +1,0 @@
-commute
-oscillate
-shuttle
-swing

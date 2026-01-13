@@ -1,5 +1,0 @@
-slack
-loose
-flabby
-limp
-lax

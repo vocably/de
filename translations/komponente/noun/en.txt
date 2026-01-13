@@ -1,5 +1,0 @@
-component
-element
-part
-constituent
-building block

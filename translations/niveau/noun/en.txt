@@ -1,7 +1,0 @@
-level
-standard
-rank
-height
-plane
-caliber
-quality

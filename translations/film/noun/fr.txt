@@ -1,5 +1,0 @@
-film
-pellicule
-couche
-enduit
-voile

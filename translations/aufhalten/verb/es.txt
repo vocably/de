@@ -1,4 +1,0 @@
-detener
-parar
-interrumpir
-impedir

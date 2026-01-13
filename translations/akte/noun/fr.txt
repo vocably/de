@@ -1,4 +1,0 @@
-dossier
-acte
-archive
-document

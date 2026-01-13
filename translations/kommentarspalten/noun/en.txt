@@ -1,3 +1,0 @@
-comment sections
-comment threads
-comment fields

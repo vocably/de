@@ -1,4 +1,0 @@
-limited
-restricted
-finite
-capped

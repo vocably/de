@@ -1,5 +1,0 @@
-message
-notification
-communication
-announcement
-note

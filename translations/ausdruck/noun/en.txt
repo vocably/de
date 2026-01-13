@@ -1,5 +1,0 @@
-expression
-term
-phrase
-print
-manifestation

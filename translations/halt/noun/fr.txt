@@ -1,5 +1,0 @@
-arrêt
-halte
-pause
-interruption
-suspension

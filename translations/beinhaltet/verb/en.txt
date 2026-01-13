@@ -1,5 +1,0 @@
-includes
-contains
-encompasses
-comprises
-involves

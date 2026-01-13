@@ -1,4 +1,0 @@
-locale
-del posto
-in loco
-regionale

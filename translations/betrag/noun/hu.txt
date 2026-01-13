@@ -1,4 +1,0 @@
-összeg
-mennyiség
-összeg (pénz)
-érték

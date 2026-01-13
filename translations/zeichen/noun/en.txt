@@ -1,5 +1,0 @@
-sign
-symbol
-character
-mark
-token

@@ -1,6 +1,0 @@
-enter
-join
-occur
-step in
-come in
-happen

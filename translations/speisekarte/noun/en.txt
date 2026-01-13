@@ -1,4 +1,0 @@
-menu
-wine list
-menu card
-carte du jour

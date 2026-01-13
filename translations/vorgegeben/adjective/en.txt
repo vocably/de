@@ -1,5 +1,0 @@
-given
-preset
-specified
-predefined
-default

@@ -1,6 +1,0 @@
-district
-borough
-quarter
-suburb
-precinct
-ward

@@ -1,6 +1,0 @@
-template
-model
-draft
-pattern
-example
-submission

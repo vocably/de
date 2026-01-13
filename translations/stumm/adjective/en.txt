@@ -1,4 +1,0 @@
-mute
-silent
-speechless
-dumb

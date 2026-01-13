@@ -1,4 +1,0 @@
-four
-figure
-numeral
-digit

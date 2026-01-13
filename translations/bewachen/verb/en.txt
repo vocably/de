@@ -1,3 +1,0 @@
-guard
-watch
-patrol

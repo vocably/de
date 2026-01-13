@@ -1,4 +1,0 @@
-conter
-incluir
-abranger
-encerrar

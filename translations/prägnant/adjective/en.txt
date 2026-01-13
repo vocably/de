@@ -1,4 +1,0 @@
-concise
-succinct
-pithy
-terse

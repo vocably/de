@@ -1,5 +1,0 @@
-barrels
-casks
-kegs
-drums
-vats

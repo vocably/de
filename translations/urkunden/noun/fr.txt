@@ -1,5 +1,0 @@
-acte
-document
-titre
-certificat
-diplôme

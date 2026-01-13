@@ -1,6 +1,0 @@
-prerequisite
-condition
-assumption
-precondition
-stipulation
-hypothesis

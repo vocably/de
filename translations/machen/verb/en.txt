@@ -1,6 +1,0 @@
-make
-do
-made
-doing
-did
-done

@@ -1,5 +1,0 @@
-information
-statement
-indication
-specification
-detail

@@ -1,6 +1,0 @@
-conclusion
-inference
-deduction
-reasoning
-finding
-result

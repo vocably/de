@@ -1,5 +1,0 @@
-activo
-trabajador
-ocupado
-dedicado
-ejecutante

@@ -1,7 +1,0 @@
-company
-business
-operation
-activity
-plant
-works
-firm

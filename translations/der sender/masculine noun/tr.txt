@@ -1,8 +1,0 @@
-verici
-yayıncı
-gönderen
-yayın istasyonu
-radyo istasyonu
-televizyon istasyonu
-aktarıcı
-gönderici

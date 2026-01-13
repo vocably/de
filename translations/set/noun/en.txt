@@ -1,4 +1,0 @@
-set
-place mat
-film set
-TV set

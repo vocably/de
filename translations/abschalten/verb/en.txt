@@ -1,5 +1,0 @@
-switch off
-turn off
-shut down
-disconnect
-deactivate

@@ -1,4 +1,0 @@
-allow
-permit
-authorize
-consent

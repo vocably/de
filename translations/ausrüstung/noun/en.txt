@@ -1,5 +1,0 @@
-equipment
-gear
-kit
-outfit
-provision

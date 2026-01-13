@@ -1,6 +1,0 @@
-dish
-meal
-course
-court
-tribunal
-judicature

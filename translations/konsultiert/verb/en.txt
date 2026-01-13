@@ -1,6 +1,0 @@
-consults
-advises
-confers
-interviews
-queries
-references

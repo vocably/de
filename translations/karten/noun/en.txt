@@ -1,5 +1,0 @@
-map
-card
-playing card
-chart
-plan

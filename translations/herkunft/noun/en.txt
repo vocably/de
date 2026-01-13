@@ -1,4 +1,0 @@
-origin
-background
-ancestry
-source

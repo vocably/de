@@ -1,4 +1,0 @@
-impure
-unclean
-dirty
-tainted

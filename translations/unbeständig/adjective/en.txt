@@ -1,5 +1,0 @@
-unstable
-inconsistent
-changeable
-unsettled
-variable

@@ -1,5 +1,0 @@
-inferior
-subordinate
-lower
-lesser
-secondary

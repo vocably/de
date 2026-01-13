@@ -1,5 +1,0 @@
-advertisement
-notification
-display
-report
-indication

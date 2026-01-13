@@ -1,6 +1,0 @@
-offer
-supply
-bid
-proposal
-quotation
-tender

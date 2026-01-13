@@ -1,4 +1,0 @@
-safe
-vault
-strongbox
-strongroom

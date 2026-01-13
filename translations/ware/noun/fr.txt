@@ -1,3 +1,0 @@
-marchandise
-produit
-article

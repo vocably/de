@@ -1,4 +1,0 @@
-superiors
-bosses
-managers
-supervisors

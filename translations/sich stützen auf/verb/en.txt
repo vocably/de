@@ -1,4 +1,0 @@
-rely on
-lean on
-depend on
-base on

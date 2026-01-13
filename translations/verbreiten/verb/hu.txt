@@ -1,7 +1,0 @@
-terjeszt
-elterjeszt
-szétterjeszt
-szétoszt
-elterjed
-szétterjed
-szétosztogat

@@ -1,5 +1,0 @@
-ask
-request
-beg
-invite
-plead

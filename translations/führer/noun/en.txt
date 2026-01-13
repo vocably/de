@@ -1,6 +1,0 @@
-leader
-guide
-director
-commander
-chief
-head

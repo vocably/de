@@ -1,5 +1,0 @@
-interface
-port
-junction
-interconnection
-gateway

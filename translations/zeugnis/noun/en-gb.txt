@@ -1,5 +1,0 @@
-certificate
-report
-testimonial
-record
-document

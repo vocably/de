@@ -1,7 +1,0 @@
-steer
-control
-guide
-direct
-manage
-regulate
-influence

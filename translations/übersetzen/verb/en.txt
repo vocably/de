@@ -1,5 +1,0 @@
-translate
-interpret
-render
-ferry
-cross

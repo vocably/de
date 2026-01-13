@@ -1,3 +1,0 @@
-slatted frame
-bed base
-slatted bed base

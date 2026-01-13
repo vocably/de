@@ -1,5 +1,0 @@
-facades
-fronts
-exteriors
-show
-pretense

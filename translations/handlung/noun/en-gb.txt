@@ -1,7 +1,0 @@
-plot
-action
-shop
-store
-business
-act
-deed

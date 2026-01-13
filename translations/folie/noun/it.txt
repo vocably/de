@@ -1,4 +1,0 @@
-lamina
-foglio
-pellicola
-strato

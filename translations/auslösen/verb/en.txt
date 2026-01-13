@@ -1,5 +1,0 @@
-trigger
-cause
-activate
-release
-set off

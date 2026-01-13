@@ -1,5 +1,0 @@
-define
-determine
-describe
-delimit
-characterize

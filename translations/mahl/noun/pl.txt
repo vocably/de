@@ -1,5 +1,0 @@
-posiłek
-uczta
-obiad
-kolacja
-śniadanie

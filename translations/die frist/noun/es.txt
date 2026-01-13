@@ -1,4 +1,0 @@
-plazo
-fecha límite
-término
-vencimiento

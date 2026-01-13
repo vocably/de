@@ -1,5 +1,0 @@
-result
-outcome
-finding
-conclusion
-score

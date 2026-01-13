@@ -1,6 +1,0 @@
-short
-brief
-concise
-terse
-pithy
-succinct

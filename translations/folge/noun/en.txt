@@ -1,6 +1,0 @@
-episode
-consequence
-result
-series
-sequence
-effect

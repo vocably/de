@@ -1,3 +1,0 @@
-wacht
-let op
-pas op

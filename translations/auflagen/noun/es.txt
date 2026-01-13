@@ -1,4 +1,0 @@
-condiciones
-restricciones
-tiradas
-ediciones

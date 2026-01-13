@@ -1,8 +1,0 @@
-give
-submit
-hand over
-deliver
-pass
-yield
-emit
-release

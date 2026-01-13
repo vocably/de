@@ -1,5 +1,0 @@
-stages
-theaters
-venues
-platforms
-scenes

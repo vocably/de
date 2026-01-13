@@ -1,7 +1,0 @@
-horizontal
-diagonal
-oblique
-perverse
-awkward
-obstinate
-cross-grained

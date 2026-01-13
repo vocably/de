@@ -1,5 +1,0 @@
-deactivate
-disable
-turn off
-invalidate
-cancel

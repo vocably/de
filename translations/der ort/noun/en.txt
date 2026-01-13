@@ -1,8 +1,0 @@
-place
-location
-site
-spot
-town
-village
-area
-point

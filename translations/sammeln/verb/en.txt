@@ -1,5 +1,0 @@
-collect
-gather
-assemble
-accumulate
-amass

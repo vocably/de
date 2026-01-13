@@ -1,5 +1,0 @@
-patrones
-muestras
-diseños
-modelos
-plantillas

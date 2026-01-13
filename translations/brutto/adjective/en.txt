@@ -1,4 +1,0 @@
-gross
-total
-overall
-aggregate

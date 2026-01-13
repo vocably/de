@@ -1,5 +1,0 @@
-draft
-design
-sketch
-plan
-outline

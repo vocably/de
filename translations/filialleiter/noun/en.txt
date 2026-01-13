@@ -1,3 +1,0 @@
-branch manager
-store manager
-outlet manager

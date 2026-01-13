@@ -1,6 +1,0 @@
-illness
-disease
-sickness
-disorder
-malady
-ailment

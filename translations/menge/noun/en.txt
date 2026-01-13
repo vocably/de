@@ -1,5 +1,0 @@
-amount
-quantity
-crowd
-set
-multitude

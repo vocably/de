@@ -1,4 +1,0 @@
-pressure
-stress
-force
-compulsion

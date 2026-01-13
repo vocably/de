@@ -1,4 +1,0 @@
-billets
-certificats
-titres
-documents

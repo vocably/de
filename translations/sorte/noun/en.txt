@@ -1,4 +1,0 @@
-kind
-type
-variety
-sort

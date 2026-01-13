@@ -1,5 +1,0 @@
-distribute
-spread
-allocate
-dispense
-apportion

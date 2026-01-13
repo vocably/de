@@ -1,4 +1,0 @@
-environnement
-contexte
-milieu
-cadre

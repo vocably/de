@@ -1,3 +1,0 @@
-rigor
-strictness
-severity

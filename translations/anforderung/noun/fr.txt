@@ -1,5 +1,0 @@
-exigence
-demande
-condition
-requête
-spécification

@@ -1,4 +1,0 @@
-pours
-is pouring
-dumps
-is dumping

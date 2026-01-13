@@ -1,5 +1,0 @@
-demands
-claims
-expectations
-requirements
-stipulations

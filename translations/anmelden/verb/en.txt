@@ -1,4 +1,0 @@
-register
-sign up
-log in
-enroll

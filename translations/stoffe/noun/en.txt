@@ -1,4 +1,0 @@
-materials
-fabrics
-substances
-cloths

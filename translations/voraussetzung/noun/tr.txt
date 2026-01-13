@@ -1,6 +1,0 @@
-koşul
-şart
-ön koşul
-varsayım
-gereklilik
-temel

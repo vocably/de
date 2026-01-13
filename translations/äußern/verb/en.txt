@@ -1,5 +1,0 @@
-express
-voice
-state
-utter
-remark

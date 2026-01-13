@@ -1,5 +1,0 @@
-zero
-naught
-nothing
-nil
-cipher

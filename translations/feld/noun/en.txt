@@ -1,5 +1,0 @@
-field
-area
-domain
-meadow
-plain

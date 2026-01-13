@@ -1,5 +1,0 @@
-decision
-choice
-determination
-selection
-resolution

@@ -1,4 +1,0 @@
-set a variable
-assign a value to a variable
-define a variable
-initialize a variable

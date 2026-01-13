@@ -1,6 +1,0 @@
-deliver
-carry out
-distribute
-host
-settle
-resolve

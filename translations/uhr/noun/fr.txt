@@ -1,5 +1,0 @@
-horloge
-montre
-pendule
-garde-temps
-chronomètre

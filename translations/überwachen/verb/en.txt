@@ -1,5 +1,0 @@
-monitor
-supervise
-oversee
-watch
-control

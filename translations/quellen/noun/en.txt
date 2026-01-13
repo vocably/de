@@ -1,4 +1,0 @@
-source
-origin
-spring
-well

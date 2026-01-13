@@ -1,6 +1,0 @@
-basket
-hamper
-rejection
-refusal
-wastebasket
-bin

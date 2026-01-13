@@ -1,6 +1,0 @@
-record
-note
-register
-show
-have
-exhibit

@@ -1,6 +1,0 @@
-touch
-handle
-take
-grab
-assault
-attack

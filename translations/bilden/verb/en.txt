@@ -1,7 +1,0 @@
-form
-build
-create
-make
-constitute
-shape
-educate

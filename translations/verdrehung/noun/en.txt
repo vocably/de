@@ -1,5 +1,0 @@
-rotation
-twist
-torsion
-distortion
-sprain

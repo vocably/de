@@ -1,5 +1,0 @@
-explain
-declare
-clarify
-illustrate
-expound

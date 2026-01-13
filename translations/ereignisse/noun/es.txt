@@ -1,5 +1,0 @@
-eventos
-sucesos
-acontecimientos
-incidentes
-casos

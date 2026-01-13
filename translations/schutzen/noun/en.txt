@@ -1,5 +1,0 @@
-shooter
-marksman
-rifleman
-gunman
-sentry

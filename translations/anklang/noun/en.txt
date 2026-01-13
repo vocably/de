@@ -1,4 +1,0 @@
-echo
-resonance
-appeal
-approval

@@ -1,4 +1,0 @@
-quiet
-silent
-still
-calm

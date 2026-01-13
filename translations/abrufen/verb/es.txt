@@ -1,4 +1,0 @@
-recuperar
-obtener
-consultar
-acceder

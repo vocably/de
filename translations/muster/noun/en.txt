@@ -1,5 +1,0 @@
-pattern
-sample
-model
-template
-design

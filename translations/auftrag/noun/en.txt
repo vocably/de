@@ -1,7 +1,0 @@
-order
-commission
-assignment
-contract
-job
-task
-mandate

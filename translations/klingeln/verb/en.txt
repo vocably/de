@@ -1,6 +1,0 @@
-ring
-chime
-jingle
-peal
-tinkle
-buzz

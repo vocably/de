@@ -1,4 +1,0 @@
-exact
-precise
-accurate
-correct

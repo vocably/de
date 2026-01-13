@@ -1,5 +1,0 @@
-background
-backdrop
-context
-setting
-backstory

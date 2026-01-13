@@ -1,5 +1,0 @@
-condition-cadre
-condition-limite
-cadre
-contexte
-donnée-cadre

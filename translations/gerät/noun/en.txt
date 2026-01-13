@@ -1,5 +1,0 @@
-device
-appliance
-gadget
-instrument
-tool

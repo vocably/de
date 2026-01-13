@@ -1,4 +1,0 @@
-sacado
-lanzado
-publicado
-emitido

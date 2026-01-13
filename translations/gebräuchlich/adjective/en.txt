@@ -1,5 +1,0 @@
-common
-customary
-usual
-normal
-conventional

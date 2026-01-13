@@ -1,5 +1,0 @@
-fields
-areas
-domains
-disciplines
-branches

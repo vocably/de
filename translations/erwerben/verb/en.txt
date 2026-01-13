@@ -1,5 +1,0 @@
-acquire
-purchase
-gain
-obtain
-buy

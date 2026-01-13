@@ -1,7 +1,0 @@
-activate
-enable
-start
-trigger
-energize
-stimulate
-mobilize

@@ -1,5 +1,0 @@
-admission
-permit
-license
-authorization
-approval

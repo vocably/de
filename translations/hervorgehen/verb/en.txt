@@ -1,5 +1,0 @@
-emerge
-result
-arise
-proceed
-derive

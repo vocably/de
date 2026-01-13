@@ -1,5 +1,0 @@
-approve
-authorize
-permit
-grant
-sanction

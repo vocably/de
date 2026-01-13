@@ -1,5 +1,0 @@
-situation
-position
-location
-condition
-state

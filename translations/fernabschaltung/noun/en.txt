@@ -1,3 +1,0 @@
-remote shutdown
-remote disconnection
-remote switch-off

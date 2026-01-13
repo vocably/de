@@ -1,5 +1,0 @@
-slice
-disc
-pane
-disk
-windowpane

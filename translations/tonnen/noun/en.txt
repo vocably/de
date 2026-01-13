@@ -1,5 +1,0 @@
-barrel
-cask
-drum
-tun
-tonne

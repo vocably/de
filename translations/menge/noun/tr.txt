@@ -1,5 +1,0 @@
-Miktar
-Çokluk
-Küme
-Sayı
-Kalabalık

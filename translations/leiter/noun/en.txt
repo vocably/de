@@ -1,5 +1,0 @@
-ladder
-leader
-head
-manager
-director

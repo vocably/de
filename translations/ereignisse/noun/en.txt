@@ -1,4 +1,0 @@
-events
-occurrences
-incidents
-happenings

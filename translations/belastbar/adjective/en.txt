@@ -1,5 +1,0 @@
-resilient
-durable
-robust
-reliable
-strong

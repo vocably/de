@@ -1,4 +1,0 @@
-height
-altitude
-elevation
-level

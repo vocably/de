@@ -1,5 +1,0 @@
-salary
-wage
-pay
-content
-level

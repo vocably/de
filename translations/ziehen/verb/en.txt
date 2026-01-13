@@ -1,9 +1,0 @@
-pull
-draw
-move
-drag
-tug
-extract
-haul
-stretch
-attract

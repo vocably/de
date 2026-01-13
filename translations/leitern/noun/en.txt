@@ -1,5 +1,0 @@
-ladder
-conductor
-leader
-director
-head

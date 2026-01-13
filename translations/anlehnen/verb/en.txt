@@ -1,4 +1,0 @@
-lean
-rest
-prop
-reject

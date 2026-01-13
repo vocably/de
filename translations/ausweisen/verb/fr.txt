@@ -1,4 +1,0 @@
-expulser
-identifier
-indiquer
-afficher

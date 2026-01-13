@@ -1,5 +1,0 @@
-spark
-radio
-transmit
-send out sparks
-establish a radio link

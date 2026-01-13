@@ -1,5 +1,0 @@
-aumentar
-multiplicar
-reproducir
-procrear
-incrementar

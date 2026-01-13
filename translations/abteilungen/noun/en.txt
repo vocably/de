@@ -1,3 +1,0 @@
-departments
-sections
-divisions

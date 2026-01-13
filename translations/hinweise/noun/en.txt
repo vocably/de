@@ -1,5 +1,0 @@
-clues
-indications
-hints
-pointers
-evidence

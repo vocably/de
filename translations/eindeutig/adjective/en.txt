@@ -1,4 +1,0 @@
-clear
-unambiguous
-definite
-distinct

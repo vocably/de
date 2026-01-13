@@ -1,4 +1,0 @@
-quiet
-soft
-low
-gentle

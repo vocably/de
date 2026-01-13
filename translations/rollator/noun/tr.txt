@@ -1,3 +1,0 @@
-Rollatör
-Tekerlekli yürüteç
-Yürüteç

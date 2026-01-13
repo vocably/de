@@ -1,5 +1,0 @@
-spread
-expand
-unfold
-distribute
-extend

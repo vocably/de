@@ -1,5 +1,0 @@
-fondation
-base
-socle
-infrastructure
-support

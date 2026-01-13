@@ -1,3 +1,0 @@
-piso
-planta
-nivel

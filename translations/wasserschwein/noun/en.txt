@@ -1,3 +1,0 @@
-capybara
-water hog
-water pig

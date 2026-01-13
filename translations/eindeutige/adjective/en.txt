@@ -1,5 +1,0 @@
-clear
-unambiguous
-definite
-distinct
-explicit

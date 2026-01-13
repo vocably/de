@@ -1,4 +1,0 @@
-supervise
-oversee
-monitor
-manage

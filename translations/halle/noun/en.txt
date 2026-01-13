@@ -1,5 +1,0 @@
-hall
-auditorium
-gym
-concourse
-warehouse

@@ -1,5 +1,0 @@
-attitude
-posture
-stance
-bearing
-position

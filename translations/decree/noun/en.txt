@@ -1,5 +1,0 @@
-decree
-edict
-order
-mandate
-ordinance

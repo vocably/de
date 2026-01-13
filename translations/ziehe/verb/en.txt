@@ -1,5 +1,0 @@
-pull
-draw
-move
-drag
-tug

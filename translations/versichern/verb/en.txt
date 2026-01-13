@@ -1,4 +1,0 @@
-insure
-assure
-ensure
-affirm

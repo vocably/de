@@ -1,4 +1,0 @@
-turn back
-reverse
-return
-invert

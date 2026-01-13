@@ -1,5 +1,0 @@
-halte
-stop
-arrête
-stoppe
-fini

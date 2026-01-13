@@ -1,4 +1,0 @@
-corda
-filo
-fascio
-nastro

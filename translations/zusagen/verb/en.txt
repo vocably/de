@@ -1,4 +1,0 @@
-promise
-accept
-agree
-confirm

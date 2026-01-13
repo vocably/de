@@ -1,6 +1,0 @@
-lock
-block
-close
-bar
-shut
-freeze

@@ -1,6 +1,0 @@
-région
-zone
-domaine
-territoire
-secteur
-champ

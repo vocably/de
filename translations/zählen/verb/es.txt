@@ -1,6 +1,0 @@
-contar
-calcular
-considerar
-incluir
-importar
-valer

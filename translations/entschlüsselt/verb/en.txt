@@ -1,3 +1,0 @@
-decoded
-decrypts
-deciphers

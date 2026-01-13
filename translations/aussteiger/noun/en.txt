@@ -1,6 +1,0 @@
-dropout
-deserter
-leaver
-renegade
-defector
-drop-out

@@ -1,4 +1,0 @@
-stone
-rock
-boulder
-pebble

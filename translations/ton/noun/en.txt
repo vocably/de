@@ -1,6 +1,0 @@
-sound
-tone
-note
-shade
-tint
-hue

@@ -1,5 +1,0 @@
-matriz
-arreglo
-formación
-disposición
-colección

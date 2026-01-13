@@ -1,6 +1,0 @@
-smells
-is smelling
-detects a smell
-perceives a smell
-emits a smell
-gives off a smell

@@ -1,7 +1,0 @@
-case
-event
-incident
-fall
-accident
-situation
-matter

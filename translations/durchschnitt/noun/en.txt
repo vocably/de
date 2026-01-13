@@ -1,3 +1,0 @@
-average
-mean
-cross-section

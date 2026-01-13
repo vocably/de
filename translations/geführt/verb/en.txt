@@ -1,4 +1,0 @@
-led
-guided
-conducted
-managed

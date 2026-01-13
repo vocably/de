@@ -1,5 +1,0 @@
-roe
-spawn
-fish roe
-hard roe
-fish eggs

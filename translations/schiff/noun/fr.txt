@@ -1,4 +1,0 @@
-navire
-bateau
-paquebot
-vaisseau

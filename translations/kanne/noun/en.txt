@@ -1,4 +1,0 @@
-pot
-jug
-can
-pitcher

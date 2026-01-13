@@ -1,5 +1,0 @@
-exclude
-rule out
-preclude
-bar
-expel

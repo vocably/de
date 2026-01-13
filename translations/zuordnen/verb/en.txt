@@ -1,5 +1,0 @@
-assign
-allocate
-match
-associate
-map

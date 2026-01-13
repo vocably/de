@@ -1,5 +1,0 @@
-guests
-visitors
-customers
-clients
-patrons

@@ -1,5 +1,0 @@
-house
-building
-home
-residence
-dwelling

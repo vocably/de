@@ -1,5 +1,0 @@
-infect
-contaminate
-attach
-pin
-light

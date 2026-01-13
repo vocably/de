@@ -1,5 +1,0 @@
-proscribir
-declarar proscrito
-excluir
-desterrar
-condenar

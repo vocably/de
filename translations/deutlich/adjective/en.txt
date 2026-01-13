@@ -1,5 +1,0 @@
-clear
-distinct
-obvious
-evident
-plain

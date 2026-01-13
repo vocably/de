@@ -1,6 +1,0 @@
-récipient
-vase
-contenant
-vaisseau
-artère
-veine

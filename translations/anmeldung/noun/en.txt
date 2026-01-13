@@ -1,5 +1,0 @@
-registration
-application
-sign-up
-enrollment
-notification

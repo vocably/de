@@ -1,4 +1,0 @@
-szükségesség
-szükség
-követelmény
-előfeltétel

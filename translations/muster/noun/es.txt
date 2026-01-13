@@ -1,5 +1,0 @@
-patrón
-modelo
-ejemplo
-muestra
-diseño

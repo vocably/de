@@ -1,5 +1,0 @@
-envelope
-cover
-jacket
-wrapper
-turnover

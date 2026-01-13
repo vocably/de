@@ -1,4 +1,0 @@
-plat
-mets
-nourriture
-repas

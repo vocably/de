@@ -1,4 +1,0 @@
-border
-adjoin
-abut
-confine

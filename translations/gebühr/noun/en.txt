@@ -1,5 +1,0 @@
-fee
-charge
-fare
-toll
-levy

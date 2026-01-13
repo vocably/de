@@ -1,7 +1,0 @@
-connect
-link
-join
-unite
-combine
-bind
-tie

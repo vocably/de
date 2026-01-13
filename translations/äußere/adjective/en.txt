@@ -1,4 +1,0 @@
-outer
-external
-outside
-exterior

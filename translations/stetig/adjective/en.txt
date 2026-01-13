@@ -1,4 +1,0 @@
-constant
-steady
-continuous
-consistent

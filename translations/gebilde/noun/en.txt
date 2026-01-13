@@ -1,7 +1,0 @@
-structure
-formation
-construct
-system
-entity
-shape
-creation

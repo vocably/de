@@ -1,8 +1,0 @@
-union
-association
-groupement
-fédération
-conglomérat
-composé
-matériau composite
-stratifié

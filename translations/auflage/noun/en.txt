@@ -1,6 +1,0 @@
-edition
-circulation
-condition
-requirement
-imposition
-layer

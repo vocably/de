@@ -1,5 +1,0 @@
-cut
-slice
-chop
-carve
-trim

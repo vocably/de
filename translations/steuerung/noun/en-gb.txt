@@ -1,6 +1,0 @@
-control
-governance
-steering
-controller
-control unit
-actuator
