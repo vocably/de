@@ -1,0 +1,5 @@
+go up
+walk up
+ascend
+climb up
+mount

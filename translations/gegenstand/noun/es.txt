@@ -1,0 +1,4 @@
+objeto
+cosa
+tema
+asunto

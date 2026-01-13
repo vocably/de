@@ -1,0 +1,5 @@
+feuille
+film
+couche
+pellicule
+emballage

@@ -1,0 +1,6 @@
+go out
+go outside
+leave
+exit
+appear
+be published

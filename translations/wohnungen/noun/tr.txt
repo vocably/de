@@ -1,0 +1,4 @@
+Konut
+Daire
+Mesken
+Lojman

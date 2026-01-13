@@ -1,0 +1,5 @@
+viga
+barra
+madero
+trave
+tronco

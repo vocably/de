@@ -1,0 +1,5 @@
+tedavi
+bakım
+muamele
+ilaç
+şifa

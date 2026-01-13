@@ -1,0 +1,4 @@
+artist
+performer
+master
+virtuoso

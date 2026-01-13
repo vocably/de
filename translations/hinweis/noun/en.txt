@@ -1,0 +1,6 @@
+hint
+clue
+suggestion
+indication
+reference
+note

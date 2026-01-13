@@ -1,0 +1,3 @@
+müşteri
+alıcı
+istemci

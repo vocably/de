@@ -1,0 +1,6 @@
+bloquer
+interdire
+barrer
+fermer
+suspendre
+désactiver

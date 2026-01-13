@@ -1,0 +1,5 @@
+nimble
+agile
+quick
+speedy
+smart

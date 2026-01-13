@@ -1,0 +1,4 @@
+jugado
+tocado
+interpretado
+representado

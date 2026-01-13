@@ -1,0 +1,5 @@
+armadura
+equipo
+armamento
+preparación
+blindaje

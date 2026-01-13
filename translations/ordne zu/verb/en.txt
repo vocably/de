@@ -1,0 +1,9 @@
+assign
+classify
+allocate
+associate
+categorize
+relate
+match
+link
+connect

@@ -1,0 +1,4 @@
+empties
+returnables
+empty containers
+empty bottles

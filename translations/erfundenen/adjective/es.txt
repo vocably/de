@@ -1,0 +1,4 @@
+ficticio
+imaginario
+inventado
+falso

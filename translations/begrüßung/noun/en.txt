@@ -1,0 +1,5 @@
+greeting
+welcome
+salutation
+expression of welcome
+acknowledgment

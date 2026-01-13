@@ -1,0 +1,9 @@
+habituel
+courant
+usuel
+commun
+ordinaire
+d'usage
+conventionnel
+répandu
+fréquent

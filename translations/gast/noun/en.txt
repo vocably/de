@@ -1,0 +1,5 @@
+guest
+customer
+diner
+client
+visitor

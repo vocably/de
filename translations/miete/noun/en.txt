@@ -1,0 +1,4 @@
+rent
+lease
+rental
+tenancy

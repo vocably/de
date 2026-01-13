@@ -1,0 +1,5 @@
+mediocre
+average
+middling
+fair
+indifferent

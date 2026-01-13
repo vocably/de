@@ -1,0 +1,4 @@
+viajero
+turista
+excursionista
+pasajero

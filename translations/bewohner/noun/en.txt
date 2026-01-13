@@ -1,0 +1,4 @@
+resident
+inhabitant
+occupant
+dweller

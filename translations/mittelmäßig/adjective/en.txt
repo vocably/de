@@ -1,0 +1,8 @@
+mediocre
+average
+fair
+middling
+indifferent
+passable
+tolerable
+run-of-the-mill

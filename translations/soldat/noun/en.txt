@@ -1,0 +1,5 @@
+soldier
+serviceman
+trooper
+GI
+man

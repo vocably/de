@@ -1,0 +1,7 @@
+colors
+paints
+dyes
+pigments
+hues
+tints
+shades

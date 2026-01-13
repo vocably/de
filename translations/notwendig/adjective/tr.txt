@@ -1,0 +1,4 @@
+gerekli
+zorunlu
+kaçınılmaz
+şart

@@ -1,0 +1,5 @@
+depolamak
+stoklamak
+saklamak
+bulunmak
+yatmak

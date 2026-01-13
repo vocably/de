@@ -1,0 +1,4 @@
+pellicola
+foglio
+diapositiva
+lucido

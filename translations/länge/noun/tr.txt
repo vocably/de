@@ -1,0 +1,3 @@
+Uzunluk
+Boy
+Mesafe

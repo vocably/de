@@ -1,0 +1,5 @@
+tell
+narrate
+report
+recount
+relate

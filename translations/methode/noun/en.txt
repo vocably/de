@@ -1,0 +1,6 @@
+method
+procedure
+approach
+process
+technique
+system

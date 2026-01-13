@@ -1,0 +1,10 @@
+way
+path
+road
+route
+method
+course
+process
+journey
+track
+trail

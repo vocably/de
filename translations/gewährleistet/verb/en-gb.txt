@@ -1,0 +1,5 @@
+ensures
+guarantees
+warrants
+secures
+makes sure

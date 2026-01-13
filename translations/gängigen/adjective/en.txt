@@ -1,0 +1,7 @@
+common
+usual
+customary
+salable
+marketable
+walkable
+passable

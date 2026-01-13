@@ -1,0 +1,4 @@
+objetos
+cosas
+artículos
+elementos

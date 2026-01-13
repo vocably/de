@@ -1,0 +1,7 @@
+color
+paint
+dye
+hue
+tint
+shade
+pigment

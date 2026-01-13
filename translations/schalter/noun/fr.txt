@@ -1,0 +1,5 @@
+interrupteur
+guichet
+commutateur
+disjoncteur
+pupitre de commande

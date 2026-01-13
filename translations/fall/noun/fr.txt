@@ -1,0 +1,10 @@
+cas
+chute
+événement
+affaire
+précipitation
+accident
+situation
+hypothèse
+instance
+dossier

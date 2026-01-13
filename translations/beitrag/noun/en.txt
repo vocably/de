@@ -1,0 +1,8 @@
+contribution
+article
+post
+paper
+statement
+report
+dues
+fee

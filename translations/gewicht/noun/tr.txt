@@ -1,0 +1,5 @@
+ağırlık
+kilo
+yük
+önem
+etki

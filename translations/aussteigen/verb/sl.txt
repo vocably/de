@@ -1,0 +1,5 @@
+izstopiti
+izstopiti iz
+izstopiti iz vozila
+izstopiti iz vlaka
+izstopiti iz avtobusa

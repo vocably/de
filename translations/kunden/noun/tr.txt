@@ -1,0 +1,4 @@
+Müşteri
+Alıcı
+Zabun
+Müşteri adayı

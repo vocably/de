@@ -1,0 +1,7 @@
+noticia
+mensaje
+comunicado
+novedad
+información
+aviso
+parte

@@ -1,0 +1,10 @@
+essay
+article
+paper
+composition
+treatise
+attachment
+extension
+addition
+structure
+superstructure

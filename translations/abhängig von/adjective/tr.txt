@@ -1,0 +1,5 @@
+bağımlı
+tabi
+ilişkili
+koşullu
+etkilenen

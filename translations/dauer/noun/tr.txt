@@ -1,0 +1,4 @@
+süre
+müddet
+devam
+süreklilik

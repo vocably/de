@@ -1,0 +1,4 @@
+daire
+konut
+apartman dairesi
+mesken

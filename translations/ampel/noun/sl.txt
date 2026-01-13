@@ -1,0 +1,3 @@
+semafor
+prometni semafor
+svetlobni semafor

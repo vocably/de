@@ -1,0 +1,9 @@
+habituel
+courant
+usuel
+normal
+commun
+ordinaire
+conventionnel
+régulier
+standard

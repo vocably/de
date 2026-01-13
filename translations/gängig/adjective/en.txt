@@ -1,0 +1,10 @@
+common
+usual
+customary
+current
+prevalent
+standard
+frequent
+popular
+widespread
+mainstream

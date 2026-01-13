@@ -1,0 +1,5 @@
+viga
+barra
+trave
+franja
+rayo

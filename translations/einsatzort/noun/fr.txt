@@ -1,0 +1,5 @@
+lieu d'intervention
+site d'intervention
+lieu d'affectation
+lieu d'opération
+lieu de mission

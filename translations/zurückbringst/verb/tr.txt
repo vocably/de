@@ -1,0 +1,4 @@
+geri getiriyorsun
+geri götürüyorsun
+iade ediyorsun
+geri veriyorsun

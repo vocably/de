@@ -1,0 +1,5 @@
+assert
+enforce
+claim
+make valid
+make effective

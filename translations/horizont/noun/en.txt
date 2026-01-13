@@ -1,0 +1,5 @@
+horizon
+skyline
+line of sight
+field of view
+range of vision

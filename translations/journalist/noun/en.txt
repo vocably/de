@@ -1,0 +1,5 @@
+journalist
+reporter
+correspondent
+newspaperman
+newswoman

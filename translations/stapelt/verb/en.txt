@@ -1,0 +1,5 @@
+stacks
+piles
+stores
+accumulates
+layers

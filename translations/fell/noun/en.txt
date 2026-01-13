@@ -1,0 +1,5 @@
+fur
+coat
+hair
+pelt
+skin

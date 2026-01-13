@@ -1,0 +1,7 @@
+master
+champion
+expert
+coach
+victor
+guru
+maestro

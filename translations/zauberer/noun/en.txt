@@ -1,0 +1,4 @@
+wizard
+magician
+sorcerer
+enchanter

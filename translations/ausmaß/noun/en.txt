@@ -1,0 +1,6 @@
+extent
+degree
+scale
+scope
+proportio
+magnitude

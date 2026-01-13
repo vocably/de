@@ -1,0 +1,5 @@
+toilet
+restroom
+bathroom
+lavatory
+washroom

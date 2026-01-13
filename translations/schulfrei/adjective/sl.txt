@@ -1,0 +1,4 @@
+prost
+nezaseden
+odsoten
+oproščen

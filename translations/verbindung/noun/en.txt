@@ -1,0 +1,10 @@
+connection
+union
+link
+compound
+joint
+junction
+alliance
+association
+network
+relationship

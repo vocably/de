@@ -1,0 +1,6 @@
+strato
+falda
+turno
+livello
+stato
+classe

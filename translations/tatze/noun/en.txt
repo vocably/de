@@ -1,0 +1,4 @@
+paw
+claw
+mitt
+hand
