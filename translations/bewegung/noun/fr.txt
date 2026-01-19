@@ -1,0 +1,4 @@
+mouvement
+activité
+courant
+exercice
