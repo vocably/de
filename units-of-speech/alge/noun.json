@@ -1,17 +1,1 @@
-{
-  "source": "Alge",
-  "number": "singular",
-  "lemma": "Alge",
-  "lemmaPos": "noun",
-  "definitions": [
-    "eine Pflanze, die im Wasser lebt",
-    "einfacher, photosynthetisch aktiver Organismus"
-  ],
-  "examples": [
-    "Die Alge wächst im Teich.",
-    "Algen sind wichtig für das Ökosystem."
-  ],
-  "synonyms": ["Seegras", "Tang"],
-  "transcript": "ˈalɡə",
-  "gender": "feminine"
-}
+{"transcript":"ˈalɡə","exists":true,"definitions":["Im Wasser lebende, photosynthetisch aktive Organismen, die keine echten Wurzeln, Stängel oder Blätter besitzen."],"examples":["Die Alge treibt im Wasser.","Grüne Algen am Strand."],"lemma":"Alge","lemmaPos":"noun","synonyms":["Wasserpflanze","Seetang"],"number":"singular","pluralForm":"die Algen","gender":"feminine","source":"Alge"}
