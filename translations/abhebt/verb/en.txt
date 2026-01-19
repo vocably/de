@@ -1,0 +1,4 @@
+lift
+withdraw
+take off
+lose touch

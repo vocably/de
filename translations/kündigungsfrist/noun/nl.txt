@@ -1,0 +1,2 @@
+opzegtermijn
+opzeggingstermijn
