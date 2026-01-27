@@ -1,0 +1,3 @@
+confirmer
+attester
+valider

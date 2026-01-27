@@ -1,0 +1,4 @@
+strona
+kartka
+stronica
+bok

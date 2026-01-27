@@ -1,0 +1,3 @@
+durable
+permanent
+stable

@@ -1,0 +1,4 @@
+negozio
+affare
+commercio
+bisogno

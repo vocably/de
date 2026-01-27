@@ -1,0 +1,4 @@
+forma
+stampo
+condizione
+stato

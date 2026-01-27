@@ -1,0 +1,4 @@
+girar
+rodar
+volver
+tornear

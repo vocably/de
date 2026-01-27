@@ -1,0 +1,6 @@
+elenco
+indice
+repertorio
+registro
+cartella
+directory

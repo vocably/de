@@ -1,0 +1,4 @@
+depart
+leave
+take off
+be into

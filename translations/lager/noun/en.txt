@@ -1,0 +1,4 @@
+storage
+camp
+party
+bearing

@@ -1,0 +1,6 @@
+spines
+prickles
+thorns
+barbs
+spikes
+quills

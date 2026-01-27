@@ -1,0 +1,4 @@
+rigid
+inflexible
+stiff
+immobile

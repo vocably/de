@@ -1,0 +1,4 @@
+cosas
+asuntos
+materias
+objetos

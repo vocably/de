@@ -1,0 +1,3 @@
+cantidad
+magnitud
+duración
