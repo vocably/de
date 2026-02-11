@@ -1,0 +1,2 @@
+class trip
+school trip

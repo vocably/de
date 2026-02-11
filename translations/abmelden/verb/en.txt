@@ -1,0 +1,3 @@
+deregister
+log out
+sign off

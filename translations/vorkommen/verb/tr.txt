@@ -1,0 +1,3 @@
+var olmak
+bulunmak
+meydana gelmek

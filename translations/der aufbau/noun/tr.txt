@@ -1,0 +1,4 @@
+yapı
+kurulum
+inşaat
+gövde

@@ -1,0 +1,4 @@
+elevator
+lift
+act
+outfit

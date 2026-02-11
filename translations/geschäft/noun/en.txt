@@ -1,0 +1,4 @@
+store
+business
+deal
+errand

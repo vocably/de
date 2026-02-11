@@ -1,0 +1,4 @@
+horizontal
+diagonal
+oblique
+perverse
