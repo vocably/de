@@ -1,0 +1,4 @@
+place
+space
+seat
+square

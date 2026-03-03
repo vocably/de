@@ -1,0 +1,4 @@
+cooker
+hob
+seat
+focus

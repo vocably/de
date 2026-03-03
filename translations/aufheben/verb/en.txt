@@ -1,0 +1,4 @@
+pick up
+keep
+cancel
+lift

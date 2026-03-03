@@ -1,0 +1,3 @@
+soffitto
+coperta
+strato

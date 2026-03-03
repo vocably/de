@@ -1,0 +1,4 @@
+ring
+circle
+arena
+syndicate

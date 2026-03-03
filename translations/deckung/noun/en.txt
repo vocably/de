@@ -1,0 +1,4 @@
+cover
+coverage
+shelter
+marking

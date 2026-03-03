@@ -1,0 +1,3 @@
+commander
+transmettre
+cultiver

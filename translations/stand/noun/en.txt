@@ -1,0 +1,4 @@
+state
+stall
+posture
+status
