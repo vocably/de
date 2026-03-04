@@ -1,0 +1,1 @@
+["anlæg","disposition","vurdering"]

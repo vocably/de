@@ -1,0 +1,1 @@
+["resistencia","capacitat de càrrega"]

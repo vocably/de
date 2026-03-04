@@ -1,3 +1,1 @@
-reconnaître
-admettre
-approuver
+["reconnaître","admettre","homologuer"]

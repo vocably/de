@@ -1,0 +1,1 @@
+["anlag","beskattning","placering"]

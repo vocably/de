@@ -1,0 +1,1 @@
+["predispozisyon","evalyasyon","envestisman"]

@@ -1,0 +1,1 @@
+["integridad","coherencia","integridad de los datos"]

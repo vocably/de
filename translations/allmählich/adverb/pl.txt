@@ -1,3 +1,1 @@
-stopniowo
-powoli
-z czasem
+["stopniowo","powoli","z wolna"]

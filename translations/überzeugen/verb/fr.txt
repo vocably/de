@@ -1,3 +1,1 @@
-convaincre
-persuader
-convaincre quelqu'un de quelque chose
+["convaincre","persuader","s'assurer"]

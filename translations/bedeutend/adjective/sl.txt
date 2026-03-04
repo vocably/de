@@ -1,2 +1,1 @@
-pomemben
-znaten
+["pomemben","znaten","slaven"]

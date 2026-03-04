@@ -1,2 +1,1 @@
-presvedčiť
-presviedčať
+["presvedčiť","presviedčať","nadchnúť"]

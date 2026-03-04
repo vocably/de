@@ -1,3 +1,1 @@
-consider
-take into account
-bear in mind
+["consider","take into account","take into consideration"]

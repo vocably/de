@@ -1,2 +1,1 @@
-prudent
-circonspect
+["prudent","circonspect"]
