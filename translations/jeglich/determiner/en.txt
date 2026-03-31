@@ -1,0 +1,3 @@
+any
+every
+all

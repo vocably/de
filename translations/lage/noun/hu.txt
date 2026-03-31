@@ -1,0 +1,4 @@
+helyzet
+fekvés
+elhelyezkedés
+réteg

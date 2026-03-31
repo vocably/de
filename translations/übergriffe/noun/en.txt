@@ -1,0 +1,3 @@
+assaults
+attacks
+encroachments

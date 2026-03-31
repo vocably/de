@@ -1,0 +1,4 @@
+ramasser
+conserver
+annuler
+lever

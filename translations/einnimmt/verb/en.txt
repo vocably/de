@@ -1,0 +1,4 @@
+takes
+occupies
+assumes
+ingests

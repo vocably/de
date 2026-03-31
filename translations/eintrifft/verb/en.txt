@@ -1,0 +1,3 @@
+arrives
+occurs
+takes

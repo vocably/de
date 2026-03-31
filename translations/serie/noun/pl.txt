@@ -1,0 +1,3 @@
+seria
+cykl
+serial

@@ -1,0 +1,5 @@
+wears
+carries
+supports
+bears
+is responsible for

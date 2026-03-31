@@ -1,0 +1,3 @@
+desplazar
+reprimir
+sustituir

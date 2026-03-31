@@ -1,0 +1,5 @@
+wear
+carry
+bear
+yield
+take

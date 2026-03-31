@@ -1,0 +1,4 @@
+stoi
+jest
+znajduje się
+jest napisane

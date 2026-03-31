@@ -1,0 +1,4 @@
+gate
+goal
+score
+fool

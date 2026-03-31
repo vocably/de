@@ -1,0 +1,4 @@
+gondola
+függővasúti kocsi
+léghajókosár
+hajtóműgondola

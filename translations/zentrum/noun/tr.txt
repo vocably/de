@@ -1,0 +1,4 @@
+merkez
+orta
+santral
+çevre

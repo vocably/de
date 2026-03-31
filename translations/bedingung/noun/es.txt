@@ -1,0 +1,3 @@
+condición
+requisito
+circunstancia
