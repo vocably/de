@@ -1,0 +1,2 @@
+doğrudan yerleştirme
+doğrudan aktarım

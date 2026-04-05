@@ -1,0 +1,4 @@
+konum
+durum
+tabaka
+vaziyet

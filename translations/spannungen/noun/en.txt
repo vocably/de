@@ -1,0 +1,2 @@
+tensions
+voltages

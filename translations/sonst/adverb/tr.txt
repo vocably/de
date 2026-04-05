@@ -1,0 +1,3 @@
+aksi takdirde
+aksi halde
+yoksa

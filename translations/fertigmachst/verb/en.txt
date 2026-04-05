@@ -1,0 +1,4 @@
+prepare
+finish
+make tired
+criticize
