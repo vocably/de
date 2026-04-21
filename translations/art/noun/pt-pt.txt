@@ -1,0 +1,3 @@
+espécie
+modo
+tipo

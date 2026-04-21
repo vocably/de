@@ -1,0 +1,4 @@
+once
+sometime
+times
+for once

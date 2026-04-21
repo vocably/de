@@ -1,0 +1,4 @@
+caja
+armario
+cajón
+televisor

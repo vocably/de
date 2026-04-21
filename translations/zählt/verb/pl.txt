@@ -1,0 +1,3 @@
+jest częścią
+określa liczbę
+ma znaczenie

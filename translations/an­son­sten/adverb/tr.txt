@@ -1,0 +1,4 @@
+aksi takdirde
+yoksa
+bunun dışında
+ayrıca

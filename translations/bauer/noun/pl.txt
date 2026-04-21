@@ -1,0 +1,4 @@
+rolnik
+chłop
+pionek
+walet

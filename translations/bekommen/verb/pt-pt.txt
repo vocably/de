@@ -1,0 +1,4 @@
+receber
+obter
+ficar
+ter
