@@ -1,0 +1,2 @@
+autómato
+máquina

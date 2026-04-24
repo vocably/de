@@ -1,0 +1,5 @@
+puxar
+arrastar
+mudar-se
+sacar
+tirar
