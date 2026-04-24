@@ -1,1 +1,2 @@
-["whaka\"he\"","whaka\"pono\""]
+whaka"he"
+whaka"pono"

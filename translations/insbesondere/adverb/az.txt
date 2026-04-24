@@ -1,1 +1,3 @@
-["xüsusilə","əsasən","bilavasitə"]
+xüsusilə
+əsasən
+bilavasitə

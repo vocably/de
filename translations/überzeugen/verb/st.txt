@@ -1,1 +1,3 @@
-["ho kholisa","ho susumetsa","ho iponela"]
+ho kholisa
+ho susumetsa
+ho iponela

@@ -1,1 +1,3 @@
-["Ọnụ ụzọ","Mgbago","Okporo ụzọ"]
+Ọnụ ụzọ
+Mgbago
+Okporo ụzọ

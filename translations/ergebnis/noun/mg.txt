@@ -1,1 +1,3 @@
-["vokany","fiafarany","fitsapana"]
+vokany
+fiafarany
+fitsapana

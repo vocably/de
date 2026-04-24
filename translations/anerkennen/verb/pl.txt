@@ -1,1 +1,3 @@
-["uznawać","doceniać","akceptować"]
+uznawać
+doceniać
+akceptować

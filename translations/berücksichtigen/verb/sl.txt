@@ -1,1 +1,3 @@
-["upoštevati","upoštevati koga/kaj","ozirati se na koga/kaj"]
+upoštevati
+upoštevati koga/kaj
+ozirati se na koga/kaj

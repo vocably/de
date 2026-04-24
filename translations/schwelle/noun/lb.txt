@@ -1,1 +1,3 @@
-["Schwell","Trämel","Barriär"]
+Schwell
+Trämel
+Barriär

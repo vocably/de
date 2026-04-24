@@ -1,1 +1,3 @@
-["nhaka","mutero","mari"]
+nhaka
+mutero
+mari

@@ -1,1 +1,3 @@
-["mikilvægur","þýðingarmikill","merkur"]
+mikilvægur
+þýðingarmikill
+merkur

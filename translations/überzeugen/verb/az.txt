@@ -1,1 +1,3 @@
-["inandırmaq","əmin etmək","təsdiqləmək"]
+inandırmaq
+əmin etmək
+təsdiqləmək

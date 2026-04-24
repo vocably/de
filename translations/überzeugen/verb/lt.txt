@@ -1,1 +1,3 @@
-["įtikinti","paveikti","įsitikinti"]
+įtikinti
+paveikti
+įsitikinti

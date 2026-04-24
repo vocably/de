@@ -1,1 +1,2 @@
-["hardnakket","seig"]
+hardnakket
+seig

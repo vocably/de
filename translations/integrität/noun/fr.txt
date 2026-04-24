@@ -1,1 +1,3 @@
-["intégrité","probité","honnêteté"]
+intégrité
+probité
+honnêteté

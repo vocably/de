@@ -1,1 +1,3 @@
-["ngưỡng cửa","ngưỡng","tà vẹt"]
+ngưỡng cửa
+ngưỡng
+tà vẹt

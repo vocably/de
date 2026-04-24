@@ -1,1 +1,3 @@
-["esasanam","aýratynam","hususan-da"]
+esasanam
+aýratynam
+hususan-da

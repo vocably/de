@@ -1,1 +1,3 @@
-["attaisnot","pamato","taisnojas"]
+attaisnot
+pamato
+taisnojas

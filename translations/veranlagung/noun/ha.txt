@@ -1,1 +1,3 @@
-["halayyar mutum","ka'idar haraji","zuba jari"]
+halayyar mutum
+ka'idar haraji
+zuba jari

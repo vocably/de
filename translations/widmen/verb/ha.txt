@@ -1,1 +1,2 @@
-["ba da","sadaukar da"]
+ba da
+sadaukar da

@@ -1,1 +1,3 @@
-["bind","mbush mendjen","sigurohem"]
+bind
+mbush mendjen
+sigurohem

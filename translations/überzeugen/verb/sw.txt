@@ -1,1 +1,3 @@
-["shawishi","vutia","hakikisha"]
+shawishi
+vutia
+hakikisha

@@ -1,1 +1,2 @@
-["widme","opdrage"]
+widme
+opdrage

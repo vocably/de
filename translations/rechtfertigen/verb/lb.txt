@@ -1,1 +1,3 @@
-["rechtfertegen","begrënnen","veräntweren"]
+rechtfertegen
+begrënnen
+veräntweren

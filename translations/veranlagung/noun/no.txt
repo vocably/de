@@ -1,1 +1,3 @@
-["anlegg","disposisjon","skatteansettelse"]
+anlegg
+disposisjon
+skatteansettelse

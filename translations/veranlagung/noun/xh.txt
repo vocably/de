@@ -1,1 +1,3 @@
-["isimo","irhafu","utyalo-mali"]
+isimo
+irhafu
+utyalo-mali

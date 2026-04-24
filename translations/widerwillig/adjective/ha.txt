@@ -1,1 +1,2 @@
-["ba da son rai ba","cikin zargi"]
+ba da son rai ba
+cikin zargi

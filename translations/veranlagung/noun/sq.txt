@@ -1,1 +1,3 @@
-["prirje","natyrë","përcaktim"]
+prirje
+natyrë
+përcaktim

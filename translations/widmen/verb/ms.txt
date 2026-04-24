@@ -1,1 +1,2 @@
-["menumpukan","mendedikasikan"]
+menumpukan
+mendedikasikan

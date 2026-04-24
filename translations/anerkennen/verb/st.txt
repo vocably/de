@@ -1,1 +1,3 @@
-["amohela","rōka","tseba"]
+amohela
+rōka
+tseba

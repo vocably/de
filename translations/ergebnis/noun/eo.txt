@@ -1,1 +1,3 @@
-["rezulto","sekvo","fino"]
+rezulto
+sekvo
+fino

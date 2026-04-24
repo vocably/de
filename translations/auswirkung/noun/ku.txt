@@ -1,1 +1,2 @@
-["Encam","Bandor"]
+Encam
+Bandor

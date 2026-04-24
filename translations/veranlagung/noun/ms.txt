@@ -1,1 +1,3 @@
-["kecenderungan","bakat","penilaian"]
+kecenderungan
+bakat
+penilaian

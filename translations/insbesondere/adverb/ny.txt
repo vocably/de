@@ -1,1 +1,3 @@
-["makamaka","koposa","chomwe"]
+makamaka
+koposa
+chomwe

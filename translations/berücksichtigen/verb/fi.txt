@@ -1,1 +1,3 @@
-["ottaa huomioon","huomioida","ottaa lukuun"]
+ottaa huomioon
+huomioida
+ottaa lukuun

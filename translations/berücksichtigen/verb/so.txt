@@ -1,1 +1,3 @@
-["tixgelin","ka fiirsasho","tixgalin"]
+tixgelin
+ka fiirsasho
+tixgalin

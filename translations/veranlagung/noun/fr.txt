@@ -1,1 +1,3 @@
-["prédisposition","imposition","placement"]
+prédisposition
+imposition
+placement

@@ -1,1 +1,2 @@
-["odolnosť","zaťažiteľnosť"]
+odolnosť
+zaťažiteľnosť

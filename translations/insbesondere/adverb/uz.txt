@@ -1,1 +1,3 @@
-["ayniqsa","xususan","jumladan"]
+ayniqsa
+xususan
+jumladan

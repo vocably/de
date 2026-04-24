@@ -1,1 +1,2 @@
-["neatlaidīgs","stūrgalvīgs"]
+neatlaidīgs
+stūrgalvīgs

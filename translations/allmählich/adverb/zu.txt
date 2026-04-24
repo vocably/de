@@ -1,1 +1,3 @@
-["kancane kancane","ngezinyathelo ezincane","ngokuhamba kwesikhikhathi"]
+kancane kancane
+ngezinyathelo ezincane
+ngokuhamba kwesikhikhathi

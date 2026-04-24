@@ -1,1 +1,3 @@
-["anlag","beskattning","placering"]
+anlag
+beskattning
+placering

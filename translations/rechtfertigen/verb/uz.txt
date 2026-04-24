@@ -1,1 +1,3 @@
-["oqlash","asoslash","himoya qilmoq"]
+oqlash
+asoslash
+himoya qilmoq

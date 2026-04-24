@@ -1,1 +1,3 @@
-["přesvědčit","zaujmout","přesvědčit se"]
+přesvědčit
+zaujmout
+přesvědčit se

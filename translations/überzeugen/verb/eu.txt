@@ -1,1 +1,3 @@
-["konbentzitu","sinesgarri gertatu","egiaztatu"]
+konbentzitu
+sinesgarri gertatu
+egiaztatu

@@ -1,1 +1,2 @@
-["aardich","moai"]
+aardich
+moai

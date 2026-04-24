@@ -1,1 +1,3 @@
-["justifikoj","ar syetoj","përligj"]
+justifikoj
+ar syetoj
+përligj

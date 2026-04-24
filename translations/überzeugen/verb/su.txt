@@ -1,1 +1,3 @@
-["ngabujuk","meyakinkeun","mastikeun"]
+ngabujuk
+meyakinkeun
+mastikeun

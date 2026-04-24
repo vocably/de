@@ -1,1 +1,2 @@
-["gallu dwyn llwyth","cynhwysedd llwyth"]
+gallu dwyn llwyth
+cynhwysedd llwyth

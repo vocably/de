@@ -1,1 +1,2 @@
-["vastupidavus","koormatavus"]
+vastupidavus
+koormatavus

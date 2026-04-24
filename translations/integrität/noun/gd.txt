@@ -1,1 +1,3 @@
-["ionracas","treibhdhireas","slànachd"]
+ionracas
+treibhdhireas
+slànachd

@@ -1,1 +1,3 @@
-["kontuan hartu","aintzat hartu","gogoan hartu"]
+kontuan hartu
+aintzat hartu
+gogoan hartu

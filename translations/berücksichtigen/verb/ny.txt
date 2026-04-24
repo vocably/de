@@ -1,1 +1,3 @@
-["ganizira","samala","lembapo"]
+ganizira
+samala
+lembapo

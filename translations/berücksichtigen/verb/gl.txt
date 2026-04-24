@@ -1,1 +1,3 @@
-["considerar","ter en conta","respectar"]
+considerar
+ter en conta
+respectar

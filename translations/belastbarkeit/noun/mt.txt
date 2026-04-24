@@ -1,1 +1,2 @@
-["reżiljenza","kapaċità"]
+reżiljenza
+kapaċità

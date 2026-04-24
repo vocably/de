@@ -1,1 +1,3 @@
-["konvinki","persvadi","certigi"]
+konvinki
+persvadi
+certigi

@@ -1,1 +1,3 @@
-["manamarina","hanamarina","hanazava"]
+manamarina
+hanamarina
+hanazava

@@ -1,1 +1,3 @@
-["nasljedne osobine","razrez poreza","način ulaganja novca"]
+nasljedne osobine
+razrez poreza
+način ulaganja novca

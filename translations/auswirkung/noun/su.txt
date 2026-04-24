@@ -1,1 +1,2 @@
-["Dampak","Pangaruh"]
+Dampak
+Pangaruh

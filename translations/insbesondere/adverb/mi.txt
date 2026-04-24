@@ -1,1 +1,3 @@
-["rāwaho","ake","tonu"]
+rāwaho
+ake
+tonu

@@ -1,1 +1,3 @@
-["urithi","tabia","uwekezaji"]
+urithi
+tabia
+uwekezaji

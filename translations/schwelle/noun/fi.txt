@@ -1,1 +1,3 @@
-["kynnys","rajapyykki","ratapölkky"]
+kynnys
+rajapyykki
+ratapölkky

@@ -1,1 +1,2 @@
-["gbara gbaa","zuru oke"]
+gbara gbaa
+zuru oke

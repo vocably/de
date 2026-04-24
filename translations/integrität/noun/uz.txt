@@ -1,1 +1,3 @@
-["Halollik","Poklik","Yaxlitlik"]
+Halollik
+Poklik
+Yaxlitlik

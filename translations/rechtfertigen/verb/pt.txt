@@ -1,1 +1,3 @@
-["justificar","defender","responsabilizar-se"]
+justificar
+defender
+responsabilizar-se

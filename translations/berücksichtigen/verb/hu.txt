@@ -1,1 +1,3 @@
-["figyelembe vesz","tekintettel van","mérlegel"]
+figyelembe vesz
+tekintettel van
+mérlegel

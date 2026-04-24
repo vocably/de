@@ -1,1 +1,3 @@
-["alon-alon","mbaka sithik","saya suwe"]
+alon-alon
+mbaka sithik
+saya suwe

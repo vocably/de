@@ -1,1 +1,2 @@
-["amplo","exhaustivo"]
+amplo
+exhaustivo

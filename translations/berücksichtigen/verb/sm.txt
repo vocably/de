@@ -1,1 +1,3 @@
-["manatunatu","silasila","fa'aaloalo"]
+manatunatu
+silasila
+fa'aaloalo

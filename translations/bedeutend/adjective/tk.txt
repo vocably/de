@@ -1,1 +1,3 @@
-["möhüm","ähmiýetli","belli"]
+möhüm
+ähmiýetli
+belli

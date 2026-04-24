@@ -1,1 +1,2 @@
-["tairseach","colbha"]
+tairseach
+colbha

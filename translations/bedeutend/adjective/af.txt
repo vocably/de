@@ -1,1 +1,3 @@
-["belangrik","aansienlik","beroemd"]
+belangrik
+aansienlik
+beroemd

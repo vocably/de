@@ -1,1 +1,2 @@
-["berehala","agerian"]
+berehala
+agerian

@@ -1,1 +1,2 @@
-["fi ara si","ya si"]
+fi ara si
+ya si

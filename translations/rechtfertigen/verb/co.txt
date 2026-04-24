@@ -1,1 +1,3 @@
-["ghjustificà","difende","scusà"]
+ghjustificà
+difende
+scusà

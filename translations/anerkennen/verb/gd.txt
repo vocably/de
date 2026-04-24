@@ -1,1 +1,3 @@
-["aidich","aithnich","gabh ri"]
+aidich
+aithnich
+gabh ri

@@ -1,1 +1,3 @@
-["þröskuldur","mörk","svefn"]
+þröskuldur
+mörk
+svefn

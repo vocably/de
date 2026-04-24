@@ -1,1 +1,3 @@
-["regverdig","verantwoord","verdedig"]
+regverdig
+verantwoord
+verdedig

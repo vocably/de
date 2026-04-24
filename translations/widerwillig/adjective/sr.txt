@@ -1,1 +1,2 @@
-["nerado","preko volje"]
+nerado
+preko volje

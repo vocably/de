@@ -1,1 +1,3 @@
-["uzeti u obzir","obratiti pažnju","uvažavati"]
+uzeti u obzir
+obratiti pažnju
+uvažavati

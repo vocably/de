@@ -1,1 +1,2 @@
-["dedicare","intitolare"]
+dedicare
+intitolare

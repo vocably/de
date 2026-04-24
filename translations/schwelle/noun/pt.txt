@@ -1,1 +1,3 @@
-["limiar","soleira","dormente"]
+limiar
+soleira
+dormente

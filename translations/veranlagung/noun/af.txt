@@ -1,1 +1,3 @@
-["aanleg","aanslag","belegging"]
+aanleg
+aanslag
+belegging

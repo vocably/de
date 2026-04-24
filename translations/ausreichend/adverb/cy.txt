@@ -1,1 +1,2 @@
-["digon","cyn digonol"]
+digon
+cyn digonol

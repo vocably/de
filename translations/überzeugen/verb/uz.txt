@@ -1,1 +1,3 @@
-["ishontirmoq","ko'nglini olmoq","amin bo'lmoq"]
+ishontirmoq
+ko'nglini olmoq
+amin bo'lmoq

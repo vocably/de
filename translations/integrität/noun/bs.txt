@@ -1,1 +1,3 @@
-["Integritet","Besprekornost","Nepovredivost"]
+Integritet
+Besprekornost
+Nepovredivost

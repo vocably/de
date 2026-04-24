@@ -1,1 +1,3 @@
-["réttlæta","réttlæta sig","verja"]
+réttlæta
+réttlæta sig
+verja

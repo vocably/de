@@ -1,1 +1,3 @@
-["kev cai","txoj cai","kev nqis peev"]
+kev cai
+txoj cai
+kev nqis peev

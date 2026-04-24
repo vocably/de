@@ -1,1 +1,2 @@
-["Mhedzisiro","Chikonzero"]
+Mhedzisiro
+Chikonzero

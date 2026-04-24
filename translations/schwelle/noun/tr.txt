@@ -1,1 +1,3 @@
-["eşik","basamak","travers"]
+eşik
+basamak
+travers

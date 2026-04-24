@@ -1,1 +1,3 @@
-["erken","erkenning gee","bekragtig"]
+erken
+erkenning gee
+bekragtig

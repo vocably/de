@@ -1,1 +1,3 @@
-["mbenerake","mbelani","njlentrehake"]
+mbenerake
+mbelani
+njlentrehake

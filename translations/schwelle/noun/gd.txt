@@ -1,1 +1,3 @@
-["stairsneach","tarsainn","trannsa"]
+stairsneach
+tarsainn
+trannsa

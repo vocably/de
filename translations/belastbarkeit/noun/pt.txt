@@ -1,1 +1,2 @@
-["resiliência","capacidade de carga"]
+resiliência
+capacidade de carga

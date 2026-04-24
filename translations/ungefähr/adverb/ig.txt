@@ -1,1 +1,2 @@
-["ihe dị ka","ihe ruru"]
+ihe dị ka
+ihe ruru

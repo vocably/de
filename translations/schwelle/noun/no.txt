@@ -1,1 +1,3 @@
-["terskel","dørstokk","svill"]
+terskel
+dørstokk
+svill

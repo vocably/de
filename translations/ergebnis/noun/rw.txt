@@ -1,1 +1,3 @@
-["Igisubizo","Umusaruro","Iherezo"]
+Igisubizo
+Umusaruro
+Iherezo

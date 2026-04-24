@@ -1,1 +1,2 @@
-["uitwerking","gevolg"]
+uitwerking
+gevolg

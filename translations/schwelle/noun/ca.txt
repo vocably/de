@@ -1,1 +1,3 @@
-["llindar","sogall","travessa"]
+llindar
+sogall
+travessa

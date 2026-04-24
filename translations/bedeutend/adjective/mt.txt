@@ -1,1 +1,4 @@
-["sinifikanti","konsiderevoli","famu\nta"]
+sinifikanti
+konsiderevoli
+famu
+ta

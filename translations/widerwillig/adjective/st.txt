@@ -1,1 +1,2 @@
-["ka ho hloea","ka ho rata"]
+ka ho hloea
+ka ho rata

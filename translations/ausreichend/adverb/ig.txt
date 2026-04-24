@@ -1,1 +1,2 @@
-["ezu","ezuru"]
+ezu
+ezuru

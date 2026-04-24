@@ -1,1 +1,2 @@
-["grinn","àlainn"]
+grinn
+àlainn

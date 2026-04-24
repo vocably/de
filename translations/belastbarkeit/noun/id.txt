@@ -1,1 +1,2 @@
-["daya tahan","kapasitas beban"]
+daya tahan
+kapasitas beban

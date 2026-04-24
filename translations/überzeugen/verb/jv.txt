@@ -1,1 +1,3 @@
-["ngayakin","mantep","meyakinkan"]
+ngayakin
+mantep
+meyakinkan

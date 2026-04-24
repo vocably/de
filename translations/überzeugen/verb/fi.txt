@@ -1,1 +1,3 @@
-["vakuuttaa","saada puolelleen","varmistua"]
+vakuuttaa
+saada puolelleen
+varmistua

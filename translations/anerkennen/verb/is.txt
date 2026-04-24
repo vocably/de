@@ -1,1 +1,3 @@
-["viðurkenna","lofa","staðfesta"]
+viðurkenna
+lofa
+staðfesta

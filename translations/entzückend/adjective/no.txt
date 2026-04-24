@@ -1,1 +1,2 @@
-["bedårende","henrivende"]
+bedårende
+henrivende

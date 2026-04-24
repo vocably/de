@@ -1,1 +1,2 @@
-["andirans","rezistans"]
+andirans
+rezistans

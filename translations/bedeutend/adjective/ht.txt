@@ -1,1 +1,3 @@
-["enpòtan","konsiderab","renome"]
+enpòtan
+konsiderab
+renome

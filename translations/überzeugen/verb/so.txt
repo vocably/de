@@ -1,1 +1,3 @@
-["qancin","soo jiidasho","hubin"]
+qancin
+soo jiidasho
+hubin

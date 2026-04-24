@@ -1,1 +1,3 @@
-["joera","dohain","zerga-tasun"]
+joera
+dohain
+zerga-tasun

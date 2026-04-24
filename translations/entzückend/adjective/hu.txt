@@ -1,1 +1,2 @@
-["elragadó","bájos"]
+elragadó
+bájos

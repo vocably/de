@@ -1,1 +1,2 @@
-["niejawnie","implicite"]
+niejawnie
+implicite

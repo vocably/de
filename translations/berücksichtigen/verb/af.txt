@@ -1,1 +1,3 @@
-["oorweeg","in ag neem","rekening hou"]
+oorweeg
+in ag neem
+rekening hou

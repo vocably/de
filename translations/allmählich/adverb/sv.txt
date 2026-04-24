@@ -1,1 +1,3 @@
-["småningom","så småningom","allteftersom"]
+småningom
+så småningom
+allteftersom

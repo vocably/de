@@ -1,1 +1,3 @@
-["heiðarleiki","réttlæti","gagnsæi"]
+heiðarleiki
+réttlæti
+gagnsæi

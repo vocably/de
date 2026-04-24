@@ -1,1 +1,3 @@
-["emaitza","ondorio","markagailu"]
+emaitza
+ondorio
+markagailu

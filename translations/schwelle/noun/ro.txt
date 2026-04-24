@@ -1,1 +1,3 @@
-["prag","graniță","traversă"]
+prag
+graniță
+traversă

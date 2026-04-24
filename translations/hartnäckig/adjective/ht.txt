@@ -1,1 +1,2 @@
-["tenas","di"]
+tenas
+di

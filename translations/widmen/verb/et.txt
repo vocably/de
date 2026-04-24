@@ -1,1 +1,2 @@
-["pühendama","deditseerima"]
+pühendama
+deditseerima

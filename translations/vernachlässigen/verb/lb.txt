@@ -1,1 +1,2 @@
-["vernoléissegen","net bekëmmeren"]
+vernoléissegen
+net bekëmmeren

@@ -1,1 +1,3 @@
-["moyillik","qobiliyat","soliq solish"]
+moyillik
+qobiliyat
+soliq solish

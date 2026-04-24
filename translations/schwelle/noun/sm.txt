@@ -1,1 +1,3 @@
-["faʻalo","amataga","lagolago"]
+faʻalo
+amataga
+lagolago

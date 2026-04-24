@@ -1,1 +1,3 @@
-["ugali","hilig","pagtatasa"]
+ugali
+hilig
+pagtatasa

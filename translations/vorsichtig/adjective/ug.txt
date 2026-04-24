@@ -1,1 +1,2 @@
-["ehtiyatqa","säkkiz"]
+ehtiyatqa
+säkkiz

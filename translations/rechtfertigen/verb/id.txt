@@ -1,1 +1,3 @@
-["membenarkan","membela","mempertanggungjawabkan"]
+membenarkan
+membela
+mempertanggungjawabkan

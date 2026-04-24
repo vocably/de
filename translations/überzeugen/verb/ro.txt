@@ -1,1 +1,3 @@
-["a convinge","a impresiona","a se convinge"]
+a convinge
+a impresiona
+a se convinge

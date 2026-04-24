@@ -1,1 +1,3 @@
-["de réir a chéile","go mall","diaidh ar ndiaidh"]
+de réir a chéile
+go mall
+diaidh ar ndiaidh

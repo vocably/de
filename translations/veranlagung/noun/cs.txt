@@ -1,1 +1,3 @@
-["dispozice","vloha","daňové vyměření"]
+dispozice
+vloha
+daňové vyměření

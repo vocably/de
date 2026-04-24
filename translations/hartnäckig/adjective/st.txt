@@ -1,1 +1,2 @@
-["manganga","sa feleng"]
+manganga
+sa feleng

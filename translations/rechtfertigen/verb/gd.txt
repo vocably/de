@@ -1,1 +1,3 @@
-["fìreanachadh","dearbhadh","dìon"]
+fìreanachadh
+dearbhadh
+dìon

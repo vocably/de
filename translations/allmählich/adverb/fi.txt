@@ -1,1 +1,3 @@
-["vähitellen","hiljalleen","pikku hiljaa"]
+vähitellen
+hiljalleen
+pikku hiljaa

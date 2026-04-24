@@ -1,1 +1,3 @@
-["kukopa","kusimbanitsa","kukhutulitsa"]
+kukopa
+kusimbanitsa
+kukhutulitsa

@@ -1,1 +1,3 @@
-["pia","txiav txim","hais qhia"]
+pia
+txiav txim
+hais qhia

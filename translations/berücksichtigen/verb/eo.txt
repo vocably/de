@@ -1,1 +1,3 @@
-["konsideri","atenti","respekti"]
+konsideri
+atenti
+respekti

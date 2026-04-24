@@ -1,1 +1,3 @@
-["kem-kem","aýakgabynyň","basgançakly"]
+kem-kem
+aýakgabynyň
+basgançakly

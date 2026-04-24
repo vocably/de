@@ -1,1 +1,3 @@
-["rezilta","konklizyon","dekouvèt"]
+rezilta
+konklizyon
+dekouvèt

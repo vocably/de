@@ -1,1 +1,3 @@
-["integritāte","nevainojamība","datu precizitāte"]
+integritāte
+nevainojamība
+datu precizitāte

@@ -1,1 +1,3 @@
-["ystyried","cofio","cymryd i ystyriaeth"]
+ystyried
+cofio
+cymryd i ystyriaeth

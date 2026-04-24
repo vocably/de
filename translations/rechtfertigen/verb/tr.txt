@@ -1,1 +1,3 @@
-["haklı çıkarmak","doğrulamak","savunmak"]
+haklı çıkarmak
+doğrulamak
+savunmak

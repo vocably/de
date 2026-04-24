@@ -1,1 +1,3 @@
-["asta-sekin","sekin-asta","oz-ozdan"]
+asta-sekin
+sekin-asta
+oz-ozdan

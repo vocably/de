@@ -1,1 +1,3 @@
-["nosliegums","īpašības","ieguldījums"]
+nosliegums
+īpašības
+ieguldījums

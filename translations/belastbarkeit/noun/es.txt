@@ -1,1 +1,2 @@
-["resistencia","capacidad de carga"]
+resistencia
+capacidad de carga

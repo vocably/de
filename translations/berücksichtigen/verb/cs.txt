@@ -1,1 +1,3 @@
-["zohlednit","brát ohled","přihlédnout"]
+zohlednit
+brát ohled
+přihlédnout

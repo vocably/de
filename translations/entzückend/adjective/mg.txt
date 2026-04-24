@@ -1,1 +1,2 @@
-["mahatehotia","mahafinaritra"]
+mahatehotia
+mahafinaritra

@@ -1,1 +1,3 @@
-["Kuvimbika","Kutendeseka","Kusakanganisika"]
+Kuvimbika
+Kutendeseka
+Kusakanganisika

@@ -1,1 +1,3 @@
-["penting","signifikan","terkenal"]
+penting
+signifikan
+terkenal

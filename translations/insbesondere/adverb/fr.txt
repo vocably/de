@@ -1,1 +1,3 @@
-["en particulier","particulièrement","notamment"]
+en particulier
+particulièrement
+notamment

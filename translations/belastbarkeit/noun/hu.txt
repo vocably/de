@@ -1,1 +1,2 @@
-["terhelhetőség","ellenálló képesség"]
+terhelhetőség
+ellenálló képesség

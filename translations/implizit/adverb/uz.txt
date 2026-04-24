@@ -1,1 +1,2 @@
-["yashirin","ko'zga tashlanmaydigan"]
+yashirin
+ko'zga tashlanmaydigan

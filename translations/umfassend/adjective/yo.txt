@@ -1,1 +1,2 @@
-["gbogbo","kiki"]
+gbogbo
+kiki

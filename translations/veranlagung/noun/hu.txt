@@ -1,1 +1,3 @@
-["hajlam","adókivetés","befektetés"]
+hajlam
+adókivetés
+befektetés

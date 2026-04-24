@@ -1,1 +1,2 @@
-["yeterli","kafi"]
+yeterli
+kafi

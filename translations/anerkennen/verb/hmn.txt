@@ -1,1 +1,3 @@
-["txais","qhuas","lees paub"]
+txais
+qhuas
+lees paub

@@ -1,1 +1,3 @@
-["saeutik-saeutik","lalaunan","alon-alon"]
+saeutik-saeutik
+lalaunan
+alon-alon

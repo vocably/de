@@ -1,1 +1,3 @@
-["integritet","ndershmeri","paprekshmeri"]
+integritet
+ndershmeri
+paprekshmeri

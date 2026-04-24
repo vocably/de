@@ -1,1 +1,2 @@
-["forsømme","negllisjere"]
+forsømme
+negllisjere

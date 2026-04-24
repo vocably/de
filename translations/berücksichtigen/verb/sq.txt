@@ -1,1 +1,3 @@
-["marr parasysh","konsideroj","respektoj"]
+marr parasysh
+konsideroj
+respektoj

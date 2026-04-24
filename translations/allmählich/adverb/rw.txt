@@ -1,1 +1,3 @@
-["buhorobuhoro","gahorogahoro","gakegake"]
+buhorobuhoro
+gahorogahoro
+gakegake

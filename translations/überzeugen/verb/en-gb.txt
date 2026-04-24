@@ -1,1 +1,3 @@
-["convince","impress","make sure"]
+convince
+impress
+make sure

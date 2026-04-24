@@ -1,1 +1,3 @@
-["ikakhulukazi","ngokukhethekile","ikakhulu"]
+ikakhulukazi
+ngokukhethekile
+ikakhulu

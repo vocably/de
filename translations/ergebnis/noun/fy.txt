@@ -1,1 +1,3 @@
-["útslach","gevolch","resultaat"]
+útslach
+gevolch
+resultaat

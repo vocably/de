@@ -1,1 +1,2 @@
-["schattig","heerlijk"]
+schattig
+heerlijk

@@ -1,1 +1,3 @@
-["whakaae","whakanui","whakaū"]
+whakaae
+whakanui
+whakaū

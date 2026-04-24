@@ -1,1 +1,2 @@
-["ntxim hlub","lom zem"]
+ntxim hlub
+lom zem

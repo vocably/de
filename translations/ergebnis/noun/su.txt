@@ -1,1 +1,3 @@
-["Hasil","Balukar","Skor"]
+Hasil
+Balukar
+Skor

@@ -1,1 +1,3 @@
-["unerkennen","honoréieren","bekennen"]
+unerkennen
+honoréieren
+bekennen

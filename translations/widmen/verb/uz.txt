@@ -1,1 +1,2 @@
-["bagʻishlamoq","atamoq"]
+bagʻishlamoq
+atamoq

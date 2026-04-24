@@ -1,1 +1,2 @@
-["çekici","sevimli"]
+çekici
+sevimli

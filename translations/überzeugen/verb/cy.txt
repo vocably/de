@@ -1,1 +1,3 @@
-["argyhoeddi","darbwyllo","sicrhau"]
+argyhoeddi
+darbwyllo
+sicrhau

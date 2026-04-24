@@ -1,1 +1,3 @@
-["Ulag","Veranlagung","Uleeën"]
+Ulag
+Veranlagung
+Uleeën

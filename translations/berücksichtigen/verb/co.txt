@@ -1,1 +1,3 @@
-["cunsiderà","piglià in contu","tene contu"]
+cunsiderà
+piglià in contu
+tene contu

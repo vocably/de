@@ -1,1 +1,3 @@
-["yatkınlık","vergilendirme","yatırım"]
+yatkınlık
+vergilendirme
+yatırım

@@ -1,1 +1,3 @@
-["beransur-ansur","secara beransur-ansur","perlahan-lahan"]
+beransur-ansur
+secara beransur-ansur
+perlahan-lahan

@@ -1,1 +1,3 @@
-["terviklikkus","ausus","veatus"]
+terviklikkus
+ausus
+veatus

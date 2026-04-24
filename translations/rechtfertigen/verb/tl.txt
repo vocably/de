@@ -1,1 +1,3 @@
-["bigyang-katwiran","ipaliwanag","mangatuwiran"]
+bigyang-katwiran
+ipaliwanag
+mangatuwiran

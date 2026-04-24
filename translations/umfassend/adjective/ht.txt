@@ -1,1 +1,2 @@
-["konplè","anpil"]
+konplè
+anpil

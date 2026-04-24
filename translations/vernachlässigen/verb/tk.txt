@@ -1,1 +1,2 @@
-["üns bermezlik","ähmiýet bermezlik"]
+üns bermezlik
+ähmiýet bermezlik

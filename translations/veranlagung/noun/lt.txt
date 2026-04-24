@@ -1,1 +1,3 @@
-["polinkis","nuostata","apmokestinimas"]
+polinkis
+nuostata
+apmokestinimas

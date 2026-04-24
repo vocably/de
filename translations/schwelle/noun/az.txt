@@ -1,1 +1,3 @@
-["eşik","hədd","şpal"]
+eşik
+hədd
+şpal

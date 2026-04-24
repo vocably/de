@@ -1,1 +1,2 @@
-["Umunyagisuzugu","Ikirwara"]
+Umunyagisuzugu
+Ikirwara

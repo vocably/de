@@ -1,1 +1,3 @@
-["toetra","fomba","fironana"]
+toetra
+fomba
+fironana

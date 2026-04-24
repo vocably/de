@@ -1,1 +1,2 @@
-["dikkatli","tedbirli"]
+dikkatli
+tedbirli

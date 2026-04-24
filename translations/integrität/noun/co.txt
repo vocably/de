@@ -1,1 +1,2 @@
-["integrità","integrità di i dati"]
+integrità
+integrità di i dati

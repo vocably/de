@@ -1,1 +1,3 @@
-["rekening houden met","in aanmerking nemen","incalculeren"]
+rekening houden met
+in aanmerking nemen
+incalculeren

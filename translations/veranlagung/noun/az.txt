@@ -1,1 +1,3 @@
-["meyl","vergi","investisiya"]
+meyl
+vergi
+investisiya

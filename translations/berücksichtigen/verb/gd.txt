@@ -1,1 +1,3 @@
-["thoir an aire","gabh aire","cuimhnich"]
+thoir an aire
+gabh aire
+cuimhnich

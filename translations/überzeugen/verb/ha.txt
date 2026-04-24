@@ -1,1 +1,3 @@
-["shawo kan wani","burge wani","tabbatar da gaskiyar abu"]
+shawo kan wani
+burge wani
+tabbatar da gaskiyar abu

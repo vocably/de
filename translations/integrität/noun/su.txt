@@ -1,1 +1,3 @@
-["Integritas","Kamurnian","Kaonaran"]
+Integritas
+Kamurnian
+Kaonaran

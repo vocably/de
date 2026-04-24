@@ -1,1 +1,2 @@
-["davamlı","tərs"]
+davamlı
+tərs

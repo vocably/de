@@ -1,1 +1,3 @@
-["ņemt vērā","ievērot","ņemts vērā"]
+ņemt vērā
+ievērot
+ņemts vērā

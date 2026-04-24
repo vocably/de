@@ -1,1 +1,2 @@
-["qëndrueshmëri","rezistencë"]
+qëndrueshmëri
+rezistencë

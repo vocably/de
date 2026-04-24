@@ -1,1 +1,3 @@
-["penting","kawéntar","kasohor"]
+penting
+kawéntar
+kasohor

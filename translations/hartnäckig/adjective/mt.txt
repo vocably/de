@@ -1,1 +1,2 @@
-["iebs","persistenti"]
+iebs
+persistenti

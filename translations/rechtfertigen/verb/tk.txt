@@ -1,1 +1,3 @@
-["aklamak","hakykaty aýtmak","özüni aklamak"]
+aklamak
+hakykaty aýtmak
+özüni aklamak

@@ -1,1 +1,3 @@
-["Għatba","Limitu","Travu"]
+Għatba
+Limitu
+Travu

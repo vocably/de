@@ -1,1 +1,3 @@
-["hasap etmek","göz öňünde tutmak","üns bermek"]
+hasap etmek
+göz öňünde tutmak
+üns bermek

@@ -1,1 +1,2 @@
-["komplex","rozsiahly"]
+komplex
+rozsiahly

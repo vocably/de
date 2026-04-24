@@ -1,1 +1,3 @@
-["isaalang-alang","isipin","bigyang-pansin"]
+isaalang-alang
+isipin
+bigyang-pansin

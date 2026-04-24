@@ -1,1 +1,3 @@
-["atsižvelgti","atsižvelgti į","turėti omenyje"]
+atsižvelgti
+atsižvelgti į
+turėti omenyje

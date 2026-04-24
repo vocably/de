@@ -1,1 +1,3 @@
-["kunyengetedza","kukurudzira","kuonesesa"]
+kunyengetedza
+kukurudzira
+kuonesesa

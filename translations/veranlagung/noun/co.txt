@@ -1,1 +1,3 @@
-["dispusizioni","tassazioni","investimentu"]
+dispusizioni
+tassazioni
+investimentu

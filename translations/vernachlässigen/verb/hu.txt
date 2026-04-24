@@ -1,1 +1,2 @@
-["elhanyagol","figyelmen kívül hagy"]
+elhanyagol
+figyelmen kívül hagy

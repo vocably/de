@@ -1,1 +1,3 @@
-["paepae","küpapakü","moe"]
+paepae
+küpapakü
+moe

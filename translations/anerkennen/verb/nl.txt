@@ -1,1 +1,3 @@
-["erkennen","honoreren","bekrachtigen"]
+erkennen
+honoreren
+bekrachtigen

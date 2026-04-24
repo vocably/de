@@ -1,1 +1,3 @@
-["Mutunci","Gaskiya","Daidaitawa"]
+Mutunci
+Gaskiya
+Daidaitawa

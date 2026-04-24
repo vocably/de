@@ -1,1 +1,2 @@
-["berfireh","kapsal"]
+berfireh
+kapsal

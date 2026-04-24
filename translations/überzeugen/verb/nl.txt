@@ -1,1 +1,3 @@
-["overtuigen","overreden","bekoren"]
+overtuigen
+overreden
+bekoren

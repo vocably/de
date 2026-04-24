@@ -1,1 +1,2 @@
-["a dedica","a închina"]
+a dedica
+a închina

@@ -1,1 +1,3 @@
-["övertyga","överbevisa","vinna"]
+övertyga
+överbevisa
+vinna

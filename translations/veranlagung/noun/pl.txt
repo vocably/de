@@ -1,1 +1,3 @@
-["predyspozycja","usposobienie","opodatkowanie"]
+predyspozycja
+usposobienie
+opodatkowanie

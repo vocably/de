@@ -1,1 +1,3 @@
-["rastdar kirin","mafdar kirin","berevanî kirin"]
+rastdar kirin
+mafdar kirin
+berevanî kirin

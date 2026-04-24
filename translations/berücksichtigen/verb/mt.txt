@@ -1,1 +1,3 @@
-["ikkunsidrat","qies","ħa inkonsiderazzjoni"]
+ikkunsidrat
+qies
+ħa inkonsiderazzjoni

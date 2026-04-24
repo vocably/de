@@ -1,1 +1,2 @@
-["feeb","ntxim"]
+feeb
+ntxim

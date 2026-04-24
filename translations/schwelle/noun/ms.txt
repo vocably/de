@@ -1,1 +1,3 @@
-["ambang","sempadan","galang"]
+ambang
+sempadan
+galang

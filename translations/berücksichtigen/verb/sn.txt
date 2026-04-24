@@ -1,1 +1,3 @@
-["kufunga nezvazvo","kutora mukana","kuremekedza"]
+kufunga nezvazvo
+kutora mukana
+kuremekedza

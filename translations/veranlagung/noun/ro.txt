@@ -1,1 +1,3 @@
-["predispoziție","aptitudine","înclinație"]
+predispoziție
+aptitudine
+înclinație

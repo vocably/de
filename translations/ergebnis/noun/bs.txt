@@ -1,1 +1,3 @@
-["rezultat","ishod","učinak"]
+rezultat
+ishod
+učinak

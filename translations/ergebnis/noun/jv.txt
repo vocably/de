@@ -1,1 +1,3 @@
-["asil","kasil","pungkasan"]
+asil
+kasil
+pungkasan

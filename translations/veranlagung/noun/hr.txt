@@ -1,1 +1,4 @@
-["sklonost","raspolo\nja","porezna procjena"]
+sklonost
+raspolo
+ja
+porezna procjena

@@ -1,1 +1,3 @@
-["disposição","tributação","investimento"]
+disposição
+tributação
+investimento

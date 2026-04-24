@@ -1,1 +1,2 @@
-["kaibig-ibig","nakatutuwa"]
+kaibig-ibig
+nakatutuwa

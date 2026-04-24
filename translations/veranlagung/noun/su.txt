@@ -1,1 +1,3 @@
-["bawaan","kaparigelan","potensi"]
+bawaan
+kaparigelan
+potensi

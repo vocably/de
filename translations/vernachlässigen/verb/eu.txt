@@ -1,1 +1,2 @@
-["alde batera utzi","ahaztu"]
+alde batera utzi
+ahaztu

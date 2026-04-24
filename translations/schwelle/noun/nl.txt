@@ -1,1 +1,3 @@
-["drempel","grens","dwarsligger"]
+drempel
+grens
+dwarsligger

@@ -1,1 +1,3 @@
-["uwzględniać","brać pod uwagę","respektować"]
+uwzględniać
+brać pod uwagę
+respektować

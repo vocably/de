@@ -1,1 +1,3 @@
-["beakta","överväga","ta hänsyn till"]
+beakta
+överväga
+ta hänsyn till

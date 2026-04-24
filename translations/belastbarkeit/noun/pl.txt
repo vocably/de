@@ -1,1 +1,2 @@
-["wytrzymałość","obciążalność"]
+wytrzymałość
+obciążalność

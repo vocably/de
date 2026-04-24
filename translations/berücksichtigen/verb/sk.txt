@@ -1,1 +1,3 @@
-["zohľadniť","brať do úvahy","prihliadať"]
+zohľadniť
+brať do úvahy
+prihliadať

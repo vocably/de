@@ -1,1 +1,3 @@
-["sérstaklega","einkum","í lagi"]
+sérstaklega
+einkum
+í lagi

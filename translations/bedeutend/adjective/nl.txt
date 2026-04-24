@@ -1,1 +1,3 @@
-["belangrijk","aanzienlijk","beroemd"]
+belangrijk
+aanzienlijk
+beroemd

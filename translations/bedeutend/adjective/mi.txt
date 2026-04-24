@@ -1,1 +1,3 @@
-["hirahira","nui","whakahirahira"]
+hirahira
+nui
+whakahirahira

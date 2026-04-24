@@ -1,1 +1,3 @@
-["union","undeb","undod"]
+union
+undeb
+undod

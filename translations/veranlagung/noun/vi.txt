@@ -1,1 +1,3 @@
-["khuynh hướng","thiên hướng","khả năng"]
+khuynh hướng
+thiên hướng
+khả năng

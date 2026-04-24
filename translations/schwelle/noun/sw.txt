@@ -1,1 +1,3 @@
-["kizingiti","mpaka","boriti"]
+kizingiti
+mpaka
+boriti

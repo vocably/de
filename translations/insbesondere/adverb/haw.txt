@@ -1,1 +1,3 @@
-["ʻo ia hoʻi","ma ke ʻano nui","ʻoi loa"]
+ʻo ia hoʻi
+ma ke ʻano nui
+ʻoi loa

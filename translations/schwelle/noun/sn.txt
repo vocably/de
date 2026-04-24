@@ -1,1 +1,3 @@
-["Mugano","Chikumbaridzo","Sokisi"]
+Mugano
+Chikumbaridzo
+Sokisi

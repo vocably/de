@@ -1,1 +1,3 @@
-["nagnjenje","dovzetnost","odmera"]
+nagnjenje
+dovzetnost
+odmera

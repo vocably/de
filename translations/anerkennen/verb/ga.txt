@@ -1,1 +1,3 @@
-["admháil","aithnigh","dearbhaigh"]
+admháil
+aithnigh
+dearbhaigh

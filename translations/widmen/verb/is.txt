@@ -1,1 +1,2 @@
-["helga","tileinka"]
+helga
+tileinka

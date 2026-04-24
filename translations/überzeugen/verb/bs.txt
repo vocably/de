@@ -1,1 +1,3 @@
-["uvjeriti","impresionirati","uvjeriti se"]
+uvjeriti
+impresionirati
+uvjeriti se

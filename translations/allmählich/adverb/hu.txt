@@ -1,1 +1,3 @@
-["fokozatosan","lassanként","idővel"]
+fokozatosan
+lassanként
+idővel

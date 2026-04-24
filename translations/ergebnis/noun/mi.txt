@@ -1,1 +1,3 @@
-["hua","putanga","o te mutunga"]
+hua
+putanga
+o te mutunga

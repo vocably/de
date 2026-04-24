@@ -1,1 +1,2 @@
-["divan","presladak"]
+divan
+presladak

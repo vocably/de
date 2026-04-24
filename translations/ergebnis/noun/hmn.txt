@@ -1,1 +1,3 @@
-["qhov tshwm sim","qhov kawg","qhov tau"]
+qhov tshwm sim
+qhov kawg
+qhov tau

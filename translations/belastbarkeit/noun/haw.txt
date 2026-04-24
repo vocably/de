@@ -1,1 +1,2 @@
-["ahor","ikaika"]
+ahor
+ikaika

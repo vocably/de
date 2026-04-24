@@ -1,1 +1,3 @@
-["convencer","impressionar","certificar-se"]
+convencer
+impressionar
+certificar-se

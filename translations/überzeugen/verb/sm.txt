@@ -1,1 +1,3 @@
-["faʻamaonia","faʻatalitonuina","faʻatalitonu"]
+faʻamaonia
+faʻatalitonuina
+faʻatalitonu

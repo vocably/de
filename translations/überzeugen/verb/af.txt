@@ -1,1 +1,3 @@
-["oortuig","oortuig wees","beïndruk"]
+oortuig
+oortuig wees
+beïndruk

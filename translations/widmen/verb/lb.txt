@@ -1,1 +1,2 @@
-["widmen","e Buch widmen"]
+widmen
+e Buch widmen

@@ -1,1 +1,2 @@
-["ngaku","ngajenan"]
+ngaku
+ngajenan

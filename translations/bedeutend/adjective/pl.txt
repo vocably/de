@@ -1,1 +1,3 @@
-["znaczny","ważny","wybitny"]
+znaczny
+ważny
+wybitny

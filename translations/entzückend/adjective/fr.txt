@@ -1,1 +1,2 @@
-["adorable","ravissant"]
+adorable
+ravissant

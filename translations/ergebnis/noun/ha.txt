@@ -1,1 +1,3 @@
-["sakamako","abin da ya biyo baya","karshe"]
+sakamako
+abin da ya biyo baya
+karshe

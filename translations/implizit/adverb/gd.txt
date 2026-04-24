@@ -1,1 +1,2 @@
-["neo-shoilleir","fo-thuigsinn"]
+neo-shoilleir
+fo-thuigsinn

@@ -1,1 +1,3 @@
-["penting","wigati","kondhang"]
+penting
+wigati
+kondhang

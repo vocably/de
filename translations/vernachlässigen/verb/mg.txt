@@ -1,1 +1,2 @@
-["mankasitrana","manadino"]
+mankasitrana
+manadino

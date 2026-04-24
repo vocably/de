@@ -1,1 +1,3 @@
-["Lawang","Wates","Galagar"]
+Lawang
+Wates
+Galagar

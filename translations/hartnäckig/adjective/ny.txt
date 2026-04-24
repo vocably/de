@@ -1,1 +1,2 @@
-["wolimba mtima","wosagonja"]
+wolimba mtima
+wosagonja

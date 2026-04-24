@@ -1,1 +1,3 @@
-["kabul etmek","yüze çykmak","tassyk etmek"]
+kabul etmek
+yüze çykmak
+tassyk etmek

@@ -1,1 +1,3 @@
-["mengakui","menghargai","mengiktiraf"]
+mengakui
+menghargai
+mengiktiraf

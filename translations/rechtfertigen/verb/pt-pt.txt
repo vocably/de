@@ -1,1 +1,3 @@
-["justificar","legitimar","defender-se"]
+justificar
+legitimar
+defender-se

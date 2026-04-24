@@ -1,1 +1,3 @@
-["oanlis","oanslach","ynvestearring"]
+oanlis
+oanslach
+ynvestearring

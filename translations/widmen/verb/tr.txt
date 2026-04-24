@@ -1,1 +1,2 @@
-["ayırmak","ithaf etmek"]
+ayırmak
+ithaf etmek

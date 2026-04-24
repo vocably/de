@@ -1,1 +1,2 @@
-["rozkošný","očarujúci"]
+rozkošný
+očarujúci

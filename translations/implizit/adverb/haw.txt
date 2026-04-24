@@ -1,1 +1,2 @@
-["huna","manaʻo huna"]
+huna
+manaʻo huna

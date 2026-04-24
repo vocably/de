@@ -1,1 +1,3 @@
-["paso","hangganan","trak"]
+paso
+hangganan
+trak

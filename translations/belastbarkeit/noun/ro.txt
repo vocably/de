@@ -1,1 +1,2 @@
-["rezistență","capacitate de încărcare"]
+rezistență
+capacitate de încărcare

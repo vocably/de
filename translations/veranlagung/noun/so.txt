@@ -1,1 +1,3 @@
-["dabeecad","caddayn","maalgashi"]
+dabeecad
+caddayn
+maalgashi

@@ -1,1 +1,3 @@
-["cunvince","persuade","cunvince si"]
+cunvince
+persuade
+cunvince si

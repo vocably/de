@@ -1,1 +1,3 @@
-["considerar","tener en cuenta","tomar en consideración"]
+considerar
+tener en cuenta
+tomar en consideración

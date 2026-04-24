@@ -1,1 +1,3 @@
-["atzīt","novērtēt","atzīt par likumīgu"]
+atzīt
+novērtēt
+atzīt par likumīgu

@@ -1,1 +1,3 @@
-["mahalaga","makabuluhan","bantog"]
+mahalaga
+makabuluhan
+bantog

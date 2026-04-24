@@ -1,1 +1,3 @@
-["razî kirin","qanî kirin","bawer kirin"]
+razî kirin
+qanî kirin
+bawer kirin

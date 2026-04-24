@@ -1,1 +1,3 @@
-["ynandyrmak","yrmak","düşündirmek"]
+ynandyrmak
+yrmak
+düşündirmek

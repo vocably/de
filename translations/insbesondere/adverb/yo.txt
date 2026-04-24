@@ -1,1 +1,3 @@
-["ní pàtàkì","ní ti gidi","ní kùkúrú"]
+ní pàtàkì
+ní ti gidi
+ní kùkúrú

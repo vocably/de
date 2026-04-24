@@ -1,1 +1,2 @@
-["go hiondúil","go follasach"]
+go hiondúil
+go follasach

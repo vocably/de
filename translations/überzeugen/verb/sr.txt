@@ -1,1 +1,3 @@
-["uveriti","ubezbediti","impresionirati"]
+uveriti
+ubezbediti
+impresionirati

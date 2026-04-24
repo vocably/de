@@ -1,1 +1,3 @@
-["entegrite","onètete","lafwa"]
+entegrite
+onètete
+lafwa

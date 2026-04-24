@@ -1,1 +1,3 @@
-["yi la'akari da","kula da","yi dubi da"]
+yi la'akari da
+kula da
+yi dubi da

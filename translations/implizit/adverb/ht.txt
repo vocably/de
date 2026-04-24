@@ -1,1 +1,2 @@
-["enplisit","endirek"]
+enplisit
+endirek

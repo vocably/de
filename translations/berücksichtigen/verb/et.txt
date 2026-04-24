@@ -1,1 +1,3 @@
-["arvestama","silmas pidama","tähele panema"]
+arvestama
+silmas pidama
+tähele panema

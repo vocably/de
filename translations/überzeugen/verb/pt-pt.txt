@@ -1,1 +1,3 @@
-["convencer","persuadir","impressionar"]
+convencer
+persuadir
+impressionar

@@ -1,1 +1,3 @@
-["anne","maksustamine","investeering"]
+anne
+maksustamine
+investeering

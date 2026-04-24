@@ -1,1 +1,3 @@
-["kuvomereza","kuyamikira","kuzindikira"]
+kuvomereza
+kuyamikira
+kuzindikira

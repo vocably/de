@@ -1,1 +1,2 @@
-["teu langsung","implisit"]
+teu langsung
+implisit

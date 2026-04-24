@@ -1,1 +1,3 @@
-["predisposició","aptitud","inclinació"]
+predisposició
+aptitud
+inclinació

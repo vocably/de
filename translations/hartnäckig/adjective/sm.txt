@@ -1,1 +1,2 @@
-["ma'a'a","fa'amalosi"]
+ma'a'a
+fa'amalosi

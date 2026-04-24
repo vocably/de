@@ -1,1 +1,3 @@
-["a justifica","a motiva","a se disculpa"]
+a justifica
+a motiva
+a se disculpa

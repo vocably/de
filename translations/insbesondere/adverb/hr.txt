@@ -1,1 +1,3 @@
-["posebice","osobito","pogotovo"]
+posebice
+osobito
+pogotovo

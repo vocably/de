@@ -1,1 +1,3 @@
-["özellikle","bilhassa","hususan"]
+özellikle
+bilhassa
+hususan

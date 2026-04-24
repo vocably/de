@@ -1,1 +1,2 @@
-["draagkracht","belastbaarheid"]
+draagkracht
+belastbaarheid

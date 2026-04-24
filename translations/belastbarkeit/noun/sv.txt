@@ -1,1 +1,2 @@
-["tålighet","belastbarheten"]
+tålighet
+belastbarheten

@@ -1,1 +1,3 @@
-["postepeno","s vremenom","malo-pomalo"]
+postepeno
+s vremenom
+malo-pomalo

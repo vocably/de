@@ -1,1 +1,2 @@
-["resilience","load-bearing capacity"]
+resilience
+load-bearing capacity

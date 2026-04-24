@@ -1,1 +1,3 @@
-["ukybylyk","hasiýet","salgyt"]
+ukybylyk
+hasiýet
+salgyt

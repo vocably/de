@@ -1,1 +1,2 @@
-["khả năng chịu đựng","độ bền"]
+khả năng chịu đựng
+độ bền

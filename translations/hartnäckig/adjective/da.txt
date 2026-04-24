@@ -1,1 +1,2 @@
-["vedholdende","hårdnakket"]
+vedholdende
+hårdnakket

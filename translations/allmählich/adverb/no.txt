@@ -1,1 +1,3 @@
-["gradvis","etter hvert","så smått"]
+gradvis
+etter hvert
+så smått

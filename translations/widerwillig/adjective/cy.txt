@@ -1,1 +1,2 @@
-["amharod","gyndyn"]
+amharod
+gyndyn

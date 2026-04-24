@@ -1,1 +1,3 @@
-["heredeco","dispozicio","imposto"]
+heredeco
+dispozicio
+imposto

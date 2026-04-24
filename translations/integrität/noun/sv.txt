@@ -1,1 +1,3 @@
-["integritet","okränkbarhet","felfrihet"]
+integritet
+okränkbarhet
+felfrihet

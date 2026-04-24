@@ -1,1 +1,3 @@
-["predispożizzjoni","valutazzjoni","investiment"]
+predispożizzjoni
+valutazzjoni
+investiment

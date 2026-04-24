@@ -1,1 +1,3 @@
-["pataki","gbajugbaja","lágbára"]
+pataki
+gbajugbaja
+lágbára

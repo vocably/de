@@ -1,1 +1,3 @@
-["lävi","künnis","pruss"]
+lävi
+künnis
+pruss

@@ -1,1 +1,2 @@
-["madax adag","qallafsan"]
+madax adag
+qallafsan

@@ -1,1 +1,3 @@
-["resultat","følge","sluttstilling"]
+resultat
+følge
+sluttstilling

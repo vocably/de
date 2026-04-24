@@ -1,1 +1,3 @@
-["muhimu","mashuhuri","maarufu"]
+muhimu
+mashuhuri
+maarufu

@@ -1,1 +1,2 @@
-["tsy an-kolaka","voarakitra an-tsokosoko"]
+tsy an-kolaka
+voarakitra an-tsokosoko

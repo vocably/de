@@ -1,1 +1,2 @@
-["omgående","genast"]
+omgående
+genast

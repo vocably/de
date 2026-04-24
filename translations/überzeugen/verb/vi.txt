@@ -1,1 +1,3 @@
-["thuyết phục","để lại ấn tượng","xác minh"]
+thuyết phục
+để lại ấn tượng
+xác minh

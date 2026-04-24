@@ -1,1 +1,2 @@
-["ýeterlik","dostluk"]
+ýeterlik
+dostluk

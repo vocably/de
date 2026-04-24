@@ -1,1 +1,2 @@
-["belastbar","motstandsdyktig"]
+belastbar
+motstandsdyktig

@@ -1,1 +1,3 @@
-["important","considerable","famous"]
+important
+considerable
+famous

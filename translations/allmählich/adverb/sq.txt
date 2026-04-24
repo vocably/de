@@ -1,1 +1,3 @@
-["dalëngadalë","pak nga pak","avash avash"]
+dalëngadalë
+pak nga pak
+avash avash

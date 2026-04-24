@@ -1,1 +1,2 @@
-["implicite","malrekte"]
+implicite
+malrekte

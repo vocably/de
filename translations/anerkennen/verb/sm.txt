@@ -1,1 +1,3 @@
-["talia","fa'afetai","iloa"]
+talia
+fa'afetai
+iloa

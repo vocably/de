@@ -1,1 +1,3 @@
-["isimo","intela","ukutshala imali"]
+isimo
+intela
+ukutshala imali

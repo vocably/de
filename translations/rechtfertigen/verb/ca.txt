@@ -1,1 +1,3 @@
-["justificar","excusar","respondre"]
+justificar
+excusar
+respondre

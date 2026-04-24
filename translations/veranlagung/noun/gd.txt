@@ -1,1 +1,3 @@
-["nàdar","suim","tasgadh"]
+nàdar
+suim
+tasgadh

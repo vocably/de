@@ -1,1 +1,3 @@
-["aqbalid","ammaanid","ictiraafid"]
+aqbalid
+ammaanid
+ictiraafid

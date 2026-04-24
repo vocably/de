@@ -1,1 +1,3 @@
-["ʻano","kau","hoʻokomo"]
+ʻano
+kau
+hoʻokomo

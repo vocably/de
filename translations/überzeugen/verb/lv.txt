@@ -1,1 +1,3 @@
-["pārliecināt","atstāt iespaidu","gūt pārliecību"]
+pārliecināt
+atstāt iespaidu
+gūt pārliecību

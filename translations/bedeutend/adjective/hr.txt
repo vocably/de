@@ -1,1 +1,3 @@
-["važan","značajan","ugledan"]
+važan
+značajan
+ugledan

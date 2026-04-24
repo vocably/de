@@ -1,1 +1,3 @@
-["resultat","följd","slutställning"]
+resultat
+följd
+slutställning

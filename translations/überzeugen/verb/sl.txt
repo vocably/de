@@ -1,1 +1,3 @@
-["prepričati","navdušiti","prepričati se"]
+prepričati
+navdušiti
+prepričati se

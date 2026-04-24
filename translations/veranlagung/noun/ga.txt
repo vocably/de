@@ -1,1 +1,3 @@
-["claonadh","dearbhú cánach","infheistíocht"]
+claonadh
+dearbhú cánach
+infheistíocht

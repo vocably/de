@@ -1,1 +1,3 @@
-["konvenk","enpresyone","asire"]
+konvenk
+enpresyone
+asire

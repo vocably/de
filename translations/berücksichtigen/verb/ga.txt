@@ -1,1 +1,3 @@
-["cuir san áireamh","tabhair aird ar","déan machnamh ar"]
+cuir san áireamh
+tabhair aird ar
+déan machnamh ar

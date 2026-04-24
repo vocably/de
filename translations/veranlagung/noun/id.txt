@@ -1,1 +1,3 @@
-["bakat","pembawaan","penilaian"]
+bakat
+pembawaan
+penilaian

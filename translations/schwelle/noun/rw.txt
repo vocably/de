@@ -1,1 +1,3 @@
-["Umuryango","Inzira","Ikibaho"]
+Umuryango
+Inzira
+Ikibaho

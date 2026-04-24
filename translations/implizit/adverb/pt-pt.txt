@@ -1,1 +1,2 @@
-["implícito","subentendido"]
+implícito
+subentendido

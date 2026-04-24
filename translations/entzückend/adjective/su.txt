@@ -1,1 +1,2 @@
-["lucu","pikaresepeun"]
+lucu
+pikaresepeun

@@ -1,1 +1,3 @@
-["reconhecer","aceitar","homologar"]
+reconhecer
+aceitar
+homologar

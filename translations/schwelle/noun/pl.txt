@@ -1,1 +1,3 @@
-["próg","granica","podkład"]
+próg
+granica
+podkład

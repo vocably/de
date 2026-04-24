@@ -1,1 +1,2 @@
-["effekt","verkan"]
+effekt
+verkan

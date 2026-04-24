@@ -1,1 +1,3 @@
-["meyakinkan","memujuk","memastikan"]
+meyakinkan
+memujuk
+memastikan

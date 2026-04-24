@@ -1,1 +1,3 @@
-["halalisha","tetea","jibisha"]
+halalisha
+tetea
+jibisha

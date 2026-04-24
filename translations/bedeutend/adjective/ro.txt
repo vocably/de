@@ -1,1 +1,3 @@
-["important","considerabil","celebru"]
+important
+considerabil
+celebru

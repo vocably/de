@@ -1,1 +1,3 @@
-["pragu","kufi","traversë"]
+pragu
+kufi
+traversë

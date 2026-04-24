@@ -1,1 +1,3 @@
-["qinisekisa","kholisa","qiniseka"]
+qinisekisa
+kholisa
+qiniseka

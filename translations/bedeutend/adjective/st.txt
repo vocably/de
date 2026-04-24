@@ -1,1 +1,3 @@
-["bohlokoa","bongata","tsebahalang"]
+bohlokoa
+bongata
+tsebahalang

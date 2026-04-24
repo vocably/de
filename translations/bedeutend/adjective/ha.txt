@@ -1,1 +1,3 @@
-["mai muhimmanci","sananne","mashahuri"]
+mai muhimmanci
+sananne
+mashahuri

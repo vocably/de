@@ -1,1 +1,3 @@
-["noonoo","mālama","hoʻolohe"]
+noonoo
+mālama
+hoʻolohe

@@ -1,1 +1,2 @@
-["twang","mei tsjinaksel"]
+twang
+mei tsjinaksel

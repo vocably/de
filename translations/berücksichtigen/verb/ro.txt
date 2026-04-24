@@ -1,1 +1,3 @@
-["a ține cont de","a lua în considerare","a respecta"]
+a ține cont de
+a lua în considerare
+a respecta

@@ -1,1 +1,3 @@
-["perintötekijä","verotus","sijoitus"]
+perintötekijä
+verotus
+sijoitus

@@ -1,1 +1,2 @@
-["juriya","iya"]
+juriya
+iya

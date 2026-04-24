@@ -1,1 +1,3 @@
-["moeli","leqhapha","sethathana"]
+moeli
+leqhapha
+sethathana

@@ -1,1 +1,3 @@
-["convencer","persuadir","cerciorarse"]
+convencer
+persuadir
+cerciorarse

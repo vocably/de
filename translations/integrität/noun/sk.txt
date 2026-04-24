@@ -1,1 +1,3 @@
-["integrita","bezuhonnosa","neporusenosa"]
+integrita
+bezuhonnosa
+neporusenosa

@@ -1,1 +1,3 @@
-["arfgerð","skattlagning","fjárfesting"]
+arfgerð
+skattlagning
+fjárfesting

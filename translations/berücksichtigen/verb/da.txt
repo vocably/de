@@ -1,1 +1,3 @@
-["overveje","tage hensyn til","medregne"]
+overveje
+tage hensyn til
+medregne
