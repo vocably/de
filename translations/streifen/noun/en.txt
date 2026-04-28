@@ -1,0 +1,4 @@
+strip
+stripe
+film
+patrol

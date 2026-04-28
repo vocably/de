@@ -1,0 +1,3 @@
+apertures
+diaphragms
+stops

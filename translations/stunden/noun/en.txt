@@ -1,0 +1,3 @@
+hours
+classes
+lessons
