@@ -1,0 +1,4 @@
+inteiro
+todo
+completo
+muito
