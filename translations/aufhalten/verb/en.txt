@@ -1,0 +1,4 @@
+stop
+detain
+stay
+delay

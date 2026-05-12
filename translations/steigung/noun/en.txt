@@ -1,0 +1,3 @@
+incline
+gradient
+slope

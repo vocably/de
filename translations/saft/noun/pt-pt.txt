@@ -1,0 +1,4 @@
+sumo
+seiva
+corrente
+eletricidade

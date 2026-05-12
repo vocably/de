@@ -1,0 +1,4 @@
+bilgi
+ifade
+beyan
+servis

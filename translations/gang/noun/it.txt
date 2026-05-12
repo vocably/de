@@ -1,0 +1,4 @@
+andatura
+corridoio
+marcia
+portata

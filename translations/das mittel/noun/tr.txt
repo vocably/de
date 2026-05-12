@@ -1,0 +1,4 @@
+araç
+ilaç
+kaynak
+ortalama

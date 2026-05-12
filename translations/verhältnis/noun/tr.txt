@@ -1,0 +1,4 @@
+ilişki
+oran
+nispet
+durum

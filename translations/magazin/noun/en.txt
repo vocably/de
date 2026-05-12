@@ -1,0 +1,4 @@
+magazine
+store
+warehouse
+clip

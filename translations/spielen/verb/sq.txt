@@ -1,0 +1,4 @@
+luaj
+interpretoj
+ekzekutoj
+veproj

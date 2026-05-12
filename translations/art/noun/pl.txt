@@ -1,0 +1,3 @@
+gatunek
+rodzaj
+sposób
