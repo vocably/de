@@ -1,0 +1,2 @@
+sayı
+miktar

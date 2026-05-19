@@ -1,0 +1,5 @@
+limpar
+polir
+escovar
+lustrar
+engraxar

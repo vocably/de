@@ -1,0 +1,4 @@
+köprü
+viyadük
+komut köprüsü
+diş köprüsü

@@ -1,0 +1,4 @@
+copy
+transcribe
+write off
+depreciate
