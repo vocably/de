@@ -1,0 +1,3 @@
+pagar
+liquidar
+saldar

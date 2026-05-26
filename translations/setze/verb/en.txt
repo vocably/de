@@ -1,0 +1,5 @@
+put
+set
+place
+sit down
+bet
