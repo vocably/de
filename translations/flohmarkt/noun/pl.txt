@@ -1,0 +1,2 @@
+pchli targ
+bazar

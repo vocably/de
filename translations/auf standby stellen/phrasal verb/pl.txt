@@ -1,0 +1,2 @@
+przełączyć w tryb czuwania
+przełączyć w stan gotowości

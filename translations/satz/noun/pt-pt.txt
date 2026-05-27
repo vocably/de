@@ -1,0 +1,5 @@
+frase
+taxa
+conjunto
+andamento
+borra
