@@ -1,0 +1,4 @@
+parça
+adet
+oyun
+mesafe

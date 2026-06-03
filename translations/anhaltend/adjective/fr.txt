@@ -1,0 +1,3 @@
+continu
+persistant
+durable

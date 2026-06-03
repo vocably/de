@@ -1,0 +1,4 @@
+hesaplamak
+saymak
+beklemek
+tahmin etmek

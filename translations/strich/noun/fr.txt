@@ -1,0 +1,4 @@
+trait
+tiret
+sens
+trottoir

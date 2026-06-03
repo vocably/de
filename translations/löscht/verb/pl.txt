@@ -1,0 +1,4 @@
+gasi
+usuwa
+wykreśla
+anuluje
