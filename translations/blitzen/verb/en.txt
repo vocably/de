@@ -1,0 +1,4 @@
+flash
+lighten
+streak
+take a flash picture of

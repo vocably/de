@@ -1,0 +1,4 @@
+eszköz
+pénzeszköz
+gyógyszer
+átlag

@@ -1,0 +1,4 @@
+cut
+style
+average
+shot
