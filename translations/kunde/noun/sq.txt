@@ -1,0 +1,3 @@
+klient
+konsumator
+blerës

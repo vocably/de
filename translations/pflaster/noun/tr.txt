@@ -1,0 +1,3 @@
+yara bandı
+kaldırım
+yer

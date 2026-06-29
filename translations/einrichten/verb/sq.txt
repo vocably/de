@@ -1,0 +1,4 @@
+mobiloj
+organizoj
+përgatitem
+instaloj

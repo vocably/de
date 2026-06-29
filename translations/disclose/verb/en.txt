@@ -1,0 +1,4 @@
+disclose
+reveal
+uncover
+make public
