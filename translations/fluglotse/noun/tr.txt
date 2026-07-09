@@ -1,0 +1,2 @@
+hava trafik kontrolörü
+uçuş kontrolörü

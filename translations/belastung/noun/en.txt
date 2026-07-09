@@ -1,0 +1,4 @@
+burden
+load
+stress
+strain

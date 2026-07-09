@@ -1,0 +1,3 @@
+calms
+has calmed
+is calm

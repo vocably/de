@@ -1,0 +1,5 @@
+aktarmak
+nakletmek
+iletmek
+bulaştırmak
+yayınlamak
