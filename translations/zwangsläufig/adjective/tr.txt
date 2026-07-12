@@ -1,0 +1,3 @@
+kaçınılmaz
+zorunlu
+ister istemez
