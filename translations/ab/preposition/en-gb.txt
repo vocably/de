@@ -1,0 +1,5 @@
+from (away from a place)
+as of (from a point in time)
+down (downwards)
+off (finished, done)
+over (finished, done)

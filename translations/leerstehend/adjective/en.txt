@@ -1,0 +1,3 @@
+vacant
+empty
+unoccupied

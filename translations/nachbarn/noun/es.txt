@@ -1,0 +1,2 @@
+vecinos
+prójimos

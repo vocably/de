@@ -1,0 +1,3 @@
+feasible
+implementable
+practicable

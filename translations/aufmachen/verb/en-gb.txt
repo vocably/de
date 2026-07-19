@@ -1,0 +1,3 @@
+open
+open up
+set off

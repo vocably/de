@@ -1,0 +1,5 @@
+coup
+choc
+battement
+type
+sorte

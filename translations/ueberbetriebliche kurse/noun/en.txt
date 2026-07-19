@@ -1,0 +1,2 @@
+intercompany courses
+external courses
