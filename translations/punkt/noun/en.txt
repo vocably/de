@@ -1,0 +1,4 @@
+point
+dot
+period
+mark

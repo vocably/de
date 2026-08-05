@@ -1,0 +1,4 @@
+duruş
+pozisyon
+konum
+görüş

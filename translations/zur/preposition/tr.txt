@@ -1,0 +1,3 @@
+için
+-e/-a (yönelme hali eki)
+doğru

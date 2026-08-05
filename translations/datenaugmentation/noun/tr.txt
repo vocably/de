@@ -1,0 +1,2 @@
+veri büyütme
+veri zenginleştirme

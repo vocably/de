@@ -1,0 +1,3 @@
+stove
+cooker
+hearth

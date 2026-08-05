@@ -1,0 +1,5 @@
+go out
+go out (light)
+assume
+proceed from
+be based on

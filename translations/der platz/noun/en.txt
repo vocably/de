@@ -1,0 +1,4 @@
+place
+seat
+square
+spot

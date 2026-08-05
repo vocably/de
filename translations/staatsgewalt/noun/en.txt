@@ -1,0 +1,2 @@
+state power
+public authority

@@ -1,0 +1,4 @@
+klasë
+kategori
+shtresë
+rend
