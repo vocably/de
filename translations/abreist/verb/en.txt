@@ -1,0 +1,3 @@
+departs
+leaves
+sets off

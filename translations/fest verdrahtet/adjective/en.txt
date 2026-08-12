@@ -1,0 +1,3 @@
+hardwired
+fixed-wired
+permanently wired

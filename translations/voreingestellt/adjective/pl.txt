@@ -1,0 +1,3 @@
+domyślny
+ustawiony fabrycznie
+predefiniowany

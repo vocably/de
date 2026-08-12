@@ -1,0 +1,4 @@
+armor
+armament
+armaments
+scaffolding

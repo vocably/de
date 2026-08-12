@@ -1,0 +1,4 @@
+societies
+companies
+corporations
+associations
