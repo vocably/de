@@ -1,0 +1,3 @@
+finite
+eventual
+at last

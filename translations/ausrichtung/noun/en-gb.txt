@@ -1,0 +1,3 @@
+alignment
+orientation
+direction
