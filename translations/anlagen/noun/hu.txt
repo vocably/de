@@ -1,0 +1,4 @@
+létesítmények
+berendezések
+mellékletek
+adottságok

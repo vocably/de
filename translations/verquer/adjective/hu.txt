@@ -1,0 +1,3 @@
+ferde
+különös
+hibás

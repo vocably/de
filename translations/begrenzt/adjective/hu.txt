@@ -1,0 +1,3 @@
+korlátozott
+határolt
+véges
