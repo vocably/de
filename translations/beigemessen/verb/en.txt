@@ -1,0 +1,4 @@
+attached
+attributed
+given
+assigned

@@ -1,0 +1,4 @@
+hagytak
+engedtek
+elhagytak
+abbahagytak

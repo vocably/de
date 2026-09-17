@@ -1,0 +1,4 @@
+megszólít
+szól
+megszólal
+megemlít

@@ -1,0 +1,4 @@
+took
+accepted
+received
+required

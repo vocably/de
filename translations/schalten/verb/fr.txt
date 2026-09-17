@@ -1,0 +1,4 @@
+changer de vitesse
+allumer
+éteindre
+passer

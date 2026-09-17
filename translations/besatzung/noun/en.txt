@@ -1,0 +1,3 @@
+crew
+occupation
+trim

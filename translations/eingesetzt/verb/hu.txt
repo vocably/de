@@ -1,0 +1,4 @@
+alkalmazott
+felhasznált
+kinevezett
+bevetett

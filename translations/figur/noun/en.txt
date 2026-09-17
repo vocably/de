@@ -1,0 +1,4 @@
+figure
+character
+statue
+piece

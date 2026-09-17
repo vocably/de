@@ -1,0 +1,3 @@
+nemsemleges
+gendersemleges
+ivarsemleges

@@ -1,0 +1,3 @@
+empirical value
+experimental value
+rule of thumb

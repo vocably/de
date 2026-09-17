@@ -1,0 +1,3 @@
+ilişkilendirmek
+çağrıştırmak
+birleştirmek

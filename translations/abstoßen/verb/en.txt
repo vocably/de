@@ -1,0 +1,4 @@
+repel
+push off
+reject
+sell off

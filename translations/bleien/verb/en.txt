@@ -1,0 +1,3 @@
+lead
+weight
+poison with lead
