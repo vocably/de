@@ -1,0 +1,5 @@
+g
+rev yapmak
+i
+lev g
+rmek

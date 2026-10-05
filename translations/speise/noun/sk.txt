@@ -1,0 +1,3 @@
+jedlo
+pokrm
+potrava

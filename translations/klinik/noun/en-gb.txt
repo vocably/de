@@ -1,0 +1,3 @@
+clinic
+hospital
+polyclinic

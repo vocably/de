@@ -1,0 +1,3 @@
+buys
+purchases
+shops

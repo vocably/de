@@ -1,0 +1,2 @@
+public attitude
+public stance

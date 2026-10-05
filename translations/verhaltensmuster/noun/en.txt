@@ -1,0 +1,2 @@
+behavior pattern
+pattern of behavior

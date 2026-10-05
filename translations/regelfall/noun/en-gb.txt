@@ -1,0 +1,2 @@
+normal case
+usual case

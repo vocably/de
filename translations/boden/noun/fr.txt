@@ -1,0 +1,4 @@
+sol
+terre
+plancher
+fond

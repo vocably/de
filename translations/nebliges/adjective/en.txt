@@ -1,0 +1,3 @@
+foggy
+misty
+hazy

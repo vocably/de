@@ -1,0 +1,3 @@
+sesso
+genere
+stirpe
