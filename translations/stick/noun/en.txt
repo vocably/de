@@ -1,0 +1,3 @@
+stick
+USB stick
+joystick
