@@ -1,0 +1,1 @@
+["receipt","proof of purchase"]

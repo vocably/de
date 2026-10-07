@@ -1,0 +1,1 @@
+["stall","choke off","switch off"]

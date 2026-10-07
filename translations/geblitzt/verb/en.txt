@@ -1,0 +1,1 @@
+["was struck by lightning","was flashed"]

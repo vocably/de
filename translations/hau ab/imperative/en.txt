@@ -1,0 +1,1 @@
+["Get lost!","Go away!","Beat it!"]

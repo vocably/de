@@ -1,0 +1,1 @@
+["pendulum movement","oscillating movement"]

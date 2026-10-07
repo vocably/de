@@ -1,0 +1,1 @@
+["varying","variable","fluctuating"]

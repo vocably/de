@@ -1,0 +1,1 @@
+["halftime score","half-time result"]

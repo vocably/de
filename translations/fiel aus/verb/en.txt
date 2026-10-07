@@ -1,0 +1,1 @@
+["was canceled","didn't take place","broke down","fell out"]

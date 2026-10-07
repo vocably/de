@@ -1,0 +1,1 @@
+["annul","nullify","declare null and void"]

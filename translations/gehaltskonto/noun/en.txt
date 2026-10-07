@@ -1,0 +1,1 @@
+["payroll account","salary account"]

@@ -1,0 +1,1 @@
+["working mode","mode of operation"]

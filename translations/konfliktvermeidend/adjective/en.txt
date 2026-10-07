@@ -1,0 +1,1 @@
+["conflict-avoiding","conflict-averse"]

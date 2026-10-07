@@ -1,0 +1,1 @@
+["loss amount","amount of loss"]

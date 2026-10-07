@@ -1,0 +1,1 @@
+["stony desert","rock desert"]

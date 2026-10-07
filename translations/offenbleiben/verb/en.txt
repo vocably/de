@@ -1,0 +1,1 @@
+["remain open","stay open","be left open"]

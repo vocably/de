@@ -1,0 +1,1 @@
+["disconnected","clamped off","blocked"]

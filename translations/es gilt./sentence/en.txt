@@ -1,0 +1,1 @@
+["It applies.","It is valid.","It is important."]

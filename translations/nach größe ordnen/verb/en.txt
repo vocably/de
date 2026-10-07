@@ -1,0 +1,1 @@
+["to sort by size","to arrange by size"]

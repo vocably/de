@@ -1,0 +1,1 @@
+["painting","stroke","deletion"]
