@@ -1,0 +1,4 @@
+hardness
+severity
+harshness
+water hardness

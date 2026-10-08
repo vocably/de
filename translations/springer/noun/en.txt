@@ -1,0 +1,3 @@
+jumper
+knight
+utility worker

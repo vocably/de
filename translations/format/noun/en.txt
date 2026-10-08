@@ -1,0 +1,4 @@
+format
+size
+stature
+show concept

@@ -1,0 +1,3 @@
+scattering
+dispersion
+spread

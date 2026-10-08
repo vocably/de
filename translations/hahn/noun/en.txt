@@ -1,0 +1,4 @@
+rooster
+faucet
+tap
+hammer

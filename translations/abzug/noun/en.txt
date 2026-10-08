@@ -1,0 +1,5 @@
+withdrawal
+deduction
+trigger
+print
+exhaust

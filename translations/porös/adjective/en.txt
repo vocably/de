@@ -1,0 +1,3 @@
+porous
+brittle
+permeable

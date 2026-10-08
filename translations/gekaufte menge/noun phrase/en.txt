@@ -1,0 +1,2 @@
+quantity purchased
+purchased quantity

@@ -1,0 +1,3 @@
+model
+fashion model
+pattern

@@ -1,0 +1,2 @@
+fenced-in property
+enclosed property

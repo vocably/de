@@ -1,0 +1,4 @@
+stamp
+seal
+pistil
+prop

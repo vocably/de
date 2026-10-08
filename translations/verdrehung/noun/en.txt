@@ -1,0 +1,3 @@
+distortion
+twist
+sprain

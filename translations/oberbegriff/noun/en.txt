@@ -1,0 +1,3 @@
+umbrella term
+generic term
+hypernym

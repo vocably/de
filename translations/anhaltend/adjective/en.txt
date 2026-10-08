@@ -1,0 +1,3 @@
+persistent
+continuous
+sustained

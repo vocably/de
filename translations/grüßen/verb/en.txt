@@ -1,0 +1,2 @@
+to greet
+to say hello

@@ -1,0 +1,3 @@
+rider
+tab
+rider (sliding weight on a balance)

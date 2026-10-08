@@ -1,0 +1,3 @@
+attacks
+has attacked
+is attacked

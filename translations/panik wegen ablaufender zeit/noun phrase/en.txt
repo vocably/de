@@ -1,0 +1,2 @@
+time pressure
+panic over running out of time

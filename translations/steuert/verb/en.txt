@@ -1,0 +1,4 @@
+steers
+controls
+heads toward
+pays taxes

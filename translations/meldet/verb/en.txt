@@ -1,0 +1,4 @@
+reports
+announces
+informs
+registers

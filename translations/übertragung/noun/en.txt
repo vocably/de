@@ -1,0 +1,4 @@
+transmission
+broadcast
+translation
+transfer

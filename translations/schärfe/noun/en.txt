@@ -1,0 +1,4 @@
+sharpness
+spiciness
+heat
+sharpness of focus

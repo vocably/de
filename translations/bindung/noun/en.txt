@@ -1,0 +1,4 @@
+bond
+attachment
+commitment
+binding

@@ -1,0 +1,3 @@
+hops
+jumps
+bounces

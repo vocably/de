@@ -1,0 +1,2 @@
+from where (used in questions or as 'where from')
+from which place

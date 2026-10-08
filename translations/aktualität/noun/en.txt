@@ -1,0 +1,3 @@
+timeliness
+currency
+topicality

@@ -1,0 +1,3 @@
+greets
+welcomes
+appreciates

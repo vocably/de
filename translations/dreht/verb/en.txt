@@ -1,0 +1,4 @@
+turns
+shoots
+makes
+rotates

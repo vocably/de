@@ -1,0 +1,5 @@
+occupied
+booked
+covered
+proven
+busy

@@ -1,0 +1,3 @@
+stack
+pile
+stack (data structure)

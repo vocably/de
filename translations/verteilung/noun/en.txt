@@ -1,0 +1,3 @@
+distribution
+allocation
+spread

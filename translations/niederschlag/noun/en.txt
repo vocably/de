@@ -1,0 +1,3 @@
+precipitation
+outcome
+precipitate

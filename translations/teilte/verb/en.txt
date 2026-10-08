@@ -1,0 +1,4 @@
+shared
+divided
+split
+distributed

@@ -1,0 +1,2 @@
+observes, watches
+has observed, has watched

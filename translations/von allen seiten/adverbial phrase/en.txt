@@ -1,0 +1,2 @@
+from all sides
+from every side

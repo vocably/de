@@ -1,0 +1,4 @@
+bursts
+pops
+falls through
+explodes

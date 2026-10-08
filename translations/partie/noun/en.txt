@@ -1,0 +1,4 @@
+game
+match
+part
+outing

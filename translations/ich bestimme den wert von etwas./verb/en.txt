@@ -1,0 +1,2 @@
+I determine the value of something.
+I define the value of something.

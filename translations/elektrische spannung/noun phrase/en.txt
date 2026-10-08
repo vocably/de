@@ -1,0 +1,2 @@
+voltage
+electric tension

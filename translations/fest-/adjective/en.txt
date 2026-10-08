@@ -1,0 +1,4 @@
+firm
+solid
+fixed
+steady

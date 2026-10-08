@@ -1,0 +1,3 @@
+unchangeable
+immutable
+unalterable

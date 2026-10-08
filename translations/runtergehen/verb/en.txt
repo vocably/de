@@ -1,0 +1,5 @@
+go down
+come down
+drop
+decrease
+be acceptable
