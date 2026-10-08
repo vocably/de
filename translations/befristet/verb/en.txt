@@ -1,0 +1,3 @@
+to limit in time
+to set a deadline
+to make time-limited

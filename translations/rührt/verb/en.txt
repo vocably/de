@@ -1,0 +1,4 @@
+stirs
+moves
+touches
+comes from

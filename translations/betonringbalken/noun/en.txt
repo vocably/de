@@ -1,0 +1,2 @@
+concrete ring beam
+concrete bond beam

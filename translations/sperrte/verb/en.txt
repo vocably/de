@@ -1,0 +1,4 @@
+locked
+blocked
+barred
+suspended

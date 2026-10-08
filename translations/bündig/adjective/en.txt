@@ -1,0 +1,3 @@
+flush
+concise
+conclusive

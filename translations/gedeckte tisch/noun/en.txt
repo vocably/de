@@ -1,0 +1,2 @@
+set table
+laid table

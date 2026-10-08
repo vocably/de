@@ -1,0 +1,4 @@
+rests
+is resting
+lies
+is suspended

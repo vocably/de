@@ -1,0 +1,2 @@
+self-adjusting
+self-aligning

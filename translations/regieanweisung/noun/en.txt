@@ -1,0 +1,2 @@
+stage direction
+stage direction (in a script)

@@ -1,0 +1,2 @@
+cut-off voltage
+turn-off voltage

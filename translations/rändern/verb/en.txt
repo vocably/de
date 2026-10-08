@@ -1,0 +1,3 @@
+to border
+to edge
+to trim

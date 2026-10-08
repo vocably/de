@@ -1,0 +1,4 @@
+departure
+exit
+resignation
+finish

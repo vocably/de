@@ -1,0 +1,2 @@
+mixed friction
+boundary-to-hydrodynamic lubrication transition

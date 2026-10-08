@@ -1,0 +1,3 @@
+handle an emergency call
+take an emergency call
+process an emergency call

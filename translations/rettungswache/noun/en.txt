@@ -1,0 +1,2 @@
+ambulance station
+paramedic station

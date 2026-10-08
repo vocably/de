@@ -1,0 +1,2 @@
+on (days of the week, e.g., on Monday, on weekends)
+at (times, e.g., at night)

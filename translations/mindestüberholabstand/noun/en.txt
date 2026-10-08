@@ -1,0 +1,2 @@
+minimum passing distance
+minimum overtaking distance

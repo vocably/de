@@ -1,0 +1,3 @@
+triggered
+set off
+activated

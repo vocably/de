@@ -1,0 +1,2 @@
+female spectator
+female viewer

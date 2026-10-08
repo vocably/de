@@ -1,0 +1,3 @@
+twice-occurring
+two-time
+repeated twice

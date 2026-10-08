@@ -1,0 +1,3 @@
+remediable
+fixable
+correctable

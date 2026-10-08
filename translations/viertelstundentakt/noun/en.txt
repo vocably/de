@@ -1,0 +1,2 @@
+quarter-hour interval
+fifteen-minute frequency

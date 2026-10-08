@@ -1,0 +1,3 @@
+unblocked
+non-aligned
+block-free

@@ -1,0 +1,3 @@
+bedspread
+throw
+cape

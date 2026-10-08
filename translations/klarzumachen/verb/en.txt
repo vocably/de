@@ -1,0 +1,5 @@
+make clear
+make understandable
+make plain
+explain
+sort out

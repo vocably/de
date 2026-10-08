@@ -1,0 +1,3 @@
+goods
+commodities
+possessions

@@ -1,0 +1,3 @@
+health
+medical
+physical

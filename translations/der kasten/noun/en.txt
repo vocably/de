@@ -1,0 +1,5 @@
+box
+crate
+cabinet
+case
+TV

@@ -1,0 +1,4 @@
+expire
+go off
+drain
+wear out

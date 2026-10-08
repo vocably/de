@@ -1,0 +1,7 @@
+quiet
+soft
+low
+hushed
+faint
+gentle
+subdued

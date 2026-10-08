@@ -1,0 +1,2 @@
+net loan amount
+net credit amount

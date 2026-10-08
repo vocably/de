@@ -1,0 +1,3 @@
+moves
+is moving
+gets moving

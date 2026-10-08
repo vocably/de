@@ -1,0 +1,4 @@
+proceeds
+acts
+happens
+takes precedence

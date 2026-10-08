@@ -1,0 +1,2 @@
+bolt circle
+pitch circle diameter

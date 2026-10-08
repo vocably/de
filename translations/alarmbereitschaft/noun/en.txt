@@ -1,0 +1,2 @@
+state of alert
+standby alert

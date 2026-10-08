@@ -1,0 +1,2 @@
+animal hide
+animal pelt

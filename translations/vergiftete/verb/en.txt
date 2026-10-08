@@ -1,0 +1,4 @@
+poisoned
+contaminated
+tainted
+killed by poison

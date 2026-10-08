@@ -1,0 +1,2 @@
+recovery password
+reset password

@@ -1,0 +1,2 @@
+temperature coefficient
+temperature coefficient of resistance

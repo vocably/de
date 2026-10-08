@@ -1,0 +1,3 @@
+vulnerable
+open to attack
+assailable

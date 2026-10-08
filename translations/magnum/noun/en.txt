@@ -1,0 +1,3 @@
+magnum
+magnum bottle
+magnum cartridge

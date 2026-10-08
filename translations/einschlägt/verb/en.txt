@@ -1,0 +1,3 @@
+strikes
+takes (a path or direction)
+hits

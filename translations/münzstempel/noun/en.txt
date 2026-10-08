@@ -1,0 +1,2 @@
+coin die
+minting die

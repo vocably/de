@@ -1,0 +1,5 @@
+warehouse
+camp
+stock
+camp site
+encampment

@@ -1,0 +1,2 @@
+invalid payment method
+declined payment method

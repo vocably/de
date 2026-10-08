@@ -1,0 +1,3 @@
+recording speed
+capture rate
+acquisition speed

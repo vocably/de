@@ -1,0 +1,6 @@
+corridor
+hallway
+gait
+course
+gear
+course (of a meal)

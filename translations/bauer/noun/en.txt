@@ -1,0 +1,4 @@
+farmer
+pawn
+jack
+birdcage

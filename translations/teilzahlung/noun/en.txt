@@ -1,0 +1,2 @@
+partial payment
+installment payment

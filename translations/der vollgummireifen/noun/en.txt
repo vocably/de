@@ -1,0 +1,2 @@
+solid tire
+solid rubber tire

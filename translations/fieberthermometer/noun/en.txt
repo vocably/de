@@ -1,0 +1,2 @@
+fever thermometer
+clinical thermometer

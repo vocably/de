@@ -1,0 +1,4 @@
+staple
+file
+pin
+focus

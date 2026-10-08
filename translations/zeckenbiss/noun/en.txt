@@ -1,0 +1,3 @@
+tick bite
+tick bite wound
+tick bite injury

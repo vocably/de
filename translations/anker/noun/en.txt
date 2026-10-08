@@ -1,0 +1,4 @@
+anchor
+armature
+tie
+rotor

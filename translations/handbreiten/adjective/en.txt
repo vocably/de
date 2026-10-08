@@ -1,0 +1,2 @@
+hand-width
+a hand's width wide

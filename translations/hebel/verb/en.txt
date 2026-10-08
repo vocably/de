@@ -1,0 +1,3 @@
+lever
+pry open
+leverage

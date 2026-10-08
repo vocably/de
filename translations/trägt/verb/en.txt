@@ -1,0 +1,5 @@
+wears
+carries
+bears
+has
+supports

@@ -1,0 +1,3 @@
+blur
+grow hazy
+become fuzzy

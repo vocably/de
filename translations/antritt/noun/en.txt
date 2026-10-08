@@ -1,0 +1,3 @@
+start
+acceleration
+first step

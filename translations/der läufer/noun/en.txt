@@ -1,0 +1,4 @@
+runner
+runner (rug)
+bishop
+rotor

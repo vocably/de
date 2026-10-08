@@ -1,0 +1,4 @@
+refunds
+reimburses
+reports
+makes a report

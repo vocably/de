@@ -1,0 +1,2 @@
+DNS resolution
+domain name resolution

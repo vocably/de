@@ -1,0 +1,2 @@
+appointment type
+event type

@@ -1,0 +1,2 @@
+class society
+class-based society

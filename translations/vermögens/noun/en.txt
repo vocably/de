@@ -1,0 +1,3 @@
+assets
+wealth
+property

@@ -1,0 +1,2 @@
+energy rating
+energy class

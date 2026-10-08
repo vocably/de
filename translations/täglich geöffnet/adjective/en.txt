@@ -1,0 +1,2 @@
+open daily
+open every day

@@ -1,0 +1,2 @@
+regular bar
+local bar

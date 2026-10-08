@@ -1,0 +1,4 @@
+inversion
+reversal
+temperature inversion
+chromosomal inversion

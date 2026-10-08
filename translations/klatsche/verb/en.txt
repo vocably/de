@@ -1,0 +1,4 @@
+clap
+applaud
+gossip
+slap

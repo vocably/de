@@ -1,0 +1,2 @@
+flexible cancellation
+flexible termination

@@ -1,0 +1,4 @@
+has turned down
+has rejected
+has kicked
+has sprouted

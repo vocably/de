@@ -1,0 +1,3 @@
+entitle
+authorize
+justify

@@ -1,0 +1,3 @@
+to smelt
+to mine ore
+to ore

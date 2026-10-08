@@ -1,0 +1,3 @@
+clear
+clean up
+tidy up

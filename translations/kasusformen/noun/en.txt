@@ -1,0 +1,2 @@
+case forms
+declensions

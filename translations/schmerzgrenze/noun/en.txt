@@ -1,0 +1,2 @@
+pain threshold
+limit of tolerance

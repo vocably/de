@@ -1,0 +1,2 @@
+chain of command
+chain of responsibility

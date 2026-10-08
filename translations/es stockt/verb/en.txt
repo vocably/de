@@ -1,0 +1,3 @@
+it stalls
+it stops short
+it stutters

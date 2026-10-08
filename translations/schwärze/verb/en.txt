@@ -1,0 +1,4 @@
+blacken
+black out
+redact
+darken

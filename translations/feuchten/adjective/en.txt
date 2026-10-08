@@ -1,0 +1,7 @@
+damp
+moist
+humid
+wet
+clammy
+muggy
+dank

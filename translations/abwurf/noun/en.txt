@@ -1,0 +1,3 @@
+drop
+throw
+shed antler

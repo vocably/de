@@ -1,0 +1,2 @@
+global situation
+state of the world

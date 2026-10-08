@@ -1,0 +1,2 @@
+vocabulary flashcard file
+vocabulary card index

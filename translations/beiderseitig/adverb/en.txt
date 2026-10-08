@@ -1,0 +1,3 @@
+mutual
+bilateral
+reciprocal

@@ -1,0 +1,6 @@
+firm
+solid
+fixed
+steady
+set
+stable

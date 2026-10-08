@@ -1,0 +1,4 @@
+moved
+touched
+would move
+would touch

@@ -1,0 +1,2 @@
+camera frame
+camera crop

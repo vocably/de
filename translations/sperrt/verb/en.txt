@@ -1,0 +1,4 @@
+locks
+blocks
+bars
+opens wide

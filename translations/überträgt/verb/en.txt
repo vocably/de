@@ -1,0 +1,4 @@
+transmits
+broadcasts
+transfers
+assigns

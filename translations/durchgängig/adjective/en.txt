@@ -1,0 +1,3 @@
+continuous
+consistent
+uniform

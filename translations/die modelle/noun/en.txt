@@ -1,0 +1,3 @@
+models
+scale models
+fashion models

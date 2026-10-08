@@ -1,0 +1,2 @@
+damage statistics
+loss statistics

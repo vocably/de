@@ -1,0 +1,4 @@
+ignited
+set off
+detonated
+sparked

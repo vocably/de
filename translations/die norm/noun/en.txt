@@ -1,0 +1,3 @@
+standard
+norm
+rule

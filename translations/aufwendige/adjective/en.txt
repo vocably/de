@@ -1,0 +1,3 @@
+elaborate
+costly
+time-consuming

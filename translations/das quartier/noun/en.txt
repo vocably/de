@@ -1,0 +1,4 @@
+accommodation
+neighborhood
+quarters
+quarter

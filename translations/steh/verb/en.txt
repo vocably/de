@@ -1,0 +1,4 @@
+stand
+stop
+stand still
+be located

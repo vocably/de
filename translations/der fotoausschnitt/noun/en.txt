@@ -1,0 +1,2 @@
+photo crop
+photo detail

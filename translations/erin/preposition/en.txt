@@ -1,0 +1,2 @@
+in (location, inside a room)
+into (movement into a room)

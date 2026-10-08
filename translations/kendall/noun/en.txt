@@ -1,0 +1,3 @@
+Kendall
+Kendall's tau
+Kendall rank correlation

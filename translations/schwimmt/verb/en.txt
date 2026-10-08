@@ -1,0 +1,3 @@
+swims
+floats
+is afloat

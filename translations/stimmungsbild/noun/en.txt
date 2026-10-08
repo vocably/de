@@ -1,0 +1,2 @@
+mood snapshot
+public sentiment

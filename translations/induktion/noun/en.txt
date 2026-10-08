@@ -1,0 +1,4 @@
+induction
+inference from particular to general
+electromagnetic induction
+mathematical induction

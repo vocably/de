@@ -1,0 +1,3 @@
+annual
+yearly
+once-a-year

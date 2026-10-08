@@ -1,0 +1,3 @@
+rotation
+crop rotation
+shift rotation

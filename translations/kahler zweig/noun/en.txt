@@ -1,0 +1,2 @@
+bare branch
+leafless branch

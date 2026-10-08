@@ -1,0 +1,3 @@
+blankets
+ceilings
+covers

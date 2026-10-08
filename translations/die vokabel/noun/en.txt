@@ -1,0 +1,2 @@
+vocabulary word
+vocab

@@ -1,0 +1,4 @@
+ribbon
+band
+bond
+tape

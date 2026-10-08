@@ -1,0 +1,3 @@
+lower
+smaller
+lesser

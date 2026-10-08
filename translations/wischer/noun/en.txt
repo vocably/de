@@ -1,0 +1,3 @@
+wiper
+mop
+swipe

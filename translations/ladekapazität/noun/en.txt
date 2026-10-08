@@ -1,0 +1,2 @@
+payload capacity
+charge capacity

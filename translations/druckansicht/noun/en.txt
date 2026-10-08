@@ -1,0 +1,2 @@
+print preview
+print view

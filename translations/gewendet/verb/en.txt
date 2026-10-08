@@ -1,0 +1,4 @@
+turned
+flipped
+reversed
+turned around

@@ -1,0 +1,2 @@
+contract conclusion
+conclusion of a contract

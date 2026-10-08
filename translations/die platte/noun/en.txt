@@ -1,0 +1,4 @@
+plate
+record
+hard drive
+burner

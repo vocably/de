@@ -1,0 +1,4 @@
+runner
+bishop
+runner rug
+young pig

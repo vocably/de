@@ -1,0 +1,2 @@
+length of stay
+duration of stay

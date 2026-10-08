@@ -1,0 +1,2 @@
+transition fit
+interference fit

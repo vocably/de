@@ -1,0 +1,2 @@
+permit-free
+exempt from permit requirements

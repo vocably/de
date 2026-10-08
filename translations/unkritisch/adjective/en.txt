@@ -1,0 +1,3 @@
+uncritical
+uncritical acceptance
+naive

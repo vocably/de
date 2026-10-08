@@ -1,0 +1,3 @@
+activate
+turn on
+reactivate
