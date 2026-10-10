@@ -1,1 +1,2 @@
-["consist of","be composed of"]
+consist of
+be composed of

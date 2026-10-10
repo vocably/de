@@ -1,1 +1,1 @@
-["recyclable"]
+recyclable

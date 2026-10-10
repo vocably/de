@@ -1,1 +1,2 @@
-["to be in something","to be part of something"]
+to be in something
+to be part of something

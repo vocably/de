@@ -1,1 +1,3 @@
-["clarifies","makes clear","explains"]
+clarifies
+makes clear
+explains

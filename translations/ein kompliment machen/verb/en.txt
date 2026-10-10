@@ -1,1 +1,2 @@
-["to compliment","to pay a compliment"]
+to compliment
+to pay a compliment

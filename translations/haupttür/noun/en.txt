@@ -1,1 +1,2 @@
-["main door","front door"]
+main door
+front door

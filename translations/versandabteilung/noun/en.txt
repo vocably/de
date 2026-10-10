@@ -1,1 +1,2 @@
-["shipping department","dispatch department"]
+shipping department
+dispatch department

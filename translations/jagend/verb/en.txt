@@ -1,1 +1,3 @@
-["hunting","chasing","pursuing"]
+hunting
+chasing
+pursuing

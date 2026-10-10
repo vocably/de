@@ -1,1 +1,2 @@
-["to drift off","to stray"]
+to drift off
+to stray

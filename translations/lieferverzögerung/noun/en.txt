@@ -1,1 +1,2 @@
-["delivery delay","shipping delay"]
+delivery delay
+shipping delay

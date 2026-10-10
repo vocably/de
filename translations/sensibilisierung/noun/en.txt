@@ -1,1 +1,2 @@
-["sensitization","awareness"]
+sensitization
+awareness

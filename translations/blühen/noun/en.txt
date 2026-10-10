@@ -1,1 +1,2 @@
-["bloom","blossom"]
+bloom
+blossom

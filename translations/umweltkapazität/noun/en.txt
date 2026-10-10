@@ -1,1 +1,2 @@
-["environmental capacity","carrying capacity"]
+environmental capacity
+carrying capacity

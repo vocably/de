@@ -1,1 +1,3 @@
-["failing","refusing","malfunctioning"]
+failing
+refusing
+malfunctioning

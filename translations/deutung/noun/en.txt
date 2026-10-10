@@ -1,1 +1,2 @@
-["interpretation","explanation"]
+interpretation
+explanation

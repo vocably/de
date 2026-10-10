@@ -1,1 +1,2 @@
-["pasture gate","field gate"]
+pasture gate
+field gate

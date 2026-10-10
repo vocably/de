@@ -1,1 +1,3 @@
-["fiery","ardent","spirited"]
+fiery
+ardent
+spirited

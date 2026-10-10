@@ -1,1 +1,2 @@
-["untruths","falsehoods"]
+untruths
+falsehoods

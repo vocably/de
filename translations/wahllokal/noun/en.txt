@@ -1,1 +1,2 @@
-["polling station","polling place"]
+polling station
+polling place

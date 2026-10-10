@@ -1,1 +1,2 @@
-["keychain","key ring"]
+keychain
+key ring

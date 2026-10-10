@@ -1,1 +1,2 @@
-["atrocity","hideousness"]
+atrocity
+hideousness

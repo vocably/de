@@ -1,1 +1,2 @@
-["waste disposal","refuse disposal"]
+waste disposal
+refuse disposal

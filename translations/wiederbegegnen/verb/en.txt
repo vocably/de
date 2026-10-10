@@ -1,1 +1,2 @@
-["to meet again","to see again"]
+to meet again
+to see again

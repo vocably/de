@@ -1,1 +1,2 @@
-["blue-green","teal"]
+blue-green
+teal

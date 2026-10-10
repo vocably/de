@@ -1,1 +1,3 @@
-["be mistaken","be wrong","be in error"]
+be mistaken
+be wrong
+be in error

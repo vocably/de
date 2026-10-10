@@ -1,1 +1,2 @@
-["secondary school","junior high school"]
+secondary school
+junior high school

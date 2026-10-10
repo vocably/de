@@ -1,1 +1,2 @@
-["dental bridge","bridge"]
+dental bridge
+bridge

@@ -1,1 +1,2 @@
-["early stage","initial stage"]
+early stage
+initial stage

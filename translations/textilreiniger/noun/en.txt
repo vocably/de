@@ -1,1 +1,2 @@
-["dry cleaner","spot remover"]
+dry cleaner
+spot remover

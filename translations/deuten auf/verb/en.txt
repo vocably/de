@@ -1,1 +1,2 @@
-["indicate","point to"]
+indicate
+point to

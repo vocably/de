@@ -1,1 +1,2 @@
-["Get lost!","Go away!"]
+Get lost!
+Go away!

@@ -1,1 +1,3 @@
-["reflected","thought about","considered"]
+reflected
+thought about
+considered

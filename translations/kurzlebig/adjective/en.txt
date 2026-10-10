@@ -1,1 +1,2 @@
-["short-lived","ephemeral"]
+short-lived
+ephemeral

@@ -1,1 +1,2 @@
-["riots","disturbances"]
+riots
+disturbances

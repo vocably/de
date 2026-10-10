@@ -1,1 +1,2 @@
-["philanthropic","humanitarian"]
+philanthropic
+humanitarian

@@ -1,1 +1,2 @@
-["buckled","fastened"]
+buckled
+fastened

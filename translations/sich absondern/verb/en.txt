@@ -1,1 +1,3 @@
-["to seclude oneself","to isolate oneself","to withdraw"]
+to seclude oneself
+to isolate oneself
+to withdraw

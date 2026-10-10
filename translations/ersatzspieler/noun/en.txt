@@ -1,1 +1,2 @@
-["substitute","reserve player"]
+substitute
+reserve player

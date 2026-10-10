@@ -1,1 +1,2 @@
-["predecessor in title","legal predecessor"]
+predecessor in title
+legal predecessor

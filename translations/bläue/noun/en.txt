@@ -1,1 +1,3 @@
-["blueness","blue rot","blue stain"]
+blueness
+blue rot
+blue stain

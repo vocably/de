@@ -1,1 +1,2 @@
-["crouched","squatting"]
+crouched
+squatting

@@ -1,1 +1,2 @@
-["animal breeding","animal husbandry"]
+animal breeding
+animal husbandry

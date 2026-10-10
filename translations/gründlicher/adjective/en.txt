@@ -1,1 +1,4 @@
-["more thorough","more detailed","more careful","more in-depth"]
+more thorough
+more detailed
+more careful
+more in-depth

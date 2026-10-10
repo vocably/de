@@ -1,1 +1,2 @@
-["theft","embezzlement"]
+theft
+embezzlement

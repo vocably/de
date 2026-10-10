@@ -1,1 +1,2 @@
-["erase","rub out"]
+erase
+rub out

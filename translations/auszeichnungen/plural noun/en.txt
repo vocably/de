@@ -1,1 +1,2 @@
-["awards","distinctions"]
+awards
+distinctions

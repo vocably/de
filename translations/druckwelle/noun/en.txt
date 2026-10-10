@@ -1,1 +1,2 @@
-["blast wave","pressure wave"]
+blast wave
+pressure wave

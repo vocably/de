@@ -1,1 +1,2 @@
-["press kits","media kits"]
+press kits
+media kits

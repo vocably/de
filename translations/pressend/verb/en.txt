@@ -1,1 +1,3 @@
-["pressing","urgent","insistent"]
+pressing
+urgent
+insistent

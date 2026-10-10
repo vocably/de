@@ -1,1 +1,2 @@
-["coke oven batteries","coke plants"]
+coke oven batteries
+coke plants

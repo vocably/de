@@ -1,1 +1,2 @@
-["in short","briefly"]
+in short
+briefly

@@ -1,1 +1,2 @@
-["looks in","peeks in"]
+looks in
+peeks in

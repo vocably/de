@@ -1,1 +1,3 @@
-["to meet someone","to encounter someone","to run into someone"]
+to meet someone
+to encounter someone
+to run into someone

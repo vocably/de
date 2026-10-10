@@ -1,1 +1,3 @@
-["passes","goes by","visits briefly"]
+passes
+goes by
+visits briefly

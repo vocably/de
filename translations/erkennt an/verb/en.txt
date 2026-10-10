@@ -1,1 +1,2 @@
-["acknowledges","recognizes"]
+acknowledges
+recognizes

@@ -1,1 +1,2 @@
-["rule of thumb","rough guide"]
+rule of thumb
+rough guide

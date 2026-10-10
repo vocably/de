@@ -1,1 +1,2 @@
-["greed","avarice"]
+greed
+avarice

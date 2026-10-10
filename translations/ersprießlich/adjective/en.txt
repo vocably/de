@@ -1,1 +1,2 @@
-["beneficial","advantageous"]
+beneficial
+advantageous

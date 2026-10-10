@@ -1,1 +1,2 @@
-["moralized","preached"]
+moralized
+preached

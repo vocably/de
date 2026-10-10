@@ -1,1 +1,2 @@
-["bosom friends","buddies"]
+bosom friends
+buddies

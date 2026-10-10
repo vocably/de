@@ -1,1 +1,2 @@
-["worn","repulsed"]
+worn
+repulsed

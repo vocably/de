@@ -1,1 +1,2 @@
-["upholstery fabric","upholstery material"]
+upholstery fabric
+upholstery material

@@ -1,1 +1,3 @@
-["cleared","vacated","evacuated"]
+cleared
+vacated
+evacuated

@@ -1,1 +1,2 @@
-["true to the original","faithful to the original"]
+true to the original
+faithful to the original

@@ -1,1 +1,2 @@
-["hesitation","procrastination"]
+hesitation
+procrastination

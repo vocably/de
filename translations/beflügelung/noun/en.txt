@@ -1,1 +1,3 @@
-["inspiration","encouragement","boost"]
+inspiration
+encouragement
+boost

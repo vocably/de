@@ -1,1 +1,2 @@
-["to cuddle","to hug"]
+to cuddle
+to hug

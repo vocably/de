@@ -1,1 +1,2 @@
-["malicious joy","schadenfreude"]
+malicious joy
+schadenfreude

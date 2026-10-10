@@ -1,1 +1,2 @@
-["trained","skilled"]
+trained
+skilled

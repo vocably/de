@@ -1,1 +1,3 @@
-["sumptuous","opulent","luxuriant"]
+sumptuous
+opulent
+luxuriant

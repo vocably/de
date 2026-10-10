@@ -1,1 +1,2 @@
-["resentful","grumbling"]
+resentful
+grumbling

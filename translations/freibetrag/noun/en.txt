@@ -1,1 +1,2 @@
-["allowance","exemption"]
+allowance
+exemption

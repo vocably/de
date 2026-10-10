@@ -1,1 +1,2 @@
-["to contact","to get in touch"]
+to contact
+to get in touch

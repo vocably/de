@@ -1,1 +1,2 @@
-["framework","basic structure"]
+framework
+basic structure

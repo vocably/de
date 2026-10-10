@@ -1,1 +1,2 @@
-["protected area","conservation area"]
+protected area
+conservation area

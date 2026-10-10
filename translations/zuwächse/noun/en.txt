@@ -1,1 +1,2 @@
-["increases","gains"]
+increases
+gains

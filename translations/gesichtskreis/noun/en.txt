@@ -1,1 +1,2 @@
-["horizon","scope"]
+horizon
+scope

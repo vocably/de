@@ -1,1 +1,2 @@
-["eye-catcher","focal point"]
+eye-catcher
+focal point

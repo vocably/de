@@ -1,1 +1,2 @@
-["tycoons","magnates"]
+tycoons
+magnates

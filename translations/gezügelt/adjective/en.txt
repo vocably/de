@@ -1,1 +1,2 @@
-["restrained","temperate"]
+restrained
+temperate

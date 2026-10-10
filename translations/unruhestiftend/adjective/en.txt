@@ -1,1 +1,3 @@
-["troublemaking","disruptive","incendiary"]
+troublemaking
+disruptive
+incendiary

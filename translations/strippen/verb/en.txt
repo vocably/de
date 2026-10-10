@@ -1,1 +1,3 @@
-["to strip","to strip (a cable)","to strip off (wallpaper)"]
+to strip
+to strip (a cable)
+to strip off (wallpaper)

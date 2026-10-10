@@ -1,1 +1,2 @@
-["disfigure","deface"]
+disfigure
+deface

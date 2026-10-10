@@ -1,1 +1,2 @@
-["animal trainer","dog trainer"]
+animal trainer
+dog trainer

@@ -1,1 +1,2 @@
-["live act","live performance"]
+live act
+live performance

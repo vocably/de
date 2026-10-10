@@ -1,1 +1,2 @@
-["brats","kids"]
+brats
+kids

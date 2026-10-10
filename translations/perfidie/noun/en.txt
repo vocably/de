@@ -1,1 +1,3 @@
-["perfidy","treachery","malice"]
+perfidy
+treachery
+malice

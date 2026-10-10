@@ -1,1 +1,2 @@
-["venerable","worshipful"]
+venerable
+worshipful

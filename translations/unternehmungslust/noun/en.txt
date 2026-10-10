@@ -1,1 +1,2 @@
-["enterprise","adventurousness"]
+enterprise
+adventurousness

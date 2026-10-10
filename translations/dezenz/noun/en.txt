@@ -1,1 +1,3 @@
-["decency","discretion","restraint"]
+decency
+discretion
+restraint

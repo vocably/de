@@ -1,1 +1,2 @@
-["to yelp","to bark"]
+to yelp
+to bark

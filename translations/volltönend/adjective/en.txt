@@ -1,1 +1,2 @@
-["sonorous","full-toned"]
+sonorous
+full-toned

@@ -1,1 +1,2 @@
-["liability damage","damage for which one is liable"]
+liability damage
+damage for which one is liable

@@ -1,1 +1,2 @@
-["dodge","evade"]
+dodge
+evade

@@ -1,1 +1,2 @@
-["step on","tread on"]
+step on
+tread on

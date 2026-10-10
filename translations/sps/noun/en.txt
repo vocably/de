@@ -1,1 +1,3 @@
-["PLC","Swiss Post","Socialist Party of Switzerland"]
+PLC
+Swiss Post
+Socialist Party of Switzerland

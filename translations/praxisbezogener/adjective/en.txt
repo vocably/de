@@ -1,1 +1,2 @@
-["practical","practice-oriented"]
+practical
+practice-oriented

@@ -1,1 +1,3 @@
-["attitude","stance","posture"]
+attitude
+stance
+posture

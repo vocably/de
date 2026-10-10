@@ -1,1 +1,2 @@
-["curls","frizzles"]
+curls
+frizzles

@@ -1,1 +1,2 @@
-["gawking","staring"]
+gawking
+staring

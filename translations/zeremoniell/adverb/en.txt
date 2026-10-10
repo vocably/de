@@ -1,1 +1,2 @@
-["ceremonially","formally"]
+ceremonially
+formally

@@ -1,1 +1,2 @@
-["rockfall","landslide"]
+rockfall
+landslide

@@ -1,1 +1,2 @@
-["field of activity","scope of activity"]
+field of activity
+scope of activity

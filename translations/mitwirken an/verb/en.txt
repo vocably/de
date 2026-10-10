@@ -1,1 +1,2 @@
-["participate in","contribute to"]
+participate in
+contribute to

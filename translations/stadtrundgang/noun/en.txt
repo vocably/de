@@ -1,1 +1,2 @@
-["city tour","walking tour"]
+city tour
+walking tour

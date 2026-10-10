@@ -1,1 +1,2 @@
-["crosswalk","pedestrian crossing"]
+crosswalk
+pedestrian crossing

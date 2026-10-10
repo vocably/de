@@ -1,1 +1,2 @@
-["intra-group","intercompany"]
+intra-group
+intercompany

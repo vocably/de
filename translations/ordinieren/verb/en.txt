@@ -1,1 +1,2 @@
-["ordain","prescribe"]
+ordain
+prescribe

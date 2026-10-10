@@ -1,1 +1,2 @@
-["irritating","annoying"]
+irritating
+annoying

@@ -1,1 +1,2 @@
-["demolish","wreck"]
+demolish
+wreck

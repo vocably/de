@@ -1,1 +1,2 @@
-["spheres of life","realms of life"]
+spheres of life
+realms of life

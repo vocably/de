@@ -1,1 +1,3 @@
-["gaping","wide open","yawning"]
+gaping
+wide open
+yawning

@@ -1,1 +1,3 @@
-["primary","prime","first"]
+primary
+prime
+first

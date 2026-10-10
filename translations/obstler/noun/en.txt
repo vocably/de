@@ -1,1 +1,2 @@
-["fruit brandy","fruit farmer"]
+fruit brandy
+fruit farmer

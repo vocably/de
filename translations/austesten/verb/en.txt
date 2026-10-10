@@ -1,1 +1,2 @@
-["to test out","to try out"]
+to test out
+to try out

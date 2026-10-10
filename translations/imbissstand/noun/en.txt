@@ -1,1 +1,2 @@
-["snack bar","food stall"]
+snack bar
+food stall

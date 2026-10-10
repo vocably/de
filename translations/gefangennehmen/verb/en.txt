@@ -1,1 +1,2 @@
-["capture","take prisoner"]
+capture
+take prisoner

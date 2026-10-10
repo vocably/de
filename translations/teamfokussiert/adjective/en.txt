@@ -1,1 +1,2 @@
-["team-focused","team-oriented"]
+team-focused
+team-oriented

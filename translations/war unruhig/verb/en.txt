@@ -1,1 +1,2 @@
-["was restless","was uneasy"]
+was restless
+was uneasy

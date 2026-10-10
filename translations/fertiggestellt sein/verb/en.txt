@@ -1,1 +1,2 @@
-["to be finished","to be completed"]
+to be finished
+to be completed

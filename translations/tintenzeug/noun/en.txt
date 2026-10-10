@@ -1,1 +1,2 @@
-["inkwell","inkstand"]
+inkwell
+inkstand

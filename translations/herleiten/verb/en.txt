@@ -1,1 +1,2 @@
-["derive","deduce"]
+derive
+deduce

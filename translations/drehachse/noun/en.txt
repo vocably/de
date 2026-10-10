@@ -1,1 +1,2 @@
-["axis of rotation","pivot"]
+axis of rotation
+pivot

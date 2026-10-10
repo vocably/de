@@ -1,1 +1,2 @@
-["likewise","similarly"]
+likewise
+similarly

@@ -1,1 +1,3 @@
-["to pluck","to tug","to strum"]
+to pluck
+to tug
+to strum

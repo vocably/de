@@ -1,1 +1,2 @@
-["denial","disavowal"]
+denial
+disavowal

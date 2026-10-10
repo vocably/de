@@ -1,1 +1,2 @@
-["degree of conformity","degree of congruence"]
+degree of conformity
+degree of congruence

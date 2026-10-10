@@ -1,1 +1,2 @@
-["warmly recommend","highly recommend"]
+warmly recommend
+highly recommend

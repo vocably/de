@@ -1,1 +1,3 @@
-["lousy","filthy","nasty"]
+lousy
+filthy
+nasty

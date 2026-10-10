@@ -1,1 +1,4 @@
-["struck","opened","hit","appeared"]
+struck
+opened
+hit
+appeared

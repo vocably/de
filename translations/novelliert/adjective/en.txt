@@ -1,1 +1,3 @@
-["amended","revised","updated"]
+amended
+revised
+updated

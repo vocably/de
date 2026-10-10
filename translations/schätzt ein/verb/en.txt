@@ -1,1 +1,3 @@
-["assesses","evaluates","estimates"]
+assesses
+evaluates
+estimates

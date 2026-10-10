@@ -1,1 +1,2 @@
-["in other words","put differently"]
+in other words
+put differently

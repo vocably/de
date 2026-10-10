@@ -1,1 +1,2 @@
-["hobby","hobbyhorse"]
+hobby
+hobbyhorse

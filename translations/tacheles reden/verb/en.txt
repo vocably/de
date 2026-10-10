@@ -1,1 +1,3 @@
-["to talk turkey","to speak plainly","to get to the point"]
+to talk turkey
+to speak plainly
+to get to the point

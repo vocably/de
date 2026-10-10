@@ -1,1 +1,2 @@
-["cutlery set","flatware set"]
+cutlery set
+flatware set

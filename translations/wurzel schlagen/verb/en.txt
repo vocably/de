@@ -1,1 +1,3 @@
-["take root","strike root","put down roots"]
+take root
+strike root
+put down roots

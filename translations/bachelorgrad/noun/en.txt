@@ -1,1 +1,2 @@
-["bachelor's degree","undergraduate degree"]
+bachelor's degree
+undergraduate degree

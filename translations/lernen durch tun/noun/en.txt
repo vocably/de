@@ -1,1 +1,2 @@
-["learning by doing","experiential learning"]
+learning by doing
+experiential learning

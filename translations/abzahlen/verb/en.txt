@@ -1,1 +1,2 @@
-["pay off","pay down"]
+pay off
+pay down

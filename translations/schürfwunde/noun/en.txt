@@ -1,1 +1,2 @@
-["abrasion","graze"]
+abrasion
+graze

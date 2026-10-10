@@ -1,1 +1,2 @@
-["weekly magazine","weekly"]
+weekly magazine
+weekly

@@ -1,1 +1,3 @@
-["came out of","came from","originated from"]
+came out of
+came from
+originated from

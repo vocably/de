@@ -1,1 +1,3 @@
-["to get along with","to understand each other","to agree with"]
+to get along with
+to understand each other
+to agree with

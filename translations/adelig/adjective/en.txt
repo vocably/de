@@ -1,1 +1,2 @@
-["noble","aristocratic"]
+noble
+aristocratic

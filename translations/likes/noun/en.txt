@@ -1,1 +1,2 @@
-["likes","approvals"]
+likes
+approvals

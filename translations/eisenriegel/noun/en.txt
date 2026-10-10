@@ -1,1 +1,2 @@
-["iron bar","bolt"]
+iron bar
+bolt

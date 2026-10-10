@@ -1,1 +1,2 @@
-["Asus NumberPad Service","Asus NumberPad-Service"]
+Asus NumberPad Service
+Asus NumberPad-Service

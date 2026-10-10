@@ -1,1 +1,3 @@
-["unreasonable","unfair","inequitable"]
+unreasonable
+unfair
+inequitable

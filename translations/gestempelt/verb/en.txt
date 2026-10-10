@@ -1,1 +1,2 @@
-["stamped","branded"]
+stamped
+branded

@@ -1,1 +1,2 @@
-["idioms","expressions"]
+idioms
+expressions

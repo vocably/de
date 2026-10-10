@@ -1,1 +1,2 @@
-["reflective","pensive"]
+reflective
+pensive

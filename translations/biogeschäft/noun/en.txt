@@ -1,1 +1,2 @@
-["organic shop","organic food store"]
+organic shop
+organic food store

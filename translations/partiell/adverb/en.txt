@@ -1,1 +1,2 @@
-["partially","in part"]
+partially
+in part

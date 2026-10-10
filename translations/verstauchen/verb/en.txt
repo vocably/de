@@ -1,1 +1,2 @@
-["sprain","twist"]
+sprain
+twist

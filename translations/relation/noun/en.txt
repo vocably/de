@@ -1,1 +1,2 @@
-["relation","relationship"]
+relation
+relationship

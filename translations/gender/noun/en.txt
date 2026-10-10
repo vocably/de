@@ -1,1 +1,2 @@
-["gender","gender identity"]
+gender
+gender identity

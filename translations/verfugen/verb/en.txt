@@ -1,1 +1,2 @@
-["to grout","to caulk"]
+to grout
+to caulk

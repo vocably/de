@@ -1,1 +1,3 @@
-["capitalize","cash in on","make the most of"]
+capitalize
+cash in on
+make the most of

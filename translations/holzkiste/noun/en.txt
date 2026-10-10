@@ -1,1 +1,2 @@
-["wooden box","crate"]
+wooden box
+crate

@@ -1,1 +1,2 @@
-["Bah!","Ugh!"]
+Bah!
+Ugh!

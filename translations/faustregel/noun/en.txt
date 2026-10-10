@@ -1,1 +1,2 @@
-["rule of thumb","guideline"]
+rule of thumb
+guideline

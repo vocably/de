@@ -1,1 +1,2 @@
-["peak value","maximum value"]
+peak value
+maximum value

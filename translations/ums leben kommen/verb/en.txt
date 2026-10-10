@@ -1,1 +1,2 @@
-["to die","to perish"]
+to die
+to perish

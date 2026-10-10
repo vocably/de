@@ -1,1 +1,2 @@
-["silo","fodder silo"]
+silo
+fodder silo

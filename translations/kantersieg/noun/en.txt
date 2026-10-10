@@ -1,1 +1,2 @@
-["landslide victory","rout"]
+landslide victory
+rout

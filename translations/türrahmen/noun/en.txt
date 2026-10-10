@@ -1,1 +1,2 @@
-["doorframe","door frame"]
+doorframe
+door frame

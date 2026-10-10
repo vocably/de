@@ -1,1 +1,2 @@
-["to wear something","to harm someone"]
+to wear something
+to harm someone

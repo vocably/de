@@ -1,1 +1,2 @@
-["changing","alternating"]
+changing
+alternating

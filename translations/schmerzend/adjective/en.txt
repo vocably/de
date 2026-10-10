@@ -1,1 +1,2 @@
-["painful","aching"]
+painful
+aching

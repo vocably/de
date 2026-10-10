@@ -1,1 +1,2 @@
-["publisher","publishing house"]
+publisher
+publishing house

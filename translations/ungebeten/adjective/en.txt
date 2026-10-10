@@ -1,1 +1,3 @@
-["uninvited","unbidden","unsolicited"]
+uninvited
+unbidden
+unsolicited

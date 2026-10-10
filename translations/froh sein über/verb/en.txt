@@ -1,1 +1,2 @@
-["to be happy about","to be glad about"]
+to be happy about
+to be glad about

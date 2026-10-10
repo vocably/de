@@ -1,1 +1,2 @@
-["objection","exception"]
+objection
+exception

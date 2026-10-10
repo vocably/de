@@ -1,1 +1,2 @@
-["parade","show off"]
+parade
+show off

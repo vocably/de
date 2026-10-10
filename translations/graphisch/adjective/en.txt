@@ -1,1 +1,2 @@
-["graphic","graphical"]
+graphic
+graphical

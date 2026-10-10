@@ -1,1 +1,2 @@
-["to shirk something","to dodge something"]
+to shirk something
+to dodge something

@@ -1,1 +1,2 @@
-["to shift gear","to change gear"]
+to shift gear
+to change gear

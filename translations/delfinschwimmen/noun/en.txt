@@ -1,1 +1,2 @@
-["swimming with dolphins","dolphin stroke"]
+swimming with dolphins
+dolphin stroke

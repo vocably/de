@@ -1,1 +1,2 @@
-["smoker","smokehouse"]
+smoker
+smokehouse

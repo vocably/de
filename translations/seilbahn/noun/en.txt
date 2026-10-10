@@ -1,1 +1,2 @@
-["cable car","ropeway"]
+cable car
+ropeway

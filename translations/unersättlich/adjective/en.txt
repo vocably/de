@@ -1,1 +1,2 @@
-["insatiable","greedy"]
+insatiable
+greedy

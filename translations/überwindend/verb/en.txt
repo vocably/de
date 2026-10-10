@@ -1,1 +1,2 @@
-["overcoming","conquering"]
+overcoming
+conquering

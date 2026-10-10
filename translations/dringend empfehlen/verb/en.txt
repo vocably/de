@@ -1,1 +1,2 @@
-["strongly recommend","urge"]
+strongly recommend
+urge

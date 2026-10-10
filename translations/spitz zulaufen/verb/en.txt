@@ -1,1 +1,2 @@
-["taper to a point","come to a point"]
+taper to a point
+come to a point

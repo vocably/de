@@ -1,1 +1,2 @@
-["painter","house painter"]
+painter
+house painter

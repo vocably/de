@@ -1,1 +1,2 @@
-["cistern","flush tank"]
+cistern
+flush tank

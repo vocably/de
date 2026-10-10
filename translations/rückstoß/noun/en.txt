@@ -1,1 +1,2 @@
-["recoil","kickback"]
+recoil
+kickback

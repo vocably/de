@@ -1,1 +1,2 @@
-["sneeze","fit of sneezing"]
+sneeze
+fit of sneezing

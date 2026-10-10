@@ -1,1 +1,2 @@
-["housewarming party","inauguration ceremony"]
+housewarming party
+inauguration ceremony

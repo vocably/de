@@ -1,1 +1,2 @@
-["to cruise","to go on a cruise"]
+to cruise
+to go on a cruise

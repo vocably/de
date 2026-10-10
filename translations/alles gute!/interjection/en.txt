@@ -1,1 +1,2 @@
-["All the best!","Good luck!"]
+All the best!
+Good luck!

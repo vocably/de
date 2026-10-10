@@ -1,1 +1,2 @@
-["cabinetmaker","furniture maker"]
+cabinetmaker
+furniture maker

@@ -1,1 +1,2 @@
-["walk in","stroll in"]
+walk in
+stroll in

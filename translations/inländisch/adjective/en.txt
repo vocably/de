@@ -1,1 +1,2 @@
-["domestic","inland"]
+domestic
+inland

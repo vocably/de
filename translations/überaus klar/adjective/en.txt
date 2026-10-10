@@ -1,1 +1,2 @@
-["exceedingly clear","extremely clear"]
+exceedingly clear
+extremely clear

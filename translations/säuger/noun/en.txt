@@ -1,1 +1,1 @@
-["mammal"]
+mammal

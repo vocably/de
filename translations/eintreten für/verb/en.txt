@@ -1,1 +1,3 @@
-["advocate for","stand up for","plead for"]
+advocate for
+stand up for
+plead for

@@ -1,1 +1,2 @@
-["to witness","to be a witness"]
+to witness
+to be a witness

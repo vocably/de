@@ -1,1 +1,2 @@
-["service area","operating area"]
+service area
+operating area

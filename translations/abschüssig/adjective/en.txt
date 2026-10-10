@@ -1,1 +1,2 @@
-["steep","sloping"]
+steep
+sloping

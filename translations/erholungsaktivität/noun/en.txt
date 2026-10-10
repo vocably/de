@@ -1,1 +1,2 @@
-["recreational activity","leisure activity"]
+recreational activity
+leisure activity

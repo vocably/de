@@ -1,1 +1,2 @@
-["localization","situation analysis"]
+localization
+situation analysis

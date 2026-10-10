@@ -1,1 +1,2 @@
-["alley","lane"]
+alley
+lane

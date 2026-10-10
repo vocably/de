@@ -1,1 +1,3 @@
-["shone","beamed","radiated"]
+shone
+beamed
+radiated

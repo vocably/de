@@ -1,1 +1,3 @@
-["initially","at first","originally"]
+initially
+at first
+originally

@@ -1,1 +1,2 @@
-["prudence","discretion"]
+prudence
+discretion

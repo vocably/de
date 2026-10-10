@@ -1,1 +1,3 @@
-["liberal","generous","open-minded"]
+liberal
+generous
+open-minded

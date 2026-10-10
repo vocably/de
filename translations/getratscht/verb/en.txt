@@ -1,1 +1,2 @@
-["gossiped","chatted"]
+gossiped
+chatted

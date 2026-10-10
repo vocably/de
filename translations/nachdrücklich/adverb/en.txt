@@ -1,1 +1,2 @@
-["emphatically","insistently"]
+emphatically
+insistently

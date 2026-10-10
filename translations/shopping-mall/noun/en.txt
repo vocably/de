@@ -1,1 +1,2 @@
-["shopping mall","mall"]
+shopping mall
+mall

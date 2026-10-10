@@ -1,1 +1,2 @@
-["in pairs","two by two"]
+in pairs
+two by two

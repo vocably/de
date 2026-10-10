@@ -1,1 +1,3 @@
-["spirited","racy","hot-blooded"]
+spirited
+racy
+hot-blooded

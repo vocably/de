@@ -1,1 +1,2 @@
-["family saga","generational saga"]
+family saga
+generational saga

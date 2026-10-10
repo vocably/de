@@ -1,1 +1,2 @@
-["blood pressure complaint","blood pressure problem"]
+blood pressure complaint
+blood pressure problem

@@ -1,1 +1,3 @@
-["individually","personally","separately"]
+individually
+personally
+separately

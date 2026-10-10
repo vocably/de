@@ -1,1 +1,3 @@
-["with regard to","in view of","concerning"]
+with regard to
+in view of
+concerning

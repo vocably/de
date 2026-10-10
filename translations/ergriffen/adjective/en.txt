@@ -1,1 +1,2 @@
-["moved","touched"]
+moved
+touched

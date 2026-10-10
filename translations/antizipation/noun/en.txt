@@ -1,1 +1,2 @@
-["anticipation","forethought"]
+anticipation
+forethought

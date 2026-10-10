@@ -1,1 +1,2 @@
-["increased","enhanced"]
+increased
+enhanced

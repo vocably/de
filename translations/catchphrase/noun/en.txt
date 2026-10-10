@@ -1,1 +1,2 @@
-["catchphrase","slogan"]
+catchphrase
+slogan

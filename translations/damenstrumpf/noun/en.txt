@@ -1,1 +1,2 @@
-["stocking","nylon"]
+stocking
+nylon

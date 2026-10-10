@@ -1,1 +1,2 @@
-["soldier","servicewoman"]
+soldier
+servicewoman

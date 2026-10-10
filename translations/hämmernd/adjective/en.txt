@@ -1,1 +1,2 @@
-["pounding","throbbing"]
+pounding
+throbbing

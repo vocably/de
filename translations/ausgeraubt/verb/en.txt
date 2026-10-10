@@ -1,1 +1,2 @@
-["robbed","burglarized"]
+robbed
+burglarized

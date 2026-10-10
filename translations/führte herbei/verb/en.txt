@@ -1,1 +1,3 @@
-["caused","brought about","led to"]
+caused
+brought about
+led to

@@ -1,1 +1,2 @@
-["daily schedule","day plan"]
+daily schedule
+day plan

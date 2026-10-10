@@ -1,1 +1,2 @@
-["adjective","epithet"]
+adjective
+epithet

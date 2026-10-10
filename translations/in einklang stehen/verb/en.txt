@@ -1,1 +1,3 @@
-["to be in agreement","to be in harmony","to correspond"]
+to be in agreement
+to be in harmony
+to correspond

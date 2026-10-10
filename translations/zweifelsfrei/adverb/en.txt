@@ -1,1 +1,3 @@
-["undoubtedly","without a doubt","unquestionably"]
+undoubtedly
+without a doubt
+unquestionably

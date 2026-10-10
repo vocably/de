@@ -1,1 +1,2 @@
-["patriarch","founding father"]
+patriarch
+founding father

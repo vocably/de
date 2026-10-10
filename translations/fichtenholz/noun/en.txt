@@ -1,1 +1,2 @@
-["spruce wood","spruce"]
+spruce wood
+spruce

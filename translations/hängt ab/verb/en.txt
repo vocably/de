@@ -1,1 +1,2 @@
-["depends","is dependent"]
+depends
+is dependent

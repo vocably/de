@@ -1,1 +1,2 @@
-["Wonderful!","Marvelous!"]
+Wonderful!
+Marvelous!

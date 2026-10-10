@@ -1,1 +1,2 @@
-["crowbar","jimmy bar"]
+crowbar
+jimmy bar

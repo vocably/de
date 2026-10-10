@@ -1,1 +1,2 @@
-["Christmas tree","Yule tree"]
+Christmas tree
+Yule tree

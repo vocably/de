@@ -1,1 +1,2 @@
-["sprint off","start running"]
+sprint off
+start running

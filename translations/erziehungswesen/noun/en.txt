@@ -1,1 +1,2 @@
-["education system","educational system"]
+education system
+educational system

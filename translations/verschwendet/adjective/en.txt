@@ -1,1 +1,2 @@
-["wasted","squandered"]
+wasted
+squandered

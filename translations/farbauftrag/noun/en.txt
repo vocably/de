@@ -1,1 +1,2 @@
-["paint application","coat of paint"]
+paint application
+coat of paint

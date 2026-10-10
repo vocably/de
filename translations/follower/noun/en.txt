@@ -1,1 +1,2 @@
-["follower","supporter"]
+follower
+supporter

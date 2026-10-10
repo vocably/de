@@ -1,1 +1,2 @@
-["switched on","turned on"]
+switched on
+turned on

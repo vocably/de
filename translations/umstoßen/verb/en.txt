@@ -1,1 +1,3 @@
-["knock over","overturn","topple"]
+knock over
+overturn
+topple

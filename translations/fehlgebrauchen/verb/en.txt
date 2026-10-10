@@ -1,1 +1,2 @@
-["misuse","abuse"]
+misuse
+abuse

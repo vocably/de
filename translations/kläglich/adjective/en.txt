@@ -1,1 +1,2 @@
-["pitiable","miserable"]
+pitiable
+miserable

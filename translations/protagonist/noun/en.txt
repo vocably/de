@@ -1,1 +1,2 @@
-["protagonist","main character"]
+protagonist
+main character

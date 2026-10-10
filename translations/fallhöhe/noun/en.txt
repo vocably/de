@@ -1,1 +1,2 @@
-["drop height","potential for failure"]
+drop height
+potential for failure

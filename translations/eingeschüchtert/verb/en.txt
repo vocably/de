@@ -1,1 +1,2 @@
-["intimidated","cowed"]
+intimidated
+cowed

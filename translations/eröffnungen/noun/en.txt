@@ -1,1 +1,3 @@
-["openings","inaugurations","commencements"]
+openings
+inaugurations
+commencements

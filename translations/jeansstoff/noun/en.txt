@@ -1,1 +1,2 @@
-["denim","jeans fabric"]
+denim
+jeans fabric

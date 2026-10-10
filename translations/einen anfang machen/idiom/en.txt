@@ -1,1 +1,2 @@
-["to make a start","to make a beginning"]
+to make a start
+to make a beginning

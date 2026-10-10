@@ -1,1 +1,2 @@
-["departs","leaves"]
+departs
+leaves

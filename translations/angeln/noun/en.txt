@@ -1,1 +1,2 @@
-["fishing","fishing rod"]
+fishing
+fishing rod

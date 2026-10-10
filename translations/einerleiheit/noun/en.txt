@@ -1,1 +1,2 @@
-["sameness","monotony"]
+sameness
+monotony

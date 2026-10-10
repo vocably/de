@@ -1,1 +1,2 @@
-["disgrace","stigma"]
+disgrace
+stigma

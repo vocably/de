@@ -1,1 +1,3 @@
-["moderation","temperance","restraint"]
+moderation
+temperance
+restraint

@@ -1,1 +1,2 @@
-["oddball","funny person"]
+oddball
+funny person

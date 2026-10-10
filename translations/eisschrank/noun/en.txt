@@ -1,1 +1,2 @@
-["refrigerator","icebox"]
+refrigerator
+icebox

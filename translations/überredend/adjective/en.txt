@@ -1,1 +1,2 @@
-["persuasive","convincing"]
+persuasive
+convincing

@@ -1,1 +1,3 @@
-["collided","clashed","ran into"]
+collided
+clashed
+ran into

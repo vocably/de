@@ -1,1 +1,2 @@
-["newcomer","rookie"]
+newcomer
+rookie

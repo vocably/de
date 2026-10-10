@@ -1,1 +1,3 @@
-["spat","vomited","spewed"]
+spat
+vomited
+spewed

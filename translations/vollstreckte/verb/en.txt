@@ -1,1 +1,3 @@
-["executed","enforced","carried out"]
+executed
+enforced
+carried out

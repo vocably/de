@@ -1,1 +1,2 @@
-["business school","school of economics"]
+business school
+school of economics

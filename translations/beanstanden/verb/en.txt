@@ -1,1 +1,2 @@
-["complain about","object to"]
+complain about
+object to

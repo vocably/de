@@ -1,1 +1,2 @@
-["deterrent","repellent"]
+deterrent
+repellent

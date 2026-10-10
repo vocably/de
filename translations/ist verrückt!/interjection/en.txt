@@ -1,1 +1,2 @@
-["That's crazy!","That's insane!"]
+That's crazy!
+That's insane!

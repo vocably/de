@@ -1,1 +1,1 @@
-["emigrate"]
+emigrate

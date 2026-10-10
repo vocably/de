@@ -1,1 +1,2 @@
-["prattles","rambles"]
+prattles
+rambles

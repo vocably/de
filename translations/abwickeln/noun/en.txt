@@ -1,1 +1,2 @@
-["winding down","unwinding"]
+winding down
+unwinding

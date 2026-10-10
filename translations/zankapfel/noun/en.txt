@@ -1,1 +1,2 @@
-["bone of contention","apple of discord"]
+bone of contention
+apple of discord

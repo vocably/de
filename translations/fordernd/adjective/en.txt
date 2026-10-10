@@ -1,1 +1,3 @@
-["demanding","challenging","exacting"]
+demanding
+challenging
+exacting

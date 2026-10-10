@@ -1,1 +1,2 @@
-["bolster","bed roll"]
+bolster
+bed roll

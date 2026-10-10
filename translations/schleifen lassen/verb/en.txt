@@ -1,1 +1,3 @@
-["to neglect","to let slide","to let something go"]
+to neglect
+to let slide
+to let something go

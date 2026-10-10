@@ -1,1 +1,2 @@
-["eligibility","entitlement"]
+eligibility
+entitlement

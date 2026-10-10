@@ -1,1 +1,3 @@
-["pouring","watering","casting"]
+pouring
+watering
+casting

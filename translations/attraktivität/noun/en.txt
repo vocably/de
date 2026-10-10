@@ -1,1 +1,2 @@
-["attractiveness","appeal"]
+attractiveness
+appeal

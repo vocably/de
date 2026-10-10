@@ -1,1 +1,2 @@
-["orthodox","pious"]
+orthodox
+pious

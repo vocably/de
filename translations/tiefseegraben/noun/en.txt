@@ -1,1 +1,2 @@
-["oceanic trench","deep-sea trench"]
+oceanic trench
+deep-sea trench

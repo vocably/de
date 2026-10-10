@@ -1,1 +1,2 @@
-["Away!","Begone!"]
+Away!
+Begone!

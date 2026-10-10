@@ -1,1 +1,2 @@
-["slice","cut into slices"]
+slice
+cut into slices

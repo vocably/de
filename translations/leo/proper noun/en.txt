@@ -1,1 +1,3 @@
-["Leo","Pope Leo","constellation Leo"]
+Leo
+Pope Leo
+constellation Leo

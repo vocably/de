@@ -1,1 +1,2 @@
-["stroke","apoplexy"]
+stroke
+apoplexy

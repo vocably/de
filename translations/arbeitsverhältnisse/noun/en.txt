@@ -1,1 +1,2 @@
-["employment relationships","working conditions"]
+employment relationships
+working conditions

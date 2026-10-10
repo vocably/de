@@ -1,1 +1,2 @@
-["occasionally","sometimes"]
+occasionally
+sometimes

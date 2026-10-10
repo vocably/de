@@ -1,1 +1,3 @@
-["flipping over","calculating roughly","cracking"]
+flipping over
+calculating roughly
+cracking

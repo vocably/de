@@ -1,1 +1,2 @@
-["resembled","equaled"]
+resembled
+equaled

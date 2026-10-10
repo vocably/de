@@ -1,1 +1,2 @@
-["coherent","conclusive"]
+coherent
+conclusive

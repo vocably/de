@@ -1,1 +1,2 @@
-["diaper brief","pull-up diaper"]
+diaper brief
+pull-up diaper

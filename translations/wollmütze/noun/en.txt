@@ -1,1 +1,2 @@
-["beanie","wool hat"]
+beanie
+wool hat

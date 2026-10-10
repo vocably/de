@@ -1,1 +1,2 @@
-["class clown","joker"]
+class clown
+joker

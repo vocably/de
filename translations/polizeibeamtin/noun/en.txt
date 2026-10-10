@@ -1,1 +1,2 @@
-["police officer","policewoman"]
+police officer
+policewoman

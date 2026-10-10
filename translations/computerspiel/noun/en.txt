@@ -1,1 +1,2 @@
-["video game","computer game"]
+video game
+computer game

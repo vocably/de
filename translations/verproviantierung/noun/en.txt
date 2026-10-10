@@ -1,1 +1,2 @@
-["provisioning","victualing"]
+provisioning
+victualing

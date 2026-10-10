@@ -1,1 +1,2 @@
-["clerical","ecclesiastical"]
+clerical
+ecclesiastical

@@ -1,1 +1,4 @@
-["secured","ensured","guaranteed","fastened"]
+secured
+ensured
+guaranteed
+fastened

@@ -1,1 +1,2 @@
-["wooden barrel","cask"]
+wooden barrel
+cask

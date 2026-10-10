@@ -1,1 +1,2 @@
-["pain-filled","painful"]
+pain-filled
+painful

@@ -1,1 +1,2 @@
-["coins","hard cash"]
+coins
+hard cash

@@ -1,1 +1,2 @@
-["landed gentry","rural nobility"]
+landed gentry
+rural nobility

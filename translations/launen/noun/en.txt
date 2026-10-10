@@ -1,1 +1,2 @@
-["moods","whims"]
+moods
+whims

@@ -1,1 +1,2 @@
-["matter for negotiation","negotiable item"]
+matter for negotiation
+negotiable item

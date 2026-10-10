@@ -1,1 +1,2 @@
-["discount","calculate the present value"]
+discount
+calculate the present value

@@ -1,1 +1,2 @@
-["investigates","researches"]
+investigates
+researches

@@ -1,1 +1,1 @@
-["Shire"]
+Shire

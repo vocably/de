@@ -1,1 +1,2 @@
-["revitalize","reanimate"]
+revitalize
+reanimate

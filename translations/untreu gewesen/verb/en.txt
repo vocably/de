@@ -1,1 +1,2 @@
-["was unfaithful","was disloyal"]
+was unfaithful
+was disloyal

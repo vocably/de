@@ -1,1 +1,3 @@
-["hunted","chased","pursued"]
+hunted
+chased
+pursued

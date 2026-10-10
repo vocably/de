@@ -1,1 +1,2 @@
-["reinstatement","reactivation"]
+reinstatement
+reactivation

@@ -1,1 +1,2 @@
-["against","contrary to"]
+against
+contrary to

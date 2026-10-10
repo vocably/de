@@ -1,1 +1,2 @@
-["classical antiquity","classical era"]
+classical antiquity
+classical era

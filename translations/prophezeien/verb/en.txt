@@ -1,1 +1,2 @@
-["prophesy","foretell"]
+prophesy
+foretell

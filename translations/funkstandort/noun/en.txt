@@ -1,1 +1,2 @@
-["radio site","radio location"]
+radio site
+radio location

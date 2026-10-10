@@ -1,1 +1,2 @@
-["accelerated","sped up"]
+accelerated
+sped up

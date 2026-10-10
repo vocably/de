@@ -1,1 +1,2 @@
-["swindled","duped"]
+swindled
+duped

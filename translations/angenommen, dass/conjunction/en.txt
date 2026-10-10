@@ -1,1 +1,2 @@
-["assuming that","supposing that"]
+assuming that
+supposing that

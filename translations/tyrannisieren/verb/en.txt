@@ -1,1 +1,2 @@
-["tyrannize","bully"]
+tyrannize
+bully

@@ -1,1 +1,2 @@
-["blinded","deluded"]
+blinded
+deluded

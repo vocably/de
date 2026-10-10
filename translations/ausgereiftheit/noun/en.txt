@@ -1,1 +1,2 @@
-["maturity","sophistication"]
+maturity
+sophistication

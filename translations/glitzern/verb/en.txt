@@ -1,1 +1,2 @@
-["to glitter","to sparkle"]
+to glitter
+to sparkle

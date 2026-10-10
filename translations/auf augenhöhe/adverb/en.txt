@@ -1,1 +1,3 @@
-["at eye level","on equal terms","as equals"]
+at eye level
+on equal terms
+as equals

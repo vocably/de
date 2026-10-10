@@ -1,1 +1,2 @@
-["face mask","mask"]
+face mask
+mask

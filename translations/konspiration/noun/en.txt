@@ -1,1 +1,2 @@
-["conspiracy","plot"]
+conspiracy
+plot

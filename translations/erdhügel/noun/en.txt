@@ -1,1 +1,2 @@
-["mound","hillock"]
+mound
+hillock

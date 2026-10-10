@@ -1,1 +1,2 @@
-["mosh","slam-dance"]
+mosh
+slam-dance

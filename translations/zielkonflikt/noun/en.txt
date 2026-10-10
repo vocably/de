@@ -1,1 +1,2 @@
-["conflict of objectives","conflicting goals"]
+conflict of objectives
+conflicting goals

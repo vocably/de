@@ -1,1 +1,2 @@
-["injured person","casualty"]
+injured person
+casualty

@@ -1,1 +1,3 @@
-["perceives","notices","observes"]
+perceives
+notices
+observes

@@ -1,1 +1,2 @@
-["plays","dramas"]
+plays
+dramas

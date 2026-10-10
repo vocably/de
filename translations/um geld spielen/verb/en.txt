@@ -1,1 +1,2 @@
-["gamble","play for money"]
+gamble
+play for money

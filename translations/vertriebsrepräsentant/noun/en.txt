@@ -1,1 +1,2 @@
-["sales representative","sales rep"]
+sales representative
+sales rep

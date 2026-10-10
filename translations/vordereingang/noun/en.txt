@@ -1,1 +1,2 @@
-["front entrance","main entrance"]
+front entrance
+main entrance

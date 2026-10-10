@@ -1,1 +1,3 @@
-["to settle down","to take root","to put down roots"]
+to settle down
+to take root
+to put down roots

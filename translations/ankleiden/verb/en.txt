@@ -1,1 +1,2 @@
-["to dress","to clothe"]
+to dress
+to clothe

@@ -1,1 +1,2 @@
-["prospective graduates","graduates-to-be"]
+prospective graduates
+graduates-to-be

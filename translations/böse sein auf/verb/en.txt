@@ -1,1 +1,2 @@
-["to be mad at","to be angry with"]
+to be mad at
+to be angry with

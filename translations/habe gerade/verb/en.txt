@@ -1,1 +1,2 @@
-["have just","have right now"]
+have just
+have right now

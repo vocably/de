@@ -1,1 +1,2 @@
-["subjects","individuals"]
+subjects
+individuals

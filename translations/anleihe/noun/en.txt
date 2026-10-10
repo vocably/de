@@ -1,1 +1,2 @@
-["bond","loan"]
+bond
+loan

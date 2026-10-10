@@ -1,1 +1,2 @@
-["canteen","flask"]
+canteen
+flask

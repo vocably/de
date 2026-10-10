@@ -1,1 +1,2 @@
-["climbs","boards"]
+climbs
+boards

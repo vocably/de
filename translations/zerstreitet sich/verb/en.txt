@@ -1,1 +1,2 @@
-["quarrels","argues"]
+quarrels
+argues

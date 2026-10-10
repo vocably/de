@@ -1,1 +1,3 @@
-["prepared","arranged","decorated"]
+prepared
+arranged
+decorated

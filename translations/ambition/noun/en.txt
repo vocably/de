@@ -1,1 +1,2 @@
-["ambition","drive"]
+ambition
+drive

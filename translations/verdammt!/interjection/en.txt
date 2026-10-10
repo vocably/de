@@ -1,1 +1,2 @@
-["Damn it!","Damn!"]
+Damn it!
+Damn!

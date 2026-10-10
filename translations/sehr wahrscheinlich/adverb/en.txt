@@ -1,1 +1,2 @@
-["very likely","most likely"]
+very likely
+most likely

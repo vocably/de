@@ -1,1 +1,2 @@
-["burned down","broke"]
+burned down
+broke

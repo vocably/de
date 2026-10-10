@@ -1,1 +1,2 @@
-["exchange rate","foreign exchange rate"]
+exchange rate
+foreign exchange rate

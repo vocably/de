@@ -1,1 +1,2 @@
-["publications","releases"]
+publications
+releases

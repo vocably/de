@@ -1,1 +1,2 @@
-["substantiate","corroborate"]
+substantiate
+corroborate

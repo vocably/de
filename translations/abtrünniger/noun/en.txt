@@ -1,1 +1,2 @@
-["renegade","apostate"]
+renegade
+apostate

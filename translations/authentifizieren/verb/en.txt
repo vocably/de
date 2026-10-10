@@ -1,1 +1,2 @@
-["authenticate","verify"]
+authenticate
+verify

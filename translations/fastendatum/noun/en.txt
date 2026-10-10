@@ -1,1 +1,1 @@
-["fasting date"]
+fasting date

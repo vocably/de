@@ -1,1 +1,4 @@
-["clear","free","vacate","make time"]
+clear
+free
+vacate
+make time

@@ -1,1 +1,2 @@
-["Right","Exactly"]
+Right
+Exactly

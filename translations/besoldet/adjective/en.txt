@@ -1,1 +1,2 @@
-["paid","salaried"]
+paid
+salaried

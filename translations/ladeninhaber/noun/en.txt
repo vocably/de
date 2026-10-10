@@ -1,1 +1,2 @@
-["store owner","shopkeeper"]
+store owner
+shopkeeper

@@ -1,1 +1,3 @@
-["upper","top","superior"]
+upper
+top
+superior

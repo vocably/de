@@ -1,1 +1,2 @@
-["slight change","minor alteration"]
+slight change
+minor alteration

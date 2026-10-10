@@ -1,1 +1,2 @@
-["demote","degrade"]
+demote
+degrade

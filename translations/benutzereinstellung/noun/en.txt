@@ -1,1 +1,2 @@
-["user setting","user preference"]
+user setting
+user preference

@@ -1,1 +1,2 @@
-["new arrival","new acquisition"]
+new arrival
+new acquisition

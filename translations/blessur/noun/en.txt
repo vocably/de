@@ -1,1 +1,2 @@
-["injury","contusion"]
+injury
+contusion

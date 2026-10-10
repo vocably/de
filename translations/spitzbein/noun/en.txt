@@ -1,1 +1,2 @@
-["tapered leg","spindly leg"]
+tapered leg
+spindly leg

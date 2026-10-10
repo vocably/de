@@ -1,1 +1,2 @@
-["corroded","rusted"]
+corroded
+rusted

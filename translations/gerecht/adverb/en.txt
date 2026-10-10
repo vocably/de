@@ -1,1 +1,2 @@
-["fairly","justly"]
+fairly
+justly

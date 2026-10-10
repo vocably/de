@@ -1,1 +1,2 @@
-["to manifest","to become manifest"]
+to manifest
+to become manifest

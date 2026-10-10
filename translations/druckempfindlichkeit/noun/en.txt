@@ -1,1 +1,2 @@
-["pressure sensitivity","tenderness"]
+pressure sensitivity
+tenderness

@@ -1,1 +1,3 @@
-["to puncture","to tap","to dot"]
+to puncture
+to tap
+to dot

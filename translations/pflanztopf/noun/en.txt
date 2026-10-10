@@ -1,1 +1,2 @@
-["flowerpot","plant pot"]
+flowerpot
+plant pot

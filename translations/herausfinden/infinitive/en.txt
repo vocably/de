@@ -1,1 +1,2 @@
-["find out","figure out"]
+find out
+figure out

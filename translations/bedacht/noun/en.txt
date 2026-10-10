@@ -1,1 +1,2 @@
-["deliberation","prudence"]
+deliberation
+prudence

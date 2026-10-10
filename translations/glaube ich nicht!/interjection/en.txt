@@ -1,1 +1,2 @@
-["I don't believe it!","I don't think so!"]
+I don't believe it!
+I don't think so!

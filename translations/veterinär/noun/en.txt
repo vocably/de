@@ -1,1 +1,2 @@
-["veterinarian","vet"]
+veterinarian
+vet

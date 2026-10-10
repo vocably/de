@@ -1,1 +1,2 @@
-["poorly","meagerly"]
+poorly
+meagerly

@@ -1,1 +1,3 @@
-["was interpreted","was displayed","was laid out"]
+was interpreted
+was displayed
+was laid out

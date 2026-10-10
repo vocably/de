@@ -1,1 +1,2 @@
-["corrected","rectified"]
+corrected
+rectified

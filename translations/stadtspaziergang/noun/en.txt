@@ -1,1 +1,2 @@
-["city walk","urban stroll"]
+city walk
+urban stroll

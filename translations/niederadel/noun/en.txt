@@ -1,1 +1,2 @@
-["lower nobility","lesser nobility"]
+lower nobility
+lesser nobility

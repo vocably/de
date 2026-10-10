@@ -1,1 +1,2 @@
-["partition wall","room divider"]
+partition wall
+room divider

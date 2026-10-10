@@ -1,1 +1,2 @@
-["to exchange money","to change money"]
+to exchange money
+to change money

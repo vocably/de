@@ -1,1 +1,3 @@
-["to lamb","to fail","to flunk"]
+to lamb
+to fail
+to flunk

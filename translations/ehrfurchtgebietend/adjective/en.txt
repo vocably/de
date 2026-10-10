@@ -1,1 +1,2 @@
-["awe-inspiring","awesome"]
+awe-inspiring
+awesome

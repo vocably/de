@@ -1,1 +1,2 @@
-["sultry","brooding"]
+sultry
+brooding

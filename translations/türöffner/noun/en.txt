@@ -1,1 +1,2 @@
-["door opener","enabler"]
+door opener
+enabler

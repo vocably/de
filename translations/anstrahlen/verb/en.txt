@@ -1,1 +1,2 @@
-["illuminate","shine on"]
+illuminate
+shine on

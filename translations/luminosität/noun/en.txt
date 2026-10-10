@@ -1,1 +1,1 @@
-["luminosity"]
+luminosity

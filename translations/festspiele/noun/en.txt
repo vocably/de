@@ -1,1 +1,2 @@
-["festivals","games"]
+festivals
+games

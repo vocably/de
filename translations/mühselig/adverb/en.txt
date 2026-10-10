@@ -1,1 +1,2 @@
-["laboriously","tediously"]
+laboriously
+tediously

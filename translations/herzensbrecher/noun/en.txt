@@ -1,1 +1,2 @@
-["heartbreaker","lady-killer"]
+heartbreaker
+lady-killer

@@ -1,1 +1,3 @@
-["compulsory","obligatory","mandatory"]
+compulsory
+obligatory
+mandatory

@@ -1,1 +1,2 @@
-["heartfelt","sincere"]
+heartfelt
+sincere

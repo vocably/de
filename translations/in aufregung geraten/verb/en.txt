@@ -1,1 +1,3 @@
-["get excited","get agitated","get nervous"]
+get excited
+get agitated
+get nervous

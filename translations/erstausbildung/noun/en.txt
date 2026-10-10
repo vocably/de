@@ -1,1 +1,2 @@
-["initial training","first qualification"]
+initial training
+first qualification

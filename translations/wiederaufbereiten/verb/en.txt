@@ -1,1 +1,2 @@
-["to reprocess","to recycle"]
+to reprocess
+to recycle

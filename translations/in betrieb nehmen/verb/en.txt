@@ -1,1 +1,3 @@
-["commission","start up","put into operation"]
+commission
+start up
+put into operation

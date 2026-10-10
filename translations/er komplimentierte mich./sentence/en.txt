@@ -1,1 +1,2 @@
-["He complimented me.","He paid me a compliment."]
+He complimented me.
+He paid me a compliment.

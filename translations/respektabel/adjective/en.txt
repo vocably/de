@@ -1,1 +1,2 @@
-["respectable","considerable"]
+respectable
+considerable

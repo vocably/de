@@ -1,1 +1,3 @@
-["take shape","materialize","take form"]
+take shape
+materialize
+take form

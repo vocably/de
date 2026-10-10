@@ -1,1 +1,2 @@
-["undress","take off one's clothes"]
+undress
+take off one's clothes

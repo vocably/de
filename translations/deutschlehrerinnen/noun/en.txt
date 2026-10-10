@@ -1,1 +1,2 @@
-["German teachers","female German teachers"]
+German teachers
+female German teachers

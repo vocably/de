@@ -1,1 +1,3 @@
-["referenced","refers to","alludes to"]
+referenced
+refers to
+alludes to

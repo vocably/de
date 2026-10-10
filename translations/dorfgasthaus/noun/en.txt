@@ -1,1 +1,2 @@
-["village inn","country pub"]
+village inn
+country pub

@@ -1,1 +1,3 @@
-["determinable","identifiable","measurable"]
+determinable
+identifiable
+measurable

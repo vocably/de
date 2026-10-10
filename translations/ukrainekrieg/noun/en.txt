@@ -1,1 +1,2 @@
-["Ukraine war","war in Ukraine"]
+Ukraine war
+war in Ukraine

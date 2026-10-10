@@ -1,1 +1,2 @@
-["incite","instigate"]
+incite
+instigate

@@ -1,1 +1,2 @@
-["jury","jury court"]
+jury
+jury court

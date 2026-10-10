@@ -1,1 +1,2 @@
-["the one","the special someone"]
+the one
+the special someone

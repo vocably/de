@@ -1,1 +1,2 @@
-["hymn singing","chanting"]
+hymn singing
+chanting

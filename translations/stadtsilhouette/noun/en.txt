@@ -1,1 +1,2 @@
-["skyline","cityscape"]
+skyline
+cityscape

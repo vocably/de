@@ -1,1 +1,2 @@
-["meanings","significance"]
+meanings
+significance

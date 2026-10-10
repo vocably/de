@@ -1,1 +1,2 @@
-["withered","parched"]
+withered
+parched

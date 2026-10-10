@@ -1,1 +1,2 @@
-["disputed","controversial"]
+disputed
+controversial

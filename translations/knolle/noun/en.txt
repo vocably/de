@@ -1,1 +1,3 @@
-["tuber","bulb","fine"]
+tuber
+bulb
+fine

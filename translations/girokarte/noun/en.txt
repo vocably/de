@@ -1,1 +1,2 @@
-["debit card","Girocard"]
+debit card
+Girocard

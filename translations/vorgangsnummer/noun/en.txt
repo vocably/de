@@ -1,1 +1,2 @@
-["transaction number","process number"]
+transaction number
+process number

@@ -1,1 +1,3 @@
-["amazingly","surprisingly","astonishingly"]
+amazingly
+surprisingly
+astonishingly

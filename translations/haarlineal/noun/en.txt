@@ -1,1 +1,2 @@
-["straightedge","precision rule"]
+straightedge
+precision rule

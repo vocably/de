@@ -1,1 +1,2 @@
-["counter-slogan","counter-motto"]
+counter-slogan
+counter-motto

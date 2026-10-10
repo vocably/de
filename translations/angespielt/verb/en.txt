@@ -1,1 +1,3 @@
-["allude to","play","kick off"]
+allude to
+play
+kick off

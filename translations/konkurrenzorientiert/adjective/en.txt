@@ -1,1 +1,2 @@
-["competitive","competition-oriented"]
+competitive
+competition-oriented

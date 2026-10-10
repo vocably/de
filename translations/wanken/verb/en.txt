@@ -1,1 +1,3 @@
-["to totter","to sway","to waver"]
+to totter
+to sway
+to waver

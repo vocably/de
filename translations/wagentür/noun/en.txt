@@ -1,1 +1,2 @@
-["car door","carriage door"]
+car door
+carriage door

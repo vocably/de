@@ -1,1 +1,2 @@
-["subordinate","minion"]
+subordinate
+minion

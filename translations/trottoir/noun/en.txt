@@ -1,1 +1,2 @@
-["sidewalk","pavement"]
+sidewalk
+pavement

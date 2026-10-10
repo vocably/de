@@ -1,1 +1,2 @@
-["club sport","organized sport"]
+club sport
+organized sport

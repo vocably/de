@@ -1,1 +1,3 @@
-["gnaw at","annoy","corrode"]
+gnaw at
+annoy
+corrode

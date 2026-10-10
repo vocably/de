@@ -1,1 +1,2 @@
-["absorb","take in"]
+absorb
+take in

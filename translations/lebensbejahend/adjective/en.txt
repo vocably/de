@@ -1,1 +1,2 @@
-["life-affirming","optimistic"]
+life-affirming
+optimistic

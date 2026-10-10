@@ -1,1 +1,2 @@
-["reverent","awe-struck"]
+reverent
+awe-struck

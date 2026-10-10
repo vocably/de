@@ -1,1 +1,2 @@
-["pay","shell out"]
+pay
+shell out

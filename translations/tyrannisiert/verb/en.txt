@@ -1,1 +1,2 @@
-["tyrannized","oppressed"]
+tyrannized
+oppressed

@@ -1,1 +1,2 @@
-["judged","ruled"]
+judged
+ruled

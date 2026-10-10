@@ -1,1 +1,3 @@
-["casual","laid-back","nonchalant"]
+casual
+laid-back
+nonchalant

@@ -1,1 +1,2 @@
-["to call over","to summon"]
+to call over
+to summon

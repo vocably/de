@@ -1,1 +1,2 @@
-["mobbing","psychological terror"]
+mobbing
+psychological terror

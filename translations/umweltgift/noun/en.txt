@@ -1,1 +1,2 @@
-["environmental toxin","pollutant"]
+environmental toxin
+pollutant

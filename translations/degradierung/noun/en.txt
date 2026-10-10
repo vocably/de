@@ -1,1 +1,3 @@
-["demotion","degradation","downgrading"]
+demotion
+degradation
+downgrading

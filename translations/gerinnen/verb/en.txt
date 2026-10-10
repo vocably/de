@@ -1,1 +1,2 @@
-["to clot","to curdle"]
+to clot
+to curdle

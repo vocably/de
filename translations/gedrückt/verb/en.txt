@@ -1,1 +1,3 @@
-["pressed","depressed","squeezed"]
+pressed
+depressed
+squeezed

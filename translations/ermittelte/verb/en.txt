@@ -1,1 +1,3 @@
-["determined","investigated","found out"]
+determined
+investigated
+found out

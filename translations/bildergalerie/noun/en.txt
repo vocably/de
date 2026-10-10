@@ -1,1 +1,2 @@
-["picture gallery","image gallery"]
+picture gallery
+image gallery

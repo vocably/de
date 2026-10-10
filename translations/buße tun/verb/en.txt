@@ -1,1 +1,2 @@
-["do penance","atone"]
+do penance
+atone

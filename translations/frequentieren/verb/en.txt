@@ -1,1 +1,2 @@
-["frequent","patronize"]
+frequent
+patronize

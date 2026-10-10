@@ -1,1 +1,2 @@
-["to be valid","to be in effect"]
+to be valid
+to be in effect

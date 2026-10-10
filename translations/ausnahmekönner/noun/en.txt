@@ -1,1 +1,2 @@
-["exceptional talent","outstanding performer"]
+exceptional talent
+outstanding performer

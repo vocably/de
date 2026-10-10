@@ -1,1 +1,2 @@
-["to conceal","to obscure"]
+to conceal
+to obscure

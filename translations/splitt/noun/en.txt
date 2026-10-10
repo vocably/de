@@ -1,1 +1,2 @@
-["grit","crushed rock"]
+grit
+crushed rock

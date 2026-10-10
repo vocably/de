@@ -1,1 +1,2 @@
-["was returned","was attributed"]
+was returned
+was attributed

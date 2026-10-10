@@ -1,1 +1,2 @@
-["to chat up","to accost"]
+to chat up
+to accost

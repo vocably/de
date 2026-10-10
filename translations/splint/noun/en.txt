@@ -1,1 +1,2 @@
-["cotter pin","splinter"]
+cotter pin
+splinter

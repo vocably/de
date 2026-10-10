@@ -1,1 +1,2 @@
-["stairwell","staircase"]
+stairwell
+staircase

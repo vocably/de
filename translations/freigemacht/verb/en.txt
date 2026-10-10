@@ -1,1 +1,3 @@
-["cleared","emptied","freed up"]
+cleared
+emptied
+freed up

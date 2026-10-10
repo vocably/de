@@ -1,1 +1,3 @@
-["eye","hole","handle"]
+eye
+hole
+handle

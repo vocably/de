@@ -1,1 +1,3 @@
-["typed","tapped","poked"]
+typed
+tapped
+poked

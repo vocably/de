@@ -1,1 +1,2 @@
-["townhouse","city hall"]
+townhouse
+city hall

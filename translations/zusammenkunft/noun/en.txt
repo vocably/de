@@ -1,1 +1,2 @@
-["gathering","meeting"]
+gathering
+meeting

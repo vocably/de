@@ -1,1 +1,2 @@
-["temporary","short-term"]
+temporary
+short-term

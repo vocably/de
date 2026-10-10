@@ -1,1 +1,2 @@
-["moves to","follows to"]
+moves to
+follows to

@@ -1,1 +1,2 @@
-["gorgeous","very beautiful"]
+gorgeous
+very beautiful

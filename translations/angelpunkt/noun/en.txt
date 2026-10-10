@@ -1,1 +1,2 @@
-["pivot","linchpin"]
+pivot
+linchpin

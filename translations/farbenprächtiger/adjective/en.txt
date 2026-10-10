@@ -1,1 +1,2 @@
-["more colorful","more brilliant"]
+more colorful
+more brilliant

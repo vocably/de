@@ -1,1 +1,2 @@
-["right?","no?"]
+right?
+no?

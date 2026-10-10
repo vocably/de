@@ -1,1 +1,2 @@
-["gentry","landed gentry"]
+gentry
+landed gentry

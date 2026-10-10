@@ -1,1 +1,2 @@
-["convened","appointed"]
+convened
+appointed

@@ -1,1 +1,2 @@
-["atrium","courtyard"]
+atrium
+courtyard

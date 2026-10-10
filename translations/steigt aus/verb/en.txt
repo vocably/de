@@ -1,1 +1,2 @@
-["gets off","gets out"]
+gets off
+gets out

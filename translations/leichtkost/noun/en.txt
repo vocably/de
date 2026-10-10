@@ -1,1 +1,2 @@
-["light food","easily digestible food"]
+light food
+easily digestible food

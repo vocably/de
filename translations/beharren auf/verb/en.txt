@@ -1,1 +1,2 @@
-["insist on","persist in"]
+insist on
+persist in

@@ -1,1 +1,2 @@
-["complacency","self-satisfaction"]
+complacency
+self-satisfaction

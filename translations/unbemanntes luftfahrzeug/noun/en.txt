@@ -1,1 +1,2 @@
-["unmanned aerial vehicle","drone"]
+unmanned aerial vehicle
+drone

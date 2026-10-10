@@ -1,1 +1,2 @@
-["vocational school","trade school"]
+vocational school
+trade school

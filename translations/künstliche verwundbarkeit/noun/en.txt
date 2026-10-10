@@ -1,1 +1,2 @@
-["artificial vulnerability","intentional vulnerability"]
+artificial vulnerability
+intentional vulnerability

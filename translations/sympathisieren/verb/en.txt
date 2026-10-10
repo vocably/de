@@ -1,1 +1,2 @@
-["to sympathize","to be in sympathy"]
+to sympathize
+to be in sympathy

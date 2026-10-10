@@ -1,1 +1,2 @@
-["personification","embodiment"]
+personification
+embodiment

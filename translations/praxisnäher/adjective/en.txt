@@ -1,1 +1,2 @@
-["more practical","more hands-on"]
+more practical
+more hands-on

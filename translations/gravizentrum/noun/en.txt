@@ -1,1 +1,2 @@
-["center of gravity","gravitational center"]
+center of gravity
+gravitational center

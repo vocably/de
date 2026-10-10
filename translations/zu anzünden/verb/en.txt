@@ -1,1 +1,2 @@
-["to light","to ignite"]
+to light
+to ignite

@@ -1,1 +1,3 @@
-["provided that","assuming that","if only"]
+provided that
+assuming that
+if only

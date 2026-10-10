@@ -1,1 +1,2 @@
-["appetizer","aperitif"]
+appetizer
+aperitif

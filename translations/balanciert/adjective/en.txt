@@ -1,1 +1,2 @@
-["balanced","well-balanced"]
+balanced
+well-balanced

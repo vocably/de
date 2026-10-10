@@ -1,1 +1,2 @@
-["seizure","confiscation"]
+seizure
+confiscation

@@ -1,1 +1,2 @@
-["fire starter","lighter"]
+fire starter
+lighter

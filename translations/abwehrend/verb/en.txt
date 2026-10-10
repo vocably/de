@@ -1,1 +1,2 @@
-["defensive","repellent"]
+defensive
+repellent

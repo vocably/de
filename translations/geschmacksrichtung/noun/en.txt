@@ -1,1 +1,2 @@
-["flavor","taste"]
+flavor
+taste

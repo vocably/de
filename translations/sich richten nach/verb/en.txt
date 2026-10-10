@@ -1,1 +1,3 @@
-["to follow","to comply with","to be guided by"]
+to follow
+to comply with
+to be guided by

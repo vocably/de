@@ -1,1 +1,2 @@
-["ride away","ride off"]
+ride away
+ride off

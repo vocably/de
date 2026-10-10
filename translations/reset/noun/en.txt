@@ -1,1 +1,2 @@
-["reset","restart"]
+reset
+restart

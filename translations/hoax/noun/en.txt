@@ -1,1 +1,2 @@
-["hoax","prank"]
+hoax
+prank

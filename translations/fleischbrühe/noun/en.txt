@@ -1,1 +1,2 @@
-["broth","bouillon"]
+broth
+bouillon

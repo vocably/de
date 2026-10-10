@@ -1,1 +1,2 @@
-["acumen","perspicacity"]
+acumen
+perspicacity

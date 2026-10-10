@@ -1,1 +1,2 @@
-["nerve tonic","sedative"]
+nerve tonic
+sedative

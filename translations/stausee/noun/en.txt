@@ -1,1 +1,2 @@
-["reservoir","storage lake"]
+reservoir
+storage lake

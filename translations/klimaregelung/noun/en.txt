@@ -1,1 +1,2 @@
-["climate control","air conditioning"]
+climate control
+air conditioning

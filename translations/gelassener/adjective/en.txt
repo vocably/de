@@ -1,1 +1,2 @@
-["calmer","more composed"]
+calmer
+more composed

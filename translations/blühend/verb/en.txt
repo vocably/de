@@ -1,1 +1,3 @@
-["blooming","flourishing","thriving"]
+blooming
+flourishing
+thriving

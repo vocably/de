@@ -1,1 +1,2 @@
-["triumphs","celebrates a victory"]
+triumphs
+celebrates a victory

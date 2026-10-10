@@ -1,1 +1,2 @@
-["misfortune","predicament"]
+misfortune
+predicament

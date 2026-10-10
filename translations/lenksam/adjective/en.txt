@@ -1,1 +1,2 @@
-["tractable","docile"]
+tractable
+docile

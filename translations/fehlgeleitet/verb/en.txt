@@ -1,1 +1,3 @@
-["misguided","misdirected","misled"]
+misguided
+misdirected
+misled

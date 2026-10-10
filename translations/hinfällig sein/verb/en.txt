@@ -1,1 +1,3 @@
-["to be obsolete","to be irrelevant","to be moot"]
+to be obsolete
+to be irrelevant
+to be moot

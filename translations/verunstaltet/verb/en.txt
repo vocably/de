@@ -1,1 +1,2 @@
-["disfigured","mutilated"]
+disfigured
+mutilated

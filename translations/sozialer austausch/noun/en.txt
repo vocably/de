@@ -1,1 +1,2 @@
-["social exchange","social interaction"]
+social exchange
+social interaction

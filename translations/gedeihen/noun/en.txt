@@ -1,1 +1,2 @@
-["thriving","prosperity"]
+thriving
+prosperity

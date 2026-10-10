@@ -1,1 +1,2 @@
-["familiar","fluent"]
+familiar
+fluent

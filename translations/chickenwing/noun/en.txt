@@ -1,1 +1,1 @@
-["chicken wing"]
+chicken wing

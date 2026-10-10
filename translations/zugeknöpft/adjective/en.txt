@@ -1,1 +1,2 @@
-["buttoned-up","reserved"]
+buttoned-up
+reserved

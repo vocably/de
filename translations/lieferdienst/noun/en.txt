@@ -1,1 +1,2 @@
-["delivery service","food delivery service"]
+delivery service
+food delivery service

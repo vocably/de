@@ -1,1 +1,2 @@
-["sycophant","groveler"]
+sycophant
+groveler

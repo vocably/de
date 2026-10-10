@@ -1,1 +1,2 @@
-["support class","tutoring session"]
+support class
+tutoring session

@@ -1,1 +1,2 @@
-["spindly","skinny"]
+spindly
+skinny

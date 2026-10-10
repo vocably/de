@@ -1,1 +1,2 @@
-["prostrate oneself","bow down"]
+prostrate oneself
+bow down

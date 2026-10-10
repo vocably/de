@@ -1,1 +1,2 @@
-["to shoot up","to chug"]
+to shoot up
+to chug

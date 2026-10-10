@@ -1,1 +1,2 @@
-["burglar alarm system","intrusion detection system"]
+burglar alarm system
+intrusion detection system

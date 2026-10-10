@@ -1,1 +1,2 @@
-["housewarming party","housewarming"]
+housewarming party
+housewarming

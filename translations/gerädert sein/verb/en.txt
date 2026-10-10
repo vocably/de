@@ -1,1 +1,2 @@
-["to be exhausted","to be worn out"]
+to be exhausted
+to be worn out

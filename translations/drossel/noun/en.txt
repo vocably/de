@@ -1,1 +1,3 @@
-["thrush","throttle","throat"]
+thrush
+throttle
+throat

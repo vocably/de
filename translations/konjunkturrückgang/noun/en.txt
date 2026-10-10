@@ -1,1 +1,2 @@
-["economic downturn","recession"]
+economic downturn
+recession

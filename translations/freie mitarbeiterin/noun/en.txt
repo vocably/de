@@ -1,1 +1,2 @@
-["freelancer","freelance employee"]
+freelancer
+freelance employee

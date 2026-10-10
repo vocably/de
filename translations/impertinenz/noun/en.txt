@@ -1,1 +1,2 @@
-["impertinence","insolence"]
+impertinence
+insolence

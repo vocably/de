@@ -1,1 +1,3 @@
-["indicate","be advisable","ban"]
+indicate
+be advisable
+ban

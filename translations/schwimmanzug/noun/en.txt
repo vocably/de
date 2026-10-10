@@ -1,1 +1,2 @@
-["swimsuit","bathing suit"]
+swimsuit
+bathing suit

@@ -1,1 +1,3 @@
-["varying","variable","fluctuating"]
+varying
+variable
+fluctuating

@@ -1,1 +1,2 @@
-["buttock","cheek"]
+buttock
+cheek

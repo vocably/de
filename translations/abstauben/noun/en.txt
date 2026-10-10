@@ -1,1 +1,2 @@
-["dusting","wiping"]
+dusting
+wiping

@@ -1,1 +1,1 @@
-["solid color"]
+solid color

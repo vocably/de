@@ -1,1 +1,2 @@
-["melts","thaws"]
+melts
+thaws

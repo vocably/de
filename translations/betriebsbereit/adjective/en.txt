@@ -1,1 +1,2 @@
-["ready for operation","operational"]
+ready for operation
+operational

@@ -1,1 +1,2 @@
-["Southern Germany","South Germany"]
+Southern Germany
+South Germany

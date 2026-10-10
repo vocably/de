@@ -1,1 +1,2 @@
-["to choose","to select"]
+to choose
+to select

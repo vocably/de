@@ -1,1 +1,3 @@
-["stated","specified","given"]
+stated
+specified
+given

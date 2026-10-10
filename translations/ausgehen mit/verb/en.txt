@@ -1,1 +1,2 @@
-["to date","to go out with"]
+to date
+to go out with

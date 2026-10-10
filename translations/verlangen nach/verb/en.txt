@@ -1,1 +1,2 @@
-["crave","long for"]
+crave
+long for

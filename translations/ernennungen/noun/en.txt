@@ -1,1 +1,2 @@
-["appointments","nominations"]
+appointments
+nominations

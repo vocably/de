@@ -1,1 +1,3 @@
-["transform into","turn into","convert into"]
+transform into
+turn into
+convert into

@@ -1,1 +1,3 @@
-["not all there","not quite with it","to be a bit out of it"]
+not all there
+not quite with it
+to be a bit out of it

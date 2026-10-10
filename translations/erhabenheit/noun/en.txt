@@ -1,1 +1,2 @@
-["sublimity","grandeur"]
+sublimity
+grandeur

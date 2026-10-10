@@ -1,1 +1,3 @@
-["to be glad","to be happy","to be joyful"]
+to be glad
+to be happy
+to be joyful

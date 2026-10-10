@@ -1,1 +1,2 @@
-["Deal!","It's a deal!"]
+Deal!
+It's a deal!

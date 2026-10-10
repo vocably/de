@@ -1,1 +1,2 @@
-["What the hell","What in the hell"]
+What the hell
+What in the hell

@@ -1,1 +1,2 @@
-["healing","curative"]
+healing
+curative

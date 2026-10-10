@@ -1,1 +1,1 @@
-["congruent"]
+congruent

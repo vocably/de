@@ -1,1 +1,3 @@
-["in the long run","in the long term","permanently"]
+in the long run
+in the long term
+permanently

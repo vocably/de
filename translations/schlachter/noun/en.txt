@@ -1,1 +1,2 @@
-["butcher","slaughterer"]
+butcher
+slaughterer

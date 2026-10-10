@@ -1,1 +1,2 @@
-["glitter","sparkle"]
+glitter
+sparkle

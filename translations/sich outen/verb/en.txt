@@ -1,1 +1,2 @@
-["come out","out oneself"]
+come out
+out oneself

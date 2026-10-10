@@ -1,1 +1,2 @@
-["safe deposit box","locker"]
+safe deposit box
+locker

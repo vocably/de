@@ -1,1 +1,3 @@
-["to spread","to coat","to butter"]
+to spread
+to coat
+to butter

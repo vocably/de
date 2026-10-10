@@ -1,1 +1,2 @@
-["look around","look for"]
+look around
+look for

@@ -1,1 +1,2 @@
-["palmed off","turned on"]
+palmed off
+turned on

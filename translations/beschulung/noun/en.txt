@@ -1,1 +1,2 @@
-["schooling","education"]
+schooling
+education

@@ -1,1 +1,2 @@
-["freezing","congealing"]
+freezing
+congealing

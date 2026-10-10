@@ -1,1 +1,2 @@
-["to think about","to reflect on"]
+to think about
+to reflect on

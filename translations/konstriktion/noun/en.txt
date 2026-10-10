@@ -1,1 +1,2 @@
-["constriction","restriction"]
+constriction
+restriction

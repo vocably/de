@@ -1,1 +1,2 @@
-["to be rude","to be rough"]
+to be rude
+to be rough

@@ -1,1 +1,2 @@
-["goods issue","dispatch"]
+goods issue
+dispatch

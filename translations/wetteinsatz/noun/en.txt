@@ -1,1 +1,2 @@
-["bet","stake"]
+bet
+stake

@@ -1,1 +1,2 @@
-["sales representative","commercial agent"]
+sales representative
+commercial agent

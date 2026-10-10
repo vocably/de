@@ -1,1 +1,2 @@
-["inconvenience","discomfort"]
+inconvenience
+discomfort

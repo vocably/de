@@ -1,1 +1,2 @@
-["acquired","gained"]
+acquired
+gained

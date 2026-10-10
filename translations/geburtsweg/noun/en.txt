@@ -1,1 +1,2 @@
-["birth canal","birth path"]
+birth canal
+birth path

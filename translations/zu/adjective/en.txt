@@ -1,1 +1,4 @@
-["closed","shut","too","to"]
+closed
+shut
+too
+to

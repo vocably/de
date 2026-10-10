@@ -1,1 +1,2 @@
-["flatfoot","flat tire"]
+flatfoot
+flat tire

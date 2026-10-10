@@ -1,1 +1,2 @@
-["garnish","trim"]
+garnish
+trim

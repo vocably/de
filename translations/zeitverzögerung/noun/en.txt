@@ -1,1 +1,2 @@
-["time delay","lag"]
+time delay
+lag

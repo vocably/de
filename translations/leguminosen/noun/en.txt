@@ -1,1 +1,2 @@
-["legumes","pulses"]
+legumes
+pulses

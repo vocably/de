@@ -1,1 +1,2 @@
-["binoculars","field glasses"]
+binoculars
+field glasses

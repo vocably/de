@@ -1,1 +1,3 @@
-["to be busy","to be occupied","to be engaged"]
+to be busy
+to be occupied
+to be engaged

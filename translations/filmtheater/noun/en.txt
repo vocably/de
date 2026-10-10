@@ -1,1 +1,2 @@
-["movie theater","cinema"]
+movie theater
+cinema

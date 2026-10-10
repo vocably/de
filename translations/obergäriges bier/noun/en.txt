@@ -1,1 +1,2 @@
-["ale","top-fermented beer"]
+ale
+top-fermented beer

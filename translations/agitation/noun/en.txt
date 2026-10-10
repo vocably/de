@@ -1,1 +1,2 @@
-["agitation","campaign"]
+agitation
+campaign

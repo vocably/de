@@ -1,1 +1,3 @@
-["get better","improve","recover"]
+get better
+improve
+recover

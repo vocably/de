@@ -1,1 +1,2 @@
-["sweetly","cutely"]
+sweetly
+cutely

@@ -1,1 +1,2 @@
-["winged word","household word"]
+winged word
+household word

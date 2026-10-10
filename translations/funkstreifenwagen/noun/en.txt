@@ -1,1 +1,2 @@
-["patrol car","squad car"]
+patrol car
+squad car

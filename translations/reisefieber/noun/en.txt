@@ -1,1 +1,2 @@
-["travel bug","pre-trip jitters"]
+travel bug
+pre-trip jitters

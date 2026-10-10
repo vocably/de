@@ -1,1 +1,2 @@
-["to speed up","to accelerate"]
+to speed up
+to accelerate

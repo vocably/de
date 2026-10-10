@@ -1,1 +1,2 @@
-["conjugal","marital"]
+conjugal
+marital

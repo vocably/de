@@ -1,1 +1,2 @@
-["spouse","partner"]
+spouse
+partner

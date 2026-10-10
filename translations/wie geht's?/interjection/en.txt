@@ -1,1 +1,2 @@
-["How are you?","How's it going?"]
+How are you?
+How's it going?

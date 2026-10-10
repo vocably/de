@@ -1,1 +1,2 @@
-["train journey","rail trip"]
+train journey
+rail trip

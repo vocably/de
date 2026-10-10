@@ -1,1 +1,2 @@
-["crossed","traversed"]
+crossed
+traversed

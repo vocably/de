@@ -1,1 +1,2 @@
-["multiply quickly","reproduce rapidly"]
+multiply quickly
+reproduce rapidly

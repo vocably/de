@@ -1,1 +1,2 @@
-["subsistence","existence"]
+subsistence
+existence

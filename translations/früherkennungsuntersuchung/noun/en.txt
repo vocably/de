@@ -1,1 +1,2 @@
-["early detection screening","preventive medical check-up"]
+early detection screening
+preventive medical check-up

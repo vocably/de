@@ -1,1 +1,2 @@
-["intolerable","unacceptable"]
+intolerable
+unacceptable

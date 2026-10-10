@@ -1,1 +1,2 @@
-["conspiratorial","secret"]
+conspiratorial
+secret

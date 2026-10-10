@@ -1,1 +1,3 @@
-["performance-oriented","achievement-oriented","results-oriented"]
+performance-oriented
+achievement-oriented
+results-oriented

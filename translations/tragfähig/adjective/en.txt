@@ -1,1 +1,3 @@
-["load-bearing","sustainable","viable"]
+load-bearing
+sustainable
+viable

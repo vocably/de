@@ -1,1 +1,2 @@
-["durable","hard-wearing"]
+durable
+hard-wearing

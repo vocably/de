@@ -1,1 +1,2 @@
-["schoolmate","classmate"]
+schoolmate
+classmate

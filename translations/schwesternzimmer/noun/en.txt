@@ -1,1 +1,2 @@
-["nurses' station","staff room"]
+nurses' station
+staff room

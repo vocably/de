@@ -1,1 +1,2 @@
-["vice versa","conversely"]
+vice versa
+conversely

@@ -1,1 +1,2 @@
-["penetrates","gets through"]
+penetrates
+gets through

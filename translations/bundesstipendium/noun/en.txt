@@ -1,1 +1,2 @@
-["federal scholarship","federal grant"]
+federal scholarship
+federal grant

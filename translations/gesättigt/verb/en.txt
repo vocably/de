@@ -1,1 +1,3 @@
-["satiated","saturated","full"]
+satiated
+saturated
+full

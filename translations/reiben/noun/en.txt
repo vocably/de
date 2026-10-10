@@ -1,1 +1,3 @@
-["rubbing","chafing","grating"]
+rubbing
+chafing
+grating

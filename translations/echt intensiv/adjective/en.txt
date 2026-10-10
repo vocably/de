@@ -1,1 +1,2 @@
-["really intense","very intense"]
+really intense
+very intense

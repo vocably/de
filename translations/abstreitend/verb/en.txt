@@ -1,1 +1,3 @@
-["denying","disclaiming","gainsaying"]
+denying
+disclaiming
+gainsaying

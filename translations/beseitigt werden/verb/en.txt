@@ -1,1 +1,4 @@
-["to be eliminated","to be removed","to be disposed of","to be abolished"]
+to be eliminated
+to be removed
+to be disposed of
+to be abolished

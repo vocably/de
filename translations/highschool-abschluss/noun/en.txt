@@ -1,1 +1,2 @@
-["high school diploma","high school graduation"]
+high school diploma
+high school graduation

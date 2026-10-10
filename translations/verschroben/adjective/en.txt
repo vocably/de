@@ -1,1 +1,2 @@
-["eccentric","quirky"]
+eccentric
+quirky

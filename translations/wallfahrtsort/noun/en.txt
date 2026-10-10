@@ -1,1 +1,2 @@
-["place of pilgrimage","pilgrimage site"]
+place of pilgrimage
+pilgrimage site

@@ -1,1 +1,2 @@
-["obvious","evident"]
+obvious
+evident

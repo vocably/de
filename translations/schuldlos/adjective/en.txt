@@ -1,1 +1,2 @@
-["innocent","blameless"]
+innocent
+blameless

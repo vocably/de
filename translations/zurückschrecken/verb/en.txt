@@ -1,1 +1,2 @@
-["to shy away","to flinch"]
+to shy away
+to flinch

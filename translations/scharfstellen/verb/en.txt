@@ -1,1 +1,2 @@
-["to focus","to sharpen"]
+to focus
+to sharpen

@@ -1,1 +1,2 @@
-["on the one hand","for one thing"]
+on the one hand
+for one thing

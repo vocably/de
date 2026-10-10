@@ -1,1 +1,2 @@
-["giving up","surrender"]
+giving up
+surrender

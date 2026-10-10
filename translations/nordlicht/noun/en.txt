@@ -1,1 +1,2 @@
-["northern lights","aurora borealis"]
+northern lights
+aurora borealis

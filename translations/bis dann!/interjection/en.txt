@@ -1,1 +1,2 @@
-["See you then!","Until then!"]
+See you then!
+Until then!

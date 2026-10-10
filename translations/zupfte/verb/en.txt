@@ -1,1 +1,2 @@
-["plucked","picked"]
+plucked
+picked

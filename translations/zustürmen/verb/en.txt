@@ -1,1 +1,2 @@
-["to storm","to rush"]
+to storm
+to rush

@@ -1,1 +1,2 @@
-["equally","with equal rights"]
+equally
+with equal rights

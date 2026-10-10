@@ -1,1 +1,2 @@
-["reprimand","telling-off"]
+reprimand
+telling-off

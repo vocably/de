@@ -1,1 +1,2 @@
-["frightening","scary"]
+frightening
+scary

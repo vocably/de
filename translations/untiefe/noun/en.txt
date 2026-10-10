@@ -1,1 +1,3 @@
-["shoal","shallowness","superficiality"]
+shoal
+shallowness
+superficiality

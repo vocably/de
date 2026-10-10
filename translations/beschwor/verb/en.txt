@@ -1,1 +1,3 @@
-["implored","conjured","adjured"]
+implored
+conjured
+adjured

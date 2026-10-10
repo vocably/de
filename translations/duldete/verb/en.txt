@@ -1,1 +1,3 @@
-["tolerated","endured","allowed"]
+tolerated
+endured
+allowed

@@ -1,1 +1,2 @@
-["votes","is voting"]
+votes
+is voting

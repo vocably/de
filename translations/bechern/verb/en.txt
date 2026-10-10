@@ -1,1 +1,2 @@
-["to booze","to drink heavily"]
+to booze
+to drink heavily

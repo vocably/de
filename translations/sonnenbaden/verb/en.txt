@@ -1,1 +1,2 @@
-["sunbathe","bask in the sun"]
+sunbathe
+bask in the sun

@@ -1,1 +1,2 @@
-["PIN","secret number"]
+PIN
+secret number

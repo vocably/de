@@ -1,1 +1,2 @@
-["renunciation","abstinence"]
+renunciation
+abstinence

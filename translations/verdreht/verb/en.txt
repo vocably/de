@@ -1,1 +1,3 @@
-["twisted","distorted","confused"]
+twisted
+distorted
+confused

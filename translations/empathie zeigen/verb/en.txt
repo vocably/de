@@ -1,1 +1,2 @@
-["show empathy","empathize"]
+show empathy
+empathize

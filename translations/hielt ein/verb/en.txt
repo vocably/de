@@ -1,1 +1,2 @@
-["stopped","paused"]
+stopped
+paused

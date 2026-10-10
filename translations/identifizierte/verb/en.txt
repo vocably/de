@@ -1,1 +1,3 @@
-["identified","recognized","determined"]
+identified
+recognized
+determined

@@ -1,1 +1,2 @@
-["coordinated","managed"]
+coordinated
+managed

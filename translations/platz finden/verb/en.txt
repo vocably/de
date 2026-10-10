@@ -1,1 +1,3 @@
-["find a place","be accommodated","find an opportunity"]
+find a place
+be accommodated
+find an opportunity

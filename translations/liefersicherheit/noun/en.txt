@@ -1,1 +1,2 @@
-["delivery reliability","security of supply"]
+delivery reliability
+security of supply

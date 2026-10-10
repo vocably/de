@@ -1,1 +1,3 @@
-["went back","decreased","returned"]
+went back
+decreased
+returned

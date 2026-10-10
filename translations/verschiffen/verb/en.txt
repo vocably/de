@@ -1,1 +1,2 @@
-["to ship","to dispatch"]
+to ship
+to dispatch

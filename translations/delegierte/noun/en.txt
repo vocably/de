@@ -1,1 +1,2 @@
-["delegates","representatives"]
+delegates
+representatives

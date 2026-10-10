@@ -1,1 +1,2 @@
-["to be excited about","to be curious about"]
+to be excited about
+to be curious about

@@ -1,1 +1,2 @@
-["boar","wild boar"]
+boar
+wild boar

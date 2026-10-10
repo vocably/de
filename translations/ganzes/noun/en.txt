@@ -1,1 +1,2 @@
-["whole","entirety"]
+whole
+entirety

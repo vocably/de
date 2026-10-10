@@ -1,1 +1,2 @@
-["pit latrine","latrine"]
+pit latrine
+latrine

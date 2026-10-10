@@ -1,1 +1,3 @@
-["to whip up","to lash","to stir up"]
+to whip up
+to lash
+to stir up

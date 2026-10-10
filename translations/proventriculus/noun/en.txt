@@ -1,1 +1,1 @@
-["proventriculus"]
+proventriculus

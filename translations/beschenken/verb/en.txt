@@ -1,1 +1,2 @@
-["to give a present to","to shower with presents"]
+to give a present to
+to shower with presents

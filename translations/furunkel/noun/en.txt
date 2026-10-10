@@ -1,1 +1,2 @@
-["boil","furuncle"]
+boil
+furuncle

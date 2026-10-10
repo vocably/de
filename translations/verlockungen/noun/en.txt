@@ -1,1 +1,2 @@
-["temptations","allurements"]
+temptations
+allurements

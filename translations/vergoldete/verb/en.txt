@@ -1,1 +1,2 @@
-["gilded","gold-plated"]
+gilded
+gold-plated

@@ -1,1 +1,2 @@
-["outbuilding","annex"]
+outbuilding
+annex

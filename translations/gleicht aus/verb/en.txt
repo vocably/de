@@ -1,1 +1,3 @@
-["compensate","balance","equalize"]
+compensate
+balance
+equalize

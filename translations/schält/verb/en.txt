@@ -1,1 +1,2 @@
-["peels","is peeling"]
+peels
+is peeling

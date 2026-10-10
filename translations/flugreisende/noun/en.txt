@@ -1,1 +1,2 @@
-["air travelers","airline passengers"]
+air travelers
+airline passengers

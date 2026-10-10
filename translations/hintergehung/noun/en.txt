@@ -1,1 +1,2 @@
-["circumvention","deception"]
+circumvention
+deception

@@ -1,1 +1,2 @@
-["fainthearted","pusillanimous"]
+fainthearted
+pusillanimous

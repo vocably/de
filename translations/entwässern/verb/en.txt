@@ -1,1 +1,3 @@
-["drain","dehydrate","dry out"]
+drain
+dehydrate
+dry out

@@ -1,1 +1,2 @@
-["the very same","one and the same"]
+the very same
+one and the same

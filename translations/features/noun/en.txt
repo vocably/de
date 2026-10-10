@@ -1,1 +1,2 @@
-["features","characteristics"]
+features
+characteristics

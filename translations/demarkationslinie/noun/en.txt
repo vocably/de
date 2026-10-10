@@ -1,1 +1,2 @@
-["demarcation line","boundary line"]
+demarcation line
+boundary line

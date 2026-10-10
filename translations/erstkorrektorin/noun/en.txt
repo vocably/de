@@ -1,1 +1,2 @@
-["first corrector","primary proofreader"]
+first corrector
+primary proofreader

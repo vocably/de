@@ -1,1 +1,2 @@
-["prostitute","whore"]
+prostitute
+whore

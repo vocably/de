@@ -1,1 +1,2 @@
-["underworld","realm of the dead"]
+underworld
+realm of the dead

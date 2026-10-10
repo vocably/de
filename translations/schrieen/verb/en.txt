@@ -1,1 +1,2 @@
-["screamed","shrieked"]
+screamed
+shrieked

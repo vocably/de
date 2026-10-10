@@ -1,1 +1,3 @@
-["added","supplemented","completed"]
+added
+supplemented
+completed

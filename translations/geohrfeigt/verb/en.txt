@@ -1,1 +1,2 @@
-["slapped","was slapped"]
+slapped
+was slapped

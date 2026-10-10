@@ -1,1 +1,2 @@
-["sparkling water","fizz"]
+sparkling water
+fizz

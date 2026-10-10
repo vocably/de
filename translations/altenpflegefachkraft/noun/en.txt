@@ -1,1 +1,2 @@
-["geriatric nurse","elderly care specialist"]
+geriatric nurse
+elderly care specialist

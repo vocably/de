@@ -1,1 +1,2 @@
-["cross-company course","inter-company course"]
+cross-company course
+inter-company course

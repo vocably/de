@@ -1,1 +1,2 @@
-["to seep","to trickle"]
+to seep
+to trickle

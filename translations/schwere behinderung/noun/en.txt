@@ -1,1 +1,2 @@
-["severe disability","profound disability"]
+severe disability
+profound disability

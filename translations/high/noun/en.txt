@@ -1,1 +1,2 @@
-["high","peak"]
+high
+peak

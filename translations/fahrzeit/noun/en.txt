@@ -1,1 +1,2 @@
-["travel time","journey time"]
+travel time
+journey time

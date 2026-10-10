@@ -1,1 +1,2 @@
-["unemployment","joblessness"]
+unemployment
+joblessness

@@ -1,1 +1,2 @@
-["counter-statement","right of reply"]
+counter-statement
+right of reply

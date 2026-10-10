@@ -1,1 +1,2 @@
-["seclusion","reclusiveness"]
+seclusion
+reclusiveness

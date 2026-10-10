@@ -1,1 +1,2 @@
-["spheres of activity","purviews"]
+spheres of activity
+purviews

@@ -1,1 +1,2 @@
-["commitments","confirmations"]
+commitments
+confirmations

@@ -1,1 +1,2 @@
-["allocation","allotment"]
+allocation
+allotment

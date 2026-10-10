@@ -1,1 +1,2 @@
-["devotions","services"]
+devotions
+services

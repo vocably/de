@@ -1,1 +1,2 @@
-["special alliance","separate alliance"]
+special alliance
+separate alliance

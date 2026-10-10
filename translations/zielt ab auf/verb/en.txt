@@ -1,1 +1,3 @@
-["aims at","is aimed at","targets"]
+aims at
+is aimed at
+targets

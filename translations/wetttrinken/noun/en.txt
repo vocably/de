@@ -1,1 +1,2 @@
-["drinking contest","drinking game"]
+drinking contest
+drinking game

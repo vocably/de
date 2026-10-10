@@ -1,1 +1,2 @@
-["mountainside","hillside"]
+mountainside
+hillside

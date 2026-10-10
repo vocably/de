@@ -1,1 +1,2 @@
-["flaming","blazing"]
+flaming
+blazing

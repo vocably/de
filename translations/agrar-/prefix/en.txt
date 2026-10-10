@@ -1,1 +1,2 @@
-["agricultural","agri-"]
+agricultural
+agri-

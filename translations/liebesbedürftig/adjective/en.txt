@@ -1,1 +1,2 @@
-["needing love","affectionate"]
+needing love
+affectionate

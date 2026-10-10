@@ -1,1 +1,2 @@
-["added","contributed"]
+added
+contributed

@@ -1,1 +1,3 @@
-["to close one's eyes to something","to turn a blind eye to something","to ignore something"]
+to close one's eyes to something
+to turn a blind eye to something
+to ignore something

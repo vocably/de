@@ -1,1 +1,2 @@
-["tablemate","person sitting next to one at a table"]
+tablemate
+person sitting next to one at a table

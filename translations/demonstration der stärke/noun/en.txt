@@ -1,1 +1,2 @@
-["show of strength","demonstration of strength"]
+show of strength
+demonstration of strength

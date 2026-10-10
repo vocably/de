@@ -1,1 +1,3 @@
-["tenderness","delicacy","fragility"]
+tenderness
+delicacy
+fragility

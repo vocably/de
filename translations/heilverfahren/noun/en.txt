@@ -1,1 +1,2 @@
-["cure","healing process"]
+cure
+healing process

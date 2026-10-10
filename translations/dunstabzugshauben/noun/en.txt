@@ -1,1 +1,2 @@
-["range hoods","extractor hoods"]
+range hoods
+extractor hoods

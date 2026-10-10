@@ -1,1 +1,2 @@
-["to shelter","to harbor"]
+to shelter
+to harbor

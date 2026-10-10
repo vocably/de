@@ -1,1 +1,2 @@
-["collide","adjoin"]
+collide
+adjoin

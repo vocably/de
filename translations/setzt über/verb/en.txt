@@ -1,1 +1,3 @@
-["crosses","translates","transplants"]
+crosses
+translates
+transplants

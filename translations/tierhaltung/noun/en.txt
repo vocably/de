@@ -1,1 +1,2 @@
-["animal husbandry","livestock farming"]
+animal husbandry
+livestock farming

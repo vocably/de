@@ -1,1 +1,2 @@
-["ignorance","disregard"]
+ignorance
+disregard

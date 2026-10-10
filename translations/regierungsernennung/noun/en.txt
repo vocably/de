@@ -1,1 +1,2 @@
-["government appointment","political appointment"]
+government appointment
+political appointment

@@ -1,1 +1,2 @@
-["resoundingly","loudly"]
+resoundingly
+loudly

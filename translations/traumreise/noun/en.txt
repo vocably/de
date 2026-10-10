@@ -1,1 +1,2 @@
-["dream trip","fantasy journey"]
+dream trip
+fantasy journey

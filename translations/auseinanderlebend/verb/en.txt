@@ -1,1 +1,2 @@
-["drifting apart","growing apart"]
+drifting apart
+growing apart

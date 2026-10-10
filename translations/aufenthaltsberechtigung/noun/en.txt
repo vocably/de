@@ -1,1 +1,2 @@
-["right of residence","residence permit"]
+right of residence
+residence permit

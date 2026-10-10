@@ -1,1 +1,2 @@
-["Kriegsmarine","German Navy"]
+Kriegsmarine
+German Navy

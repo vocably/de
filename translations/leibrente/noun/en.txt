@@ -1,1 +1,2 @@
-["annuity","life rent"]
+annuity
+life rent

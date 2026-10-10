@@ -1,1 +1,2 @@
-["enrollment","registration"]
+enrollment
+registration

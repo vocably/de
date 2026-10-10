@@ -1,1 +1,2 @@
-["reconnaissance mission","fact-finding mission"]
+reconnaissance mission
+fact-finding mission

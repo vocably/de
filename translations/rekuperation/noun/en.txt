@@ -1,1 +1,2 @@
-["recuperation","regeneration"]
+recuperation
+regeneration

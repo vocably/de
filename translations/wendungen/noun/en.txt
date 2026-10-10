@@ -1,1 +1,2 @@
-["turns","phrases"]
+turns
+phrases

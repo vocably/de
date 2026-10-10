@@ -1,1 +1,2 @@
-["provider","ISP"]
+provider
+ISP

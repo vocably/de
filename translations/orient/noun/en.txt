@@ -1,1 +1,3 @@
-["the Orient","the East","the Middle East"]
+the Orient
+the East
+the Middle East

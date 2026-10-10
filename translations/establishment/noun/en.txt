@@ -1,1 +1,2 @@
-["establishment","the establishment"]
+establishment
+the establishment

@@ -1,1 +1,3 @@
-["take over the management","take over the leadership","take over the direction"]
+take over the management
+take over the leadership
+take over the direction

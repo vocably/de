@@ -1,1 +1,2 @@
-["tissue","paper handkerchief"]
+tissue
+paper handkerchief

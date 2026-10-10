@@ -1,1 +1,3 @@
-["adhesive","adherent","tacky"]
+adhesive
+adherent
+tacky

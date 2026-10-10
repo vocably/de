@@ -1,1 +1,2 @@
-["farmhand","agricultural worker"]
+farmhand
+agricultural worker

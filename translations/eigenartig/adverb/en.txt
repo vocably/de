@@ -1,1 +1,2 @@
-["peculiar","odd"]
+peculiar
+odd

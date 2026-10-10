@@ -1,1 +1,2 @@
-["inspection of files","access to files"]
+inspection of files
+access to files

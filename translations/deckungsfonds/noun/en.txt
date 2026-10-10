@@ -1,1 +1,2 @@
-["hedge fund","cover fund"]
+hedge fund
+cover fund

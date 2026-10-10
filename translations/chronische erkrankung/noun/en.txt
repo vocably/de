@@ -1,1 +1,2 @@
-["chronic disease","chronic illness"]
+chronic disease
+chronic illness

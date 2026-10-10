@@ -1,1 +1,3 @@
-["smoothly","gracefully","flexibly"]
+smoothly
+gracefully
+flexibly

@@ -1,1 +1,2 @@
-["handcuff","shackle"]
+handcuff
+shackle

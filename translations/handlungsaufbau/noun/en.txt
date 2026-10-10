@@ -1,1 +1,2 @@
-["plot structure","story structure"]
+plot structure
+story structure

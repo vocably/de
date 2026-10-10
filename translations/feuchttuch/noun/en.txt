@@ -1,1 +1,2 @@
-["wet wipe","moist towelette"]
+wet wipe
+moist towelette

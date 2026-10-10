@@ -1,1 +1,2 @@
-["beat","thrashed"]
+beat
+thrashed

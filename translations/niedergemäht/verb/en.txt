@@ -1,1 +1,2 @@
-["mowed down","cut down"]
+mowed down
+cut down

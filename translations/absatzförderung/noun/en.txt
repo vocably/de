@@ -1,1 +1,2 @@
-["sales promotion","promotion"]
+sales promotion
+promotion

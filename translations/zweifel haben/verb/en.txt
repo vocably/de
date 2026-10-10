@@ -1,1 +1,2 @@
-["to have doubts","to doubt"]
+to have doubts
+to doubt

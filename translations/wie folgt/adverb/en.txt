@@ -1,1 +1,2 @@
-["as follows","as described below"]
+as follows
+as described below

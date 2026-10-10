@@ -1,1 +1,2 @@
-["Einsatzgruppe","mobile killing squad"]
+Einsatzgruppe
+mobile killing squad

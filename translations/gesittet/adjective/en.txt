@@ -1,1 +1,2 @@
-["well-behaved","decent"]
+well-behaved
+decent

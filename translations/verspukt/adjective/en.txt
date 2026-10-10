@@ -1,1 +1,2 @@
-["haunted","spooky"]
+haunted
+spooky

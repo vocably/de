@@ -1,1 +1,2 @@
-["to be bored","to be fed up"]
+to be bored
+to be fed up

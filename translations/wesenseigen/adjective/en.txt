@@ -1,1 +1,2 @@
-["inherent","essential"]
+inherent
+essential

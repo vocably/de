@@ -1,1 +1,2 @@
-["oddity","peculiarity"]
+oddity
+peculiarity

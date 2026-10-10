@@ -1,1 +1,2 @@
-["rush at","charge at"]
+rush at
+charge at

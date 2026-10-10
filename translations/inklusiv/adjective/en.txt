@@ -1,1 +1,2 @@
-["inclusive","included"]
+inclusive
+included

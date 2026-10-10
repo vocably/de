@@ -1,1 +1,3 @@
-["printing","pressing","pushing"]
+printing
+pressing
+pushing

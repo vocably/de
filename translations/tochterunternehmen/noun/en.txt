@@ -1,1 +1,2 @@
-["subsidiary","affiliate"]
+subsidiary
+affiliate

@@ -1,1 +1,3 @@
-["bellows","brat","skin"]
+bellows
+brat
+skin

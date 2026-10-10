@@ -1,1 +1,3 @@
-["collapsed","fell down","caved in"]
+collapsed
+fell down
+caved in

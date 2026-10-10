@@ -1,1 +1,2 @@
-["curing salt","nitrite curing salt"]
+curing salt
+nitrite curing salt

@@ -1,1 +1,3 @@
-["vanish","disappear","fade away"]
+vanish
+disappear
+fade away

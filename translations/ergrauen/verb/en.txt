@@ -1,1 +1,2 @@
-["to turn gray","to fade"]
+to turn gray
+to fade

@@ -1,1 +1,1 @@
-["battery charger"]
+battery charger

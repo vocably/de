@@ -1,1 +1,3 @@
-["soda","shower","sherbet powder"]
+soda
+shower
+sherbet powder

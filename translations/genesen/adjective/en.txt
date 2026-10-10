@@ -1,1 +1,2 @@
-["recovered","convalescent"]
+recovered
+convalescent

@@ -1,1 +1,2 @@
-["remaining debt","outstanding balance"]
+remaining debt
+outstanding balance

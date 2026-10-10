@@ -1,1 +1,2 @@
-["as is well known","as is generally known"]
+as is well known
+as is generally known

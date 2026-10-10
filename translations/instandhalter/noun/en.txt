@@ -1,1 +1,2 @@
-["maintenance technician","fitter"]
+maintenance technician
+fitter

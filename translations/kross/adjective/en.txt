@@ -1,1 +1,2 @@
-["crispy","crusty"]
+crispy
+crusty

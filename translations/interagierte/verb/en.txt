@@ -1,1 +1,2 @@
-["interacted","communicated"]
+interacted
+communicated

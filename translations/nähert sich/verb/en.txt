@@ -1,1 +1,3 @@
-["approaches","is approaching","draws near"]
+approaches
+is approaching
+draws near

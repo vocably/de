@@ -1,1 +1,2 @@
-["railroad crossing","level crossing"]
+railroad crossing
+level crossing

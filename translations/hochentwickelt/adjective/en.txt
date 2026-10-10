@@ -1,1 +1,2 @@
-["highly developed","advanced"]
+highly developed
+advanced

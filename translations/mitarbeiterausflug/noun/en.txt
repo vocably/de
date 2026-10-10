@@ -1,1 +1,2 @@
-["staff outing","company excursion"]
+staff outing
+company excursion

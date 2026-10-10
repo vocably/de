@@ -1,1 +1,2 @@
-["lounge","slouch"]
+lounge
+slouch

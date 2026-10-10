@@ -1,1 +1,2 @@
-["Madam","My lady"]
+Madam
+My lady

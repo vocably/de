@@ -1,1 +1,2 @@
-["maintain","keep up"]
+maintain
+keep up

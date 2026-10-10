@@ -1,1 +1,2 @@
-["thawing","defrosting"]
+thawing
+defrosting

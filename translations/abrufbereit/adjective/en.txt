@@ -1,1 +1,2 @@
-["on demand","available"]
+on demand
+available

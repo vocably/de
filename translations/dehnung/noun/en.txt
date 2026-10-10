@@ -1,1 +1,3 @@
-["stretch","extension","elongation"]
+stretch
+extension
+elongation

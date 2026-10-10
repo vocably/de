@@ -1,1 +1,2 @@
-["makes angry","enrages"]
+makes angry
+enrages

@@ -1,1 +1,2 @@
-["electric range","EV range"]
+electric range
+EV range

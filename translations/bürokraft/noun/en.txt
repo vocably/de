@@ -1,1 +1,2 @@
-["office worker","clerk"]
+office worker
+clerk

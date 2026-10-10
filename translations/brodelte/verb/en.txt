@@ -1,1 +1,3 @@
-["simmered","seethed","fumed"]
+simmered
+seethed
+fumed

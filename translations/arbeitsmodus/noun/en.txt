@@ -1,1 +1,2 @@
-["working mode","mode of operation"]
+working mode
+mode of operation

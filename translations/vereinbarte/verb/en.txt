@@ -1,1 +1,3 @@
-["agreed","arranged","stipulated"]
+agreed
+arranged
+stipulated

@@ -1,1 +1,3 @@
-["unconnected","disconnected","unattached"]
+unconnected
+disconnected
+unattached

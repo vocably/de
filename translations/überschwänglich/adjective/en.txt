@@ -1,1 +1,2 @@
-["exuberant","effusive"]
+exuberant
+effusive

@@ -1,1 +1,2 @@
-["hikes","migrations"]
+hikes
+migrations

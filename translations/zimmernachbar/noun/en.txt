@@ -1,1 +1,2 @@
-["roommate","next-door neighbor"]
+roommate
+next-door neighbor

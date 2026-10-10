@@ -1,1 +1,2 @@
-["sea voyage","ocean voyage"]
+sea voyage
+ocean voyage

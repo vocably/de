@@ -1,1 +1,3 @@
-["pull","ache","move"]
+pull
+ache
+move

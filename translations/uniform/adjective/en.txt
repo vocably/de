@@ -1,1 +1,2 @@
-["uniform","even"]
+uniform
+even

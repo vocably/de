@@ -1,1 +1,2 @@
-["jack-of-all-trades","all-in-one solution"]
+jack-of-all-trades
+all-in-one solution

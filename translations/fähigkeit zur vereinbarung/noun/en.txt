@@ -1,1 +1,2 @@
-["ability to agree","ability to make an agreement"]
+ability to agree
+ability to make an agreement

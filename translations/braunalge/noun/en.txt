@@ -1,1 +1,2 @@
-["brown algae","phaeophyte"]
+brown algae
+phaeophyte

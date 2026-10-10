@@ -1,1 +1,2 @@
-["gradual","staged"]
+gradual
+staged

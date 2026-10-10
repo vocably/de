@@ -1,1 +1,3 @@
-["adulterated","falsified","distorted"]
+adulterated
+falsified
+distorted

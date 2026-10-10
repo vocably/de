@@ -1,1 +1,3 @@
-["namely","that is","specifically"]
+namely
+that is
+specifically

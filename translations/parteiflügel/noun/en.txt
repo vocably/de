@@ -1,1 +1,2 @@
-["party wing","faction"]
+party wing
+faction

@@ -1,1 +1,3 @@
-["drifted","been driven","been carried away"]
+drifted
+been driven
+been carried away

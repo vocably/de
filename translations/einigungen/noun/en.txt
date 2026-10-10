@@ -1,1 +1,2 @@
-["agreements","settlements"]
+agreements
+settlements

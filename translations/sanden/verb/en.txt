@@ -1,1 +1,3 @@
-["to sand","to become sandy","to cover with sand"]
+to sand
+to become sandy
+to cover with sand

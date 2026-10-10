@@ -1,1 +1,2 @@
-["violently","forcefully"]
+violently
+forcefully

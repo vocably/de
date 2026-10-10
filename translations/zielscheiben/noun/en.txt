@@ -1,1 +1,2 @@
-["targets","bull's-eyes"]
+targets
+bull's-eyes

@@ -1,1 +1,2 @@
-["pandemic","time of pandemic"]
+pandemic
+time of pandemic

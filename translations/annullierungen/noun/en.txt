@@ -1,1 +1,2 @@
-["cancellations","annulments"]
+cancellations
+annulments

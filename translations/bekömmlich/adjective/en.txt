@@ -1,1 +1,2 @@
-["wholesome","digestible"]
+wholesome
+digestible

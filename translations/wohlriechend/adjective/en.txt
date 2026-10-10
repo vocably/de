@@ -1,1 +1,2 @@
-["fragrant","sweet-smelling"]
+fragrant
+sweet-smelling

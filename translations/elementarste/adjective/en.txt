@@ -1,1 +1,3 @@
-["most basic","most fundamental","most elementary"]
+most basic
+most fundamental
+most elementary

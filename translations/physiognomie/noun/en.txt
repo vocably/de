@@ -1,1 +1,2 @@
-["physiognomy","facial features"]
+physiognomy
+facial features

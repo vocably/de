@@ -1,1 +1,2 @@
-["troublemaking","disruptive"]
+troublemaking
+disruptive

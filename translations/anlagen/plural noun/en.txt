@@ -1,1 +1,3 @@
-["facilities","talents","investments"]
+facilities
+talents
+investments

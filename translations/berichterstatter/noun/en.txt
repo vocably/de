@@ -1,1 +1,2 @@
-["reporter","rapporteur"]
+reporter
+rapporteur

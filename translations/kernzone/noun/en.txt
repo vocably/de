@@ -1,1 +1,2 @@
-["core zone","buffer zone"]
+core zone
+buffer zone

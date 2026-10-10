@@ -1,1 +1,2 @@
-["to be accommodated","to be housed"]
+to be accommodated
+to be housed

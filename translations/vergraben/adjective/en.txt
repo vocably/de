@@ -1,1 +1,3 @@
-["buried","interred","secluded"]
+buried
+interred
+secluded

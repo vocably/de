@@ -1,1 +1,2 @@
-["prophecy","divination"]
+prophecy
+divination

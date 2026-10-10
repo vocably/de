@@ -1,1 +1,2 @@
-["user configurations","user settings"]
+user configurations
+user settings

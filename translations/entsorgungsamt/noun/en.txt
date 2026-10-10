@@ -1,1 +1,2 @@
-["waste management department","sanitation department"]
+waste management department
+sanitation department

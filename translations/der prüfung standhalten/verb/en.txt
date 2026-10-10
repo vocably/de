@@ -1,1 +1,2 @@
-["to pass the test","to stand up to the test"]
+to pass the test
+to stand up to the test

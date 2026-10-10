@@ -1,1 +1,3 @@
-["be clogged","be blocked","be constipated"]
+be clogged
+be blocked
+be constipated

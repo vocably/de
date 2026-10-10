@@ -1,1 +1,2 @@
-["waste incineration plant","incinerator"]
+waste incineration plant
+incinerator

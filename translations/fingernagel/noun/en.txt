@@ -1,1 +1,2 @@
-["fingernail","nail"]
+fingernail
+nail

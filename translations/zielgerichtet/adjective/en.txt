@@ -1,1 +1,2 @@
-["goal-oriented","purposeful"]
+goal-oriented
+purposeful

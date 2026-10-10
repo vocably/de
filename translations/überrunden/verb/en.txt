@@ -1,1 +1,2 @@
-["to lap","to outstrip"]
+to lap
+to outstrip

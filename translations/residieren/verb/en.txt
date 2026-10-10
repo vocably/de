@@ -1,1 +1,2 @@
-["reside","be enthroned"]
+reside
+be enthroned

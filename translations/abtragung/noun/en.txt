@@ -1,1 +1,3 @@
-["removal","erosion","discharge"]
+removal
+erosion
+discharge

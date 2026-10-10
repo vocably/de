@@ -1,1 +1,3 @@
-["to crouch","to squat","to huddle"]
+to crouch
+to squat
+to huddle

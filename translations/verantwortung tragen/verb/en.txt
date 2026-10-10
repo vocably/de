@@ -1,1 +1,2 @@
-["bear responsibility","take responsibility"]
+bear responsibility
+take responsibility

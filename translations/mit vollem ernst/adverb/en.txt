@@ -1,1 +1,2 @@
-["in all seriousness","with all due seriousness"]
+in all seriousness
+with all due seriousness

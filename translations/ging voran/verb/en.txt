@@ -1,1 +1,3 @@
-["went ahead","led the way","made progress"]
+went ahead
+led the way
+made progress

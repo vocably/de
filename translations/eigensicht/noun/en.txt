@@ -1,1 +1,2 @@
-["self-perception","own perspective"]
+self-perception
+own perspective

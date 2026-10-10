@@ -1,1 +1,3 @@
-["staring","gawking","gaping"]
+staring
+gawking
+gaping

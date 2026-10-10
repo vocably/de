@@ -1,1 +1,3 @@
-["cumbersome","awkward","roundabout"]
+cumbersome
+awkward
+roundabout

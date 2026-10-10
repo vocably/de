@@ -1,1 +1,2 @@
-["disagree","not agree"]
+disagree
+not agree

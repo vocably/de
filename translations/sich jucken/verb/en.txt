@@ -1,1 +1,2 @@
-["to itch","to bother"]
+to itch
+to bother

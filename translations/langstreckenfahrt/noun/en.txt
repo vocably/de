@@ -1,1 +1,2 @@
-["long-distance drive","long haul"]
+long-distance drive
+long haul

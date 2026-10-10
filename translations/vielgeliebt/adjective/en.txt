@@ -1,1 +1,2 @@
-["much loved","beloved"]
+much loved
+beloved

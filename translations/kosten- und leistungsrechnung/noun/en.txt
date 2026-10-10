@@ -1,1 +1,2 @@
-["cost and management accounting","cost accounting"]
+cost and management accounting
+cost accounting

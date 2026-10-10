@@ -1,1 +1,2 @@
-["administrative assistant","office assistant"]
+administrative assistant
+office assistant

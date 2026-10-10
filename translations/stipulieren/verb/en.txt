@@ -1,1 +1,2 @@
-["stipulate","stipulated"]
+stipulate
+stipulated

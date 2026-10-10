@@ -1,1 +1,2 @@
-["one-year-old","annual"]
+one-year-old
+annual

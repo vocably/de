@@ -1,1 +1,3 @@
-["drive crazy","make angry","go crazy for"]
+drive crazy
+make angry
+go crazy for

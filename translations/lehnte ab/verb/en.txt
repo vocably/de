@@ -1,1 +1,3 @@
-["rejected","refused","declined"]
+rejected
+refused
+declined

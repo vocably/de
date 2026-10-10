@@ -1,1 +1,3 @@
-["of importance","of consequence","of relevance"]
+of importance
+of consequence
+of relevance

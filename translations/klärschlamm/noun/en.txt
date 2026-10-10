@@ -1,1 +1,2 @@
-["sewage sludge","biosolids"]
+sewage sludge
+biosolids

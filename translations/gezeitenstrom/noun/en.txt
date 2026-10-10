@@ -1,1 +1,2 @@
-["tidal current","tidal stream"]
+tidal current
+tidal stream

@@ -1,1 +1,2 @@
-["movie projector","film projector"]
+movie projector
+film projector

@@ -1,1 +1,3 @@
-["grumpy","sullen","morose"]
+grumpy
+sullen
+morose

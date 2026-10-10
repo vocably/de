@@ -1,1 +1,3 @@
-["Get out!","Go away!","Beat it!"]
+Get out!
+Go away!
+Beat it!

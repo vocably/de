@@ -1,1 +1,2 @@
-["to prevent","to avoid"]
+to prevent
+to avoid

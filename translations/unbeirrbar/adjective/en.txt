@@ -1,1 +1,2 @@
-["steadfast","unswerving"]
+steadfast
+unswerving

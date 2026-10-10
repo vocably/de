@@ -1,1 +1,2 @@
-["basic need","fundamental need"]
+basic need
+fundamental need

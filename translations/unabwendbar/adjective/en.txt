@@ -1,1 +1,2 @@
-["inevitable","unavoidable"]
+inevitable
+unavoidable

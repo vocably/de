@@ -1,1 +1,2 @@
-["twinlike","geminate"]
+twinlike
+geminate

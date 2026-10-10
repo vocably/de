@@ -1,1 +1,3 @@
-["producing","manufacturing","restoring"]
+producing
+manufacturing
+restoring

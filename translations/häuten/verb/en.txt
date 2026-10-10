@@ -1,1 +1,2 @@
-["to peel","to shed"]
+to peel
+to shed

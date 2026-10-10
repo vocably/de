@@ -1,1 +1,3 @@
-["borders on","is adjacent to","verges on"]
+borders on
+is adjacent to
+verges on

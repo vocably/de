@@ -1,1 +1,2 @@
-["stale","old-fashioned"]
+stale
+old-fashioned

@@ -1,1 +1,2 @@
-["final boss","end boss"]
+final boss
+end boss

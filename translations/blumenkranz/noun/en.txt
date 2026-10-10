@@ -1,1 +1,2 @@
-["flower wreath","floral wreath"]
+flower wreath
+floral wreath

@@ -1,1 +1,2 @@
-["takeout","take-away"]
+takeout
+take-away

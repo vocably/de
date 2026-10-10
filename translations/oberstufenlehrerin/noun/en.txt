@@ -1,1 +1,2 @@
-["senior high school teacher","upper school teacher"]
+senior high school teacher
+upper school teacher

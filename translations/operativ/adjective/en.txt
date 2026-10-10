@@ -1,1 +1,2 @@
-["operative","surgical"]
+operative
+surgical

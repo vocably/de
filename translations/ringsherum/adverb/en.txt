@@ -1,1 +1,2 @@
-["around","all around"]
+around
+all around

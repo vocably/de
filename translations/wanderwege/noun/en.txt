@@ -1,1 +1,2 @@
-["hiking trails","walking trails"]
+hiking trails
+walking trails

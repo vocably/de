@@ -1,1 +1,2 @@
-["quarreled","fell out"]
+quarreled
+fell out

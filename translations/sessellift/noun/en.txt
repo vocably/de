@@ -1,1 +1,2 @@
-["chairlift","chair lift"]
+chairlift
+chair lift

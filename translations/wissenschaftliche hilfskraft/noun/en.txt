@@ -1,1 +1,2 @@
-["research assistant","student assistant"]
+research assistant
+student assistant

@@ -1,1 +1,2 @@
-["finance","financial system"]
+finance
+financial system

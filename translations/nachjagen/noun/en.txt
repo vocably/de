@@ -1,1 +1,2 @@
-["pursuit","chase"]
+pursuit
+chase

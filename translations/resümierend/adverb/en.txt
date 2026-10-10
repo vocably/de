@@ -1,1 +1,2 @@
-["in summary","in conclusion"]
+in summary
+in conclusion

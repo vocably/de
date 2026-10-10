@@ -1,1 +1,3 @@
-["remained","stayed","abode"]
+remained
+stayed
+abode

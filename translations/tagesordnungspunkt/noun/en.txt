@@ -1,1 +1,2 @@
-["agenda item","point on the agenda"]
+agenda item
+point on the agenda

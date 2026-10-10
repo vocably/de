@@ -1,1 +1,2 @@
-["greet each other","say hello to each other"]
+greet each other
+say hello to each other

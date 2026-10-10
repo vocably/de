@@ -1,1 +1,2 @@
-["confirmed","strengthened"]
+confirmed
+strengthened

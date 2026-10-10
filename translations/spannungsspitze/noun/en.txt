@@ -1,1 +1,2 @@
-["voltage spike","power surge"]
+voltage spike
+power surge

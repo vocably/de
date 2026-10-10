@@ -1,1 +1,2 @@
-["feel miserable","feel wretched"]
+feel miserable
+feel wretched

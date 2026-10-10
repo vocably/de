@@ -1,1 +1,2 @@
-["waste separation","waste sorting"]
+waste separation
+waste sorting

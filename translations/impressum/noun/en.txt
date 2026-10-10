@@ -1,1 +1,2 @@
-["imprint","masthead"]
+imprint
+masthead

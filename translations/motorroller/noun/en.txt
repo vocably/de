@@ -1,1 +1,2 @@
-["motor scooter","scooter"]
+motor scooter
+scooter

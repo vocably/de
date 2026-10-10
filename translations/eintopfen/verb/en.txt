@@ -1,1 +1,2 @@
-["to pot","to stew"]
+to pot
+to stew

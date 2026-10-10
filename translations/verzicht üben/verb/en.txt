@@ -1,1 +1,2 @@
-["to do without","to abstain"]
+to do without
+to abstain

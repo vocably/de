@@ -1,1 +1,2 @@
-["burglar alarm","intrusion alarm"]
+burglar alarm
+intrusion alarm

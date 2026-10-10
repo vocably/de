@@ -1,1 +1,2 @@
-["beetroot","beet"]
+beetroot
+beet

@@ -1,1 +1,2 @@
-["sparkling water","seltzer"]
+sparkling water
+seltzer

@@ -1,1 +1,2 @@
-["bogeyman","bugbear"]
+bogeyman
+bugbear

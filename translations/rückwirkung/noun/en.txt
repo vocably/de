@@ -1,1 +1,2 @@
-["retroactive effect","retrospection"]
+retroactive effect
+retrospection

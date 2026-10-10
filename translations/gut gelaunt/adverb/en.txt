@@ -1,1 +1,2 @@
-["in a good mood","cheerful"]
+in a good mood
+cheerful

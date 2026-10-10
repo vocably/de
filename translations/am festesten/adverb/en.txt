@@ -1,1 +1,2 @@
-["firmest","tightest"]
+firmest
+tightest

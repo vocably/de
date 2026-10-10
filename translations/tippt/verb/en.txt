@@ -1,1 +1,3 @@
-["types","taps","guesses"]
+types
+taps
+guesses

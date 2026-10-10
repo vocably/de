@@ -1,1 +1,3 @@
-["oriented","guided","aligned"]
+oriented
+guided
+aligned

@@ -1,1 +1,3 @@
-["to be as pleased as Punch","to be as happy as a clam","to be as pleased as a dog with two tails"]
+to be as pleased as Punch
+to be as happy as a clam
+to be as pleased as a dog with two tails

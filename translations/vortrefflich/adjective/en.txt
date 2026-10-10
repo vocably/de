@@ -1,1 +1,2 @@
-["excellent","splendid"]
+excellent
+splendid

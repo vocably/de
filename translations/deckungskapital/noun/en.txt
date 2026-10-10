@@ -1,1 +1,2 @@
-["coverage capital","technical provisions"]
+coverage capital
+technical provisions

@@ -1,1 +1,2 @@
-["in the direction of","towards"]
+in the direction of
+towards

@@ -1,1 +1,2 @@
-["run around","walk around"]
+run around
+walk around

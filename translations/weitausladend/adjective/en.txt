@@ -1,1 +1,2 @@
-["voluminous","wide-sweeping"]
+voluminous
+wide-sweeping

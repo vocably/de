@@ -1,1 +1,2 @@
-["tournament","joust"]
+tournament
+joust

@@ -1,1 +1,2 @@
-["argue with me","quarrel with me"]
+argue with me
+quarrel with me

@@ -1,1 +1,2 @@
-["footprint","base"]
+footprint
+base

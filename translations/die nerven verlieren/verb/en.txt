@@ -1,1 +1,3 @@
-["lose one's nerve","lose one's temper","panic"]
+lose one's nerve
+lose one's temper
+panic

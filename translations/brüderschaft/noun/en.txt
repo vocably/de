@@ -1,1 +1,2 @@
-["brotherhood","fraternity"]
+brotherhood
+fraternity

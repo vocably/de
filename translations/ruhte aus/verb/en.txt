@@ -1,1 +1,3 @@
-["rested","took a break","relaxed"]
+rested
+took a break
+relaxed

@@ -1,1 +1,2 @@
-["to make a typo","to make a spelling mistake"]
+to make a typo
+to make a spelling mistake

@@ -1,1 +1,2 @@
-["change of direction","course correction"]
+change of direction
+course correction

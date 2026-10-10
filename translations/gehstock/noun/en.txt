@@ -1,1 +1,2 @@
-["walking stick","cane"]
+walking stick
+cane

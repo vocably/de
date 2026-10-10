@@ -1,1 +1,2 @@
-["head of government","prime minister"]
+head of government
+prime minister

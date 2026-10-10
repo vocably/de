@@ -1,1 +1,1 @@
-["medical emergency"]
+medical emergency

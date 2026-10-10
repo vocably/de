@@ -1,1 +1,3 @@
-["sailor","yachtsman","swift"]
+sailor
+yachtsman
+swift

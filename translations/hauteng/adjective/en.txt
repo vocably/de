@@ -1,1 +1,2 @@
-["skin-tight","tight-fitting"]
+skin-tight
+tight-fitting

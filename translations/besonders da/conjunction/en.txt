@@ -1,1 +1,2 @@
-["especially since","especially as"]
+especially since
+especially as

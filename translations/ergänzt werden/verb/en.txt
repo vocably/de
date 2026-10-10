@@ -1,1 +1,3 @@
-["to be supplemented","to be added","to be completed"]
+to be supplemented
+to be added
+to be completed

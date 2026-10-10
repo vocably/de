@@ -1,1 +1,2 @@
-["filthiest","dirtiest"]
+filthiest
+dirtiest

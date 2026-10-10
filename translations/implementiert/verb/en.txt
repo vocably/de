@@ -1,1 +1,2 @@
-["implemented","put into practice"]
+implemented
+put into practice

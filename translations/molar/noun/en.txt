@@ -1,1 +1,2 @@
-["molar","molar tooth"]
+molar
+molar tooth

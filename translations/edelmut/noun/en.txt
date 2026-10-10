@@ -1,1 +1,2 @@
-["nobility","generosity"]
+nobility
+generosity

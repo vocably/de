@@ -1,1 +1,3 @@
-["constitution","physique","composition"]
+constitution
+physique
+composition

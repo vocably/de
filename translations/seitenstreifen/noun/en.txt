@@ -1,1 +1,2 @@
-["shoulder","hard shoulder"]
+shoulder
+hard shoulder

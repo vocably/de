@@ -1,1 +1,2 @@
-["fireplace tools","fire irons"]
+fireplace tools
+fire irons

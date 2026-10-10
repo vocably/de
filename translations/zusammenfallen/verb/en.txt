@@ -1,1 +1,3 @@
-["coincide","collapse","agree"]
+coincide
+collapse
+agree

@@ -1,1 +1,2 @@
-["ways","manners"]
+ways
+manners

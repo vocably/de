@@ -1,1 +1,2 @@
-["privately","in private"]
+privately
+in private

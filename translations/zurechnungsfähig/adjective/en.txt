@@ -1,1 +1,2 @@
-["sane","of sound mind"]
+sane
+of sound mind

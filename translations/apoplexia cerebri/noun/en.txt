@@ -1,1 +1,2 @@
-["stroke","cerebral apoplexy"]
+stroke
+cerebral apoplexy

@@ -1,1 +1,2 @@
-["gourmet","foodie"]
+gourmet
+foodie

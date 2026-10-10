@@ -1,1 +1,2 @@
-["resolute","determined"]
+resolute
+determined

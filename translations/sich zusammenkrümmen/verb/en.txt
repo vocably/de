@@ -1,1 +1,2 @@
-["to curl up","to huddle up"]
+to curl up
+to huddle up

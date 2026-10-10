@@ -1,1 +1,3 @@
-["bent over","leaned over","bowed"]
+bent over
+leaned over
+bowed

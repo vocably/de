@@ -1,1 +1,2 @@
-["household waste","domestic waste"]
+household waste
+domestic waste

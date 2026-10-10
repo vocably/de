@@ -1,1 +1,3 @@
-["clarified","cleared up","settled"]
+clarified
+cleared up
+settled

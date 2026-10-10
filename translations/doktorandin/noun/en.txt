@@ -1,1 +1,2 @@
-["doctoral candidate","PhD student"]
+doctoral candidate
+PhD student

@@ -1,1 +1,3 @@
-["to be interested","to be keen on","to be curious about"]
+to be interested
+to be keen on
+to be curious about

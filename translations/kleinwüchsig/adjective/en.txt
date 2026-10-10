@@ -1,1 +1,2 @@
-["dwarfish","undersized"]
+dwarfish
+undersized

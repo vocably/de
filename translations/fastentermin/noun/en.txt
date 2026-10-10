@@ -1,1 +1,2 @@
-["fasting date","date for fasting"]
+fasting date
+date for fasting

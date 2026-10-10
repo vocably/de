@@ -1,1 +1,2 @@
-["feast","dine"]
+feast
+dine

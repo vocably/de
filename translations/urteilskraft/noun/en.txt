@@ -1,1 +1,2 @@
-["judgment","discernment"]
+judgment
+discernment

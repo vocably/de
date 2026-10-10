@@ -1,1 +1,2 @@
-["cardinal point","crucial point"]
+cardinal point
+crucial point

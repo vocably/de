@@ -1,1 +1,2 @@
-["self-image","self-conception"]
+self-image
+self-conception

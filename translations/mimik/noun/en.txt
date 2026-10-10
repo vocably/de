@@ -1,1 +1,2 @@
-["facial expression","mimicry"]
+facial expression
+mimicry

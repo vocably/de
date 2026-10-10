@@ -1,1 +1,3 @@
-["erased","paid off","deleted"]
+erased
+paid off
+deleted

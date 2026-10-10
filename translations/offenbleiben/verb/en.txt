@@ -1,1 +1,3 @@
-["remain open","stay open","be left open"]
+remain open
+stay open
+be left open

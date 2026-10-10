@@ -1,1 +1,3 @@
-["sophisticated","elaborate","refined"]
+sophisticated
+elaborate
+refined

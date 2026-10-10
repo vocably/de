@@ -1,1 +1,2 @@
-["terrapin","freshwater turtle"]
+terrapin
+freshwater turtle

@@ -1,1 +1,1 @@
-["omnipresent"]
+omnipresent

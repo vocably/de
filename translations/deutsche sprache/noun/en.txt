@@ -1,1 +1,2 @@
-["German language","German"]
+German language
+German

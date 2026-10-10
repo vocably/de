@@ -1,1 +1,2 @@
-["heroic saga","heroic legend"]
+heroic saga
+heroic legend

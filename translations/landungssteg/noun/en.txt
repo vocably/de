@@ -1,1 +1,2 @@
-["pier","landing stage"]
+pier
+landing stage

@@ -1,1 +1,2 @@
-["piece of furniture","item of furniture"]
+piece of furniture
+item of furniture

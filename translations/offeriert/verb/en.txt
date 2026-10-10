@@ -1,1 +1,2 @@
-["offered","proposed"]
+offered
+proposed

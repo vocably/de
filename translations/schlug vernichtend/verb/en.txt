@@ -1,1 +1,2 @@
-["defeated","crushed"]
+defeated
+crushed

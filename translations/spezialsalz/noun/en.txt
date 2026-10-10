@@ -1,1 +1,2 @@
-["special salt","specialty salt"]
+special salt
+specialty salt

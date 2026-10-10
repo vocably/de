@@ -1,1 +1,2 @@
-["decade","ten-year period"]
+decade
+ten-year period

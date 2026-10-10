@@ -1,1 +1,2 @@
-["nimble","agile"]
+nimble
+agile

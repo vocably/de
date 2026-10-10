@@ -1,1 +1,2 @@
-["unsociable","antisocial"]
+unsociable
+antisocial

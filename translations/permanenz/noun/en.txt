@@ -1,1 +1,2 @@
-["permanence","constancy"]
+permanence
+constancy

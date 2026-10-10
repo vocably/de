@@ -1,1 +1,2 @@
-["rite","ritual"]
+rite
+ritual

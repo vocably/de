@@ -1,1 +1,2 @@
-["meagerly","scantily"]
+meagerly
+scantily

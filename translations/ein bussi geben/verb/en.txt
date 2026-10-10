@@ -1,1 +1,2 @@
-["give a kiss","give a peck"]
+give a kiss
+give a peck

@@ -1,1 +1,2 @@
-["boarded up","dense"]
+boarded up
+dense

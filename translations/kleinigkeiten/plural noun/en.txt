@@ -1,1 +1,3 @@
-["trifles","small things","minor details"]
+trifles
+small things
+minor details

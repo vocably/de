@@ -1,1 +1,2 @@
-["disintegration","breakup"]
+disintegration
+breakup

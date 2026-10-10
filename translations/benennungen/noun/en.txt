@@ -1,1 +1,2 @@
-["designations","names"]
+designations
+names

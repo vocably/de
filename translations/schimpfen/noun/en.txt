@@ -1,1 +1,2 @@
-["scolding","ranting"]
+scolding
+ranting

@@ -1,1 +1,2 @@
-["stood out","cut off"]
+stood out
+cut off

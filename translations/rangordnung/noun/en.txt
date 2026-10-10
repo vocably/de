@@ -1,1 +1,2 @@
-["hierarchy","pecking order"]
+hierarchy
+pecking order

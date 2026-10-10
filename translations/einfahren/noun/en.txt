@@ -1,1 +1,3 @@
-["running-in","harvesting","entering"]
+running-in
+harvesting
+entering

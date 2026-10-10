@@ -1,1 +1,2 @@
-["procurable","obtainable"]
+procurable
+obtainable

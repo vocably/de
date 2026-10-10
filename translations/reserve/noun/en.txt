@@ -1,1 +1,3 @@
-["reserve","stock","backup"]
+reserve
+stock
+backup

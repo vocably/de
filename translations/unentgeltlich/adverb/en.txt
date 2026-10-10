@@ -1,1 +1,3 @@
-["free of charge","for free","without charge"]
+free of charge
+for free
+without charge

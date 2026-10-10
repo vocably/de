@@ -1,1 +1,2 @@
-["reach a peak","reach a high"]
+reach a peak
+reach a high

@@ -1,1 +1,2 @@
-["is part of it","comes with the territory"]
+is part of it
+comes with the territory

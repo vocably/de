@@ -1,1 +1,3 @@
-["calculated","computed","reckoned"]
+calculated
+computed
+reckoned

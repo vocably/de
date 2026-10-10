@@ -1,1 +1,2 @@
-["beg","sit up"]
+beg
+sit up

@@ -1,1 +1,2 @@
-["barks","snaps"]
+barks
+snaps

@@ -1,1 +1,2 @@
-["frankfurter","Frankfurt native"]
+frankfurter
+Frankfurt native

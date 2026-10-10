@@ -1,1 +1,2 @@
-["clumsiness","awkwardness"]
+clumsiness
+awkwardness

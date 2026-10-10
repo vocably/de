@@ -1,1 +1,2 @@
-["contribute to","chip in"]
+contribute to
+chip in

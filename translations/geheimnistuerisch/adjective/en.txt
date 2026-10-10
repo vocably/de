@@ -1,1 +1,2 @@
-["secretive","mysterious"]
+secretive
+mysterious

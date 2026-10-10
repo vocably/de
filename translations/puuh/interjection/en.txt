@@ -1,1 +1,3 @@
-["phew","oof","ugh"]
+phew
+oof
+ugh

@@ -1,1 +1,2 @@
-["cared for","looked after"]
+cared for
+looked after

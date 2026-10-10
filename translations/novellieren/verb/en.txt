@@ -1,1 +1,2 @@
-["amend","revise"]
+amend
+revise

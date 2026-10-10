@@ -1,1 +1,2 @@
-["room divider","room screen"]
+room divider
+room screen

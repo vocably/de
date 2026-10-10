@@ -1,1 +1,2 @@
-["to zip","to unzip"]
+to zip
+to unzip

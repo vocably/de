@@ -1,1 +1,2 @@
-["mountain range","massif"]
+mountain range
+massif

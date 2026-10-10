@@ -1,1 +1,3 @@
-["networked","interconnected","integrated"]
+networked
+interconnected
+integrated

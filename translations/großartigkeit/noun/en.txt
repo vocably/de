@@ -1,1 +1,2 @@
-["greatness","magnificence"]
+greatness
+magnificence

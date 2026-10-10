@@ -1,1 +1,2 @@
-["wagged","waved"]
+wagged
+waved

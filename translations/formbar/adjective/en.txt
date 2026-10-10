@@ -1,1 +1,2 @@
-["moldable","pliable"]
+moldable
+pliable

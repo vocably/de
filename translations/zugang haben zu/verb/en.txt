@@ -1,1 +1,2 @@
-["have access to","have a right to enter"]
+have access to
+have a right to enter

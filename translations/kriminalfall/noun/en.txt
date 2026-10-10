@@ -1,1 +1,2 @@
-["criminal case","crime case"]
+criminal case
+crime case

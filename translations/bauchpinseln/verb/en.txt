@@ -1,1 +1,2 @@
-["to butter up","to flatter"]
+to butter up
+to flatter

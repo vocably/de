@@ -1,1 +1,2 @@
-["to evolve","to develop"]
+to evolve
+to develop

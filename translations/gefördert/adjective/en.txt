@@ -1,1 +1,3 @@
-["funded","sponsored","promoted"]
+funded
+sponsored
+promoted

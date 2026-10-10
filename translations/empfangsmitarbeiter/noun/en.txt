@@ -1,1 +1,2 @@
-["receptionist","front desk clerk"]
+receptionist
+front desk clerk

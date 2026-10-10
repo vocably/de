@@ -1,1 +1,2 @@
-["malicious","spiteful"]
+malicious
+spiteful

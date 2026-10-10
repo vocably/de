@@ -1,1 +1,1 @@
-["video projector"]
+video projector

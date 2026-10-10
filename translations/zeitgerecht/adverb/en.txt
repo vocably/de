@@ -1,1 +1,2 @@
-["on time","in good time"]
+on time
+in good time

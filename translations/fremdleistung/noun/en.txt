@@ -1,1 +1,2 @@
-["outsourcing","external service"]
+outsourcing
+external service

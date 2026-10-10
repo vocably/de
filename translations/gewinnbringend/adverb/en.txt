@@ -1,1 +1,2 @@
-["profitably","lucratively"]
+profitably
+lucratively

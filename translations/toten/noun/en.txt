@@ -1,1 +1,2 @@
-["the dead","dead people"]
+the dead
+dead people

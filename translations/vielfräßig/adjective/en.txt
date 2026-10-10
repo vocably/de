@@ -1,1 +1,2 @@
-["gluttonous","greedy"]
+gluttonous
+greedy

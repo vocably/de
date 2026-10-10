@@ -1,1 +1,2 @@
-["relocate","resettle"]
+relocate
+resettle

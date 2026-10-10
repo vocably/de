@@ -1,1 +1,2 @@
-["danger of ticks","risk of ticks"]
+danger of ticks
+risk of ticks

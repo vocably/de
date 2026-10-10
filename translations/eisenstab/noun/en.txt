@@ -1,1 +1,2 @@
-["iron rod","crowbar"]
+iron rod
+crowbar

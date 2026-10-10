@@ -1,1 +1,2 @@
-["rearm","rebuild their armed forces"]
+rearm
+rebuild their armed forces

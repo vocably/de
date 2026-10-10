@@ -1,1 +1,2 @@
-["private citizen","private individual"]
+private citizen
+private individual

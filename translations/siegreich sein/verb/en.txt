@@ -1,1 +1,2 @@
-["to be victorious","to be successful"]
+to be victorious
+to be successful

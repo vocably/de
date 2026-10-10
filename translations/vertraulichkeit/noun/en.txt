@@ -1,1 +1,2 @@
-["confidentiality","privacy"]
+confidentiality
+privacy

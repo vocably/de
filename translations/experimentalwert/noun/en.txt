@@ -1,1 +1,2 @@
-["experimental value","empirical value"]
+experimental value
+empirical value

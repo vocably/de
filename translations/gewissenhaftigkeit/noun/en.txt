@@ -1,1 +1,2 @@
-["conscientiousness","diligence"]
+conscientiousness
+diligence

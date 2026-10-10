@@ -1,1 +1,2 @@
-["wine shop","wine cellar"]
+wine shop
+wine cellar

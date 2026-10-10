@@ -1,1 +1,2 @@
-["fade in","superimpose"]
+fade in
+superimpose

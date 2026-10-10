@@ -1,1 +1,2 @@
-["trellis","lattice"]
+trellis
+lattice

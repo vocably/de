@@ -1,1 +1,1 @@
-["vertically"]
+vertically

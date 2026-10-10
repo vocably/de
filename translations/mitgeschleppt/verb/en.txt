@@ -1,1 +1,2 @@
-["dragged along","hauled along"]
+dragged along
+hauled along

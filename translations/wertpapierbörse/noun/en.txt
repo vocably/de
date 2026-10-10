@@ -1,1 +1,2 @@
-["stock exchange","securities exchange"]
+stock exchange
+securities exchange

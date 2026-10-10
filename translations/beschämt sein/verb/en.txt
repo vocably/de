@@ -1,1 +1,2 @@
-["to be ashamed","to be embarrassed"]
+to be ashamed
+to be embarrassed

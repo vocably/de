@@ -1,1 +1,2 @@
-["take time","cost time"]
+take time
+cost time

@@ -1,1 +1,2 @@
-["remainder","division remainder"]
+remainder
+division remainder

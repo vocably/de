@@ -1,1 +1,2 @@
-["newsman","paperboy"]
+newsman
+paperboy

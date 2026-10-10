@@ -1,1 +1,2 @@
-["call attention to","point out"]
+call attention to
+point out

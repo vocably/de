@@ -1,1 +1,2 @@
-["artificial vulnerability","intentional flaw"]
+artificial vulnerability
+intentional flaw

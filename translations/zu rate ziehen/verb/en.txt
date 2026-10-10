@@ -1,1 +1,2 @@
-["consult","refer to"]
+consult
+refer to

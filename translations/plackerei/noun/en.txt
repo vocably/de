@@ -1,1 +1,2 @@
-["drudgery","toil"]
+drudgery
+toil

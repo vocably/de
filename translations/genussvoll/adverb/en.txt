@@ -1,1 +1,2 @@
-["enjoyably","with pleasure"]
+enjoyably
+with pleasure

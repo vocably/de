@@ -1,1 +1,2 @@
-["I don't care","Who cares"]
+I don't care
+Who cares

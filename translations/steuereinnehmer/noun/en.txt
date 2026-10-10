@@ -1,1 +1,2 @@
-["tax collector","revenue officer"]
+tax collector
+revenue officer

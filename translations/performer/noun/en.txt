@@ -1,1 +1,2 @@
-["performer","artist"]
+performer
+artist

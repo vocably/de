@@ -1,1 +1,2 @@
-["crossings","traversals"]
+crossings
+traversals

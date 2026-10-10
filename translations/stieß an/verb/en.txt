@@ -1,1 +1,3 @@
-["bumped into","offended","toasted"]
+bumped into
+offended
+toasted

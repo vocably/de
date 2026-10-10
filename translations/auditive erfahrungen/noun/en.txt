@@ -1,1 +1,2 @@
-["auditory experiences","aural experiences"]
+auditory experiences
+aural experiences

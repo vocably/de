@@ -1,1 +1,2 @@
-["to plant","to implant"]
+to plant
+to implant

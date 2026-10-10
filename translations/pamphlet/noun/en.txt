@@ -1,1 +1,2 @@
-["pamphlet","tract"]
+pamphlet
+tract

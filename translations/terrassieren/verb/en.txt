@@ -1,1 +1,2 @@
-["to terrace","to cut into terraces"]
+to terrace
+to cut into terraces

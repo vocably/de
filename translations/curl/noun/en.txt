@@ -1,1 +1,2 @@
-["curl","bicep curl"]
+curl
+bicep curl

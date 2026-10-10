@@ -1,1 +1,2 @@
-["V-neck","V-neckline"]
+V-neck
+V-neckline

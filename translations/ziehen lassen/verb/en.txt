@@ -1,1 +1,2 @@
-["to let steep","to let rest"]
+to let steep
+to let rest

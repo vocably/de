@@ -1,1 +1,2 @@
-["contact points","points of contact"]
+contact points
+points of contact

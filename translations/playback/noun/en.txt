@@ -1,1 +1,2 @@
-["playback","lip-sync"]
+playback
+lip-sync

@@ -1,1 +1,2 @@
-["whitewash","distemper"]
+whitewash
+distemper

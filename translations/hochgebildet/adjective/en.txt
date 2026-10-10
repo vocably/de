@@ -1,1 +1,2 @@
-["highly educated","erudite"]
+highly educated
+erudite

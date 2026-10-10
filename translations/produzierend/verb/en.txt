@@ -1,1 +1,2 @@
-["producing","manufacturing"]
+producing
+manufacturing

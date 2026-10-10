@@ -1,1 +1,2 @@
-["sweets","candy"]
+sweets
+candy

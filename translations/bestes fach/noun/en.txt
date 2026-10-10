@@ -1,1 +1,2 @@
-["best subject","favorite subject"]
+best subject
+favorite subject

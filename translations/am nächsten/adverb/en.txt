@@ -1,1 +1,3 @@
-["next","closest","nearest"]
+next
+closest
+nearest

@@ -1,1 +1,2 @@
-["to resign","to give up"]
+to resign
+to give up

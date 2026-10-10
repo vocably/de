@@ -1,1 +1,2 @@
-["apologize for","excuse for"]
+apologize for
+excuse for

@@ -1,1 +1,2 @@
-["rascals","cookies"]
+rascals
+cookies

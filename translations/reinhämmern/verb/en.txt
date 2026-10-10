@@ -1,1 +1,2 @@
-["hammer in","drill into"]
+hammer in
+drill into

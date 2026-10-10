@@ -1,1 +1,3 @@
-["spoils","pampers","indulges"]
+spoils
+pampers
+indulges

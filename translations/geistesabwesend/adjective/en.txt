@@ -1,1 +1,2 @@
-["absent-minded","distracted"]
+absent-minded
+distracted

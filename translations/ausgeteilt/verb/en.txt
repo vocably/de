@@ -1,1 +1,2 @@
-["dealt","distributed"]
+dealt
+distributed

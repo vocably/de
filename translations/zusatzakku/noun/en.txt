@@ -1,1 +1,2 @@
-["extended battery","power bank"]
+extended battery
+power bank

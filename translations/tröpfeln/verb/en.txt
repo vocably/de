@@ -1,1 +1,2 @@
-["drip","trickle"]
+drip
+trickle

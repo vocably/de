@@ -1,1 +1,2 @@
-["sneeze","sneezing"]
+sneeze
+sneezing

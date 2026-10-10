@@ -1,1 +1,2 @@
-["precisely","accurately"]
+precisely
+accurately

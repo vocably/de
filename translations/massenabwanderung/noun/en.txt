@@ -1,1 +1,2 @@
-["mass exodus","mass emigration"]
+mass exodus
+mass emigration

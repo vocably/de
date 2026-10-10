@@ -1,1 +1,2 @@
-["diagonally opposite","kitty-corner"]
+diagonally opposite
+kitty-corner

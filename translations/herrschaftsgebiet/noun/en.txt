@@ -1,1 +1,2 @@
-["dominion","territory"]
+dominion
+territory

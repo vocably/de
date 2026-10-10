@@ -1,1 +1,2 @@
-["trip abroad","foreign trip"]
+trip abroad
+foreign trip

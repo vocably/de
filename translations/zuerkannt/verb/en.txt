@@ -1,1 +1,2 @@
-["awarded","granted"]
+awarded
+granted

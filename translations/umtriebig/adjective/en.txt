@@ -1,1 +1,3 @@
-["busy","active","restless"]
+busy
+active
+restless

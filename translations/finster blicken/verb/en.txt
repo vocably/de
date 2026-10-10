@@ -1,1 +1,2 @@
-["to look daggers","to scowl"]
+to look daggers
+to scowl

@@ -1,1 +1,3 @@
-["rejection","fault","discarding"]
+rejection
+fault
+discarding

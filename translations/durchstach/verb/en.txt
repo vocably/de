@@ -1,1 +1,3 @@
-["pierced","stabbed","perforated"]
+pierced
+stabbed
+perforated

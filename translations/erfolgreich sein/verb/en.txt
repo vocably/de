@@ -1,1 +1,3 @@
-["to be successful","to succeed","to be a success"]
+to be successful
+to succeed
+to be a success

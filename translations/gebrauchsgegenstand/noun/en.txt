@@ -1,1 +1,2 @@
-["utility item","article of daily use"]
+utility item
+article of daily use

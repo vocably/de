@@ -1,1 +1,2 @@
-["mental disorder","psychological disorder"]
+mental disorder
+psychological disorder

@@ -1,1 +1,2 @@
-["inhibit","suppress"]
+inhibit
+suppress

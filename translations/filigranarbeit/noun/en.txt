@@ -1,1 +1,2 @@
-["filigree work","delicate work"]
+filigree work
+delicate work

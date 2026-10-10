@@ -1,1 +1,2 @@
-["noise sensitivity","sound sensitivity"]
+noise sensitivity
+sound sensitivity

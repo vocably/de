@@ -1,1 +1,2 @@
-["suitability","fitness"]
+suitability
+fitness

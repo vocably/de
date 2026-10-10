@@ -1,1 +1,2 @@
-["revolving","recurring"]
+revolving
+recurring

@@ -1,1 +1,2 @@
-["estimated","valued"]
+estimated
+valued

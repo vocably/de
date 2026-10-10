@@ -1,1 +1,2 @@
-["lifeline","safety line"]
+lifeline
+safety line

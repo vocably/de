@@ -1,1 +1,2 @@
-["enabling","facilitation"]
+enabling
+facilitation

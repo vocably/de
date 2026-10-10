@@ -1,1 +1,2 @@
-["shopping street","shopping mile"]
+shopping street
+shopping mile

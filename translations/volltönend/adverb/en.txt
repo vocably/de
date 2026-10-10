@@ -1,1 +1,2 @@
-["sonorously","resoundingly"]
+sonorously
+resoundingly

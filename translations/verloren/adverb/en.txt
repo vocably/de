@@ -1,1 +1,3 @@
-["lost","forlorn","wasted"]
+lost
+forlorn
+wasted

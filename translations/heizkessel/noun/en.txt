@@ -1,1 +1,2 @@
-["boiler","furnace"]
+boiler
+furnace

@@ -1,1 +1,2 @@
-["to value","to attach importance to"]
+to value
+to attach importance to

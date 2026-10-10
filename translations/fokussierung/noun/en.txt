@@ -1,1 +1,2 @@
-["focusing","sharpening"]
+focusing
+sharpening

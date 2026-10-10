@@ -1,1 +1,2 @@
-["went crazy","flipped out"]
+went crazy
+flipped out

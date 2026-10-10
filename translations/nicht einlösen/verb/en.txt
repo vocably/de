@@ -1,1 +1,2 @@
-["not redeem","not fulfill"]
+not redeem
+not fulfill

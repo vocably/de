@@ -1,1 +1,2 @@
-["underwear","undergarments"]
+underwear
+undergarments

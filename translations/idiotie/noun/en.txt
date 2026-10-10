@@ -1,1 +1,2 @@
-["idiocy","folly"]
+idiocy
+folly

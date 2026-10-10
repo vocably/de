@@ -1,1 +1,2 @@
-["footbridge","small bridge"]
+footbridge
+small bridge

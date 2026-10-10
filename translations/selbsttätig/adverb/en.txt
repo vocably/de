@@ -1,1 +1,2 @@
-["automatically","of its own accord"]
+automatically
+of its own accord

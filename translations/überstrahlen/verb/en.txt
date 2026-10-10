@@ -1,1 +1,2 @@
-["outshine","overshadow"]
+outshine
+overshadow

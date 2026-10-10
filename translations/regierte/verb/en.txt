@@ -1,1 +1,3 @@
-["ruled","governed","reigned"]
+ruled
+governed
+reigned

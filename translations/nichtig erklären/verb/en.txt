@@ -1,1 +1,3 @@
-["annul","nullify","declare null and void"]
+annul
+nullify
+declare null and void

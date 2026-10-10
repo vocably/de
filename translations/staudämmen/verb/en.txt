@@ -1,1 +1,2 @@
-["to dam","to build a dam"]
+to dam
+to build a dam

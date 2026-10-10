@@ -1,1 +1,2 @@
-["resurrected","risen"]
+resurrected
+risen

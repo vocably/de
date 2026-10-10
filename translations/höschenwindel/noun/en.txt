@@ -1,1 +1,2 @@
-["pull-up diaper","training pants"]
+pull-up diaper
+training pants

@@ -1,1 +1,2 @@
-["course of study","study plan"]
+course of study
+study plan

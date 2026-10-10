@@ -1,1 +1,2 @@
-["dissonant","conflicting"]
+dissonant
+conflicting

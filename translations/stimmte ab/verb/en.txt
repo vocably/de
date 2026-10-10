@@ -1,1 +1,2 @@
-["voted","cast a ballot"]
+voted
+cast a ballot

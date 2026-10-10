@@ -1,1 +1,2 @@
-["from which","of which"]
+from which
+of which

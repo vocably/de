@@ -1,1 +1,2 @@
-["desalination plant","desalinization plant"]
+desalination plant
+desalinization plant

@@ -1,1 +1,2 @@
-["tuition fees","tuition"]
+tuition fees
+tuition

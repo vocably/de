@@ -1,1 +1,2 @@
-["network node","node"]
+network node
+node

@@ -1,1 +1,2 @@
-["reservoir","storage tank"]
+reservoir
+storage tank

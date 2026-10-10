@@ -1,1 +1,2 @@
-["narcotic","anesthetic"]
+narcotic
+anesthetic

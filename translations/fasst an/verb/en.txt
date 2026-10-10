@@ -1,1 +1,2 @@
-["touches","tackles"]
+touches
+tackles

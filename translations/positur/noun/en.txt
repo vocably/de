@@ -1,1 +1,2 @@
-["posture","pose"]
+posture
+pose

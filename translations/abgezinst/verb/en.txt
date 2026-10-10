@@ -1,1 +1,2 @@
-["discounted","reduced"]
+discounted
+reduced

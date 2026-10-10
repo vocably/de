@@ -1,1 +1,2 @@
-["team-related","team-based"]
+team-related
+team-based

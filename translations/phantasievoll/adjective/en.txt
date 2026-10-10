@@ -1,1 +1,3 @@
-["imaginative","creative","fanciful"]
+imaginative
+creative
+fanciful

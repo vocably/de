@@ -1,1 +1,2 @@
-["Too bad!","Darn it!"]
+Too bad!
+Darn it!

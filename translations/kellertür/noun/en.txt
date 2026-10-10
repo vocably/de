@@ -1,1 +1,2 @@
-["cellar door","basement door"]
+cellar door
+basement door

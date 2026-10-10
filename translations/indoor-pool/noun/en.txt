@@ -1,1 +1,2 @@
-["indoor pool","indoor swimming pool"]
+indoor pool
+indoor swimming pool

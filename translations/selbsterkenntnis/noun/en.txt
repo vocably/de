@@ -1,1 +1,2 @@
-["self-knowledge","self-realization"]
+self-knowledge
+self-realization

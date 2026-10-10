@@ -1,1 +1,3 @@
-["to host","to give a party","to run"]
+to host
+to give a party
+to run

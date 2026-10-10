@@ -1,1 +1,2 @@
-["to be disturbed","to be crazy"]
+to be disturbed
+to be crazy

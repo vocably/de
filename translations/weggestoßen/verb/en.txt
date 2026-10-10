@@ -1,1 +1,2 @@
-["pushed away","repelled"]
+pushed away
+repelled

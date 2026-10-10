@@ -1,1 +1,2 @@
-["public holiday","legal holiday"]
+public holiday
+legal holiday

@@ -1,1 +1,2 @@
-["coup","coup d'état"]
+coup
+coup d'état

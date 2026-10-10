@@ -1,1 +1,2 @@
-["to tease","to fool"]
+to tease
+to fool

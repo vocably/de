@@ -1,1 +1,2 @@
-["to reach","to befall"]
+to reach
+to befall

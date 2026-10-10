@@ -1,1 +1,2 @@
-["installing","setting up"]
+installing
+setting up

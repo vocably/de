@@ -1,1 +1,2 @@
-["update","upgrade"]
+update
+upgrade

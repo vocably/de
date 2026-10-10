@@ -1,1 +1,2 @@
-["subsidy","support payment"]
+subsidy
+support payment

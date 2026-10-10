@@ -1,1 +1,2 @@
-["duplication","reproduction"]
+duplication
+reproduction

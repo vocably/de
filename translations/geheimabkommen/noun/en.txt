@@ -1,1 +1,2 @@
-["secret agreement","secret pact"]
+secret agreement
+secret pact

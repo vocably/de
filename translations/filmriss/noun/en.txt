@@ -1,1 +1,2 @@
-["blackout","break"]
+blackout
+break

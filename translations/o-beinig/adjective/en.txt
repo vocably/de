@@ -1,1 +1,2 @@
-["bow-legged","bandy-legged"]
+bow-legged
+bandy-legged

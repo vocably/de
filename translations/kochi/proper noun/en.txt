@@ -1,1 +1,2 @@
-["Kochi","Cochin"]
+Kochi
+Cochin

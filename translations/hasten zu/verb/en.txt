@@ -1,1 +1,2 @@
-["to hurry to","to rush to"]
+to hurry to
+to rush to

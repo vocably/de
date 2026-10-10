@@ -1,1 +1,2 @@
-["complaint filing","submission of a complaint"]
+complaint filing
+submission of a complaint

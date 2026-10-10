@@ -1,1 +1,2 @@
-["to be located","to be convenient"]
+to be located
+to be convenient

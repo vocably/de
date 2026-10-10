@@ -1,1 +1,2 @@
-["fringe benefit","non-cash benefit"]
+fringe benefit
+non-cash benefit

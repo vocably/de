@@ -1,1 +1,2 @@
-["norms","standards"]
+norms
+standards

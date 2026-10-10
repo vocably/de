@@ -1,1 +1,2 @@
-["his","of him"]
+his
+of him

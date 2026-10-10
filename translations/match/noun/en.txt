@@ -1,1 +1,3 @@
-["match","game","contest"]
+match
+game
+contest

@@ -1,1 +1,3 @@
-["to be noticeable","to be palpable","to be perceptible"]
+to be noticeable
+to be palpable
+to be perceptible

@@ -1,1 +1,2 @@
-["conditional","conditionally"]
+conditional
+conditionally

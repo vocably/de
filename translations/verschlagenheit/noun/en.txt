@@ -1,1 +1,2 @@
-["slyness","cunning"]
+slyness
+cunning

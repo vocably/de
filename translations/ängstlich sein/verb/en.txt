@@ -1,1 +1,3 @@
-["to be anxious","to be afraid","to be scared"]
+to be anxious
+to be afraid
+to be scared

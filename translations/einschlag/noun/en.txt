@@ -1,1 +1,4 @@
-["impact","crater","style","driving in"]
+impact
+crater
+style
+driving in

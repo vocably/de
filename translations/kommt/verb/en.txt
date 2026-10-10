@@ -1,1 +1,3 @@
-["comes","is coming","will come"]
+comes
+is coming
+will come

@@ -1,1 +1,2 @@
-["to lick","to lap"]
+to lick
+to lap

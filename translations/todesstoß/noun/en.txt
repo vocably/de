@@ -1,1 +1,2 @@
-["death blow","coup de grâce"]
+death blow
+coup de grâce

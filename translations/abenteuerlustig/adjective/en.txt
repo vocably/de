@@ -1,1 +1,2 @@
-["adventurous","daring"]
+adventurous
+daring

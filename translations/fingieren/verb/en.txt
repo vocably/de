@@ -1,1 +1,2 @@
-["feign","fake"]
+feign
+fake

@@ -1,1 +1,2 @@
-["lesson","reminder"]
+lesson
+reminder

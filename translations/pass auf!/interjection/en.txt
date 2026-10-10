@@ -1,1 +1,2 @@
-["Look out!","Watch out!"]
+Look out!
+Watch out!

@@ -1,1 +1,2 @@
-["leitmotifs","leading motives"]
+leitmotifs
+leading motives

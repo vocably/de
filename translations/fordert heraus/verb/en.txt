@@ -1,1 +1,3 @@
-["challenges","dares","provokes"]
+challenges
+dares
+provokes

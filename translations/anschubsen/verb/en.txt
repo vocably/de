@@ -1,1 +1,2 @@
-["to nudge","to give a little push"]
+to nudge
+to give a little push

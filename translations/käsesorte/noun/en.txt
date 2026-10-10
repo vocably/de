@@ -1,1 +1,2 @@
-["type of cheese","cheese variety"]
+type of cheese
+cheese variety

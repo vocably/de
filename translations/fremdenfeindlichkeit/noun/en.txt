@@ -1,1 +1,2 @@
-["xenophobia","hatred of foreigners"]
+xenophobia
+hatred of foreigners

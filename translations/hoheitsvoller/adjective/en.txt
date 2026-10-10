@@ -1,1 +1,2 @@
-["sovereign","dignified"]
+sovereign
+dignified

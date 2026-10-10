@@ -1,1 +1,3 @@
-["back down","pull out","renege"]
+back down
+pull out
+renege

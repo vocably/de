@@ -1,1 +1,2 @@
-["to choose randomly","to select randomly"]
+to choose randomly
+to select randomly

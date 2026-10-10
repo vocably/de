@@ -1,1 +1,2 @@
-["skillful at negotiating","adept at negotiating"]
+skillful at negotiating
+adept at negotiating

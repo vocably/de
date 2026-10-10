@@ -1,1 +1,2 @@
-["practicability","feasibility"]
+practicability
+feasibility

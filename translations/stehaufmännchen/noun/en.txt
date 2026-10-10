@@ -1,1 +1,2 @@
-["roly-poly toy","comeback kid"]
+roly-poly toy
+comeback kid

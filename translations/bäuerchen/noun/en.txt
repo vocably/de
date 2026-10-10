@@ -1,1 +1,2 @@
-["burp","little farmer"]
+burp
+little farmer

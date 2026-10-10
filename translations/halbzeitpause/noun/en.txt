@@ -1,1 +1,2 @@
-["halftime","half-time break"]
+halftime
+half-time break

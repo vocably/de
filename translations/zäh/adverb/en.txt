@@ -1,1 +1,3 @@
-["tough","chewy","tenacious"]
+tough
+chewy
+tenacious

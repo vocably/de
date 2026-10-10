@@ -1,1 +1,2 @@
-["state election","regional election"]
+state election
+regional election

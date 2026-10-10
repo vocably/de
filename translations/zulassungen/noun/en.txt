@@ -1,1 +1,2 @@
-["admissions","approvals"]
+admissions
+approvals

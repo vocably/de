@@ -1,1 +1,3 @@
-["presses","squeezes","compresses"]
+presses
+squeezes
+compresses

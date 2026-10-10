@@ -1,1 +1,2 @@
-["poorly paid","underpaid"]
+poorly paid
+underpaid

@@ -1,1 +1,2 @@
-["adventurous","enterprising"]
+adventurous
+enterprising

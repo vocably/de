@@ -1,1 +1,2 @@
-["workhorse","beast of burden"]
+workhorse
+beast of burden

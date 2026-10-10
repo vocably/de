@@ -1,1 +1,2 @@
-["task force","operational unit"]
+task force
+operational unit

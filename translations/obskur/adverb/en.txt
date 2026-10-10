@@ -1,1 +1,3 @@
-["obscure","vague","dubious"]
+obscure
+vague
+dubious

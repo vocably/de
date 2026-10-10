@@ -1,1 +1,3 @@
-["backdrop","scenery","setting"]
+backdrop
+scenery
+setting

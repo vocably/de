@@ -1,1 +1,2 @@
-["timer","time switch"]
+timer
+time switch

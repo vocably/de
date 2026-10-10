@@ -1,1 +1,2 @@
-["proportionally","in proportion"]
+proportionally
+in proportion

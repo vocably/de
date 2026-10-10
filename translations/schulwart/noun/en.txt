@@ -1,1 +1,2 @@
-["janitor","custodian"]
+janitor
+custodian

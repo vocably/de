@@ -1,1 +1,2 @@
-["boring","bleak"]
+boring
+bleak

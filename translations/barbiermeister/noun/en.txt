@@ -1,1 +1,2 @@
-["master barber","barber master"]
+master barber
+barber master

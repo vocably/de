@@ -1,1 +1,3 @@
-["starts","begins","commences"]
+starts
+begins
+commences

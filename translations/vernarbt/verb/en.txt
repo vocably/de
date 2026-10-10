@@ -1,1 +1,2 @@
-["scarred","cicatrized"]
+scarred
+cicatrized

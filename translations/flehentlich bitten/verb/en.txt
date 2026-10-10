@@ -1,1 +1,2 @@
-["implore","plead"]
+implore
+plead

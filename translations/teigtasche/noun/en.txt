@@ -1,1 +1,2 @@
-["dumpling","turnover"]
+dumpling
+turnover

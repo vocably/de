@@ -1,1 +1,2 @@
-["to get drunk","to get wasted"]
+to get drunk
+to get wasted

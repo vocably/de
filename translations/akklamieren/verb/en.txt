@@ -1,1 +1,2 @@
-["acclaim","applaud"]
+acclaim
+applaud

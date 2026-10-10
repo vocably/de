@@ -1,1 +1,2 @@
-["intensification","strengthening"]
+intensification
+strengthening

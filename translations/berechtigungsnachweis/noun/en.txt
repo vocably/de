@@ -1,1 +1,2 @@
-["proof of authorization","credential"]
+proof of authorization
+credential

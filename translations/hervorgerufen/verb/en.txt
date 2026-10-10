@@ -1,1 +1,2 @@
-["caused","triggered"]
+caused
+triggered

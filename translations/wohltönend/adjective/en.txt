@@ -1,1 +1,2 @@
-["sonorous","melodious"]
+sonorous
+melodious

@@ -1,1 +1,2 @@
-["accomplice","henchman"]
+accomplice
+henchman

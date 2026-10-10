@@ -1,1 +1,2 @@
-["on average","on an average"]
+on average
+on an average

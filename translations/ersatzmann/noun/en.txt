@@ -1,1 +1,2 @@
-["substitute","replacement"]
+substitute
+replacement

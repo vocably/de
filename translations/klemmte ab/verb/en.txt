@@ -1,1 +1,3 @@
-["disconnected","clamped off","blocked"]
+disconnected
+clamped off
+blocked

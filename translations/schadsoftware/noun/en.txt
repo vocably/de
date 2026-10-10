@@ -1,1 +1,2 @@
-["malware","malicious software"]
+malware
+malicious software

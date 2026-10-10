@@ -1,1 +1,2 @@
-["communications","communication"]
+communications
+communication

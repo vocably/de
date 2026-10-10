@@ -1,1 +1,3 @@
-["to flash","to blink","to signal"]
+to flash
+to blink
+to signal

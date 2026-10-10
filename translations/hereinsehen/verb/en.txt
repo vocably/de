@@ -1,1 +1,2 @@
-["look in","glance in"]
+look in
+glance in

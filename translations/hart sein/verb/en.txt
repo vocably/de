@@ -1,1 +1,3 @@
-["to be hard","to be tough","to be harsh"]
+to be hard
+to be tough
+to be harsh

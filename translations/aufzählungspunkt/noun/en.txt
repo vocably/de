@@ -1,1 +1,2 @@
-["bullet point","item"]
+bullet point
+item

@@ -1,1 +1,2 @@
-["to pulse","to throb"]
+to pulse
+to throb

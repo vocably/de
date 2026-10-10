@@ -1,1 +1,3 @@
-["penetrate","pierce","infiltrate"]
+penetrate
+pierce
+infiltrate

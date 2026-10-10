@@ -1,1 +1,3 @@
-["wander around","pull around","badmouth"]
+wander around
+pull around
+badmouth

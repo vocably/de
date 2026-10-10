@@ -1,1 +1,2 @@
-["personal details","particulars"]
+personal details
+particulars

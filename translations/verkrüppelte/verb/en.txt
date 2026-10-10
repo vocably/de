@@ -1,1 +1,3 @@
-["crippled","maimed","stunted"]
+crippled
+maimed
+stunted

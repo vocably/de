@@ -1,1 +1,2 @@
-["vote on","ballot on"]
+vote on
+ballot on

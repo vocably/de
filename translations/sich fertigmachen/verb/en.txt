@@ -1,1 +1,3 @@
-["to get ready","to get dressed","to finish up"]
+to get ready
+to get dressed
+to finish up

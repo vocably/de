@@ -1,1 +1,2 @@
-["documentary","factual"]
+documentary
+factual

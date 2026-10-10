@@ -1,1 +1,2 @@
-["hold a race","stage a race"]
+hold a race
+stage a race

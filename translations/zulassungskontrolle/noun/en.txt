@@ -1,1 +1,2 @@
-["admission control","access control"]
+admission control
+access control

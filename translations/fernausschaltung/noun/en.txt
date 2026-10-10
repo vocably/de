@@ -1,1 +1,2 @@
-["remote shutdown","remote deactivation"]
+remote shutdown
+remote deactivation

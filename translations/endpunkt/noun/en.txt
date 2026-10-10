@@ -1,1 +1,2 @@
-["endpoint","terminus"]
+endpoint
+terminus

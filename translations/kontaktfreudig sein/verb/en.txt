@@ -1,1 +1,2 @@
-["to be sociable","to be outgoing"]
+to be sociable
+to be outgoing

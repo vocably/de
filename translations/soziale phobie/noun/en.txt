@@ -1,1 +1,2 @@
-["social phobia","social anxiety disorder"]
+social phobia
+social anxiety disorder

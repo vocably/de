@@ -1,1 +1,2 @@
-["public sphere","public relations"]
+public sphere
+public relations

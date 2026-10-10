@@ -1,1 +1,2 @@
-["stairwell","stair shaft"]
+stairwell
+stair shaft

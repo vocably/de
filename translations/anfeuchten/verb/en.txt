@@ -1,1 +1,2 @@
-["moisten","dampen"]
+moisten
+dampen

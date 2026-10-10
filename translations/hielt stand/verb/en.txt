@@ -1,1 +1,3 @@
-["withstood","resisted","stood up to"]
+withstood
+resisted
+stood up to

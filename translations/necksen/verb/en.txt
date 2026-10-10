@@ -1,1 +1,2 @@
-["tease","kid"]
+tease
+kid

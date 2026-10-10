@@ -1,1 +1,2 @@
-["measured","judged"]
+measured
+judged

@@ -1,1 +1,2 @@
-["trash can","wastebasket"]
+trash can
+wastebasket

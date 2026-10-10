@@ -1,1 +1,3 @@
-["commented","remarked","explained"]
+commented
+remarked
+explained

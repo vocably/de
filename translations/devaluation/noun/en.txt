@@ -1,1 +1,2 @@
-["devaluation","depreciation"]
+devaluation
+depreciation

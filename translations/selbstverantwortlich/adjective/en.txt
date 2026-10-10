@@ -1,1 +1,2 @@
-["self-responsible","personally responsible"]
+self-responsible
+personally responsible

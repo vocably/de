@@ -1,1 +1,1 @@
-["stereotype"]
+stereotype

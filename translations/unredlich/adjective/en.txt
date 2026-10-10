@@ -1,1 +1,2 @@
-["dishonest","fraudulent"]
+dishonest
+fraudulent

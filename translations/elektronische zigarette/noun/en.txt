@@ -1,1 +1,2 @@
-["e-cigarette","electronic cigarette"]
+e-cigarette
+electronic cigarette

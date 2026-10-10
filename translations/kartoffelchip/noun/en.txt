@@ -1,1 +1,2 @@
-["potato chip","chip"]
+potato chip
+chip

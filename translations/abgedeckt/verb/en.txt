@@ -1,1 +1,3 @@
-["covered","protected","secured"]
+covered
+protected
+secured

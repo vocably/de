@@ -1,1 +1,2 @@
-["assumed","accepted"]
+assumed
+accepted

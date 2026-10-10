@@ -1,1 +1,2 @@
-["folded","clasped"]
+folded
+clasped

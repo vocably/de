@@ -1,1 +1,2 @@
-["cure","spa treatment"]
+cure
+spa treatment

@@ -1,1 +1,3 @@
-["fools","jesters","buffoons"]
+fools
+jesters
+buffoons

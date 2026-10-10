@@ -1,1 +1,2 @@
-["radio mast","transmission tower"]
+radio mast
+transmission tower

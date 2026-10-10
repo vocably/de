@@ -1,1 +1,2 @@
-["instruction time","teaching time"]
+instruction time
+teaching time

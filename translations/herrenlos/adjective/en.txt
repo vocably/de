@@ -1,1 +1,3 @@
-["ownerless","unclaimed","stray"]
+ownerless
+unclaimed
+stray

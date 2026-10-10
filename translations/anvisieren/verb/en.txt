@@ -1,1 +1,2 @@
-["to aim at","to target"]
+to aim at
+to target

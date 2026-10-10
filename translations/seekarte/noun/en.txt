@@ -1,1 +1,2 @@
-["nautical chart","sea chart"]
+nautical chart
+sea chart

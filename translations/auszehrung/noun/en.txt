@@ -1,1 +1,2 @@
-["emaciation","wasting"]
+emaciation
+wasting

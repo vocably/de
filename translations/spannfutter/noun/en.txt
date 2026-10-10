@@ -1,1 +1,2 @@
-["chuck","collet chuck"]
+chuck
+collet chuck

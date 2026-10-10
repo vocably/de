@@ -1,1 +1,2 @@
-["nobility","peerage"]
+nobility
+peerage

@@ -1,1 +1,2 @@
-["debit card","bank card"]
+debit card
+bank card

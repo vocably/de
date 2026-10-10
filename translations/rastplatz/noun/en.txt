@@ -1,1 +1,2 @@
-["rest stop","service area"]
+rest stop
+service area

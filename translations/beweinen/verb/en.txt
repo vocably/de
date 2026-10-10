@@ -1,1 +1,2 @@
-["to mourn","to weep for"]
+to mourn
+to weep for

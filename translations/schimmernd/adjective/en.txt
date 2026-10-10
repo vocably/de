@@ -1,1 +1,2 @@
-["shimmering","lustrous"]
+shimmering
+lustrous

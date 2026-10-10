@@ -1,1 +1,3 @@
-["graves","burial sites","tombs"]
+graves
+burial sites
+tombs

@@ -1,1 +1,2 @@
-["illustration","picture"]
+illustration
+picture

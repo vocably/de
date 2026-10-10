@@ -1,1 +1,2 @@
-["to get smart","to wise up"]
+to get smart
+to wise up

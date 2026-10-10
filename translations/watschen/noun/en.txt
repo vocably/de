@@ -1,1 +1,2 @@
-["slap","smack"]
+slap
+smack

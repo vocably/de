@@ -1,1 +1,2 @@
-["semen","seminal fluid"]
+semen
+seminal fluid

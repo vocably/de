@@ -1,1 +1,2 @@
-["to roll up","to turn up"]
+to roll up
+to turn up

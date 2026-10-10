@@ -1,1 +1,4 @@
-["to be held","to be considered","to be supported","to take place"]
+to be held
+to be considered
+to be supported
+to take place

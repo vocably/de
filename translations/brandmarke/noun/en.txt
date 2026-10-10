@@ -1,1 +1,2 @@
-["brand","stigma"]
+brand
+stigma

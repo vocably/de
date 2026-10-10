@@ -1,1 +1,2 @@
-["paid work","gainful employment"]
+paid work
+gainful employment

@@ -1,1 +1,2 @@
-["fall semester","autumn semester"]
+fall semester
+autumn semester

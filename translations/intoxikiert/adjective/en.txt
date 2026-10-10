@@ -1,1 +1,2 @@
-["intoxicated","poisoned"]
+intoxicated
+poisoned

@@ -1,1 +1,2 @@
-["to swaddle","to hit the puck"]
+to swaddle
+to hit the puck

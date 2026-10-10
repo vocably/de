@@ -1,1 +1,2 @@
-["carouse","booze"]
+carouse
+booze

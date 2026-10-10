@@ -1,1 +1,2 @@
-["despised","scorned"]
+despised
+scorned

@@ -1,1 +1,3 @@
-["from the","of the","by the"]
+from the
+of the
+by the

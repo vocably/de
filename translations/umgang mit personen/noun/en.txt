@@ -1,1 +1,2 @@
-["interaction with people","dealing with people"]
+interaction with people
+dealing with people

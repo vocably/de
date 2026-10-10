@@ -1,1 +1,2 @@
-["side effect","collateral effect"]
+side effect
+collateral effect

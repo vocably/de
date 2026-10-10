@@ -1,1 +1,2 @@
-["cap","peaked cap"]
+cap
+peaked cap

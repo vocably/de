@@ -1,1 +1,2 @@
-["dreamy","pensive"]
+dreamy
+pensive

@@ -1,1 +1,2 @@
-["in the future","going forward"]
+in the future
+going forward

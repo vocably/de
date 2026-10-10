@@ -1,1 +1,3 @@
-["fails","is unsuccessful","is a failure"]
+fails
+is unsuccessful
+is a failure

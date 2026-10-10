@@ -1,1 +1,2 @@
-["everyone who","anyone who"]
+everyone who
+anyone who

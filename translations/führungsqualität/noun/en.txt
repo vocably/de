@@ -1,1 +1,2 @@
-["leadership quality","leadership skill"]
+leadership quality
+leadership skill

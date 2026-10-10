@@ -1,1 +1,2 @@
-["senseless","pointless"]
+senseless
+pointless

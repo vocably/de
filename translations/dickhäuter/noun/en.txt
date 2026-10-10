@@ -1,1 +1,2 @@
-["pachyderm","thick-skinned person"]
+pachyderm
+thick-skinned person

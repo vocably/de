@@ -1,1 +1,3 @@
-["transcripts","copies","facsimiles"]
+transcripts
+copies
+facsimiles

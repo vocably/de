@@ -1,1 +1,3 @@
-["on top","on the top","on the up and up"]
+on top
+on the top
+on the up and up

@@ -1,1 +1,2 @@
-["stay home","stay in"]
+stay home
+stay in

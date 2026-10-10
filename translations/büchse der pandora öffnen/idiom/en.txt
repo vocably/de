@@ -1,1 +1,1 @@
-["open Pandora's box"]
+open Pandora's box

@@ -1,1 +1,2 @@
-["playback","playing"]
+playback
+playing

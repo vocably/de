@@ -1,1 +1,2 @@
-["calmly","serenely"]
+calmly
+serenely

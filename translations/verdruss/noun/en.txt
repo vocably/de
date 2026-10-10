@@ -1,1 +1,2 @@
-["annoyance","vexation"]
+annoyance
+vexation

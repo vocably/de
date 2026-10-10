@@ -1,1 +1,2 @@
-["angle of inclination","tilt angle"]
+angle of inclination
+tilt angle

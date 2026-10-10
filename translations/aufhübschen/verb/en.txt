@@ -1,1 +1,2 @@
-["to spruce up","to pretty up"]
+to spruce up
+to pretty up

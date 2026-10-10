@@ -1,1 +1,2 @@
-["pitch-black","jet-black"]
+pitch-black
+jet-black

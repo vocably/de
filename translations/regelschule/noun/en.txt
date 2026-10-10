@@ -1,1 +1,2 @@
-["mainstream school","regular school"]
+mainstream school
+regular school

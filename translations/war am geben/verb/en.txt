@@ -1,1 +1,2 @@
-["was giving","was handing out"]
+was giving
+was handing out

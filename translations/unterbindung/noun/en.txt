@@ -1,1 +1,2 @@
-["interruption","prevention"]
+interruption
+prevention

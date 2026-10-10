@@ -1,1 +1,2 @@
-["BAföG loan","federal education loan"]
+BAföG loan
+federal education loan

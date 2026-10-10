@@ -1,1 +1,2 @@
-["female tourists","tourists"]
+female tourists
+tourists

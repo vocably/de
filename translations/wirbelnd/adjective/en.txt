@@ -1,1 +1,2 @@
-["whirling","swirling"]
+whirling
+swirling

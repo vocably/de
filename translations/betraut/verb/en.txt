@@ -1,1 +1,2 @@
-["entrusted","charged"]
+entrusted
+charged

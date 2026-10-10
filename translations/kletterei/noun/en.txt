@@ -1,1 +1,2 @@
-["climb","clamber"]
+climb
+clamber

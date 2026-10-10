@@ -1,1 +1,2 @@
-["melancholy","sadness"]
+melancholy
+sadness

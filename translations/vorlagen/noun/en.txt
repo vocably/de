@@ -1,1 +1,3 @@
-["templates","documents","assists"]
+templates
+documents
+assists

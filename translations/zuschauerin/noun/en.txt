@@ -1,1 +1,2 @@
-["spectator","onlooker"]
+spectator
+onlooker

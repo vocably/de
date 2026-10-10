@@ -1,1 +1,3 @@
-["to be held","to be detained","to be recorded"]
+to be held
+to be detained
+to be recorded

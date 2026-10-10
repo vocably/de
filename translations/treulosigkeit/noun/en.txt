@@ -1,1 +1,2 @@
-["infidelity","disloyalty"]
+infidelity
+disloyalty

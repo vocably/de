@@ -1,1 +1,2 @@
-["cardboard box","carton"]
+cardboard box
+carton

@@ -1,1 +1,3 @@
-["large-scale","extensive","wide-ranging"]
+large-scale
+extensive
+wide-ranging

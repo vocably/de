@@ -1,1 +1,2 @@
-["to stabilize","to steady"]
+to stabilize
+to steady

@@ -1,1 +1,2 @@
-["town meeting","community meeting"]
+town meeting
+community meeting

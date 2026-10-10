@@ -1,1 +1,2 @@
-["peer","equal"]
+peer
+equal

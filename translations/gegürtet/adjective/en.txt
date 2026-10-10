@@ -1,1 +1,1 @@
-["belted"]
+belted

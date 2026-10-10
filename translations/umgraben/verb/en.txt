@@ -1,1 +1,2 @@
-["dig up","turn over"]
+dig up
+turn over

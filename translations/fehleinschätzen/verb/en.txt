@@ -1,1 +1,2 @@
-["misjudge","miscalculate"]
+misjudge
+miscalculate

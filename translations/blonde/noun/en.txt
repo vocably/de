@@ -1,1 +1,2 @@
-["blonde","blonde beer"]
+blonde
+blonde beer

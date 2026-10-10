@@ -1,1 +1,3 @@
-["wobbled","shook","tottered"]
+wobbled
+shook
+tottered

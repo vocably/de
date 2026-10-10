@@ -1,1 +1,2 @@
-["mnemonics","mnemonic"]
+mnemonics
+mnemonic

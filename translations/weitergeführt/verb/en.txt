@@ -1,1 +1,3 @@
-["continued","carried on","resumed"]
+continued
+carried on
+resumed

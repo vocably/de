@@ -1,1 +1,2 @@
-["public killing","public execution"]
+public killing
+public execution

@@ -1,1 +1,2 @@
-["solely","only"]
+solely
+only

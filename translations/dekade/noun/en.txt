@@ -1,1 +1,3 @@
-["decade","period of ten days","group of ten units"]
+decade
+period of ten days
+group of ten units

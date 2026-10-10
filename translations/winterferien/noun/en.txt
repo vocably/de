@@ -1,1 +1,2 @@
-["winter break","winter holidays"]
+winter break
+winter holidays

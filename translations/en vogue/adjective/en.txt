@@ -1,1 +1,3 @@
-["fashionable","in vogue","trendy"]
+fashionable
+in vogue
+trendy

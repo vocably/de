@@ -1,1 +1,1 @@
-["rye whiskey"]
+rye whiskey

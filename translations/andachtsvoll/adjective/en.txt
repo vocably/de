@@ -1,1 +1,2 @@
-["devotional","reverent"]
+devotional
+reverent

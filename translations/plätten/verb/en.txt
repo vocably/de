@@ -1,1 +1,3 @@
-["to iron","to flatten","to defeat"]
+to iron
+to flatten
+to defeat

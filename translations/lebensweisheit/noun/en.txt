@@ -1,1 +1,2 @@
-["wisdom","maxim"]
+wisdom
+maxim

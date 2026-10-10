@@ -1,1 +1,2 @@
-["to be rude","to be impertinent"]
+to be rude
+to be impertinent

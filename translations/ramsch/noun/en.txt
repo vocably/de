@@ -1,1 +1,3 @@
-["junk","rubbish","rummage"]
+junk
+rubbish
+rummage

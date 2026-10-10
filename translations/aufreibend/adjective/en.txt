@@ -1,1 +1,2 @@
-["exhausting","grueling"]
+exhausting
+grueling

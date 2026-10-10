@@ -1,1 +1,2 @@
-["economic warfare","economic war"]
+economic warfare
+economic war

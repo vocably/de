@@ -1,1 +1,2 @@
-["bone of contention","controversial topic"]
+bone of contention
+controversial topic

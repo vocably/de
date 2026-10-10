@@ -1,1 +1,2 @@
-["satirical poem","lampoon"]
+satirical poem
+lampoon

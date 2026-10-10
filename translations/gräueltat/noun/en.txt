@@ -1,1 +1,2 @@
-["atrocity","outrage"]
+atrocity
+outrage

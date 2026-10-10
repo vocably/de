@@ -1,1 +1,2 @@
-["debt collector","enforcer"]
+debt collector
+enforcer

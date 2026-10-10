@@ -1,1 +1,2 @@
-["tensile stress","tension"]
+tensile stress
+tension

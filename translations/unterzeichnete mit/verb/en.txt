@@ -1,1 +1,2 @@
-["signed with","co-signed"]
+signed with
+co-signed

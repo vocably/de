@@ -1,1 +1,3 @@
-["get the hang of it","get the knack of it","learn the ropes"]
+get the hang of it
+get the knack of it
+learn the ropes

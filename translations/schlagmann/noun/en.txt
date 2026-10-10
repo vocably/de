@@ -1,1 +1,2 @@
-["batter","slugger"]
+batter
+slugger

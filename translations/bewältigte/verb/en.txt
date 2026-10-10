@@ -1,1 +1,2 @@
-["managed","coped with"]
+managed
+coped with

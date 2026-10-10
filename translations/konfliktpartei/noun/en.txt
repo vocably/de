@@ -1,1 +1,2 @@
-["party to a conflict","belligerent"]
+party to a conflict
+belligerent

@@ -1,1 +1,4 @@
-["occupied","filled","manned","garrisoned"]
+occupied
+filled
+manned
+garrisoned

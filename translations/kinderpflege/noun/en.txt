@@ -1,1 +1,2 @@
-["child care","pediatric nursing"]
+child care
+pediatric nursing

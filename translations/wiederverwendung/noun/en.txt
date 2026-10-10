@@ -1,1 +1,2 @@
-["reuse","recycling"]
+reuse
+recycling

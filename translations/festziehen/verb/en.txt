@@ -1,1 +1,2 @@
-["tighten","fasten"]
+tighten
+fasten

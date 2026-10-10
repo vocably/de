@@ -1,1 +1,2 @@
-["another","one more"]
+another
+one more

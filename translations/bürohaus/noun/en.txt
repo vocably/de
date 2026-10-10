@@ -1,1 +1,2 @@
-["office building","office block"]
+office building
+office block

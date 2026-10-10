@@ -1,1 +1,2 @@
-["remedial teaching","tutoring"]
+remedial teaching
+tutoring

@@ -1,1 +1,2 @@
-["completeness","seamlessness"]
+completeness
+seamlessness

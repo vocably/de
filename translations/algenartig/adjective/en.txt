@@ -1,1 +1,2 @@
-["algal","alga-like"]
+algal
+alga-like

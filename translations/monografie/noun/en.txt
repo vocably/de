@@ -1,1 +1,1 @@
-["monograph"]
+monograph

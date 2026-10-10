@@ -1,1 +1,3 @@
-["absurd","preposterous","far-fetched"]
+absurd
+preposterous
+far-fetched

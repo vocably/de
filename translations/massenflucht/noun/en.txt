@@ -1,1 +1,2 @@
-["mass exodus","mass escape"]
+mass exodus
+mass escape

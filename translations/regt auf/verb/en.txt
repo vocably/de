@@ -1,1 +1,2 @@
-["annoys","excites"]
+annoys
+excites

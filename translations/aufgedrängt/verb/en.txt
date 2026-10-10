@@ -1,1 +1,2 @@
-["forced on","thrust upon"]
+forced on
+thrust upon

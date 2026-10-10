@@ -1,1 +1,3 @@
-["prevail","dominate","be predominant"]
+prevail
+dominate
+be predominant

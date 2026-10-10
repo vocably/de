@@ -1,1 +1,2 @@
-["to trim","to pause"]
+to trim
+to pause

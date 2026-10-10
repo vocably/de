@@ -1,1 +1,2 @@
-["hock","shank"]
+hock
+shank

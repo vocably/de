@@ -1,1 +1,3 @@
-["dropped","let fall","abandoned"]
+dropped
+let fall
+abandoned

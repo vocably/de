@@ -1,1 +1,2 @@
-["earth spirit","earth-spirit"]
+earth spirit
+earth-spirit

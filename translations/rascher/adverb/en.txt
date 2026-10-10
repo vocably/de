@@ -1,1 +1,2 @@
-["faster","sooner"]
+faster
+sooner

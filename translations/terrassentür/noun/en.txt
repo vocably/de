@@ -1,1 +1,2 @@
-["patio door","French door"]
+patio door
+French door

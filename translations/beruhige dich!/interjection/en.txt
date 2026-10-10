@@ -1,1 +1,2 @@
-["Calm down!","Relax!"]
+Calm down!
+Relax!

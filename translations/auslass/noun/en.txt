@@ -1,1 +1,2 @@
-["outlet","omission"]
+outlet
+omission

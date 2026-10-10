@@ -1,1 +1,2 @@
-["oral cavity","mouth cavity"]
+oral cavity
+mouth cavity

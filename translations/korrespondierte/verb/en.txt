@@ -1,1 +1,3 @@
-["corresponded","matched","tallied"]
+corresponded
+matched
+tallied

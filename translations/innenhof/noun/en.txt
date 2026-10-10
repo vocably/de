@@ -1,1 +1,2 @@
-["courtyard","quad"]
+courtyard
+quad

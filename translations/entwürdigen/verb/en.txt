@@ -1,1 +1,3 @@
-["degrade","humiliate","demean"]
+degrade
+humiliate
+demean

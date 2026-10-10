@@ -1,1 +1,3 @@
-["dissolves","breaks up","disbands"]
+dissolves
+breaks up
+disbands

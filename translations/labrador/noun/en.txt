@@ -1,1 +1,2 @@
-["Labrador","Labrador Peninsula"]
+Labrador
+Labrador Peninsula

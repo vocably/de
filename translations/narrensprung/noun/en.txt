@@ -1,1 +1,2 @@
-["fool's jump","jester's parade"]
+fool's jump
+jester's parade

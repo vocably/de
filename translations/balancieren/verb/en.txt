@@ -1,1 +1,2 @@
-["to balance","to poise"]
+to balance
+to poise

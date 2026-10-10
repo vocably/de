@@ -1,1 +1,2 @@
-["abbreviation","short form"]
+abbreviation
+short form

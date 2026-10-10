@@ -1,1 +1,2 @@
-["argumentation","line of reasoning"]
+argumentation
+line of reasoning

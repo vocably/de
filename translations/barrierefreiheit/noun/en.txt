@@ -1,1 +1,2 @@
-["accessibility","barrier-free access"]
+accessibility
+barrier-free access

@@ -1,1 +1,3 @@
-["tolerated","condoned","allowed"]
+tolerated
+condoned
+allowed

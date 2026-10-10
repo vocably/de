@@ -1,1 +1,2 @@
-["strife","discord"]
+strife
+discord

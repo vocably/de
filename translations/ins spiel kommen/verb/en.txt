@@ -1,1 +1,3 @@
-["come into play","come into effect","come into the picture"]
+come into play
+come into effect
+come into the picture

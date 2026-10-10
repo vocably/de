@@ -1,1 +1,2 @@
-["stamina","endurance"]
+stamina
+endurance

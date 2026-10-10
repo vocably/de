@@ -1,1 +1,2 @@
-["tire cross-sections","tire sections"]
+tire cross-sections
+tire sections

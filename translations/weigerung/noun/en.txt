@@ -1,1 +1,2 @@
-["refusal","denial"]
+refusal
+denial

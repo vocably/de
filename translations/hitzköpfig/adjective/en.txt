@@ -1,1 +1,2 @@
-["hot-headed","impulsive"]
+hot-headed
+impulsive

@@ -1,1 +1,3 @@
-["stick with it","keep at it","stay with it"]
+stick with it
+keep at it
+stay with it

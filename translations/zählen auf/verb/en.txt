@@ -1,1 +1,2 @@
-["count on","rely on"]
+count on
+rely on

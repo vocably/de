@@ -1,1 +1,3 @@
-["to substitute","to replace","to supersede"]
+to substitute
+to replace
+to supersede

@@ -1,1 +1,2 @@
-["one of the two","either"]
+one of the two
+either

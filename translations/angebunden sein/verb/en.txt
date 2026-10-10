@@ -1,1 +1,2 @@
-["to be tied up","to be bound"]
+to be tied up
+to be bound

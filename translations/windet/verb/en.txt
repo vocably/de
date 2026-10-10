@@ -1,1 +1,3 @@
-["winds","writhes","coils"]
+winds
+writhes
+coils

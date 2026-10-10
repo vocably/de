@@ -1,1 +1,2 @@
-["brick producer","brick manufacturer"]
+brick producer
+brick manufacturer

@@ -1,1 +1,3 @@
-["change direction","change course","change one's mind"]
+change direction
+change course
+change one's mind

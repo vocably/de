@@ -1,1 +1,2 @@
-["blockbuster","hit"]
+blockbuster
+hit

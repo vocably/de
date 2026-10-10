@@ -1,1 +1,2 @@
-["to bandage","to dress"]
+to bandage
+to dress

@@ -1,1 +1,2 @@
-["division management","head of division"]
+division management
+head of division

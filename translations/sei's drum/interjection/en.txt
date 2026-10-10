@@ -1,1 +1,2 @@
-["so be it","be that as it may"]
+so be it
+be that as it may

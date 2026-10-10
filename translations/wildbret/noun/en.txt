@@ -1,1 +1,2 @@
-["venison","game meat"]
+venison
+game meat

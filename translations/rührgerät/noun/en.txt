@@ -1,1 +1,2 @@
-["mixer","food processor"]
+mixer
+food processor

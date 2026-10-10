@@ -1,1 +1,2 @@
-["handicap","disability"]
+handicap
+disability

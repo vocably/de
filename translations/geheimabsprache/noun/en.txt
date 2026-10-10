@@ -1,1 +1,2 @@
-["secret agreement","collusion"]
+secret agreement
+collusion

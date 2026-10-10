@@ -1,1 +1,3 @@
-["virgin","virginal","untouched"]
+virgin
+virginal
+untouched

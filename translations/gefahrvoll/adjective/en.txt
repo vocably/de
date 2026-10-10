@@ -1,1 +1,2 @@
-["perilous","hazardous"]
+perilous
+hazardous

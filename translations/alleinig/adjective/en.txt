@@ -1,1 +1,3 @@
-["sole","only","exclusive"]
+sole
+only
+exclusive

@@ -1,1 +1,2 @@
-["aroma profile","flavor profile"]
+aroma profile
+flavor profile

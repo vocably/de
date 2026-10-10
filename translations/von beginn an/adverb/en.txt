@@ -1,1 +1,2 @@
-["from the beginning","from the outset"]
+from the beginning
+from the outset

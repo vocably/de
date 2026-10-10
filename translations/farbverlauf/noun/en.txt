@@ -1,1 +1,2 @@
-["color gradient","color transition"]
+color gradient
+color transition

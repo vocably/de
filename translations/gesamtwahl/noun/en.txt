@@ -1,1 +1,2 @@
-["general election","total election"]
+general election
+total election

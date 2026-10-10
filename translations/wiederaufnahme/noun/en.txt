@@ -1,1 +1,2 @@
-["resumption","reopening"]
+resumption
+reopening

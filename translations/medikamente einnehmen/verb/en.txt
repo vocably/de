@@ -1,1 +1,2 @@
-["take medicine","take medication"]
+take medicine
+take medication

@@ -1,1 +1,2 @@
-["crack open","break open"]
+crack open
+break open

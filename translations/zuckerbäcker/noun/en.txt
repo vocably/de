@@ -1,1 +1,2 @@
-["confectioner","pastry chef"]
+confectioner
+pastry chef

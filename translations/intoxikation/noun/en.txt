@@ -1,1 +1,2 @@
-["intoxication","poisoning"]
+intoxication
+poisoning

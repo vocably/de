@@ -1,1 +1,3 @@
-["stuck","was liable for","was responsible for"]
+stuck
+was liable for
+was responsible for

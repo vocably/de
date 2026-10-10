@@ -1,1 +1,2 @@
-["recovery","reclamation"]
+recovery
+reclamation

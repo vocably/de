@@ -1,1 +1,2 @@
-["frugality","economy"]
+frugality
+economy

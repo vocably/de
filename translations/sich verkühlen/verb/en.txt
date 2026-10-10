@@ -1,1 +1,2 @@
-["to catch a cold","to get cold"]
+to catch a cold
+to get cold

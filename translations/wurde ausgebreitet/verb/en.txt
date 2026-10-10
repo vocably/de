@@ -1,1 +1,2 @@
-["was spread","was unfolded"]
+was spread
+was unfolded

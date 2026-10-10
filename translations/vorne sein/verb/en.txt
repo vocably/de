@@ -1,1 +1,3 @@
-["to be ahead","to be in front","to be at the forefront"]
+to be ahead
+to be in front
+to be at the forefront

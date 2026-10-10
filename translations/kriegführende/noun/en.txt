@@ -1,1 +1,2 @@
-["belligerents","warring parties"]
+belligerents
+warring parties

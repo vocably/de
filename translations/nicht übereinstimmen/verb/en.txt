@@ -1,1 +1,3 @@
-["not conform","differ","not agree"]
+not conform
+differ
+not agree

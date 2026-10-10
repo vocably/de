@@ -1,1 +1,3 @@
-["admonished","urged","warned"]
+admonished
+urged
+warned

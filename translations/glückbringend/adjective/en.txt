@@ -1,1 +1,2 @@
-["auspicious","propitious"]
+auspicious
+propitious

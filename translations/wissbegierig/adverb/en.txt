@@ -1,1 +1,2 @@
-["inquisitively","curiously"]
+inquisitively
+curiously

@@ -1,1 +1,2 @@
-["distributes","hands out"]
+distributes
+hands out

@@ -1,1 +1,3 @@
-["counts on","puts on","places on"]
+counts on
+puts on
+places on

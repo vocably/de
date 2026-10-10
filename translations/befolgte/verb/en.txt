@@ -1,1 +1,3 @@
-["followed","obeyed","complied with"]
+followed
+obeyed
+complied with

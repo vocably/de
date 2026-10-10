@@ -1,1 +1,2 @@
-["sports coverage","sports reporting"]
+sports coverage
+sports reporting

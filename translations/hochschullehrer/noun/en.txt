@@ -1,1 +1,2 @@
-["university professor","lecturer"]
+university professor
+lecturer

@@ -1,1 +1,2 @@
-["drove through","drove straight through"]
+drove through
+drove straight through

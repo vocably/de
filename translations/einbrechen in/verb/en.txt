@@ -1,1 +1,2 @@
-["burglarize","break into"]
+burglarize
+break into

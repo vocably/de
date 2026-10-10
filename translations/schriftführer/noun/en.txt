@@ -1,1 +1,2 @@
-["secretary","clerk"]
+secretary
+clerk

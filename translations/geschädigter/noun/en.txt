@@ -1,1 +1,2 @@
-["injured party","victim"]
+injured party
+victim

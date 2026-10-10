@@ -1,1 +1,2 @@
-["brothel","whorehouse"]
+brothel
+whorehouse

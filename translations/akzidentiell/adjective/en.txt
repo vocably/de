@@ -1,1 +1,2 @@
-["accidental","incidental"]
+accidental
+incidental

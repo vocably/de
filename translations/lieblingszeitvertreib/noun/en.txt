@@ -1,1 +1,2 @@
-["favorite pastime","favorite hobby"]
+favorite pastime
+favorite hobby

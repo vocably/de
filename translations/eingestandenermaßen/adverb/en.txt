@@ -1,1 +1,2 @@
-["admittedly","confessedly"]
+admittedly
+confessedly

@@ -1,1 +1,2 @@
-["home appliances","household appliances"]
+home appliances
+household appliances

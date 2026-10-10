@@ -1,1 +1,2 @@
-["see you later","catch you later"]
+see you later
+catch you later

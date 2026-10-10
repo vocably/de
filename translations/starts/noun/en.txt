@@ -1,1 +1,2 @@
-["starts","beginnings"]
+starts
+beginnings

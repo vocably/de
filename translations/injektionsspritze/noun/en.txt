@@ -1,1 +1,2 @@
-["hypodermic needle","syringe"]
+hypodermic needle
+syringe

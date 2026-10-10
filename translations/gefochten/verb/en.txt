@@ -1,1 +1,3 @@
-["fought","struggled","dueled"]
+fought
+struggled
+dueled

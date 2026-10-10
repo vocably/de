@@ -1,1 +1,3 @@
-["to have courage","to be brave","to dare"]
+to have courage
+to be brave
+to dare

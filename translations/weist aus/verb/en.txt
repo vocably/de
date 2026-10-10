@@ -1,1 +1,3 @@
-["designate as","expel","show"]
+designate as
+expel
+show

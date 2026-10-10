@@ -1,1 +1,2 @@
-["do a favor","do a good turn"]
+do a favor
+do a good turn

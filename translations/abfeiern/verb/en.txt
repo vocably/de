@@ -1,1 +1,2 @@
-["celebrate","party"]
+celebrate
+party

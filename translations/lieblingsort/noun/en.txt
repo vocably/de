@@ -1,1 +1,2 @@
-["favorite place","favourite place"]
+favorite place
+favourite place

@@ -1,1 +1,2 @@
-["sneaker","tennis shoe"]
+sneaker
+tennis shoe

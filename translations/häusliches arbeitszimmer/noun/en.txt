@@ -1,1 +1,2 @@
-["home office","study"]
+home office
+study

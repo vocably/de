@@ -1,1 +1,2 @@
-["damaged","battered"]
+damaged
+battered

@@ -1,1 +1,2 @@
-["ruse","stratagem"]
+ruse
+stratagem

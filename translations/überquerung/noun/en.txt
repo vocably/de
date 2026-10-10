@@ -1,1 +1,2 @@
-["crossing","traverse"]
+crossing
+traverse

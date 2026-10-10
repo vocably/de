@@ -1,1 +1,2 @@
-["don't forget","do not forget"]
+don't forget
+do not forget

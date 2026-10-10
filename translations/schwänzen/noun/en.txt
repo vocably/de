@@ -1,1 +1,2 @@
-["truancy","skipping"]
+truancy
+skipping

@@ -1,1 +1,2 @@
-["blasting cap","detonator"]
+blasting cap
+detonator

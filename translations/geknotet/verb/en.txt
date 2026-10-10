@@ -1,1 +1,2 @@
-["knotted","tied"]
+knotted
+tied

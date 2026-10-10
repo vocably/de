@@ -1,1 +1,3 @@
-["arguing","contending","debating"]
+arguing
+contending
+debating

@@ -1,1 +1,2 @@
-["to be angry about","to be mad about"]
+to be angry about
+to be mad about

@@ -1,1 +1,2 @@
-["to pencil","to mark with a pencil"]
+to pencil
+to mark with a pencil

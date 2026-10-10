@@ -1,1 +1,2 @@
-["waiver","disclaimer"]
+waiver
+disclaimer

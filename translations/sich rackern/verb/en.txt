@@ -1,1 +1,3 @@
-["to toil","to slave away","to drudge"]
+to toil
+to slave away
+to drudge

@@ -1,1 +1,3 @@
-["proportionally","pro rata","partially"]
+proportionally
+pro rata
+partially

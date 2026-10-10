@@ -1,1 +1,3 @@
-["by virtue of","by dint of","by means of"]
+by virtue of
+by dint of
+by means of

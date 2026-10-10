@@ -1,1 +1,1 @@
-["phase sequence"]
+phase sequence

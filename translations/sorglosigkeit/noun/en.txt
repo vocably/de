@@ -1,1 +1,2 @@
-["carelessness","lightheartedness"]
+carelessness
+lightheartedness

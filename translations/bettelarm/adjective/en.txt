@@ -1,1 +1,2 @@
-["destitute","dirt-poor"]
+destitute
+dirt-poor

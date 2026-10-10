@@ -1,1 +1,2 @@
-["catfish lover","catfish enthusiast"]
+catfish lover
+catfish enthusiast

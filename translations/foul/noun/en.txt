@@ -1,1 +1,2 @@
-["foul","foul play"]
+foul
+foul play

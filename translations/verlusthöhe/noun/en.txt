@@ -1,1 +1,2 @@
-["amount of loss","extent of loss"]
+amount of loss
+extent of loss

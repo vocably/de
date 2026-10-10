@@ -1,1 +1,2 @@
-["nuclear weapon","atomic weapon"]
+nuclear weapon
+atomic weapon

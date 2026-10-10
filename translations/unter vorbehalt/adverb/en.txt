@@ -1,1 +1,2 @@
-["provisionally","with reservations"]
+provisionally
+with reservations

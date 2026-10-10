@@ -1,1 +1,2 @@
-["building site","construction site"]
+building site
+construction site

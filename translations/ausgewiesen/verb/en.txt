@@ -1,1 +1,3 @@
-["expelled","proven","recognized"]
+expelled
+proven
+recognized

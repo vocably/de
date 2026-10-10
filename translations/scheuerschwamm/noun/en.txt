@@ -1,1 +1,2 @@
-["scouring pad","scrub sponge"]
+scouring pad
+scrub sponge

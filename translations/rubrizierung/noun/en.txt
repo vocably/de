@@ -1,1 +1,2 @@
-["categorization","classification"]
+categorization
+classification

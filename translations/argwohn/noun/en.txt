@@ -1,1 +1,2 @@
-["suspicion","mistrust"]
+suspicion
+mistrust

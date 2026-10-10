@@ -1,1 +1,2 @@
-["integrated","incorporated"]
+integrated
+incorporated

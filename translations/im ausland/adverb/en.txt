@@ -1,1 +1,2 @@
-["abroad","overseas"]
+abroad
+overseas

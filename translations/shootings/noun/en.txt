@@ -1,1 +1,2 @@
-["shootings","gun violence"]
+shootings
+gun violence

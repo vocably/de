@@ -1,1 +1,2 @@
-["dish dryer","dish towel"]
+dish dryer
+dish towel

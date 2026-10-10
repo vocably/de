@@ -1,1 +1,2 @@
-["prognosis","outlook"]
+prognosis
+outlook

@@ -1,1 +1,2 @@
-["secret agreements","confidential arrangements"]
+secret agreements
+confidential arrangements

@@ -1,1 +1,2 @@
-["bills","draft laws"]
+bills
+draft laws

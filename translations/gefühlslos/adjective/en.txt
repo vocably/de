@@ -1,1 +1,2 @@
-["insensitive","unfeeling"]
+insensitive
+unfeeling

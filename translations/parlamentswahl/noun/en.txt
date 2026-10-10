@@ -1,1 +1,2 @@
-["parliamentary election","general election"]
+parliamentary election
+general election

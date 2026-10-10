@@ -1,1 +1,2 @@
-["compliance","regulatory compliance"]
+compliance
+regulatory compliance

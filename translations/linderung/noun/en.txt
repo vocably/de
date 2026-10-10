@@ -1,1 +1,2 @@
-["relief","alleviation"]
+relief
+alleviation

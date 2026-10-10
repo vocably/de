@@ -1,1 +1,2 @@
-["pens","writing implements"]
+pens
+writing implements

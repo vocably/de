@@ -1,1 +1,2 @@
-["go into operation","start operating"]
+go into operation
+start operating

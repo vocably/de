@@ -1,1 +1,2 @@
-["balcony","bay"]
+balcony
+bay

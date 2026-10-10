@@ -1,1 +1,2 @@
-["burglar","housebreaker"]
+burglar
+housebreaker

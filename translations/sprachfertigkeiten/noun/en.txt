@@ -1,1 +1,2 @@
-["language skills","linguistic skills"]
+language skills
+linguistic skills

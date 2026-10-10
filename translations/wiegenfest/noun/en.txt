@@ -1,1 +1,2 @@
-["birthday","birthday party"]
+birthday
+birthday party

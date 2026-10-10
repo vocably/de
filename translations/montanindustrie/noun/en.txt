@@ -1,1 +1,2 @@
-["mining industry","extractive industry"]
+mining industry
+extractive industry

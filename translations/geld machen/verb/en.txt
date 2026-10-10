@@ -1,1 +1,2 @@
-["make money","earn money"]
+make money
+earn money

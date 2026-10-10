@@ -1,1 +1,3 @@
-["cut off","cut into","incised"]
+cut off
+cut into
+incised

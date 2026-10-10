@@ -1,1 +1,2 @@
-["mailbox","postbox"]
+mailbox
+postbox

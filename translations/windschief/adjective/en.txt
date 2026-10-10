@@ -1,1 +1,2 @@
-["lopsided","crooked"]
+lopsided
+crooked

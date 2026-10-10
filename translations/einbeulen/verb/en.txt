@@ -1,1 +1,2 @@
-["dent","ding"]
+dent
+ding

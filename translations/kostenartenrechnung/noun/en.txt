@@ -1,1 +1,2 @@
-["cost element accounting","type-of-cost accounting"]
+cost element accounting
+type-of-cost accounting

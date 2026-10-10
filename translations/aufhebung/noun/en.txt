@@ -1,1 +1,3 @@
-["abolition","repeal","cancellation"]
+abolition
+repeal
+cancellation

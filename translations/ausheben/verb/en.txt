@@ -1,1 +1,4 @@
-["dig up","excavate","raise","levy"]
+dig up
+excavate
+raise
+levy

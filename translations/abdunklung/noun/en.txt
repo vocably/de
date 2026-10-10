@@ -1,1 +1,2 @@
-["darkening","dimming"]
+darkening
+dimming

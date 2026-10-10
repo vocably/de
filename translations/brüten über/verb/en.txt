@@ -1,1 +1,2 @@
-["pore over","brood over"]
+pore over
+brood over

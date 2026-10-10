@@ -1,1 +1,2 @@
-["trade fair","trade show"]
+trade fair
+trade show

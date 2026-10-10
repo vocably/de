@@ -1,1 +1,2 @@
-["chairmanship","presidency"]
+chairmanship
+presidency

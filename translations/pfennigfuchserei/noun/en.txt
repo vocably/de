@@ -1,1 +1,2 @@
-["penny-pinching","skimping"]
+penny-pinching
+skimping

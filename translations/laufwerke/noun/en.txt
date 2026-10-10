@@ -1,1 +1,2 @@
-["drives","disk drives"]
+drives
+disk drives

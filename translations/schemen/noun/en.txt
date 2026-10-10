@@ -1,1 +1,2 @@
-["phantom","ghost"]
+phantom
+ghost

@@ -1,1 +1,3 @@
-["stimulated","inspired","encouraged"]
+stimulated
+inspired
+encouraged

@@ -1,1 +1,2 @@
-["preview","pre-release"]
+preview
+pre-release

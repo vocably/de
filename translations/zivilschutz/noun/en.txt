@@ -1,1 +1,2 @@
-["civil defense","civil protection"]
+civil defense
+civil protection

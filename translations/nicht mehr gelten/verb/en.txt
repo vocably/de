@@ -1,1 +1,3 @@
-["no longer apply","no longer be valid","no longer be in effect"]
+no longer apply
+no longer be valid
+no longer be in effect

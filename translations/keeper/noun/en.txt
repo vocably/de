@@ -1,1 +1,2 @@
-["goalkeeper","keeper"]
+goalkeeper
+keeper

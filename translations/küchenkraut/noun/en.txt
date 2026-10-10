@@ -1,1 +1,2 @@
-["herb","kitchen herb"]
+herb
+kitchen herb

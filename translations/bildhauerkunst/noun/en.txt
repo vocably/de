@@ -1,1 +1,2 @@
-["sculpture","art of sculpture"]
+sculpture
+art of sculpture

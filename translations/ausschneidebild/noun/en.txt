@@ -1,1 +1,2 @@
-["cutout","paper cutout"]
+cutout
+paper cutout

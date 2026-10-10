@@ -1,1 +1,1 @@
-["solar cell"]
+solar cell

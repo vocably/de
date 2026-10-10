@@ -1,1 +1,2 @@
-["expel","relegate"]
+expel
+relegate

@@ -1,1 +1,2 @@
-["to be on vacation","to have a vacation"]
+to be on vacation
+to have a vacation

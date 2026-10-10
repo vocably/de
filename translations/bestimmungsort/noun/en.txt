@@ -1,1 +1,2 @@
-["destination","place of destination"]
+destination
+place of destination

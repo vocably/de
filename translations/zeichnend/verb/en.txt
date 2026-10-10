@@ -1,1 +1,3 @@
-["drawing","sketching","characterizing"]
+drawing
+sketching
+characterizing

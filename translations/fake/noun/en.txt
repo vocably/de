@@ -1,1 +1,2 @@
-["fake","hoax"]
+fake
+hoax

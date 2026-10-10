@@ -1,1 +1,2 @@
-["adjusted","adapted"]
+adjusted
+adapted

@@ -1,1 +1,2 @@
-["impersonal","anonymous"]
+impersonal
+anonymous

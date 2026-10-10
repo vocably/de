@@ -1,1 +1,2 @@
-["turning around","flipping over"]
+turning around
+flipping over

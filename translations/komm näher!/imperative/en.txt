@@ -1,1 +1,2 @@
-["Come closer!","Come nearer!"]
+Come closer!
+Come nearer!

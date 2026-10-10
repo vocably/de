@@ -1,1 +1,2 @@
-["acknowledged","quit"]
+acknowledged
+quit

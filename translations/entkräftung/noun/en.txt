@@ -1,1 +1,2 @@
-["exhaustion","refutation"]
+exhaustion
+refutation

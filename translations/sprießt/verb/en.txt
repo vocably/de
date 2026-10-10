@@ -1,1 +1,2 @@
-["sprouts","shoots up"]
+sprouts
+shoots up

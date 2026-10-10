@@ -1,1 +1,2 @@
-["to come into conflict","to conflict"]
+to come into conflict
+to conflict

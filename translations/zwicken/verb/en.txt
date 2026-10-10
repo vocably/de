@@ -1,1 +1,3 @@
-["pinch","tweak","nip"]
+pinch
+tweak
+nip

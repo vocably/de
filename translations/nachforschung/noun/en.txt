@@ -1,1 +1,2 @@
-["investigation","research"]
+investigation
+research

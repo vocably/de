@@ -1,1 +1,2 @@
-["to drag","to haul"]
+to drag
+to haul

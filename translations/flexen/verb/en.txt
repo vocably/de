@@ -1,1 +1,3 @@
-["to grind","to flex","to show off"]
+to grind
+to flex
+to show off

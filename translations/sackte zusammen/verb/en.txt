@@ -1,1 +1,3 @@
-["collapsed","slumped","sagged"]
+collapsed
+slumped
+sagged

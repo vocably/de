@@ -1,1 +1,2 @@
-["mnemonic","memory aid"]
+mnemonic
+memory aid

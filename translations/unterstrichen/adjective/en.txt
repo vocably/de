@@ -1,1 +1,2 @@
-["underlined","emphasized"]
+underlined
+emphasized

@@ -1,1 +1,2 @@
-["proportion","ratio"]
+proportion
+ratio

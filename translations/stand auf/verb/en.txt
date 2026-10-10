@@ -1,1 +1,2 @@
-["got up","stood up"]
+got up
+stood up

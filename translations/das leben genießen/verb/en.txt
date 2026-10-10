@@ -1,1 +1,2 @@
-["enjoy life","savor life"]
+enjoy life
+savor life

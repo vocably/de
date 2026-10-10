@@ -1,1 +1,2 @@
-["loosening","relaxation"]
+loosening
+relaxation

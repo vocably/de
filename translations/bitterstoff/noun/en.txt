@@ -1,1 +1,2 @@
-["bitter principle","bitterant"]
+bitter principle
+bitterant

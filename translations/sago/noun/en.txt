@@ -1,1 +1,2 @@
-["sago","sago pudding"]
+sago
+sago pudding

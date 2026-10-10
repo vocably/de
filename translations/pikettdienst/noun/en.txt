@@ -1,1 +1,2 @@
-["on-call duty","standby duty"]
+on-call duty
+standby duty

@@ -1,1 +1,3 @@
-["shaping","forming","molding"]
+shaping
+forming
+molding

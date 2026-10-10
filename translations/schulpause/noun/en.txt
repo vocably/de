@@ -1,1 +1,2 @@
-["recess","school break"]
+recess
+school break

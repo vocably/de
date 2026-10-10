@@ -1,1 +1,2 @@
-["covered wagon","prairie schooner"]
+covered wagon
+prairie schooner

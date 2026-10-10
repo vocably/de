@@ -1,1 +1,2 @@
-["inherently","in itself"]
+inherently
+in itself

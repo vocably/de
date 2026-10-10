@@ -1,1 +1,2 @@
-["garland","festoon"]
+garland
+festoon

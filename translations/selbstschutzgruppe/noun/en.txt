@@ -1,1 +1,2 @@
-["self-defense group","vigilante group"]
+self-defense group
+vigilante group

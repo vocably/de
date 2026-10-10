@@ -1,1 +1,2 @@
-["sling","arm sling"]
+sling
+arm sling

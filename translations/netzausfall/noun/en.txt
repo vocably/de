@@ -1,1 +1,2 @@
-["power outage","network outage"]
+power outage
+network outage

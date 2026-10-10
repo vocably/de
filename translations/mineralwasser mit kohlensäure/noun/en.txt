@@ -1,1 +1,2 @@
-["sparkling water","carbonated mineral water"]
+sparkling water
+carbonated mineral water

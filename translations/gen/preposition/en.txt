@@ -1,1 +1,2 @@
-["towards","to"]
+towards
+to

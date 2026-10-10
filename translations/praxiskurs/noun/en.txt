@@ -1,1 +1,2 @@
-["practical course","hands-on course"]
+practical course
+hands-on course

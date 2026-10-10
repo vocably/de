@@ -1,1 +1,2 @@
-["hugged","caressed"]
+hugged
+caressed

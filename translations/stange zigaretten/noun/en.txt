@@ -1,1 +1,2 @@
-["carton of cigarettes","carton"]
+carton of cigarettes
+carton

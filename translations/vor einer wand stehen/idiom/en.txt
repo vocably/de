@@ -1,1 +1,2 @@
-["to be up against a wall","to be at a dead end"]
+to be up against a wall
+to be at a dead end

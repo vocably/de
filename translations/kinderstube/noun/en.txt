@@ -1,1 +1,2 @@
-["nursery","upbringing"]
+nursery
+upbringing

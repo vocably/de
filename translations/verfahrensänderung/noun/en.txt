@@ -1,1 +1,2 @@
-["process change","procedural change"]
+process change
+procedural change

@@ -1,1 +1,3 @@
-["contraction","abbreviation","merger"]
+contraction
+abbreviation
+merger

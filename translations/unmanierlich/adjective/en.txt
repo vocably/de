@@ -1,1 +1,2 @@
-["ill-mannered","rude"]
+ill-mannered
+rude

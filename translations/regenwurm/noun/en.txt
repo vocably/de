@@ -1,1 +1,2 @@
-["earthworm","dew worm"]
+earthworm
+dew worm

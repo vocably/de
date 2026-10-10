@@ -1,1 +1,4 @@
-["to change suddenly","to wrap around","to turn over","to put in an envelope"]
+to change suddenly
+to wrap around
+to turn over
+to put in an envelope

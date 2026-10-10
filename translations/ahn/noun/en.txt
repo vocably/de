@@ -1,1 +1,2 @@
-["ancestor","forefather"]
+ancestor
+forefather

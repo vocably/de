@@ -1,1 +1,2 @@
-["raw food diet","raw diet"]
+raw food diet
+raw diet

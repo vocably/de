@@ -1,1 +1,3 @@
-["to wonder","to ask oneself","to question oneself"]
+to wonder
+to ask oneself
+to question oneself

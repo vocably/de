@@ -1,1 +1,3 @@
-["chokes","chokeholds","asphyxiations"]
+chokes
+chokeholds
+asphyxiations

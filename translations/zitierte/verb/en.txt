@@ -1,1 +1,2 @@
-["quoted","cited"]
+quoted
+cited

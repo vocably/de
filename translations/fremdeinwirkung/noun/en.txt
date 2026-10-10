@@ -1,1 +1,2 @@
-["outside influence","external factor"]
+outside influence
+external factor

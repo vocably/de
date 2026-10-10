@@ -1,1 +1,3 @@
-["delicate","tricky","delicious"]
+delicate
+tricky
+delicious

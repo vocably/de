@@ -1,1 +1,3 @@
-["obscene","dirty","filthy"]
+obscene
+dirty
+filthy

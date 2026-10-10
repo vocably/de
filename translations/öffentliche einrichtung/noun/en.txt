@@ -1,1 +1,2 @@
-["public institution","public facility"]
+public institution
+public facility

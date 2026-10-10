@@ -1,1 +1,2 @@
-["insole","insert"]
+insole
+insert

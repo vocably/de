@@ -1,1 +1,2 @@
-["immunization","vaccination"]
+immunization
+vaccination

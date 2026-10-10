@@ -1,1 +1,2 @@
-["dad's","daddy's"]
+dad's
+daddy's

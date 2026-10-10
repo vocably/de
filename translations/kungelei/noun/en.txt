@@ -1,1 +1,2 @@
-["collusion","cabal"]
+collusion
+cabal

@@ -1,1 +1,2 @@
-["home care office","nursing service office"]
+home care office
+nursing service office

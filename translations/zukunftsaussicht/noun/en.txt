@@ -1,1 +1,2 @@
-["future prospect","outlook"]
+future prospect
+outlook

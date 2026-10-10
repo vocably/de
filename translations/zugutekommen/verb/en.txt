@@ -1,1 +1,3 @@
-["benefit","be useful","be of advantage"]
+benefit
+be useful
+be of advantage

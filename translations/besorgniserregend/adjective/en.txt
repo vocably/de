@@ -1,1 +1,2 @@
-["alarming","worrying"]
+alarming
+worrying

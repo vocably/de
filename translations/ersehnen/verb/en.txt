@@ -1,1 +1,2 @@
-["long for","yearn for"]
+long for
+yearn for

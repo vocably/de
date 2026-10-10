@@ -1,1 +1,2 @@
-["landline phone","landline"]
+landline phone
+landline

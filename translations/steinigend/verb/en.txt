@@ -1,1 +1,2 @@
-["stoning","pelting"]
+stoning
+pelting

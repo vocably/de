@@ -1,1 +1,2 @@
-["cover letter","application letter"]
+cover letter
+application letter

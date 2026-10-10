@@ -1,1 +1,2 @@
-["department name","field of study name"]
+department name
+field of study name

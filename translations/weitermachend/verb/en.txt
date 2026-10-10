@@ -1,1 +1,2 @@
-["continuing","going on"]
+continuing
+going on

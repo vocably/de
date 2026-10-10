@@ -1,1 +1,3 @@
-["contested","disputed","competed in"]
+contested
+disputed
+competed in

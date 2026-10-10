@@ -1,1 +1,3 @@
-["reappear","perform again","recur"]
+reappear
+perform again
+recur

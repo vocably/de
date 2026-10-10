@@ -1,1 +1,2 @@
-["barbershop","men's salon"]
+barbershop
+men's salon

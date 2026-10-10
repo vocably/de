@@ -1,1 +1,2 @@
-["look forward to something","await something"]
+look forward to something
+await something

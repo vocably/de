@@ -1,1 +1,2 @@
-["stretch of road","section of road"]
+stretch of road
+section of road

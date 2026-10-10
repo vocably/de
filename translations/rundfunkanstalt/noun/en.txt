@@ -1,1 +1,2 @@
-["broadcasting corporation","broadcaster"]
+broadcasting corporation
+broadcaster

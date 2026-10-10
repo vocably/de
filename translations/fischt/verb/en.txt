@@ -1,1 +1,3 @@
-["fishes","fishes for","fishes out"]
+fishes
+fishes for
+fishes out

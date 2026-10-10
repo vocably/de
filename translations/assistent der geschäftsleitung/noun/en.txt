@@ -1,1 +1,2 @@
-["assistant to the management board","executive assistant"]
+assistant to the management board
+executive assistant

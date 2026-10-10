@@ -1,1 +1,2 @@
-["rotary machine","rotary indexing machine"]
+rotary machine
+rotary indexing machine

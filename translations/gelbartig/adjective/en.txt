@@ -1,1 +1,2 @@
-["yellowish","yellow-like"]
+yellowish
+yellow-like

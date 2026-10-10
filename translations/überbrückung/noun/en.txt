@@ -1,1 +1,2 @@
-["bridging","temporary solution"]
+bridging
+temporary solution

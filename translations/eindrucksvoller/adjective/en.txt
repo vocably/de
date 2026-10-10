@@ -1,1 +1,2 @@
-["more impressive","more imposing"]
+more impressive
+more imposing

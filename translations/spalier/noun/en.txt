@@ -1,1 +1,2 @@
-["gauntlet","trellis"]
+gauntlet
+trellis

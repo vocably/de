@@ -1,1 +1,2 @@
-["transparency","banner"]
+transparency
+banner

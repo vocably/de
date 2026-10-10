@@ -1,1 +1,4 @@
-["stamped","postmarked","canceled","marked"]
+stamped
+postmarked
+canceled
+marked

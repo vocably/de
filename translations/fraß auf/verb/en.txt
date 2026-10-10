@@ -1,1 +1,2 @@
-["ate up","devoured"]
+ate up
+devoured

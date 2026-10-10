@@ -1,1 +1,3 @@
-["to be fit","to be in shape","to be healthy"]
+to be fit
+to be in shape
+to be healthy

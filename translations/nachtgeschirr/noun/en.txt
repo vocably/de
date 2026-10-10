@@ -1,1 +1,2 @@
-["chamber pot","bedpan"]
+chamber pot
+bedpan

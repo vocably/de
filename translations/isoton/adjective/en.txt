@@ -1,1 +1,1 @@
-["isotonic"]
+isotonic

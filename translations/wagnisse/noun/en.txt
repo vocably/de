@@ -1,1 +1,2 @@
-["risks","ventures"]
+risks
+ventures

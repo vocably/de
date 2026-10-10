@@ -1,1 +1,3 @@
-["unlikable","unpleasant","unsympathetic"]
+unlikable
+unpleasant
+unsympathetic

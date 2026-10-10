@@ -1,1 +1,2 @@
-["hub","boss"]
+hub
+boss

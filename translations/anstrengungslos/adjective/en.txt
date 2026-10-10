@@ -1,1 +1,2 @@
-["effortless","easy"]
+effortless
+easy

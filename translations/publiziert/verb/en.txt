@@ -1,1 +1,2 @@
-["published","issued"]
+published
+issued

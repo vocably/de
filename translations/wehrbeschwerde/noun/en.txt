@@ -1,1 +1,2 @@
-["military grievance","service complaint"]
+military grievance
+service complaint

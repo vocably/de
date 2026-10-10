@@ -1,1 +1,2 @@
-["bricklayer","brickmaker"]
+bricklayer
+brickmaker

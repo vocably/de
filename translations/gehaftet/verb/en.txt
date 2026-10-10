@@ -1,1 +1,2 @@
-["was liable","was responsible"]
+was liable
+was responsible

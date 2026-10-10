@@ -1,1 +1,2 @@
-["reborn","regenerated"]
+reborn
+regenerated

@@ -1,1 +1,2 @@
-["retirement home","senior residence"]
+retirement home
+senior residence

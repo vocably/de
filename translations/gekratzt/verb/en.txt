@@ -1,1 +1,3 @@
-["scratched","scraped","itched"]
+scratched
+scraped
+itched

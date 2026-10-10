@@ -1,1 +1,2 @@
-["intercompany courses","external courses"]
+intercompany courses
+external courses

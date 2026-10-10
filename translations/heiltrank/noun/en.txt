@@ -1,1 +1,2 @@
-["healing potion","health potion"]
+healing potion
+health potion

@@ -1,1 +1,2 @@
-["demand from","ask of"]
+demand from
+ask of

@@ -1,1 +1,2 @@
-["German language proficiency","German skills"]
+German language proficiency
+German skills

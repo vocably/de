@@ -1,1 +1,2 @@
-["secular","worldly"]
+secular
+worldly

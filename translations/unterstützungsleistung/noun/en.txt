@@ -1,1 +1,2 @@
-["support service","support payment"]
+support service
+support payment

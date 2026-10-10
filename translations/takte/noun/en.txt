@@ -1,1 +1,3 @@
-["measures","beats","bars"]
+measures
+beats
+bars

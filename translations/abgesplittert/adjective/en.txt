@@ -1,1 +1,2 @@
-["chipped","splintered"]
+chipped
+splintered

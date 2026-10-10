@@ -1,1 +1,2 @@
-["unfavorable","unflattering"]
+unfavorable
+unflattering

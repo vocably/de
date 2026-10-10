@@ -1,1 +1,3 @@
-["to leave","to disappear","to warp"]
+to leave
+to disappear
+to warp

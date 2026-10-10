@@ -1,1 +1,2 @@
-["buckle up","fasten"]
+buckle up
+fasten

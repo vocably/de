@@ -1,1 +1,2 @@
-["frothed","foamed"]
+frothed
+foamed

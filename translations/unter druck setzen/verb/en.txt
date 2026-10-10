@@ -1,1 +1,2 @@
-["to put pressure on","to pressurize"]
+to put pressure on
+to pressurize

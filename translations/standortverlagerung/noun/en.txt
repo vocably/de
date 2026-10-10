@@ -1,1 +1,2 @@
-["relocation","site transfer"]
+relocation
+site transfer

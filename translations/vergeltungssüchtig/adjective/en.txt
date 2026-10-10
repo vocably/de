@@ -1,1 +1,2 @@
-["vindictive","vengeful"]
+vindictive
+vengeful

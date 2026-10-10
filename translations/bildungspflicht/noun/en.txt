@@ -1,1 +1,2 @@
-["compulsory education","mandatory education"]
+compulsory education
+mandatory education

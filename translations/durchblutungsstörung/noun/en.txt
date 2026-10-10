@@ -1,1 +1,2 @@
-["circulatory disorder","blood flow disorder"]
+circulatory disorder
+blood flow disorder

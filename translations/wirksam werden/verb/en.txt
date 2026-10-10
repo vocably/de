@@ -1,1 +1,3 @@
-["take effect","come into force","become effective"]
+take effect
+come into force
+become effective

@@ -1,1 +1,2 @@
-["intermediate school certificate","GCSEs"]
+intermediate school certificate
+GCSEs

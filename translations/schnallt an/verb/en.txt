@@ -1,1 +1,2 @@
-["fastens","buckles up"]
+fastens
+buckles up

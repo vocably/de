@@ -1,1 +1,2 @@
-["to wink","to give a wink"]
+to wink
+to give a wink

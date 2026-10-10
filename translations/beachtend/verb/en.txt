@@ -1,1 +1,3 @@
-["considering","noticing","observing"]
+considering
+noticing
+observing

@@ -1,1 +1,2 @@
-["defenseless","vulnerable"]
+defenseless
+vulnerable

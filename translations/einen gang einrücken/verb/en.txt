@@ -1,1 +1,2 @@
-["to engage a gear","to step up a gear"]
+to engage a gear
+to step up a gear

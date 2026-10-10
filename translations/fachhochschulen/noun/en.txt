@@ -1,1 +1,2 @@
-["universities of applied sciences","polytechnics"]
+universities of applied sciences
+polytechnics

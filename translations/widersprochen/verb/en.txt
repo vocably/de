@@ -1,1 +1,2 @@
-["contradicted","objected"]
+contradicted
+objected

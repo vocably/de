@@ -1,1 +1,2 @@
-["fishing tackle","fishing equipment"]
+fishing tackle
+fishing equipment

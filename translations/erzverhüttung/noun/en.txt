@@ -1,1 +1,2 @@
-["smelting","ore smelting"]
+smelting
+ore smelting

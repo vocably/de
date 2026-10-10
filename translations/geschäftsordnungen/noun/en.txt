@@ -1,1 +1,2 @@
-["rules of procedure","bylaws"]
+rules of procedure
+bylaws

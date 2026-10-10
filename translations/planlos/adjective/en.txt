@@ -1,1 +1,2 @@
-["aimless","random"]
+aimless
+random

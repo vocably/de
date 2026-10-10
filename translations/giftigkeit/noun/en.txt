@@ -1,1 +1,2 @@
-["toxicity","virulence"]
+toxicity
+virulence

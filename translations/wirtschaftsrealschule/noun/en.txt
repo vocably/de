@@ -1,1 +1,2 @@
-["commercial middle school","business-focused secondary school"]
+commercial middle school
+business-focused secondary school

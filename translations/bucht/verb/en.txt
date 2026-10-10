@@ -1,1 +1,3 @@
-["books","reserves","posts"]
+books
+reserves
+posts

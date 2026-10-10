@@ -1,1 +1,2 @@
-["AI teacher","AI instructor"]
+AI teacher
+AI instructor

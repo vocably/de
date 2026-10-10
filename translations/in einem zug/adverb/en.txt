@@ -1,1 +1,3 @@
-["at a stretch","in one go","in one fell swoop"]
+at a stretch
+in one go
+in one fell swoop

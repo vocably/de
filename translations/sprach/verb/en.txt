@@ -1,1 +1,3 @@
-["spoke","talked","said"]
+spoke
+talked
+said

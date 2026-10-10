@@ -1,1 +1,2 @@
-["semivowels","glides"]
+semivowels
+glides

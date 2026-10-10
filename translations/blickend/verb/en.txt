@@ -1,1 +1,3 @@
-["looking","gazing","glancing"]
+looking
+gazing
+glancing

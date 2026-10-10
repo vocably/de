@@ -1,1 +1,2 @@
-["medication intake","taking of medicine"]
+medication intake
+taking of medicine

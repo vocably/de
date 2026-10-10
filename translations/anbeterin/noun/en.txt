@@ -1,1 +1,2 @@
-["worshiper","adorer"]
+worshiper
+adorer

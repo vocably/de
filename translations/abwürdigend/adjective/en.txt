@@ -1,1 +1,3 @@
-["disparaging","degrading","derogatory"]
+disparaging
+degrading
+derogatory

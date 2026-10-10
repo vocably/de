@@ -1,1 +1,2 @@
-["attributed","ascribed"]
+attributed
+ascribed

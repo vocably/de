@@ -1,1 +1,2 @@
-["stuttering","stammering"]
+stuttering
+stammering

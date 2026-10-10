@@ -1,1 +1,3 @@
-["handles","operates","manages"]
+handles
+operates
+manages

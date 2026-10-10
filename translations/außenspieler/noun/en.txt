@@ -1,1 +1,2 @@
-["winger","outside player"]
+winger
+outside player

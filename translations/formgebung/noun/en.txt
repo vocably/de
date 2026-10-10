@@ -1,1 +1,2 @@
-["design","styling"]
+design
+styling

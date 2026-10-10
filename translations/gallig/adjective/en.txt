@@ -1,1 +1,2 @@
-["bitter","spiteful"]
+bitter
+spiteful

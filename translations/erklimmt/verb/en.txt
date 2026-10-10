@@ -1,1 +1,2 @@
-["climbs","ascends"]
+climbs
+ascends

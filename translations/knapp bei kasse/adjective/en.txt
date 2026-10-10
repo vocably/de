@@ -1,1 +1,2 @@
-["short on cash","strapped for cash"]
+short on cash
+strapped for cash

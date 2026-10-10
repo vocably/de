@@ -1,1 +1,2 @@
-["act of violence","violent crime"]
+act of violence
+violent crime

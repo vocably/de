@@ -1,1 +1,2 @@
-["firmament","sky"]
+firmament
+sky

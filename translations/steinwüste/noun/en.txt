@@ -1,1 +1,2 @@
-["stony desert","rock desert"]
+stony desert
+rock desert

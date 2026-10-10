@@ -1,1 +1,3 @@
-["reversing","turning around","changing direction"]
+reversing
+turning around
+changing direction

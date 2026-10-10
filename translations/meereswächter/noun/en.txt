@@ -1,1 +1,2 @@
-["sea guardian","ocean protector"]
+sea guardian
+ocean protector

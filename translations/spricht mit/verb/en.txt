@@ -1,1 +1,2 @@
-["talks to","speaks with"]
+talks to
+speaks with

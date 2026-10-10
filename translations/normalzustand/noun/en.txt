@@ -1,1 +1,2 @@
-["normal state","normal condition"]
+normal state
+normal condition

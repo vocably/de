@@ -1,1 +1,2 @@
-["cop","bailiff"]
+cop
+bailiff

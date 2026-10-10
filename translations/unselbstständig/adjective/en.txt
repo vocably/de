@@ -1,1 +1,2 @@
-["dependent","helpless"]
+dependent
+helpless

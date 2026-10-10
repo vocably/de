@@ -1,1 +1,2 @@
-["license plate","number plate"]
+license plate
+number plate

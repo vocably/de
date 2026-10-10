@@ -1,1 +1,2 @@
-["compulsory school","public school"]
+compulsory school
+public school

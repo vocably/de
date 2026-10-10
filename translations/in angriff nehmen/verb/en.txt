@@ -1,1 +1,3 @@
-["tackle","address","take on"]
+tackle
+address
+take on

@@ -1,1 +1,4 @@
-["to run toward","to fill up","to flock","to clog up"]
+to run toward
+to fill up
+to flock
+to clog up

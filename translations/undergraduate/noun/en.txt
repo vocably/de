@@ -1,1 +1,2 @@
-["undergraduate","undergrad"]
+undergraduate
+undergrad

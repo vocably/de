@@ -1,1 +1,2 @@
-["exaggerated","pointed"]
+exaggerated
+pointed

@@ -1,1 +1,2 @@
-["in-laws","spouse's family"]
+in-laws
+spouse's family

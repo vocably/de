@@ -1,1 +1,2 @@
-["economically","frugally"]
+economically
+frugally

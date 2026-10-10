@@ -1,1 +1,2 @@
-["far up","high up"]
+far up
+high up

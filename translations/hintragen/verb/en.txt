@@ -1,1 +1,2 @@
-["carry","take"]
+carry
+take

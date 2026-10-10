@@ -1,1 +1,2 @@
-["drupe","stone fruit"]
+drupe
+stone fruit

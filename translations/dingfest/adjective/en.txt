@@ -1,1 +1,2 @@
-["apprehend","arrest"]
+apprehend
+arrest

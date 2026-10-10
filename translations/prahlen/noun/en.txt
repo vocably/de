@@ -1,1 +1,2 @@
-["boasting","bragging"]
+boasting
+bragging

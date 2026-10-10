@@ -1,1 +1,2 @@
-["table edge","edge of the table"]
+table edge
+edge of the table

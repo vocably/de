@@ -1,1 +1,2 @@
-["weakness","exhaustion"]
+weakness
+exhaustion

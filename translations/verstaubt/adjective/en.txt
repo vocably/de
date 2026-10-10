@@ -1,1 +1,2 @@
-["dusty","outdated"]
+dusty
+outdated

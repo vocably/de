@@ -1,1 +1,2 @@
-["to illuminate","to light up"]
+to illuminate
+to light up

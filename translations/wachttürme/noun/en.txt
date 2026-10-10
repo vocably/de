@@ -1,1 +1,2 @@
-["watchtowers","observation towers"]
+watchtowers
+observation towers

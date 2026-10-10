@@ -1,1 +1,2 @@
-["The truth will come out.","The truth will come to light."]
+The truth will come out.
+The truth will come to light.

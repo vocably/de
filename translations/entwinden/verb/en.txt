@@ -1,1 +1,2 @@
-["to wrest","to twist"]
+to wrest
+to twist

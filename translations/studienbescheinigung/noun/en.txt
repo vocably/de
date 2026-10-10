@@ -1,1 +1,2 @@
-["certificate of enrollment","proof of enrollment"]
+certificate of enrollment
+proof of enrollment

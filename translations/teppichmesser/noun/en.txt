@@ -1,1 +1,2 @@
-["utility knife","box cutter"]
+utility knife
+box cutter

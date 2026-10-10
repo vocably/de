@@ -1,1 +1,2 @@
-["fan merchandise","fan article"]
+fan merchandise
+fan article

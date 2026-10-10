@@ -1,1 +1,2 @@
-["primarily","first and foremost"]
+primarily
+first and foremost

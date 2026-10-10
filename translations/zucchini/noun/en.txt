@@ -1,1 +1,2 @@
-["zucchini","courgette"]
+zucchini
+courgette

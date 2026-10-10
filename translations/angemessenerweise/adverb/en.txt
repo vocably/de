@@ -1,1 +1,3 @@
-["appropriately","reasonably","suitably"]
+appropriately
+reasonably
+suitably

@@ -1,1 +1,3 @@
-["exposed","uncovered","unprotected"]
+exposed
+uncovered
+unprotected

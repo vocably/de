@@ -1,1 +1,2 @@
-["womanhood","womankind"]
+womanhood
+womankind

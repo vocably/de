@@ -1,1 +1,3 @@
-["to emerge","to transpire","to become clear"]
+to emerge
+to transpire
+to become clear

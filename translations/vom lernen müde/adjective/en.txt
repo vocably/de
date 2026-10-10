@@ -1,1 +1,2 @@
-["tired from studying","weary from studying"]
+tired from studying
+weary from studying

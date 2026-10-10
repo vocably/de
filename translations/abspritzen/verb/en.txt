@@ -1,1 +1,3 @@
-["spray off","hose down","squirt"]
+spray off
+hose down
+squirt

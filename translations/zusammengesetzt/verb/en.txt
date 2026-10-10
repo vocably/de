@@ -1,1 +1,3 @@
-["composed","assembled","put together"]
+composed
+assembled
+put together

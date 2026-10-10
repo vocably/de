@@ -1,1 +1,2 @@
-["landline","fixed line"]
+landline
+fixed line

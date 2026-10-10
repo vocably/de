@@ -1,1 +1,2 @@
-["in my opinion","from my perspective"]
+in my opinion
+from my perspective

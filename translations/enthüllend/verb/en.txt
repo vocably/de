@@ -1,1 +1,2 @@
-["revealing","disclosing"]
+revealing
+disclosing

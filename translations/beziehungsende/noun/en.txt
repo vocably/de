@@ -1,1 +1,2 @@
-["breakup","end of relationship"]
+breakup
+end of relationship

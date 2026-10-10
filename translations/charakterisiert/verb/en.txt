@@ -1,1 +1,2 @@
-["characterizes","describes"]
+characterizes
+describes

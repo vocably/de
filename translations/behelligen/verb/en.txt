@@ -1,1 +1,2 @@
-["to bother","to pester"]
+to bother
+to pester

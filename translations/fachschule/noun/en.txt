@@ -1,1 +1,2 @@
-["technical college","vocational school"]
+technical college
+vocational school

@@ -1,1 +1,3 @@
-["to be drawn into","to be dragged into","to be pulled into"]
+to be drawn into
+to be dragged into
+to be pulled into

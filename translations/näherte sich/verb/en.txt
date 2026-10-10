@@ -1,1 +1,2 @@
-["approached","neared"]
+approached
+neared

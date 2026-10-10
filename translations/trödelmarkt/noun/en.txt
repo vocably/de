@@ -1,1 +1,2 @@
-["flea market","rummage sale"]
+flea market
+rummage sale

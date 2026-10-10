@@ -1,1 +1,2 @@
-["skins","hides"]
+skins
+hides

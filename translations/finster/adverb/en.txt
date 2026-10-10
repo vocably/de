@@ -1,1 +1,3 @@
-["darkly","gloomily","grimly"]
+darkly
+gloomily
+grimly

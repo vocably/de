@@ -1,1 +1,2 @@
-["slutty","tarty"]
+slutty
+tarty

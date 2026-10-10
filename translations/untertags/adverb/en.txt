@@ -1,1 +1,2 @@
-["during the day","daytime"]
+during the day
+daytime

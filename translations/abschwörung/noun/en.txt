@@ -1,1 +1,2 @@
-["abjuration","recantation"]
+abjuration
+recantation

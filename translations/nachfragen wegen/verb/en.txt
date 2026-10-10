@@ -1,1 +1,2 @@
-["inquire about","ask about"]
+inquire about
+ask about

@@ -1,1 +1,3 @@
-["to photograph","to copy","to take a picture of"]
+to photograph
+to copy
+to take a picture of

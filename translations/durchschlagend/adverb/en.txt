@@ -1,1 +1,2 @@
-["resounding","conclusive"]
+resounding
+conclusive

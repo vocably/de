@@ -1,1 +1,2 @@
-["excursions","field trips"]
+excursions
+field trips

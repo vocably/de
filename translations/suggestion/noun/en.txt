@@ -1,1 +1,2 @@
-["suggestion","influence"]
+suggestion
+influence

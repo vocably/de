@@ -1,1 +1,2 @@
-["jubilee","anniversary"]
+jubilee
+anniversary

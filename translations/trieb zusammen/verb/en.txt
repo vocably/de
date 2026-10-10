@@ -1,1 +1,3 @@
-["drove together","rounded up","herded together"]
+drove together
+rounded up
+herded together

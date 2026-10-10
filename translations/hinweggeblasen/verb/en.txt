@@ -1,1 +1,2 @@
-["blown away","swept away"]
+blown away
+swept away

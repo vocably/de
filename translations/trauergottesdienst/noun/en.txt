@@ -1,1 +1,2 @@
-["funeral service","memorial service"]
+funeral service
+memorial service

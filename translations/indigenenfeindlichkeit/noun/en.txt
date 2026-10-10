@@ -1,1 +1,2 @@
-["hostility towards indigenous peoples","discrimination against indigenous peoples"]
+hostility towards indigenous peoples
+discrimination against indigenous peoples

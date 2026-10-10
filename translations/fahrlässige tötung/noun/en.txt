@@ -1,1 +1,2 @@
-["manslaughter","negligent homicide"]
+manslaughter
+negligent homicide

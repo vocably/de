@@ -1,1 +1,2 @@
-["cramped","huddled"]
+cramped
+huddled

@@ -1,1 +1,2 @@
-["double transmission","dual transmission"]
+double transmission
+dual transmission

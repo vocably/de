@@ -1,1 +1,2 @@
-["office supplies","stationery"]
+office supplies
+stationery

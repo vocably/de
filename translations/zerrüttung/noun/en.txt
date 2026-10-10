@@ -1,1 +1,2 @@
-["disruption","breakdown"]
+disruption
+breakdown

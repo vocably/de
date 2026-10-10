@@ -1,1 +1,2 @@
-["glide","slide"]
+glide
+slide

@@ -1,1 +1,2 @@
-["agonizingly","tormentingly"]
+agonizingly
+tormentingly

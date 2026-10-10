@@ -1,1 +1,2 @@
-["buried","covered"]
+buried
+covered

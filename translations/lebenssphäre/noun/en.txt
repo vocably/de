@@ -1,1 +1,2 @@
-["biosphere","sphere of life"]
+biosphere
+sphere of life

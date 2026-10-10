@@ -1,1 +1,2 @@
-["starting lineup","starting grid"]
+starting lineup
+starting grid

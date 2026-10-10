@@ -1,1 +1,2 @@
-["to wire","to connect"]
+to wire
+to connect

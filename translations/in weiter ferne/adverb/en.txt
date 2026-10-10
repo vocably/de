@@ -1,1 +1,3 @@
-["in the distance","far away","in the distant future"]
+in the distance
+far away
+in the distant future

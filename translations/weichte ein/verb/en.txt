@@ -1,1 +1,2 @@
-["soaked","softened"]
+soaked
+softened

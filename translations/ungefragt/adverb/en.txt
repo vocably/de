@@ -1,1 +1,2 @@
-["unasked","unsolicited"]
+unasked
+unsolicited

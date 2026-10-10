@@ -1,1 +1,2 @@
-["horizontal","level"]
+horizontal
+level

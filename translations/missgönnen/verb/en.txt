@@ -1,1 +1,2 @@
-["begrudge","envy"]
+begrudge
+envy

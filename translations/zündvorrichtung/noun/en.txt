@@ -1,1 +1,2 @@
-["igniter","ignition device"]
+igniter
+ignition device

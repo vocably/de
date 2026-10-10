@@ -1,1 +1,2 @@
-["snoring","snoringly"]
+snoring
+snoringly

@@ -1,1 +1,2 @@
-["transmission system","broadcasting system"]
+transmission system
+broadcasting system

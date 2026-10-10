@@ -1,1 +1,2 @@
-["more accurate","more appropriate"]
+more accurate
+more appropriate

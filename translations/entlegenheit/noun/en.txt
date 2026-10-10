@@ -1,1 +1,2 @@
-["opportunity","remoteness"]
+opportunity
+remoteness

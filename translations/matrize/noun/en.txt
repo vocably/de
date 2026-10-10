@@ -1,1 +1,3 @@
-["matrix","mold","die"]
+matrix
+mold
+die

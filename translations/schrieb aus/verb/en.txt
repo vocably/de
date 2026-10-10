@@ -1,1 +1,2 @@
-["advertised","wrote out"]
+advertised
+wrote out

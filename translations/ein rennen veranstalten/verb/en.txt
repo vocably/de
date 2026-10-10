@@ -1,1 +1,2 @@
-["to hold a race","to organize a race"]
+to hold a race
+to organize a race

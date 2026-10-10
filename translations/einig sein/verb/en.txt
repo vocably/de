@@ -1,1 +1,3 @@
-["to agree","to be in agreement","to be of one mind"]
+to agree
+to be in agreement
+to be of one mind

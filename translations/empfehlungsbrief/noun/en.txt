@@ -1,1 +1,2 @@
-["letter of recommendation","recommendation letter"]
+letter of recommendation
+recommendation letter

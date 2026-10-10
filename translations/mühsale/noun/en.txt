@@ -1,1 +1,2 @@
-["hardships","toils"]
+hardships
+toils

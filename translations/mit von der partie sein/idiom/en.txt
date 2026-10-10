@@ -1,1 +1,3 @@
-["to be in on it","to be part of it","to be in on the act"]
+to be in on it
+to be part of it
+to be in on the act

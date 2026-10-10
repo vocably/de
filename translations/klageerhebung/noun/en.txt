@@ -1,1 +1,2 @@
-["filing of a lawsuit","bringing an action"]
+filing of a lawsuit
+bringing an action

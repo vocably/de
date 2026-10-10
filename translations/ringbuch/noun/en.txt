@@ -1,1 +1,2 @@
-["ring binder","loose-leaf binder"]
+ring binder
+loose-leaf binder

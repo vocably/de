@@ -1,1 +1,2 @@
-["devout person","person of strict faith"]
+devout person
+person of strict faith

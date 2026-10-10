@@ -1,1 +1,3 @@
-["more powerfully","more vigorously","more forcefully"]
+more powerfully
+more vigorously
+more forcefully

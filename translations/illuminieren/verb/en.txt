@@ -1,1 +1,3 @@
-["illuminate","light up","enlighten"]
+illuminate
+light up
+enlighten

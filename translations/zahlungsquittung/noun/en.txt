@@ -1,1 +1,2 @@
-["payment receipt","proof of payment"]
+payment receipt
+proof of payment

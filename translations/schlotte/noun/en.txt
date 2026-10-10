@@ -1,1 +1,2 @@
-["crevice","fissure"]
+crevice
+fissure

@@ -1,1 +1,3 @@
-["as expected","predictably","as anticipated"]
+as expected
+predictably
+as anticipated

@@ -1,1 +1,2 @@
-["landlord","lessor"]
+landlord
+lessor

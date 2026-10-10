@@ -1,1 +1,2 @@
-["obscene","foul"]
+obscene
+foul

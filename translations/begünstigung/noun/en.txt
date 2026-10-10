@@ -1,1 +1,3 @@
-["favor","preferential treatment","patronage"]
+favor
+preferential treatment
+patronage

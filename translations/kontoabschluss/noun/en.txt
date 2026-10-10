@@ -1,1 +1,2 @@
-["account statement","bank statement"]
+account statement
+bank statement

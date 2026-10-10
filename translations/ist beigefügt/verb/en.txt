@@ -1,1 +1,2 @@
-["is attached","is enclosed"]
+is attached
+is enclosed

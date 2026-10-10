@@ -1,1 +1,2 @@
-["computer science","computer being"]
+computer science
+computer being

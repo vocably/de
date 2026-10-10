@@ -1,1 +1,2 @@
-["sports facility","sports venue"]
+sports facility
+sports venue

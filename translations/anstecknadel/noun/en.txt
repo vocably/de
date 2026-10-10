@@ -1,1 +1,2 @@
-["pin","brooch"]
+pin
+brooch

@@ -1,1 +1,2 @@
-["to be an old hand","to be a veteran"]
+to be an old hand
+to be a veteran

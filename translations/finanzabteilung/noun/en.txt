@@ -1,1 +1,2 @@
-["finance department","accounting department"]
+finance department
+accounting department

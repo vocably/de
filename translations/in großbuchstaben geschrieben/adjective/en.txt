@@ -1,1 +1,2 @@
-["written in capital letters","written in all caps"]
+written in capital letters
+written in all caps

@@ -1,1 +1,2 @@
-["desalination plants","desalination facilities"]
+desalination plants
+desalination facilities

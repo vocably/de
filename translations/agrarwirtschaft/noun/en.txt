@@ -1,1 +1,2 @@
-["agriculture","agricultural industry"]
+agriculture
+agricultural industry

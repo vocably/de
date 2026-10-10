@@ -1,1 +1,2 @@
-["airway","air-lane"]
+airway
+air-lane

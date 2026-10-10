@@ -1,1 +1,2 @@
-["tuft","clump"]
+tuft
+clump

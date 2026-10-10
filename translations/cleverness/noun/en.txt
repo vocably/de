@@ -1,1 +1,2 @@
-["cleverness","shrewdness"]
+cleverness
+shrewdness

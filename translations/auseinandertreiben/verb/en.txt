@@ -1,1 +1,2 @@
-["disperse","drive apart"]
+disperse
+drive apart

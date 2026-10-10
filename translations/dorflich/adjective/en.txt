@@ -1,1 +1,2 @@
-["rural","rustic"]
+rural
+rustic

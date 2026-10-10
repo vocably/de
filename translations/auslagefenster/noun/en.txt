@@ -1,1 +1,2 @@
-["display window","shop window"]
+display window
+shop window

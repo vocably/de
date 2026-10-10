@@ -1,1 +1,2 @@
-["cultivated","reclaimed"]
+cultivated
+reclaimed

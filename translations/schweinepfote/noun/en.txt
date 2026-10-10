@@ -1,1 +1,2 @@
-["pig's trotter","pig's foot"]
+pig's trotter
+pig's foot

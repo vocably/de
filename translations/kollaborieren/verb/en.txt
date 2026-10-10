@@ -1,1 +1,2 @@
-["collaborate","collude"]
+collaborate
+collude

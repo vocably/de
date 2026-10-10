@@ -1,1 +1,2 @@
-["soothing","palliative"]
+soothing
+palliative

@@ -1,1 +1,3 @@
-["turned up","turned on","turned open"]
+turned up
+turned on
+turned open

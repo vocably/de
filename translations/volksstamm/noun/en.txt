@@ -1,1 +1,2 @@
-["tribe","ethnic group"]
+tribe
+ethnic group

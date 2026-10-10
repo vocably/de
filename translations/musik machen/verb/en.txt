@@ -1,1 +1,2 @@
-["make music","play music"]
+make music
+play music

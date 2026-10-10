@@ -1,1 +1,2 @@
-["confectionery store","confectionery"]
+confectionery store
+confectionery

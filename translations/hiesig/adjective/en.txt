@@ -1,1 +1,2 @@
-["local","of this area"]
+local
+of this area

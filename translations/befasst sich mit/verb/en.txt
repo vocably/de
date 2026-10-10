@@ -1,1 +1,2 @@
-["deals with","concerns itself with"]
+deals with
+concerns itself with

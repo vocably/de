@@ -1,1 +1,2 @@
-["outings","trips"]
+outings
+trips

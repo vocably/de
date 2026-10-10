@@ -1,1 +1,2 @@
-["common ground","common basis"]
+common ground
+common basis

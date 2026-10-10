@@ -1,1 +1,2 @@
-["gird","belt"]
+gird
+belt

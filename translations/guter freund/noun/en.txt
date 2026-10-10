@@ -1,1 +1,2 @@
-["good friend","close friend"]
+good friend
+close friend

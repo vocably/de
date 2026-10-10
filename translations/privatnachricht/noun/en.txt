@@ -1,1 +1,2 @@
-["private message","direct message"]
+private message
+direct message

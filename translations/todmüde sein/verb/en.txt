@@ -1,1 +1,2 @@
-["to be dead tired","to be exhausted"]
+to be dead tired
+to be exhausted

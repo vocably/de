@@ -1,1 +1,2 @@
-["find one's way","cope"]
+find one's way
+cope

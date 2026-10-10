@@ -1,1 +1,2 @@
-["experienced in negotiations","skilled in negotiations"]
+experienced in negotiations
+skilled in negotiations

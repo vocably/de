@@ -1,1 +1,2 @@
-["creator","author"]
+creator
+author

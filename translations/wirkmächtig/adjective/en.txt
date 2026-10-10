@@ -1,1 +1,2 @@
-["effective","influential"]
+effective
+influential

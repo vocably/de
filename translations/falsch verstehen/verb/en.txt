@@ -1,1 +1,2 @@
-["misunderstand","mistake"]
+misunderstand
+mistake

@@ -1,1 +1,3 @@
-["to wind","to meander","to snake"]
+to wind
+to meander
+to snake

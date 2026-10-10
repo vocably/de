@@ -1,1 +1,2 @@
-["influenced","affected"]
+influenced
+affected

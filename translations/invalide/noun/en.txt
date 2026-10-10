@@ -1,1 +1,2 @@
-["invalid","disabled person"]
+invalid
+disabled person

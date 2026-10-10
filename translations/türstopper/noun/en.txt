@@ -1,1 +1,2 @@
-["doorstop","door stopper"]
+doorstop
+door stopper

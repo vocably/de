@@ -1,1 +1,2 @@
-["salute gun","saluting cannon"]
+salute gun
+saluting cannon

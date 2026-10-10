@@ -1,1 +1,2 @@
-["calming","soothing"]
+calming
+soothing

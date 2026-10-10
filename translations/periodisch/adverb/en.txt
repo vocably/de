@@ -1,1 +1,2 @@
-["periodically","cyclically"]
+periodically
+cyclically

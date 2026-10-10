@@ -1,1 +1,3 @@
-["invalidate","override","repeal"]
+invalidate
+override
+repeal

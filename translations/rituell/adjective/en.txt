@@ -1,1 +1,2 @@
-["ritual","ritualistic"]
+ritual
+ritualistic

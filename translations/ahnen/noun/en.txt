@@ -1,1 +1,2 @@
-["ancestors","forebears"]
+ancestors
+forebears

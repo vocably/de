@@ -1,1 +1,2 @@
-["produces","manufactures"]
+produces
+manufactures

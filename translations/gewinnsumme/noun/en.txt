@@ -1,1 +1,2 @@
-["winnings","prize money"]
+winnings
+prize money

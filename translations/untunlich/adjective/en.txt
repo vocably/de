@@ -1,1 +1,3 @@
-["impracticable","unadvisable","inexpedient"]
+impracticable
+unadvisable
+inexpedient

@@ -1,1 +1,2 @@
-["odd-jobber","casual laborer"]
+odd-jobber
+casual laborer

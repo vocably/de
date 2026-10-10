@@ -1,1 +1,2 @@
-["prayer room","meditation room"]
+prayer room
+meditation room

@@ -1,1 +1,2 @@
-["to sprint","to dash"]
+to sprint
+to dash

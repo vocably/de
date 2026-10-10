@@ -1,1 +1,2 @@
-["special offer","special deal"]
+special offer
+special deal

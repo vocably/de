@@ -1,1 +1,2 @@
-["parking bay","parking space"]
+parking bay
+parking space

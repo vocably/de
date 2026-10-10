@@ -1,1 +1,2 @@
-["turnaround","reversal"]
+turnaround
+reversal

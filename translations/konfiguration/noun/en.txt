@@ -1,1 +1,2 @@
-["configuration","setup"]
+configuration
+setup

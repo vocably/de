@@ -1,1 +1,2 @@
-["swimming vacation","swimming holiday"]
+swimming vacation
+swimming holiday

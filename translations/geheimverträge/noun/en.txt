@@ -1,1 +1,2 @@
-["secret treaties","secret agreements"]
+secret treaties
+secret agreements

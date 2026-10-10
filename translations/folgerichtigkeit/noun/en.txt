@@ -1,1 +1,2 @@
-["consistency","coherence"]
+consistency
+coherence

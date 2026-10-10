@@ -1,1 +1,2 @@
-["side table","utility cart"]
+side table
+utility cart

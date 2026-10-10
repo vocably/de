@@ -1,1 +1,2 @@
-["abrupt","sudden"]
+abrupt
+sudden

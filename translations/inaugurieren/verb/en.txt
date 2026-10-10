@@ -1,1 +1,2 @@
-["inaugurate","install"]
+inaugurate
+install

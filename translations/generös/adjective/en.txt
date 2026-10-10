@@ -1,1 +1,2 @@
-["generous","bountiful"]
+generous
+bountiful

@@ -1,1 +1,2 @@
-["takeout","to-go food"]
+takeout
+to-go food

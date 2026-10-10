@@ -1,1 +1,2 @@
-["data collection","data acquisition"]
+data collection
+data acquisition

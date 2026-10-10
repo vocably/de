@@ -1,1 +1,3 @@
-["referred to","pointed to","cited"]
+referred to
+pointed to
+cited

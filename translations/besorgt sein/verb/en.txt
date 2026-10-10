@@ -1,1 +1,3 @@
-["to be worried","to be concerned","to be anxious"]
+to be worried
+to be concerned
+to be anxious

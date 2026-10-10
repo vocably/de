@@ -1,1 +1,2 @@
-["I summarize.","I conclude."]
+I summarize.
+I conclude.

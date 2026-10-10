@@ -1,1 +1,2 @@
-["defense","warding off"]
+defense
+warding off

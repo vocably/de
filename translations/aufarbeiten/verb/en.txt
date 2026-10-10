@@ -1,1 +1,3 @@
-["refurbish","work through","catch up on"]
+refurbish
+work through
+catch up on

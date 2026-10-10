@@ -1,1 +1,2 @@
-["pettiness","nitpicking"]
+pettiness
+nitpicking

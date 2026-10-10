@@ -1,1 +1,2 @@
-["abused","mistreated"]
+abused
+mistreated

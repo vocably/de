@@ -1,1 +1,3 @@
-["ascents","promotions","rises"]
+ascents
+promotions
+rises

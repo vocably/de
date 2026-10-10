@@ -1,1 +1,3 @@
-["take in","include","consider"]
+take in
+include
+consider

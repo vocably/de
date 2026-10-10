@@ -1,1 +1,2 @@
-["annually","yearly"]
+annually
+yearly

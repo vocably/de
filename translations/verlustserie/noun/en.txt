@@ -1,1 +1,2 @@
-["losing streak","losing run"]
+losing streak
+losing run

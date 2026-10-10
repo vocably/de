@@ -1,1 +1,3 @@
-["triggers","activates","is the trigger for"]
+triggers
+activates
+is the trigger for

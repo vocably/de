@@ -1,1 +1,2 @@
-["looked up","consulted"]
+looked up
+consulted

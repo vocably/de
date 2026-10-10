@@ -1,1 +1,2 @@
-["warrior","hero"]
+warrior
+hero

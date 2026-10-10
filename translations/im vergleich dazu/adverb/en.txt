@@ -1,1 +1,2 @@
-["in comparison","by comparison"]
+in comparison
+by comparison

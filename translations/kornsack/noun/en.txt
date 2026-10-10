@@ -1,1 +1,2 @@
-["grain sack","corn sack"]
+grain sack
+corn sack

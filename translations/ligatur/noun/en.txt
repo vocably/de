@@ -1,1 +1,3 @@
-["ligature","tie","thread"]
+ligature
+tie
+thread

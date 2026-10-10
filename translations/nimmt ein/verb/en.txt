@@ -1,1 +1,4 @@
-["takes","occupies","captivates","conquers"]
+takes
+occupies
+captivates
+conquers

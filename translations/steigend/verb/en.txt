@@ -1,1 +1,3 @@
-["rising","increasing","ascending"]
+rising
+increasing
+ascending

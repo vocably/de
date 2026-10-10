@@ -1,1 +1,2 @@
-["convenience store","late-night shop"]
+convenience store
+late-night shop

@@ -1,1 +1,2 @@
-["Marketing and Advertising Director","Head of Marketing and Advertising"]
+Marketing and Advertising Director
+Head of Marketing and Advertising

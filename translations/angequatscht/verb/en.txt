@@ -1,1 +1,2 @@
-["was accosted","was chatted up"]
+was accosted
+was chatted up

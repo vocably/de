@@ -1,1 +1,2 @@
-["dairy products","milk products"]
+dairy products
+milk products

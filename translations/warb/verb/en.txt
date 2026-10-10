@@ -1,1 +1,2 @@
-["advertised","recruited"]
+advertised
+recruited

@@ -1,1 +1,3 @@
-["just as well","equally well","as well"]
+just as well
+equally well
+as well

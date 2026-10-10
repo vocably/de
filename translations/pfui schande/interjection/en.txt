@@ -1,1 +1,2 @@
-["For shame!","Shame on you!"]
+For shame!
+Shame on you!

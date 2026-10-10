@@ -1,1 +1,2 @@
-["coffee grounds","grounds"]
+coffee grounds
+grounds

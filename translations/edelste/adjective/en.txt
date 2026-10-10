@@ -1,1 +1,3 @@
-["noblest","most noble","finest"]
+noblest
+most noble
+finest

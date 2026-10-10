@@ -1,1 +1,3 @@
-["scored","gained points","impressed"]
+scored
+gained points
+impressed

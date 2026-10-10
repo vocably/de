@@ -1,1 +1,2 @@
-["medical history","case history"]
+medical history
+case history

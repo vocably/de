@@ -1,1 +1,2 @@
-["unfamiliar","unknown"]
+unfamiliar
+unknown

@@ -1,1 +1,3 @@
-["planted","planned","designed"]
+planted
+planned
+designed

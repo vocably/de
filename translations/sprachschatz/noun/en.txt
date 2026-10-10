@@ -1,1 +1,2 @@
-["vocabulary","lexicon"]
+vocabulary
+lexicon

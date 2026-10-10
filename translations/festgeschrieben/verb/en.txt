@@ -1,1 +1,2 @@
-["stipulated","enshrined"]
+stipulated
+enshrined

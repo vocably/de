@@ -1,1 +1,3 @@
-["unreserved","frank","candid"]
+unreserved
+frank
+candid

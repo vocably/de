@@ -1,1 +1,2 @@
-["got along","understood each other"]
+got along
+understood each other

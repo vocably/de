@@ -1,1 +1,3 @@
-["returned","given back","handed back"]
+returned
+given back
+handed back

@@ -1,1 +1,2 @@
-["gym","training room"]
+gym
+training room

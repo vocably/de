@@ -1,1 +1,2 @@
-["confederation","confederacy"]
+confederation
+confederacy

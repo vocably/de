@@ -1,1 +1,2 @@
-["combination ticket","combo ticket"]
+combination ticket
+combo ticket

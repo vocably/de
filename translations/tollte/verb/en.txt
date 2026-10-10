@@ -1,1 +1,3 @@
-["romped","frolicked","ran wild"]
+romped
+frolicked
+ran wild

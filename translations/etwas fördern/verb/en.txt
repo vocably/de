@@ -1,1 +1,3 @@
-["to promote something","to extract something","to support someone"]
+to promote something
+to extract something
+to support someone

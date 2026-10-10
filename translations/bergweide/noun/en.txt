@@ -1,1 +1,2 @@
-["alpine pasture","mountain pasture"]
+alpine pasture
+mountain pasture

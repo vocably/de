@@ -1,1 +1,2 @@
-["lawsuit","legal dispute"]
+lawsuit
+legal dispute

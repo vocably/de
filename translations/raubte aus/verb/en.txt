@@ -1,1 +1,2 @@
-["robbed","plundered"]
+robbed
+plundered

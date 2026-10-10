@@ -1,1 +1,2 @@
-["chance of recovery","prospect of recovery"]
+chance of recovery
+prospect of recovery

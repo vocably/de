@@ -1,1 +1,2 @@
-["lord mayor","mayor"]
+lord mayor
+mayor

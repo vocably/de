@@ -1,1 +1,2 @@
-["to shred","to mince"]
+to shred
+to mince

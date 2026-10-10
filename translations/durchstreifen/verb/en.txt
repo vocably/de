@@ -1,1 +1,2 @@
-["to roam","to wander"]
+to roam
+to wander

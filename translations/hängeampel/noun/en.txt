@@ -1,1 +1,2 @@
-["hanging traffic light","hanging basket"]
+hanging traffic light
+hanging basket

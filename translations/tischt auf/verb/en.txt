@@ -1,1 +1,2 @@
-["serves up","dishes out"]
+serves up
+dishes out

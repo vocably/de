@@ -1,1 +1,2 @@
-["to bevel","to chamfer"]
+to bevel
+to chamfer

@@ -1,1 +1,3 @@
-["to kick","to play soccer","to be a blast"]
+to kick
+to play soccer
+to be a blast

@@ -1,1 +1,2 @@
-["to cry","to weep"]
+to cry
+to weep

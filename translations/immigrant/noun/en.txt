@@ -1,1 +1,2 @@
-["immigrant","migrant"]
+immigrant
+migrant

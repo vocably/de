@@ -1,1 +1,3 @@
-["to crack","to chap","to get chapped"]
+to crack
+to chap
+to get chapped

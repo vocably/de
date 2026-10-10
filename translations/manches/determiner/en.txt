@@ -1,1 +1,2 @@
-["some","many a"]
+some
+many a

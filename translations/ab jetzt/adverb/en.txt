@@ -1,1 +1,2 @@
-["from now on","as of now"]
+from now on
+as of now

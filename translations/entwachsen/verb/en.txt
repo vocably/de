@@ -1,1 +1,2 @@
-["outgrow","grow out of"]
+outgrow
+grow out of

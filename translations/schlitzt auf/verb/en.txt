@@ -1,1 +1,2 @@
-["slits open","cuts open"]
+slits open
+cuts open

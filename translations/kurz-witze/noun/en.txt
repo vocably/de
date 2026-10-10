@@ -1,1 +1,2 @@
-["short jokes","one-liners"]
+short jokes
+one-liners

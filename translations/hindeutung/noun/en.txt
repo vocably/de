@@ -1,1 +1,2 @@
-["hint","allusion"]
+hint
+allusion

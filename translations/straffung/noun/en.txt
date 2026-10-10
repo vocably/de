@@ -1,1 +1,2 @@
-["tightening","streamlining"]
+tightening
+streamlining

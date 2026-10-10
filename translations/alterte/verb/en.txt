@@ -1,1 +1,3 @@
-["aged","grew older","became obsolete"]
+aged
+grew older
+became obsolete

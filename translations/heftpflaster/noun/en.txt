@@ -1,1 +1,2 @@
-["band-aid","adhesive bandage"]
+band-aid
+adhesive bandage

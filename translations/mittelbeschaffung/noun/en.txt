@@ -1,1 +1,2 @@
-["fundraising","procurement of funds"]
+fundraising
+procurement of funds

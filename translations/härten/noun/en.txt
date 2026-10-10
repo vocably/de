@@ -1,1 +1,2 @@
-["hardships","hardening"]
+hardships
+hardening

@@ -1,1 +1,3 @@
-["flashed","raced","photographed with a flash"]
+flashed
+raced
+photographed with a flash

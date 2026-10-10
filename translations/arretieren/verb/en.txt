@@ -1,1 +1,2 @@
-["to arrest","to lock"]
+to arrest
+to lock

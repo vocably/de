@@ -1,1 +1,2 @@
-["Italian style","Italian way"]
+Italian style
+Italian way

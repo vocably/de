@@ -1,1 +1,2 @@
-["from there","from that point"]
+from there
+from that point

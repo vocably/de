@@ -1,1 +1,3 @@
-["to be informed","to be instructed","to be taught"]
+to be informed
+to be instructed
+to be taught

@@ -1,1 +1,2 @@
-["prehistory","ancient times"]
+prehistory
+ancient times

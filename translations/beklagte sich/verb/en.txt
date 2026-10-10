@@ -1,1 +1,2 @@
-["complained","lamented"]
+complained
+lamented

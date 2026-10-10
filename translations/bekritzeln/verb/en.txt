@@ -1,1 +1,2 @@
-["to scribble on","to deface with scribbles"]
+to scribble on
+to deface with scribbles

@@ -1,1 +1,2 @@
-["to be dismayed","to be appalled"]
+to be dismayed
+to be appalled

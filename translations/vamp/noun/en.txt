@@ -1,1 +1,2 @@
-["vamp","femme fatale"]
+vamp
+femme fatale

@@ -1,1 +1,2 @@
-["ribbon","sash"]
+ribbon
+sash

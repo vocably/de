@@ -1,1 +1,2 @@
-["noblewoman","lady"]
+noblewoman
+lady

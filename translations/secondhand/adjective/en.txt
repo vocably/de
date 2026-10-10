@@ -1,1 +1,2 @@
-["used","secondhand"]
+used
+secondhand

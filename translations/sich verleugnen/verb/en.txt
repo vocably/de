@@ -1,1 +1,3 @@
-["deny oneself","be untrue to oneself","betray oneself"]
+deny oneself
+be untrue to oneself
+betray oneself

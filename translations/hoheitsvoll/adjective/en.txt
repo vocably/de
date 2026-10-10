@@ -1,1 +1,2 @@
-["majestic","stately"]
+majestic
+stately

@@ -1,1 +1,2 @@
-["caresses","endearments"]
+caresses
+endearments

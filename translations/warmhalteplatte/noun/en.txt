@@ -1,1 +1,2 @@
-["warming plate","hot plate"]
+warming plate
+hot plate

@@ -1,1 +1,2 @@
-["professional salary","occupational salary"]
+professional salary
+occupational salary

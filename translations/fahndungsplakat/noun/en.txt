@@ -1,1 +1,2 @@
-["wanted poster","wanted sign"]
+wanted poster
+wanted sign

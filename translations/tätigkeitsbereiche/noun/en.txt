@@ -1,1 +1,2 @@
-["areas of activity","fields of activity"]
+areas of activity
+fields of activity

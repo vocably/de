@@ -1,1 +1,2 @@
-["out of print","sold out"]
+out of print
+sold out

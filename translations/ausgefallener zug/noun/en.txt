@@ -1,1 +1,2 @@
-["canceled train","train cancellation"]
+canceled train
+train cancellation

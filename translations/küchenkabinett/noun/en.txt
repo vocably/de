@@ -1,1 +1,2 @@
-["kitchen cabinet","kitchenette"]
+kitchen cabinet
+kitchenette

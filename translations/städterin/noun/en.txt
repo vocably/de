@@ -1,1 +1,2 @@
-["city dweller","urbanite"]
+city dweller
+urbanite

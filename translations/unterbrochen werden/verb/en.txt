@@ -1,1 +1,3 @@
-["to be interrupted","to be suspended","to be discontinued"]
+to be interrupted
+to be suspended
+to be discontinued

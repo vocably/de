@@ -1,1 +1,3 @@
-["to frame","to mount","to enclose"]
+to frame
+to mount
+to enclose

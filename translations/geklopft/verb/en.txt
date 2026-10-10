@@ -1,1 +1,2 @@
-["knocked","beaten"]
+knocked
+beaten

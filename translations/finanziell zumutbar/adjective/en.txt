@@ -1,1 +1,2 @@
-["financially reasonable","financially acceptable"]
+financially reasonable
+financially acceptable

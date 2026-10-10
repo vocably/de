@@ -1,1 +1,2 @@
-["pen holder","pencil cup"]
+pen holder
+pencil cup

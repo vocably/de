@@ -1,1 +1,2 @@
-["objective","aim"]
+objective
+aim

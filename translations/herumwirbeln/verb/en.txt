@@ -1,1 +1,2 @@
-["to swirl","to whirl"]
+to swirl
+to whirl

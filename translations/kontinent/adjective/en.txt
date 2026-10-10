@@ -1,1 +1,2 @@
-["continent","temperate"]
+continent
+temperate

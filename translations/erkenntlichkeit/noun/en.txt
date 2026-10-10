@@ -1,1 +1,2 @@
-["gratitude","appreciation"]
+gratitude
+appreciation

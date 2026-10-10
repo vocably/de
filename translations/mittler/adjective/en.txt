@@ -1,1 +1,3 @@
-["middle","average","medium"]
+middle
+average
+medium

@@ -1,1 +1,2 @@
-["mixed signal","conflicting signal"]
+mixed signal
+conflicting signal

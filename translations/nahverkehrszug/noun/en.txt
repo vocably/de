@@ -1,1 +1,2 @@
-["commuter train","local train"]
+commuter train
+local train

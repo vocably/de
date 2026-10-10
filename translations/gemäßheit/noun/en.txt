@@ -1,1 +1,2 @@
-["conformity","accordance"]
+conformity
+accordance

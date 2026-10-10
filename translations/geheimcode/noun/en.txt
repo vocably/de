@@ -1,1 +1,2 @@
-["secret code","access code"]
+secret code
+access code

@@ -1,1 +1,2 @@
-["holiday greeting","vacation greeting"]
+holiday greeting
+vacation greeting

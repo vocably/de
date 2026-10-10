@@ -1,1 +1,2 @@
-["scorned","rejected"]
+scorned
+rejected

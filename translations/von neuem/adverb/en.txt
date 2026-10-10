@@ -1,1 +1,3 @@
-["anew","afresh","again"]
+anew
+afresh
+again

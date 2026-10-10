@@ -1,1 +1,3 @@
-["reductions","decreases","diminutions"]
+reductions
+decreases
+diminutions

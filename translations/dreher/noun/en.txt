@@ -1,1 +1,3 @@
-["turner","lathe operator","spin"]
+turner
+lathe operator
+spin

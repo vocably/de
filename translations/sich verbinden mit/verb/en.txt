@@ -1,1 +1,3 @@
-["to connect with","to join with","to associate with"]
+to connect with
+to join with
+to associate with

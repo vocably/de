@@ -1,1 +1,2 @@
-["side street","back street"]
+side street
+back street

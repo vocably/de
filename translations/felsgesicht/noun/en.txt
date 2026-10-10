@@ -1,1 +1,2 @@
-["rock face","cliff face"]
+rock face
+cliff face

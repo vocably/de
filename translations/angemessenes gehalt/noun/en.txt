@@ -1,1 +1,2 @@
-["fair salary","adequate salary"]
+fair salary
+adequate salary

@@ -1,1 +1,2 @@
-["oddly","strangely"]
+oddly
+strangely

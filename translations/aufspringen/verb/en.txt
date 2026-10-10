@@ -1,1 +1,3 @@
-["jump up","spring open","shatter"]
+jump up
+spring open
+shatter

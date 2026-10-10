@@ -1,1 +1,2 @@
-["appear as","act as"]
+appear as
+act as

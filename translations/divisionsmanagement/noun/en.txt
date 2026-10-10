@@ -1,1 +1,2 @@
-["division management","divisional management"]
+division management
+divisional management

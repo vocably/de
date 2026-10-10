@@ -1,1 +1,3 @@
-["acted","operated","performed"]
+acted
+operated
+performed

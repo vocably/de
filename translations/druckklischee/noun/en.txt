@@ -1,1 +1,2 @@
-["stereotype","cliché"]
+stereotype
+cliché

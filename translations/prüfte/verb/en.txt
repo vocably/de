@@ -1,1 +1,3 @@
-["checked","examined","tested"]
+checked
+examined
+tested

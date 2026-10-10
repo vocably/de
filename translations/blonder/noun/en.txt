@@ -1,1 +1,2 @@
-["blond man","blond-haired man"]
+blond man
+blond-haired man

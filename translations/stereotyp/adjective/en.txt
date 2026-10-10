@@ -1,1 +1,2 @@
-["stereotypical","stock"]
+stereotypical
+stock

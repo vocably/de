@@ -1,1 +1,2 @@
-["fasting","on an empty stomach"]
+fasting
+on an empty stomach

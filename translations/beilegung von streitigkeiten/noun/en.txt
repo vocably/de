@@ -1,1 +1,2 @@
-["dispute resolution","settlement of disputes"]
+dispute resolution
+settlement of disputes

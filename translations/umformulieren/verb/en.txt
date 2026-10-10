@@ -1,1 +1,2 @@
-["rephrase","reword"]
+rephrase
+reword

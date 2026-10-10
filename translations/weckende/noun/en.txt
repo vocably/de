@@ -1,1 +1,2 @@
-["waker","awakener"]
+waker
+awakener

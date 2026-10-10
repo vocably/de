@@ -1,1 +1,2 @@
-["referendum","plebiscite"]
+referendum
+plebiscite

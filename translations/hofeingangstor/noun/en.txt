@@ -1,1 +1,2 @@
-["courtyard gate","yard gate"]
+courtyard gate
+yard gate

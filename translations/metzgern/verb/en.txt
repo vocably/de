@@ -1,1 +1,2 @@
-["to butcher","to slaughter"]
+to butcher
+to slaughter

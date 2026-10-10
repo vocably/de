@@ -1,1 +1,2 @@
-["was drawn into","was dragged into"]
+was drawn into
+was dragged into

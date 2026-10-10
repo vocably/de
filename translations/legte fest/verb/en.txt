@@ -1,1 +1,3 @@
-["determined","stipulated","set"]
+determined
+stipulated
+set

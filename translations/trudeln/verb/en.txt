@@ -1,1 +1,2 @@
-["to spin","to arrive"]
+to spin
+to arrive

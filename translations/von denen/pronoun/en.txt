@@ -1,1 +1,2 @@
-["of which","of whom"]
+of which
+of whom

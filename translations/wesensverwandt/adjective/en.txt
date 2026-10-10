@@ -1,1 +1,2 @@
-["kindred","congenial"]
+kindred
+congenial

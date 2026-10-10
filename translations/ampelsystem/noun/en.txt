@@ -1,1 +1,2 @@
-["traffic light system","traffic signal system"]
+traffic light system
+traffic signal system

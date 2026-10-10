@@ -1,1 +1,2 @@
-["obstetrician","midwife"]
+obstetrician
+midwife

@@ -1,1 +1,2 @@
-["core area","heartland"]
+core area
+heartland

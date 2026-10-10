@@ -1,1 +1,2 @@
-["lard pot","fatso"]
+lard pot
+fatso

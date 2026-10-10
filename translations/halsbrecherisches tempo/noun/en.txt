@@ -1,1 +1,2 @@
-["breakneck speed","dizzying pace"]
+breakneck speed
+dizzying pace

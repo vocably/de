@@ -1,1 +1,2 @@
-["tackle","deal with"]
+tackle
+deal with

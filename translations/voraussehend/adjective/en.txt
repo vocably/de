@@ -1,1 +1,2 @@
-["farsighted","provident"]
+farsighted
+provident

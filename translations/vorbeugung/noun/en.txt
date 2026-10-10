@@ -1,1 +1,2 @@
-["prevention","precaution"]
+prevention
+precaution

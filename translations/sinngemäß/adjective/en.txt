@@ -1,1 +1,2 @@
-["analogous","corresponding"]
+analogous
+corresponding

@@ -1,1 +1,2 @@
-["highly sought-after","in high demand"]
+highly sought-after
+in high demand

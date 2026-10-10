@@ -1,1 +1,2 @@
-["conscription","call-up"]
+conscription
+call-up

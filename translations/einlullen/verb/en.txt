@@ -1,1 +1,2 @@
-["lull","beguile"]
+lull
+beguile

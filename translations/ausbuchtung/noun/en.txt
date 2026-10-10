@@ -1,1 +1,2 @@
-["bulge","protrusion"]
+bulge
+protrusion

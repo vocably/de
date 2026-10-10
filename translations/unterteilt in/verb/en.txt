@@ -1,1 +1,2 @@
-["is divided into","is subdivided into"]
+is divided into
+is subdivided into

@@ -1,1 +1,3 @@
-["Hey!","Heh!","Huh!"]
+Hey!
+Heh!
+Huh!

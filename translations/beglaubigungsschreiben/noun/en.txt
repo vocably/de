@@ -1,1 +1,2 @@
-["credentials","letter of credence"]
+credentials
+letter of credence

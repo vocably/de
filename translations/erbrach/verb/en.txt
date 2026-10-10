@@ -1,1 +1,3 @@
-["broke open","vomited","erupted"]
+broke open
+vomited
+erupted

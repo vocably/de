@@ -1,1 +1,2 @@
-["publishing","editorial"]
+publishing
+editorial

@@ -1,1 +1,2 @@
-["come up","arise"]
+come up
+arise

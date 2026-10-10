@@ -1,1 +1,2 @@
-["time abroad","period abroad"]
+time abroad
+period abroad

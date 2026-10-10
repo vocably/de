@@ -1,1 +1,2 @@
-["to group","to classify"]
+to group
+to classify

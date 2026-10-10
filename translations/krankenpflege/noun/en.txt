@@ -1,1 +1,2 @@
-["nursing","nursing care"]
+nursing
+nursing care

@@ -1,1 +1,2 @@
-["expenses","costs"]
+expenses
+costs

@@ -1,1 +1,2 @@
-["agony","death throes"]
+agony
+death throes

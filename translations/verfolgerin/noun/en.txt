@@ -1,1 +1,2 @@
-["pursuer","follower"]
+pursuer
+follower

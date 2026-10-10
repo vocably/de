@@ -1,1 +1,3 @@
-["traveling","on a journey","touring"]
+traveling
+on a journey
+touring

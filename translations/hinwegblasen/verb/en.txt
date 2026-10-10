@@ -1,1 +1,2 @@
-["blow away","dispel"]
+blow away
+dispel

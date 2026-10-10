@@ -1,1 +1,2 @@
-["stand there","stood there"]
+stand there
+stood there

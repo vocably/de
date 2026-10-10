@@ -1,1 +1,2 @@
-["legal scholar","jurist"]
+legal scholar
+jurist

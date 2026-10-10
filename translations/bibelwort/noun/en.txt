@@ -1,1 +1,2 @@
-["Bible verse","scripture"]
+Bible verse
+scripture

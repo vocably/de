@@ -1,1 +1,2 @@
-["lament","dirge"]
+lament
+dirge

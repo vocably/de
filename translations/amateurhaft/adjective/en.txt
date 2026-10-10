@@ -1,1 +1,3 @@
-["amateurish","unprofessional","poorly done"]
+amateurish
+unprofessional
+poorly done

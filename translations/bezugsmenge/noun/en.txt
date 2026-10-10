@@ -1,1 +1,2 @@
-["reference quantity","base quantity"]
+reference quantity
+base quantity

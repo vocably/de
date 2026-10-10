@@ -1,1 +1,2 @@
-["happened","occurred"]
+happened
+occurred

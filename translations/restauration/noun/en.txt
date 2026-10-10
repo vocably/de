@@ -1,1 +1,2 @@
-["restoration","restaurant"]
+restoration
+restaurant

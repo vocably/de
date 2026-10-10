@@ -1,1 +1,2 @@
-["inglorious","disgraceful"]
+inglorious
+disgraceful

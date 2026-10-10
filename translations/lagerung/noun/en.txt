@@ -1,1 +1,3 @@
-["storage","warehousing","positioning"]
+storage
+warehousing
+positioning

@@ -1,1 +1,2 @@
-["knelt down","knelt"]
+knelt down
+knelt

@@ -1,1 +1,2 @@
-["a few","a couple"]
+a few
+a couple

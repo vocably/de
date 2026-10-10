@@ -1,1 +1,2 @@
-["livable","worth living"]
+livable
+worth living

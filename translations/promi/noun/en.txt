@@ -1,1 +1,2 @@
-["celebrity","prominent person"]
+celebrity
+prominent person

@@ -1,1 +1,3 @@
-["drive out","go out","drive someone out"]
+drive out
+go out
+drive someone out

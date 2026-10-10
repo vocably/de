@@ -1,1 +1,2 @@
-["salary","wage"]
+salary
+wage

@@ -1,1 +1,2 @@
-["sweats","hot flashes"]
+sweats
+hot flashes

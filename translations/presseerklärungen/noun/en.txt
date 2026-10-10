@@ -1,1 +1,2 @@
-["press releases","media statements"]
+press releases
+media statements

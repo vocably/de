@@ -1,1 +1,4 @@
-["to reveal itself","to manifest itself","to disclose itself","to come to light"]
+to reveal itself
+to manifest itself
+to disclose itself
+to come to light

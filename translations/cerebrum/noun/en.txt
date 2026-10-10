@@ -1,1 +1,2 @@
-["cerebrum","forebrain"]
+cerebrum
+forebrain

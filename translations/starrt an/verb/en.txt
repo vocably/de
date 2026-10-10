@@ -1,1 +1,2 @@
-["stares at","gazes at"]
+stares at
+gazes at

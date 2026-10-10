@@ -1,1 +1,2 @@
-["applied","application-oriented"]
+applied
+application-oriented

@@ -1,1 +1,2 @@
-["elite athlete","high-performance athlete"]
+elite athlete
+high-performance athlete

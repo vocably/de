@@ -1,1 +1,3 @@
-["acceptable","tolerable","bearable"]
+acceptable
+tolerable
+bearable

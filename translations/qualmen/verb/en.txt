@@ -1,1 +1,2 @@
-["to smoke","to smolder"]
+to smoke
+to smolder

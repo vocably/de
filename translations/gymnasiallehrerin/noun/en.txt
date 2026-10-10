@@ -1,1 +1,2 @@
-["high school teacher","grammar school teacher"]
+high school teacher
+grammar school teacher

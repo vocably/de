@@ -1,1 +1,4 @@
-["turned on","asked","caused","hired"]
+turned on
+asked
+caused
+hired

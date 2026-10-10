@@ -1,1 +1,2 @@
-["dry spell","drought"]
+dry spell
+drought

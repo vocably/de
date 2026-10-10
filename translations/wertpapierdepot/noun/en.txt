@@ -1,1 +1,2 @@
-["securities account","custody account"]
+securities account
+custody account

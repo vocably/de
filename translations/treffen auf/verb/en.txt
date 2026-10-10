@@ -1,1 +1,3 @@
-["encounter","meet","come across"]
+encounter
+meet
+come across

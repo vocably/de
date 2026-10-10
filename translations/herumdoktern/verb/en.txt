@@ -1,1 +1,2 @@
-["to tinker around with","to doctor around with"]
+to tinker around with
+to doctor around with

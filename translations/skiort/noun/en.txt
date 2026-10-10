@@ -1,1 +1,2 @@
-["ski resort","ski town"]
+ski resort
+ski town

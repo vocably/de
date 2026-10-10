@@ -1,1 +1,2 @@
-["tire","pneumatic tire"]
+tire
+pneumatic tire

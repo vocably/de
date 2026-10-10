@@ -1,1 +1,2 @@
-["explosive","explosive material"]
+explosive
+explosive material

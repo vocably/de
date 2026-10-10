@@ -1,1 +1,2 @@
-["parade","procession"]
+parade
+procession

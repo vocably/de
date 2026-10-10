@@ -1,1 +1,2 @@
-["floated","hovered"]
+floated
+hovered

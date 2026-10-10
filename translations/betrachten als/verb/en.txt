@@ -1,1 +1,3 @@
-["consider as","regard as","look upon as"]
+consider as
+regard as
+look upon as

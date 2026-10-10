@@ -1,1 +1,2 @@
-["summit","summit meeting"]
+summit
+summit meeting

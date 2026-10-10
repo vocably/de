@@ -1,1 +1,2 @@
-["heroism","bravery"]
+heroism
+bravery

@@ -1,1 +1,2 @@
-["competing","rival"]
+competing
+rival

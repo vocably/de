@@ -1,1 +1,3 @@
-["numbing","anesthetic","stupefying"]
+numbing
+anesthetic
+stupefying

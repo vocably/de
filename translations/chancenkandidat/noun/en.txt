@@ -1,1 +1,2 @@
-["dark horse","outsider"]
+dark horse
+outsider

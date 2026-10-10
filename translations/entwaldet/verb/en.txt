@@ -1,1 +1,2 @@
-["deforested","cleared"]
+deforested
+cleared

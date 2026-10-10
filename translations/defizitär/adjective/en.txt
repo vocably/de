@@ -1,1 +1,3 @@
-["deficient","in deficit","inadequate"]
+deficient
+in deficit
+inadequate

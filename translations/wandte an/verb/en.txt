@@ -1,1 +1,3 @@
-["applied","turned to","used"]
+applied
+turned to
+used

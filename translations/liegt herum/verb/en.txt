@@ -1,1 +1,2 @@
-["lie around","lounge around"]
+lie around
+lounge around

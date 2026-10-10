@@ -1,1 +1,2 @@
-["dulled","blunted"]
+dulled
+blunted

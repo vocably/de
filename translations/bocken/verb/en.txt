@@ -1,1 +1,3 @@
-["to buck","to refuse","to balk"]
+to buck
+to refuse
+to balk

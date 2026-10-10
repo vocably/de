@@ -1,1 +1,2 @@
-["up-to-the-minute","minute-by-minute"]
+up-to-the-minute
+minute-by-minute

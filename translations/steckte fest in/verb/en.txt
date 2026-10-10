@@ -1,1 +1,3 @@
-["was stuck in","was blocked in","was jammed in"]
+was stuck in
+was blocked in
+was jammed in

@@ -1,1 +1,2 @@
-["recall","dismissal"]
+recall
+dismissal

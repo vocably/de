@@ -1,1 +1,3 @@
-["emerges","appears","surfaces"]
+emerges
+appears
+surfaces

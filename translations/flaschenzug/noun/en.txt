@@ -1,1 +1,2 @@
-["pulley","block and tackle"]
+pulley
+block and tackle

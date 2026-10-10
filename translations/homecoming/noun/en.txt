@@ -1,1 +1,2 @@
-["homecoming","return"]
+homecoming
+return

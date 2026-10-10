@@ -1,1 +1,2 @@
-["parody","spoof"]
+parody
+spoof

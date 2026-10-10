@@ -1,1 +1,2 @@
-["temple courtyard","sacred precinct"]
+temple courtyard
+sacred precinct

@@ -1,1 +1,2 @@
-["medical history","anamnesis"]
+medical history
+anamnesis

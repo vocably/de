@@ -1,1 +1,2 @@
-["tiniest amount","slightest amount"]
+tiniest amount
+slightest amount

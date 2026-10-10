@@ -1,1 +1,2 @@
-["burned down","burnt down"]
+burned down
+burnt down

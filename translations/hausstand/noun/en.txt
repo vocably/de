@@ -1,1 +1,2 @@
-["household effects","household"]
+household effects
+household

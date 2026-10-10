@@ -1,1 +1,2 @@
-["to suffer from something","to be affected by something"]
+to suffer from something
+to be affected by something

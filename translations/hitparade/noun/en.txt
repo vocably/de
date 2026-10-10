@@ -1,1 +1,2 @@
-["charts","hit parade"]
+charts
+hit parade

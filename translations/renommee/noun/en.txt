@@ -1,1 +1,2 @@
-["reputation","prestige"]
+reputation
+prestige

@@ -1,1 +1,2 @@
-["litigant","disputant"]
+litigant
+disputant

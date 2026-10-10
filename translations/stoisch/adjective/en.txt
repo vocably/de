@@ -1,1 +1,2 @@
-["stoic","impassive"]
+stoic
+impassive

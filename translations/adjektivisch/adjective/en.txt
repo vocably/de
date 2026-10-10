@@ -1,1 +1,2 @@
-["adjectival","adjective-like"]
+adjectival
+adjective-like

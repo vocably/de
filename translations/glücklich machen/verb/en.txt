@@ -1,1 +1,2 @@
-["to make happy","to please"]
+to make happy
+to please

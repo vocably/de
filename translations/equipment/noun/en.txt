@@ -1,1 +1,2 @@
-["equipment","gear"]
+equipment
+gear

@@ -1,1 +1,2 @@
-["to be shaken","to be shocked"]
+to be shaken
+to be shocked

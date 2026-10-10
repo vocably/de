@@ -1,1 +1,2 @@
-["alien set","extraterrestrial set"]
+alien set
+extraterrestrial set

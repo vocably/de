@@ -1,1 +1,2 @@
-["Get out of here!","Leave here!"]
+Get out of here!
+Leave here!

@@ -1,1 +1,2 @@
-["cruising","cruise"]
+cruising
+cruise

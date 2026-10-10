@@ -1,1 +1,2 @@
-["radio position","radio post"]
+radio position
+radio post

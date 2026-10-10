@@ -1,1 +1,2 @@
-["to consecrate","to ordain"]
+to consecrate
+to ordain

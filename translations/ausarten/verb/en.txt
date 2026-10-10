@@ -1,1 +1,3 @@
-["degenerate","escalate","get out of hand"]
+degenerate
+escalate
+get out of hand

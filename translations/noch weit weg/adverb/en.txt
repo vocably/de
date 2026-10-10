@@ -1,1 +1,2 @@
-["still a long way off","still far away"]
+still a long way off
+still far away

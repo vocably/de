@@ -1,1 +1,2 @@
-["fringe benefit","employee benefit"]
+fringe benefit
+employee benefit

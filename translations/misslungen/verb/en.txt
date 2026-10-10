@@ -1,1 +1,3 @@
-["failed","unsuccessful","botched"]
+failed
+unsuccessful
+botched

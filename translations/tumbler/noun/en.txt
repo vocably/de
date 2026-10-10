@@ -1,1 +1,3 @@
-["tumbler","dryer","washing machine"]
+tumbler
+dryer
+washing machine

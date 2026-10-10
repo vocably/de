@@ -1,1 +1,3 @@
-["to equip","to stock","to load"]
+to equip
+to stock
+to load

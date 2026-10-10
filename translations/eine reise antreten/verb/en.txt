@@ -1,1 +1,2 @@
-["to start a journey","to set off on a journey"]
+to start a journey
+to set off on a journey

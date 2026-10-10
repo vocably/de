@@ -1,1 +1,2 @@
-["heartfelt","deep-felt"]
+heartfelt
+deep-felt

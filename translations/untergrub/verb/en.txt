@@ -1,1 +1,2 @@
-["undermined","weakened"]
+undermined
+weakened

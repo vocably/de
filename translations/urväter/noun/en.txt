@@ -1,1 +1,2 @@
-["forefathers","founding fathers"]
+forefathers
+founding fathers

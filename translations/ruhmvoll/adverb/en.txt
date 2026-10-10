@@ -1,1 +1,2 @@
-["gloriously","famously"]
+gloriously
+famously

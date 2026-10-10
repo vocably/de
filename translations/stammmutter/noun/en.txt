@@ -1,1 +1,2 @@
-["matriarch","progenitress"]
+matriarch
+progenitress

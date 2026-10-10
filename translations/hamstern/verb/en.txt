@@ -1,1 +1,2 @@
-["to hoard","to stockpile"]
+to hoard
+to stockpile

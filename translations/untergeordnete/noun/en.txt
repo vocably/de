@@ -1,1 +1,2 @@
-["subordinate","junior"]
+subordinate
+junior

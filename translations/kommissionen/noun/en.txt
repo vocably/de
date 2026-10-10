@@ -1,1 +1,2 @@
-["commissions","committees"]
+commissions
+committees

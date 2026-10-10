@@ -1,1 +1,2 @@
-["scholarship holder","fellow"]
+scholarship holder
+fellow

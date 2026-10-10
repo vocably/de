@@ -1,1 +1,2 @@
-["commissioned","started up"]
+commissioned
+started up

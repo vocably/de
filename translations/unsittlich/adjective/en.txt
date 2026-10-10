@@ -1,1 +1,3 @@
-["immoral","indecent","obscene"]
+immoral
+indecent
+obscene

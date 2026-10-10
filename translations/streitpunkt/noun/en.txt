@@ -1,1 +1,2 @@
-["point of contention","bone of contention"]
+point of contention
+bone of contention

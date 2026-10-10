@@ -1,1 +1,2 @@
-["digestif","bitters"]
+digestif
+bitters

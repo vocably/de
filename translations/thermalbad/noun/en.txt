@@ -1,1 +1,2 @@
-["spa","thermal bath"]
+spa
+thermal bath

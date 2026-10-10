@@ -1,1 +1,3 @@
-["glow","incandescence","ardor"]
+glow
+incandescence
+ardor

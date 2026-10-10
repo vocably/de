@@ -1,1 +1,2 @@
-["enemies","foes"]
+enemies
+foes

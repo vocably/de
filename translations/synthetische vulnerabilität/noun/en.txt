@@ -1,1 +1,1 @@
-["synthetic vulnerability"]
+synthetic vulnerability

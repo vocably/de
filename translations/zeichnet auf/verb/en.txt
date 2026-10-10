@@ -1,1 +1,3 @@
-["draws","records","tapes"]
+draws
+records
+tapes

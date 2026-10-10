@@ -1,1 +1,2 @@
-["burgled","broken into"]
+burgled
+broken into

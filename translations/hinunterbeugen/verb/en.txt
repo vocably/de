@@ -1,1 +1,2 @@
-["bend down","stoop down"]
+bend down
+stoop down

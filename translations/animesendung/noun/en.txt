@@ -1,1 +1,2 @@
-["anime show","anime series"]
+anime show
+anime series

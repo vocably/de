@@ -1,1 +1,2 @@
-["claims","takes advantage of"]
+claims
+takes advantage of

@@ -1,1 +1,2 @@
-["gone","departed"]
+gone
+departed

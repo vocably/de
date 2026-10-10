@@ -1,1 +1,2 @@
-["fasting day","day of fasting"]
+fasting day
+day of fasting

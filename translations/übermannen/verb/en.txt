@@ -1,1 +1,2 @@
-["overcome","overpower"]
+overcome
+overpower

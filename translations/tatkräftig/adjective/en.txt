@@ -1,1 +1,2 @@
-["energetic","active"]
+energetic
+active

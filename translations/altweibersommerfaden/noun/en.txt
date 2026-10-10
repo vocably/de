@@ -1,1 +1,2 @@
-["gossamer","gossamer thread"]
+gossamer
+gossamer thread

@@ -1,1 +1,2 @@
-["at the same level","at the same stage"]
+at the same level
+at the same stage

@@ -1,1 +1,2 @@
-["bid","make a bid"]
+bid
+make a bid

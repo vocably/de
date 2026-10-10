@@ -1,1 +1,2 @@
-["flooring","floor covering"]
+flooring
+floor covering

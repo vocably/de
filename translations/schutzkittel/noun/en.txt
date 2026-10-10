@@ -1,1 +1,2 @@
-["protective gown","lab coat"]
+protective gown
+lab coat

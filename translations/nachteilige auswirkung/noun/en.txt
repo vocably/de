@@ -1,1 +1,2 @@
-["negative impact","adverse effect"]
+negative impact
+adverse effect

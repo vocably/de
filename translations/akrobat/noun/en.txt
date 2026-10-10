@@ -1,1 +1,1 @@
-["acrobat"]
+acrobat

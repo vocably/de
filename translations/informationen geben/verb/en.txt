@@ -1,1 +1,3 @@
-["to give information","to provide information","to inform"]
+to give information
+to provide information
+to inform

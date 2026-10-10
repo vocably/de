@@ -1,1 +1,2 @@
-["autocrat","sole ruler"]
+autocrat
+sole ruler

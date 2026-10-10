@@ -1,1 +1,2 @@
-["benevolently","kindly"]
+benevolently
+kindly

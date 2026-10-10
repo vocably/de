@@ -1,1 +1,3 @@
-["stuck to","clung to","adhered to"]
+stuck to
+clung to
+adhered to

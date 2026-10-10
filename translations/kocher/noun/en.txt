@@ -1,1 +1,2 @@
-["stove","cooker"]
+stove
+cooker

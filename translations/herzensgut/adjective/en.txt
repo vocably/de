@@ -1,1 +1,2 @@
-["kind","good-hearted"]
+kind
+good-hearted

@@ -1,1 +1,3 @@
-["nest","settle down","make oneself comfortable"]
+nest
+settle down
+make oneself comfortable

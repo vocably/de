@@ -1,1 +1,2 @@
-["powerful","forceful"]
+powerful
+forceful

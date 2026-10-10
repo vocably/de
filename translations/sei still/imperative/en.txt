@@ -1,1 +1,2 @@
-["be quiet","shut up"]
+be quiet
+shut up

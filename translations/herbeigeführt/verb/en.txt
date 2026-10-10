@@ -1,1 +1,2 @@
-["caused","brought about"]
+caused
+brought about

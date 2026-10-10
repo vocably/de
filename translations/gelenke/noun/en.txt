@@ -1,1 +1,2 @@
-["joints","articulations"]
+joints
+articulations

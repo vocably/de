@@ -1,1 +1,2 @@
-["departs","flies off"]
+departs
+flies off

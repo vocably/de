@@ -1,1 +1,3 @@
-["cares for","ensures","causes"]
+cares for
+ensures
+causes

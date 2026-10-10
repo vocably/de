@@ -1,1 +1,2 @@
-["the damned","the condemned"]
+the damned
+the condemned

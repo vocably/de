@@ -1,1 +1,2 @@
-["fire escape","emergency exit"]
+fire escape
+emergency exit

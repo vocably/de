@@ -1,1 +1,2 @@
-["acquisition","takeover"]
+acquisition
+takeover

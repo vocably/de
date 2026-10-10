@@ -1,1 +1,2 @@
-["enclosed","surrounded"]
+enclosed
+surrounded

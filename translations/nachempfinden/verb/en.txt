@@ -1,1 +1,2 @@
-["to empathize","to comprehend"]
+to empathize
+to comprehend

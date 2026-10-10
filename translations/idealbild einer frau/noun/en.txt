@@ -1,1 +1,2 @@
-["ideal woman","ideal image of a woman"]
+ideal woman
+ideal image of a woman

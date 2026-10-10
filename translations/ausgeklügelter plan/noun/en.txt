@@ -1,1 +1,2 @@
-["elaborate plan","sophisticated plan"]
+elaborate plan
+sophisticated plan

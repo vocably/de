@@ -1,1 +1,2 @@
-["to cultivate","to reclaim"]
+to cultivate
+to reclaim

@@ -1,1 +1,3 @@
-["botched","flubbed","messed up"]
+botched
+flubbed
+messed up

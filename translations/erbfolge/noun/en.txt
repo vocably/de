@@ -1,1 +1,2 @@
-["succession","line of succession"]
+succession
+line of succession

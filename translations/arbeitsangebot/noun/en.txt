@@ -1,1 +1,2 @@
-["labor supply","workforce availability"]
+labor supply
+workforce availability

@@ -1,1 +1,2 @@
-["extemporization","impromptu speech"]
+extemporization
+impromptu speech

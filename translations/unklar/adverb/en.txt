@@ -1,1 +1,3 @@
-["unclear","vague","indistinct"]
+unclear
+vague
+indistinct

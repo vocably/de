@@ -1,1 +1,2 @@
-["binge drinking","drinking bout"]
+binge drinking
+drinking bout

@@ -1,1 +1,2 @@
-["failure","fiasco"]
+failure
+fiasco

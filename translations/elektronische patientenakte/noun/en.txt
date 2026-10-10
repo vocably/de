@@ -1,1 +1,2 @@
-["electronic health record","electronic patient file"]
+electronic health record
+electronic patient file

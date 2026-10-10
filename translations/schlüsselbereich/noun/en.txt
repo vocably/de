@@ -1,1 +1,2 @@
-["key area","key sector"]
+key area
+key sector

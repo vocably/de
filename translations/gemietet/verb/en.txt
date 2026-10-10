@@ -1,1 +1,2 @@
-["rented","hired"]
+rented
+hired

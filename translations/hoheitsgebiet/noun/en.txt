@@ -1,1 +1,2 @@
-["territory","domain"]
+territory
+domain

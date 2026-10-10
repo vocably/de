@@ -1,1 +1,5 @@
-["recorded","captured","grasped","understood","registered"]
+recorded
+captured
+grasped
+understood
+registered

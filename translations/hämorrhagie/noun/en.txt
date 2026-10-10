@@ -1,1 +1,2 @@
-["hemorrhage","bleeding"]
+hemorrhage
+bleeding

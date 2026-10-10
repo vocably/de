@@ -1,1 +1,2 @@
-["mitten","mitt"]
+mitten
+mitt

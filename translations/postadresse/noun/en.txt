@@ -1,1 +1,2 @@
-["mailing address","postal address"]
+mailing address
+postal address

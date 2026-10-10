@@ -1,1 +1,3 @@
-["guarded","watched over","protected"]
+guarded
+watched over
+protected

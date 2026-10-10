@@ -1,1 +1,2 @@
-["fine-grained","fine-textured"]
+fine-grained
+fine-textured

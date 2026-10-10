@@ -1,1 +1,3 @@
-["only","solely","uniquely"]
+only
+solely
+uniquely

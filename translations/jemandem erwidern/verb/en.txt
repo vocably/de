@@ -1,1 +1,3 @@
-["to return","to reply","to reciprocate"]
+to return
+to reply
+to reciprocate

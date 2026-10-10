@@ -1,1 +1,2 @@
-["ice cream","gelato"]
+ice cream
+gelato

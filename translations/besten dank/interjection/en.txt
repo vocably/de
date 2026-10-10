@@ -1,1 +1,2 @@
-["Many thanks","Thanks a lot"]
+Many thanks
+Thanks a lot

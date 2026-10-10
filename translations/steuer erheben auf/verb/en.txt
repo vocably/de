@@ -1,1 +1,2 @@
-["levy a tax on","impose a tax on"]
+levy a tax on
+impose a tax on

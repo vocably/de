@@ -1,1 +1,3 @@
-["gullet","abyss","chasm"]
+gullet
+abyss
+chasm

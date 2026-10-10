@@ -1,1 +1,2 @@
-["mishaps","blunders"]
+mishaps
+blunders

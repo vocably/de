@@ -1,1 +1,2 @@
-["waved over","beckoned over"]
+waved over
+beckoned over

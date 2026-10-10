@@ -1,1 +1,2 @@
-["defeat","vanquishing"]
+defeat
+vanquishing

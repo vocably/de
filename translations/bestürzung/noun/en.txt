@@ -1,1 +1,2 @@
-["dismay","consternation"]
+dismay
+consternation

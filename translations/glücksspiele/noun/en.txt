@@ -1,1 +1,2 @@
-["gambling","games of chance"]
+gambling
+games of chance

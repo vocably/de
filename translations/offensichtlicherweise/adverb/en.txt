@@ -1,1 +1,3 @@
-["obviously","evidently","apparently"]
+obviously
+evidently
+apparently

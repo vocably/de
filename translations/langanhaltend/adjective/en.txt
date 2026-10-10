@@ -1,1 +1,2 @@
-["long-lasting","sustained"]
+long-lasting
+sustained

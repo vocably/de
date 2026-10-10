@@ -1,1 +1,3 @@
-["initiated","started","launched"]
+initiated
+started
+launched

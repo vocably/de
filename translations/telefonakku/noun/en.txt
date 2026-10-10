@@ -1,1 +1,2 @@
-["phone battery","cell phone battery"]
+phone battery
+cell phone battery

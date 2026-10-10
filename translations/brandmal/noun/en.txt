@@ -1,1 +1,2 @@
-["burn mark","brand"]
+burn mark
+brand

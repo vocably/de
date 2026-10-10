@@ -1,1 +1,2 @@
-["to pawn","to mortgage"]
+to pawn
+to mortgage

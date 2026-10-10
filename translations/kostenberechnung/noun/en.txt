@@ -1,1 +1,2 @@
-["cost estimate","cost calculation"]
+cost estimate
+cost calculation

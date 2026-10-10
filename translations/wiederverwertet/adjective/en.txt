@@ -1,1 +1,2 @@
-["recycled","reclaimed"]
+recycled
+reclaimed

@@ -1,1 +1,2 @@
-["burner phone","throwaway phone"]
+burner phone
+throwaway phone

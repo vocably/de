@@ -1,1 +1,2 @@
-["coup de grâce","mercy shot"]
+coup de grâce
+mercy shot

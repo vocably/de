@@ -1,1 +1,2 @@
-["xenophobia","anti-immigrant sentiment"]
+xenophobia
+anti-immigrant sentiment

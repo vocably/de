@@ -1,1 +1,2 @@
-["baseball cap","cap"]
+baseball cap
+cap

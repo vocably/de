@@ -1,1 +1,2 @@
-["in person","personally"]
+in person
+personally

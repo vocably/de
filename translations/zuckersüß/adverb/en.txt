@@ -1,1 +1,2 @@
-["cloyingly sweet","sugary sweet"]
+cloyingly sweet
+sugary sweet

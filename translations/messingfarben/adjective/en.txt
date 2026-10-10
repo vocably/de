@@ -1,1 +1,2 @@
-["brass-colored","brassy"]
+brass-colored
+brassy

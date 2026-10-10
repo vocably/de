@@ -1,1 +1,2 @@
-["endless","infinitely"]
+endless
+infinitely

@@ -1,1 +1,2 @@
-["meeting point","assembly point"]
+meeting point
+assembly point

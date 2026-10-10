@@ -1,1 +1,2 @@
-["learning material","teaching resource"]
+learning material
+teaching resource

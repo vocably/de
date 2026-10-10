@@ -1,1 +1,2 @@
-["respiratory tract","airway"]
+respiratory tract
+airway

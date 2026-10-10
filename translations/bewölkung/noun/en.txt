@@ -1,1 +1,2 @@
-["cloud cover","cloudiness"]
+cloud cover
+cloudiness

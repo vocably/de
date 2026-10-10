@@ -1,1 +1,2 @@
-["frown","knit one's brow"]
+frown
+knit one's brow

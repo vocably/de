@@ -1,1 +1,2 @@
-["incinerator","combustion furnace"]
+incinerator
+combustion furnace

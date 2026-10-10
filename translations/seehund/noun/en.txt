@@ -1,1 +1,2 @@
-["seal","harbor seal"]
+seal
+harbor seal

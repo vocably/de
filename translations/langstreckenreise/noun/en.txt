@@ -1,1 +1,2 @@
-["long-distance journey","long-haul trip"]
+long-distance journey
+long-haul trip

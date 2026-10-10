@@ -1,1 +1,2 @@
-["to charm","to beguile"]
+to charm
+to beguile

@@ -1,1 +1,2 @@
-["to be guilty","to owe"]
+to be guilty
+to owe

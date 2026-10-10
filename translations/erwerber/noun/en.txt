@@ -1,1 +1,3 @@
-["purchaser","acquirer","buyer"]
+purchaser
+acquirer
+buyer

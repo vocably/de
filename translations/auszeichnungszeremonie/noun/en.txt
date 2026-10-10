@@ -1,1 +1,2 @@
-["awards ceremony","award ceremony"]
+awards ceremony
+award ceremony

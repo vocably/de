@@ -1,1 +1,2 @@
-["to intern","to detain"]
+to intern
+to detain

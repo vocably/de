@@ -1,1 +1,2 @@
-["exactly as","just like"]
+exactly as
+just like

@@ -1,1 +1,2 @@
-["Enough!","That's enough!"]
+Enough!
+That's enough!

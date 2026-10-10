@@ -1,1 +1,2 @@
-["brooding","mulling"]
+brooding
+mulling

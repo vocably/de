@@ -1,1 +1,3 @@
-["cleaning","purifying","cleansing"]
+cleaning
+purifying
+cleansing

@@ -1,1 +1,3 @@
-["caress","fondle","cuddle"]
+caress
+fondle
+cuddle

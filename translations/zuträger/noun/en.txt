@@ -1,1 +1,2 @@
-["informer","snitch"]
+informer
+snitch

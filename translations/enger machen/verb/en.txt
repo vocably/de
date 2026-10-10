@@ -1,1 +1,2 @@
-["to narrow","to tighten"]
+to narrow
+to tighten

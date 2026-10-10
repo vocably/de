@@ -1,1 +1,2 @@
-["deadline","cut-off date"]
+deadline
+cut-off date

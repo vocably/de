@@ -1,1 +1,2 @@
-["city map","street map"]
+city map
+street map

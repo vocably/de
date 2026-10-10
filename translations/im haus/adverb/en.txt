@@ -1,1 +1,2 @@
-["indoors","inside"]
+indoors
+inside

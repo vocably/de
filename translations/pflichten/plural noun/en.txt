@@ -1,1 +1,2 @@
-["duties","obligations"]
+duties
+obligations

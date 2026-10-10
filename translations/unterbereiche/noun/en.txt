@@ -1,1 +1,2 @@
-["subareas","subsections"]
+subareas
+subsections

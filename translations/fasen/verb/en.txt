@@ -1,1 +1,3 @@
-["to fray","to fuzz","to shred"]
+to fray
+to fuzz
+to shred

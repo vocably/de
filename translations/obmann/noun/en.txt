@@ -1,1 +1,2 @@
-["chairman","foreman"]
+chairman
+foreman

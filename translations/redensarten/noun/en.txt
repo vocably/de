@@ -1,1 +1,2 @@
-["idioms","phrases"]
+idioms
+phrases

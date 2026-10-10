@@ -1,1 +1,2 @@
-["clip","hair clip"]
+clip
+hair clip

@@ -1,1 +1,2 @@
-["chest of drawers","filing cabinet"]
+chest of drawers
+filing cabinet

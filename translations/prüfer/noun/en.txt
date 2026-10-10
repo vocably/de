@@ -1,1 +1,2 @@
-["examiner","auditor"]
+examiner
+auditor

@@ -1,1 +1,2 @@
-["to singe","to scorch"]
+to singe
+to scorch

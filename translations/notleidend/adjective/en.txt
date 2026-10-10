@@ -1,1 +1,2 @@
-["distressed","ailing"]
+distressed
+ailing

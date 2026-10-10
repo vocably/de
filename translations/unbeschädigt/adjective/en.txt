@@ -1,1 +1,2 @@
-["undamaged","unharmed"]
+undamaged
+unharmed

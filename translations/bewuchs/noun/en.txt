@@ -1,1 +1,2 @@
-["vegetation","growth"]
+vegetation
+growth

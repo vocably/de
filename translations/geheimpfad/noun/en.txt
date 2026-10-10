@@ -1,1 +1,2 @@
-["secret path","hidden path"]
+secret path
+hidden path

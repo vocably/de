@@ -1,1 +1,3 @@
-["to be exhausted","to be used up","to be worn out"]
+to be exhausted
+to be used up
+to be worn out

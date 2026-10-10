@@ -1,1 +1,2 @@
-["strangled","throttled"]
+strangled
+throttled

@@ -1,1 +1,2 @@
-["spreads","pastes"]
+spreads
+pastes

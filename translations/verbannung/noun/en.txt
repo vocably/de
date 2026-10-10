@@ -1,1 +1,2 @@
-["banishment","exile"]
+banishment
+exile

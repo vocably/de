@@ -1,1 +1,2 @@
-["target price","asking price"]
+target price
+asking price

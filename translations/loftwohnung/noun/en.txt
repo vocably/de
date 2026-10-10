@@ -1,1 +1,2 @@
-["loft apartment","loft"]
+loft apartment
+loft

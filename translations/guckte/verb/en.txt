@@ -1,1 +1,2 @@
-["looked","watched"]
+looked
+watched

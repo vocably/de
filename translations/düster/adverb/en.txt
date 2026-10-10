@@ -1,1 +1,2 @@
-["gloomily","grimly"]
+gloomily
+grimly

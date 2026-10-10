@@ -1,1 +1,2 @@
-["liquid manure","slurry"]
+liquid manure
+slurry

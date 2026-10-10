@@ -1,1 +1,2 @@
-["labor-intensive","time-consuming"]
+labor-intensive
+time-consuming

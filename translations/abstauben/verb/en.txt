@@ -1,1 +1,3 @@
-["dust","snag","win"]
+dust
+snag
+win

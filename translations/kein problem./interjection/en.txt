@@ -1,1 +1,2 @@
-["No problem.","No worries."]
+No problem.
+No worries.

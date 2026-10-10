@@ -1,1 +1,2 @@
-["trivialities","nothings"]
+trivialities
+nothings

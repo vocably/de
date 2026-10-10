@@ -1,1 +1,2 @@
-["Saxon woman","woman from Saxony"]
+Saxon woman
+woman from Saxony

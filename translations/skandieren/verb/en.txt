@@ -1,1 +1,2 @@
-["chant","scan"]
+chant
+scan

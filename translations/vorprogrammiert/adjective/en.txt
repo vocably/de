@@ -1,1 +1,2 @@
-["preprogrammed","inevitable"]
+preprogrammed
+inevitable

@@ -1,1 +1,3 @@
-["disclosed","revealed","uncovered"]
+disclosed
+revealed
+uncovered

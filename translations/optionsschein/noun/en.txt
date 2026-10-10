@@ -1,1 +1,2 @@
-["warrant","option certificate"]
+warrant
+option certificate

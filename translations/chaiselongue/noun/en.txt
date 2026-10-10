@@ -1,1 +1,2 @@
-["chaise lounge","daybed"]
+chaise lounge
+daybed

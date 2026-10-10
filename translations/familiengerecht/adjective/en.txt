@@ -1,1 +1,2 @@
-["family-friendly","suitable for families"]
+family-friendly
+suitable for families

@@ -1,1 +1,2 @@
-["health insurance card","insurance card"]
+health insurance card
+insurance card

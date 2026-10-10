@@ -1,1 +1,2 @@
-["to catch something","to contract something"]
+to catch something
+to contract something

@@ -1,1 +1,2 @@
-["doubtful","dubious"]
+doubtful
+dubious

@@ -1,1 +1,2 @@
-["purity law","Reinheitsgebot"]
+purity law
+Reinheitsgebot

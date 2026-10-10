@@ -1,1 +1,2 @@
-["gossamer-thin","delicate"]
+gossamer-thin
+delicate

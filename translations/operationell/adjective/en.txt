@@ -1,1 +1,2 @@
-["operational","operative"]
+operational
+operative

@@ -1,1 +1,2 @@
-["labor pain","birth pain"]
+labor pain
+birth pain

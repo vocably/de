@@ -1,1 +1,3 @@
-["It is standing.","It is written.","It is fixed."]
+It is standing.
+It is written.
+It is fixed.

@@ -1,1 +1,2 @@
-["covered","overcast"]
+covered
+overcast

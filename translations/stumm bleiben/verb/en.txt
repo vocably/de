@@ -1,1 +1,2 @@
-["remain silent","stay mute"]
+remain silent
+stay mute

@@ -1,1 +1,2 @@
-["to be dressed in","to be clothed in"]
+to be dressed in
+to be clothed in

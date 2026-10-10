@@ -1,1 +1,2 @@
-["controls","operating elements"]
+controls
+operating elements

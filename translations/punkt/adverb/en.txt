@@ -1,1 +1,3 @@
-["sharp","exactly","period"]
+sharp
+exactly
+period

@@ -1,1 +1,2 @@
-["Feuerbach district","Feuerbach borough"]
+Feuerbach district
+Feuerbach borough

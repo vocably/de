@@ -1,1 +1,2 @@
-["to be astonished","to be amazed"]
+to be astonished
+to be amazed

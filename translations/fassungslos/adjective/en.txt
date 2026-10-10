@@ -1,1 +1,2 @@
-["stunned","speechless"]
+stunned
+speechless

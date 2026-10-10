@@ -1,1 +1,2 @@
-["Reichstag Building","Reichstag"]
+Reichstag Building
+Reichstag

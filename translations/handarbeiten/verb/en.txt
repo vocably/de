@@ -1,1 +1,2 @@
-["do needlework","do handicrafts"]
+do needlework
+do handicrafts

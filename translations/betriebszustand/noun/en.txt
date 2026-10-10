@@ -1,1 +1,2 @@
-["operating state","operational status"]
+operating state
+operational status

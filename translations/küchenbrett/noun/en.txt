@@ -1,1 +1,2 @@
-["cutting board","chopping board"]
+cutting board
+chopping board

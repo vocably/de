@@ -1,1 +1,2 @@
-["look down","scorn"]
+look down
+scorn

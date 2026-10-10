@@ -1,1 +1,2 @@
-["accuse someone","blame someone"]
+accuse someone
+blame someone

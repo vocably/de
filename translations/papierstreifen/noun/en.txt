@@ -1,1 +1,2 @@
-["paper strip","strip of paper"]
+paper strip
+strip of paper

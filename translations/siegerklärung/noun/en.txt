@@ -1,1 +1,2 @@
-["victory declaration","announcement of the winner"]
+victory declaration
+announcement of the winner

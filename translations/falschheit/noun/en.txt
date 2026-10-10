@@ -1,1 +1,2 @@
-["falsity","deceit"]
+falsity
+deceit

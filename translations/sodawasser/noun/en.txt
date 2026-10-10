@@ -1,1 +1,2 @@
-["soda water","club soda"]
+soda water
+club soda

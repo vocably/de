@@ -1,1 +1,2 @@
-["change location","relocate"]
+change location
+relocate

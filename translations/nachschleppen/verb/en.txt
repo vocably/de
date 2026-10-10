@@ -1,1 +1,2 @@
-["to drag along","to lug along"]
+to drag along
+to lug along

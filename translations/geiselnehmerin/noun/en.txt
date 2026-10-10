@@ -1,1 +1,2 @@
-["female hostage-taker","kidnapper"]
+female hostage-taker
+kidnapper

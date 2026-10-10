@@ -1,1 +1,2 @@
-["to crush","to mash"]
+to crush
+to mash

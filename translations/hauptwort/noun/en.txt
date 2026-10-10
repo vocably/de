@@ -1,1 +1,2 @@
-["noun","substantive"]
+noun
+substantive

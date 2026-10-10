@@ -1,1 +1,2 @@
-["wide awake","fully awake"]
+wide awake
+fully awake

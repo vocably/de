@@ -1,1 +1,2 @@
-["special agreement","specific agreement"]
+special agreement
+specific agreement

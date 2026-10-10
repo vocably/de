@@ -1,1 +1,3 @@
-["Come!","Follow me!","Hurry up!"]
+Come!
+Follow me!
+Hurry up!

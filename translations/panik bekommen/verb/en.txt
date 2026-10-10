@@ -1,1 +1,2 @@
-["to panic","to get scared"]
+to panic
+to get scared

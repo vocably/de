@@ -1,1 +1,3 @@
-["passes away","ends","separates"]
+passes away
+ends
+separates

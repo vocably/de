@@ -1,1 +1,2 @@
-["untruthful","insincere"]
+untruthful
+insincere

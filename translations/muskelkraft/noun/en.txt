@@ -1,1 +1,2 @@
-["muscle power","physical strength"]
+muscle power
+physical strength

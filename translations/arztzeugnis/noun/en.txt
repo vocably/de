@@ -1,1 +1,2 @@
-["medical certificate","doctor's note"]
+medical certificate
+doctor's note

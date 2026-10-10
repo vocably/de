@@ -1,1 +1,3 @@
-["stretched","extended","expanded"]
+stretched
+extended
+expanded

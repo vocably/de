@@ -1,1 +1,2 @@
-["key","mode"]
+key
+mode

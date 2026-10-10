@@ -1,1 +1,2 @@
-["butcher shop","butchery"]
+butcher shop
+butchery

@@ -1,1 +1,2 @@
-["inexhaustible","unfailing"]
+inexhaustible
+unfailing

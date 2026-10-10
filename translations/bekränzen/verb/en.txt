@@ -1,1 +1,2 @@
-["to wreathe","to garland"]
+to wreathe
+to garland

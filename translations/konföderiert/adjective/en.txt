@@ -1,1 +1,2 @@
-["confederate","allied"]
+confederate
+allied

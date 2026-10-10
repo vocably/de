@@ -1,1 +1,2 @@
-["in favor of","for"]
+in favor of
+for

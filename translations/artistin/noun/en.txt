@@ -1,1 +1,2 @@
-["acrobat","artist"]
+acrobat
+artist

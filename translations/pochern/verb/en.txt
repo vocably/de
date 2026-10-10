@@ -1,1 +1,2 @@
-["to pound","to knock"]
+to pound
+to knock

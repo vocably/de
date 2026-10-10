@@ -1,1 +1,2 @@
-["insurmountable","unconquerable"]
+insurmountable
+unconquerable

@@ -1,1 +1,2 @@
-["threw himself down","prostrated himself"]
+threw himself down
+prostrated himself

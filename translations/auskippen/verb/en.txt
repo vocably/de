@@ -1,1 +1,2 @@
-["to empty out","to tip out"]
+to empty out
+to tip out

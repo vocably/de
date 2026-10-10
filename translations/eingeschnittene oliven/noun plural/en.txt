@@ -1,1 +1,2 @@
-["pitted olives","sliced olives"]
+pitted olives
+sliced olives

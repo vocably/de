@@ -1,1 +1,2 @@
-["stomped","mashed"]
+stomped
+mashed

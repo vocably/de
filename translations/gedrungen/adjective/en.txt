@@ -1,1 +1,2 @@
-["stocky","compact"]
+stocky
+compact

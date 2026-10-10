@@ -1,1 +1,2 @@
-["to bounce off","to ricochet"]
+to bounce off
+to ricochet

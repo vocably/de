@@ -1,1 +1,3 @@
-["diaphragm","iris","contraceptive cap"]
+diaphragm
+iris
+contraceptive cap

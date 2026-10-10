@@ -1,1 +1,2 @@
-["foxhole","den"]
+foxhole
+den

@@ -1,1 +1,3 @@
-["to make public","to publish","to disclose"]
+to make public
+to publish
+to disclose

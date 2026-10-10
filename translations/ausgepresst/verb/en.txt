@@ -1,1 +1,2 @@
-["squeezed out","pressed out"]
+squeezed out
+pressed out

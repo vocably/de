@@ -1,1 +1,2 @@
-["fainting spell","bout of weakness"]
+fainting spell
+bout of weakness

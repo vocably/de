@@ -1,1 +1,2 @@
-["federal training assistance","BAföG"]
+federal training assistance
+BAföG

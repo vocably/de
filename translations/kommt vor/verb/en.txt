@@ -1,1 +1,3 @@
-["occurs","happens","exists"]
+occurs
+happens
+exists

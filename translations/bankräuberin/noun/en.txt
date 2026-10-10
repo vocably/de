@@ -1,1 +1,1 @@
-["bank robber"]
+bank robber

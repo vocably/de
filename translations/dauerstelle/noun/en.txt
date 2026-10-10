@@ -1,1 +1,2 @@
-["permanent position","tenure"]
+permanent position
+tenure

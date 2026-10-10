@@ -1,1 +1,2 @@
-["leasing","lease"]
+leasing
+lease

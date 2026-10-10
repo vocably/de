@@ -1,1 +1,2 @@
-["omen","portent"]
+omen
+portent

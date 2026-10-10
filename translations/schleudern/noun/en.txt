@@ -1,1 +1,3 @@
-["spin","skid","centrifugation"]
+spin
+skid
+centrifugation

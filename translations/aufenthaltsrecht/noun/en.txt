@@ -1,1 +1,2 @@
-["right of residence","right to stay"]
+right of residence
+right to stay

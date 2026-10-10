@@ -1,1 +1,2 @@
-["Bruin","bear"]
+Bruin
+bear

@@ -1,1 +1,2 @@
-["dampens","insulates"]
+dampens
+insulates

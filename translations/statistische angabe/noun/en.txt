@@ -1,1 +1,2 @@
-["statistic","statistical data"]
+statistic
+statistical data

@@ -1,1 +1,2 @@
-["frankfurter","wiener"]
+frankfurter
+wiener

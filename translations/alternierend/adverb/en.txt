@@ -1,1 +1,2 @@
-["alternatingly","alternately"]
+alternatingly
+alternately

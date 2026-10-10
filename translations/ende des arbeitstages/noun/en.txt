@@ -1,1 +1,2 @@
-["end of the workday","close of business"]
+end of the workday
+close of business

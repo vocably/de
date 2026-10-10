@@ -1,1 +1,2 @@
-["consolation","comfort"]
+consolation
+comfort

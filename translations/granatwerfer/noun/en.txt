@@ -1,1 +1,2 @@
-["mortar","grenade launcher"]
+mortar
+grenade launcher

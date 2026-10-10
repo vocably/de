@@ -1,1 +1,2 @@
-["unconscious","subconscious"]
+unconscious
+subconscious

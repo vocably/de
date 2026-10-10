@@ -1,1 +1,2 @@
-["gingerbread","honey-cake"]
+gingerbread
+honey-cake

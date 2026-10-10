@@ -1,1 +1,3 @@
-["put on","attract","tighten"]
+put on
+attract
+tighten

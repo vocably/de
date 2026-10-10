@@ -1,1 +1,2 @@
-["to be upset","to be angry"]
+to be upset
+to be angry

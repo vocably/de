@@ -1,1 +1,2 @@
-["secular","centennial"]
+secular
+centennial

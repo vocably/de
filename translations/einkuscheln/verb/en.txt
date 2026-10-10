@@ -1,1 +1,2 @@
-["to snuggle up","to cuddle up"]
+to snuggle up
+to cuddle up

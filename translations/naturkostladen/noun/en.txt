@@ -1,1 +1,2 @@
-["health food store","organic shop"]
+health food store
+organic shop

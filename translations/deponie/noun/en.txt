@@ -1,1 +1,2 @@
-["landfill","dump"]
+landfill
+dump

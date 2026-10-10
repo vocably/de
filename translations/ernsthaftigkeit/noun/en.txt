@@ -1,1 +1,2 @@
-["seriousness","gravity"]
+seriousness
+gravity

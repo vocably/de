@@ -1,1 +1,2 @@
-["semitrailer","rest"]
+semitrailer
+rest

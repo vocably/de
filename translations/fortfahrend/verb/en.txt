@@ -1,1 +1,3 @@
-["continuing","proceeding","persisting"]
+continuing
+proceeding
+persisting

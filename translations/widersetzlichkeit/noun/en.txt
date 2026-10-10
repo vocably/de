@@ -1,1 +1,2 @@
-["defiance","insubordination"]
+defiance
+insubordination

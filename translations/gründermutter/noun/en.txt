@@ -1,1 +1,2 @@
-["founding mother","founder"]
+founding mother
+founder

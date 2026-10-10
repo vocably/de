@@ -1,1 +1,2 @@
-["search query","query"]
+search query
+query

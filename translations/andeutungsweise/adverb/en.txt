@@ -1,1 +1,2 @@
-["vaguely","hintingly"]
+vaguely
+hintingly

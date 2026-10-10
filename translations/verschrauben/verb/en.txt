@@ -1,1 +1,2 @@
-["to screw together","to bolt"]
+to screw together
+to bolt

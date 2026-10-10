@@ -1,1 +1,2 @@
-["uses","applications"]
+uses
+applications

@@ -1,1 +1,3 @@
-["to swindle","to defraud","to thieve"]
+to swindle
+to defraud
+to thieve

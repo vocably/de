@@ -1,1 +1,2 @@
-["reflection","reappraisal"]
+reflection
+reappraisal

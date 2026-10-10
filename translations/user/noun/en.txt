@@ -1,1 +1,2 @@
-["user","account"]
+user
+account

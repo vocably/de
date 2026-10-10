@@ -1,1 +1,2 @@
-["proportional","proportionate"]
+proportional
+proportionate

@@ -1,1 +1,2 @@
-["problem child","troublemaker"]
+problem child
+troublemaker

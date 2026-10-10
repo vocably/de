@@ -1,1 +1,2 @@
-["gambler","punter"]
+gambler
+punter

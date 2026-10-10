@@ -1,1 +1,2 @@
-["bio-","organic"]
+bio-
+organic

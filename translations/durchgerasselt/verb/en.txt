@@ -1,1 +1,2 @@
-["failed","flunked"]
+failed
+flunked

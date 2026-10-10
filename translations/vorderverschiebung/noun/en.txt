@@ -1,1 +1,2 @@
-["forward shift","fronting"]
+forward shift
+fronting

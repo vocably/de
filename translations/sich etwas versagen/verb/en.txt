@@ -1,1 +1,2 @@
-["deny oneself something","forgo something"]
+deny oneself something
+forgo something

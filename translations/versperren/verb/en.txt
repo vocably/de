@@ -1,1 +1,2 @@
-["to block","to obstruct"]
+to block
+to obstruct

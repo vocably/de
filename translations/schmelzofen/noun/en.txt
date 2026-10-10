@@ -1,1 +1,2 @@
-["smelting furnace","foundry furnace"]
+smelting furnace
+foundry furnace

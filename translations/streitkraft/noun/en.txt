@@ -1,1 +1,2 @@
-["armed force","military force"]
+armed force
+military force

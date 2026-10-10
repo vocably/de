@@ -1,1 +1,2 @@
-["aforementioned","said"]
+aforementioned
+said

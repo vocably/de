@@ -1,1 +1,2 @@
-["public institution","public body"]
+public institution
+public body

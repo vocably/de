@@ -1,1 +1,2 @@
-["continuation","resumption"]
+continuation
+resumption

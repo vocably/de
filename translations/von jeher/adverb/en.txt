@@ -1,1 +1,3 @@
-["always","from time immemorial","from of old"]
+always
+from time immemorial
+from of old

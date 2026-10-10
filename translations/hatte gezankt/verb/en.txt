@@ -1,1 +1,2 @@
-["had quarreled","had bickered"]
+had quarreled
+had bickered

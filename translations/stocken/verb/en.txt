@@ -1,1 +1,2 @@
-["falter","hesitate"]
+falter
+hesitate

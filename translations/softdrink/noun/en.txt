@@ -1,1 +1,2 @@
-["soft drink","soda"]
+soft drink
+soda

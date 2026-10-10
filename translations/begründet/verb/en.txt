@@ -1,1 +1,3 @@
-["justifies","establishes","founds"]
+justifies
+establishes
+founds

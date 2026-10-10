@@ -1,1 +1,2 @@
-["central station","main station"]
+central station
+main station

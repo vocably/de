@@ -1,1 +1,2 @@
-["displaced","expelled"]
+displaced
+expelled

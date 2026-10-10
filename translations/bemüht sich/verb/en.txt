@@ -1,1 +1,2 @@
-["strives","endeavors"]
+strives
+endeavors

@@ -1,1 +1,2 @@
-["firing pin","striker"]
+firing pin
+striker

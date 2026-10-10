@@ -1,1 +1,2 @@
-["carport","car shelter"]
+carport
+car shelter

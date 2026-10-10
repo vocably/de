@@ -1,1 +1,2 @@
-["terms and conditions","terms of service"]
+terms and conditions
+terms of service

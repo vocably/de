@@ -1,1 +1,2 @@
-["career","professional career"]
+career
+professional career

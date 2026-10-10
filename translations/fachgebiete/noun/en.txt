@@ -1,1 +1,2 @@
-["fields","specializations"]
+fields
+specializations

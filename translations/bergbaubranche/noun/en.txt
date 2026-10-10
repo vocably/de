@@ -1,1 +1,2 @@
-["mining industry","mining sector"]
+mining industry
+mining sector

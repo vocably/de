@@ -1,1 +1,3 @@
-["to clamp","to harness","to involve"]
+to clamp
+to harness
+to involve

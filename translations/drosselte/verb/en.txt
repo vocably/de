@@ -1,1 +1,3 @@
-["throttled","choked","reduced"]
+throttled
+choked
+reduced

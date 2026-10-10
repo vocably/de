@@ -1,1 +1,2 @@
-["Chinese","person of Chinese origin"]
+Chinese
+person of Chinese origin

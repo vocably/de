@@ -1,1 +1,2 @@
-["pinch","trap"]
+pinch
+trap

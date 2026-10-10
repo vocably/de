@@ -1,1 +1,2 @@
-["pensive","brooding"]
+pensive
+brooding

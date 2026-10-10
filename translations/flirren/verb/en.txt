@@ -1,1 +1,2 @@
-["to shimmer","to flicker"]
+to shimmer
+to flicker

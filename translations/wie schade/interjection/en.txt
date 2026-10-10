@@ -1,1 +1,2 @@
-["What a pity!","Too bad!"]
+What a pity!
+Too bad!

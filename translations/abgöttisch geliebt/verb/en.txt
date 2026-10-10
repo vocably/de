@@ -1,1 +1,2 @@
-["adored","worshipped"]
+adored
+worshipped

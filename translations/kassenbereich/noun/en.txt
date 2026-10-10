@@ -1,1 +1,2 @@
-["checkout area","cashier area"]
+checkout area
+cashier area

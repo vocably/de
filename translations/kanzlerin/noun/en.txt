@@ -1,1 +1,2 @@
-["chancellor","head of government"]
+chancellor
+head of government

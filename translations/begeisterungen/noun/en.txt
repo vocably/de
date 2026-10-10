@@ -1,1 +1,2 @@
-["enthusiasms","excitements"]
+enthusiasms
+excitements

@@ -1,1 +1,2 @@
-["immigrant","immigrant woman"]
+immigrant
+immigrant woman

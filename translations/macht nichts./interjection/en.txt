@@ -1,1 +1,2 @@
-["Never mind.","It's nothing."]
+Never mind.
+It's nothing.

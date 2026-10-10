@@ -1,1 +1,2 @@
-["smugness","condescension"]
+smugness
+condescension

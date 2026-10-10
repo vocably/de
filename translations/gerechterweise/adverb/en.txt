@@ -1,1 +1,3 @@
-["fairly","justly","rightly"]
+fairly
+justly
+rightly

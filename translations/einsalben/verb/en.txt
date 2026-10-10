@@ -1,1 +1,2 @@
-["to anoint","to embalm"]
+to anoint
+to embalm

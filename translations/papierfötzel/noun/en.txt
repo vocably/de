@@ -1,1 +1,2 @@
-["scrap of paper","piece of paper"]
+scrap of paper
+piece of paper

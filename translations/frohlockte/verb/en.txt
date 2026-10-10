@@ -1,1 +1,2 @@
-["rejoiced","exulted"]
+rejoiced
+exulted

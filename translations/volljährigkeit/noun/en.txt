@@ -1,1 +1,2 @@
-["adulthood","majority"]
+adulthood
+majority

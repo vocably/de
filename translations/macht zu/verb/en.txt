@@ -1,1 +1,2 @@
-["closes","shuts"]
+closes
+shuts

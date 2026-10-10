@@ -1,1 +1,2 @@
-["was enough","sufficed"]
+was enough
+sufficed

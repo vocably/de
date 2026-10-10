@@ -1,1 +1,2 @@
-["dizzying speed","breakneck speed"]
+dizzying speed
+breakneck speed

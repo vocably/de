@@ -1,1 +1,2 @@
-["dash","em-dash"]
+dash
+em-dash

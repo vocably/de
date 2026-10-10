@@ -1,1 +1,3 @@
-["calmer","more quietly","more peacefully"]
+calmer
+more quietly
+more peacefully

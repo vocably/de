@@ -1,1 +1,2 @@
-["cart","trolley"]
+cart
+trolley

@@ -1,1 +1,3 @@
-["finding","discovering","locating"]
+finding
+discovering
+locating

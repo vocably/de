@@ -1,1 +1,2 @@
-["bank clerk","banker"]
+bank clerk
+banker

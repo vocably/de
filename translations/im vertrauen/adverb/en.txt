@@ -1,1 +1,2 @@
-["confidentially","in confidence"]
+confidentially
+in confidence

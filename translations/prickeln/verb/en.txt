@@ -1,1 +1,2 @@
-["to tingle","to prickle"]
+to tingle
+to prickle

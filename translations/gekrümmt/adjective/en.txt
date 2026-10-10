@@ -1,1 +1,2 @@
-["curved","bent"]
+curved
+bent

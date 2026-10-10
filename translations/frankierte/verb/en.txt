@@ -1,1 +1,2 @@
-["stamped","paid the postage for"]
+stamped
+paid the postage for

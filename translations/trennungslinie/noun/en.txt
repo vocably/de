@@ -1,1 +1,2 @@
-["dividing line","demarcation line"]
+dividing line
+demarcation line

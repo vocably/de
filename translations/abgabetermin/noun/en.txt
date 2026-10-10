@@ -1,1 +1,2 @@
-["deadline","due date"]
+deadline
+due date

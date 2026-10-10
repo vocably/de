@@ -1,1 +1,2 @@
-["graze","pasture"]
+graze
+pasture

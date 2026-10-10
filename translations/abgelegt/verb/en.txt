@@ -1,1 +1,3 @@
-["filed","put down","passed"]
+filed
+put down
+passed

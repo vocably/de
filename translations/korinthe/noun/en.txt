@@ -1,1 +1,2 @@
-["currant","Corinth"]
+currant
+Corinth

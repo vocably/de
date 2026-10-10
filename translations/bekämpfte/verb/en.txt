@@ -1,1 +1,2 @@
-["fought","combated"]
+fought
+combated

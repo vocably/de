@@ -1,1 +1,2 @@
-["school building","schoolhouse"]
+school building
+schoolhouse

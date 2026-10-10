@@ -1,1 +1,2 @@
-["arguing","quarreling"]
+arguing
+quarreling

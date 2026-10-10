@@ -1,1 +1,2 @@
-["bee colony","colony of bees"]
+bee colony
+colony of bees

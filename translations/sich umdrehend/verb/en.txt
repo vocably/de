@@ -1,1 +1,2 @@
-["turning around","spinning around"]
+turning around
+spinning around

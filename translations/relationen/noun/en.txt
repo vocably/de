@@ -1,1 +1,3 @@
-["relations","relationships","connections"]
+relations
+relationships
+connections

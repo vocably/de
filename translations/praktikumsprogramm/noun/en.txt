@@ -1,1 +1,2 @@
-["internship program","internship scheme"]
+internship program
+internship scheme

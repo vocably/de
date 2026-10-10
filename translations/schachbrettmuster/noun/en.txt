@@ -1,1 +1,2 @@
-["checkerboard pattern","chessboard pattern"]
+checkerboard pattern
+chessboard pattern

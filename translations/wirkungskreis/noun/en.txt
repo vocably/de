@@ -1,1 +1,2 @@
-["sphere of influence","scope"]
+sphere of influence
+scope

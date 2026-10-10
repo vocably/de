@@ -1,1 +1,2 @@
-["unredeemed","unfulfilled"]
+unredeemed
+unfulfilled

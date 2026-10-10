@@ -1,1 +1,2 @@
-["disassemble","take apart"]
+disassemble
+take apart

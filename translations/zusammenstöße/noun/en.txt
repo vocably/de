@@ -1,1 +1,2 @@
-["clashes","collisions"]
+clashes
+collisions

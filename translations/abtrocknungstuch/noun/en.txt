@@ -1,1 +1,2 @@
-["dish towel","drying cloth"]
+dish towel
+drying cloth

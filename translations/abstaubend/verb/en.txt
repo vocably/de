@@ -1,1 +1,3 @@
-["dusting","scrounging","cashing in"]
+dusting
+scrounging
+cashing in

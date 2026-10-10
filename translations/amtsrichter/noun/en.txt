@@ -1,1 +1,2 @@
-["magistrate","district judge"]
+magistrate
+district judge

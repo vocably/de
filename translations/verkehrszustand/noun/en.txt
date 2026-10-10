@@ -1,1 +1,2 @@
-["traffic condition","traffic situation"]
+traffic condition
+traffic situation

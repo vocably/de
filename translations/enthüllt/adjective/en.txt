@@ -1,1 +1,2 @@
-["revealed","unveiled"]
+revealed
+unveiled

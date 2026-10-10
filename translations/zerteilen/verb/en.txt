@@ -1,1 +1,2 @@
-["to divide","to cut up"]
+to divide
+to cut up

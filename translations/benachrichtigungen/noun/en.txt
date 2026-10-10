@@ -1,1 +1,2 @@
-["notifications","messages"]
+notifications
+messages

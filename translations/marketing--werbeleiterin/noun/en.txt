@@ -1,1 +1,2 @@
-["marketing/advertising manager","head of marketing/advertising"]
+marketing/advertising manager
+head of marketing/advertising

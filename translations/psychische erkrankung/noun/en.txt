@@ -1,1 +1,2 @@
-["mental illness","mental disorder"]
+mental illness
+mental disorder

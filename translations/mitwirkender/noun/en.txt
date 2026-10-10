@@ -1,1 +1,2 @@
-["contributor","participant"]
+contributor
+participant

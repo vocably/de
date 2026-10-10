@@ -1,1 +1,1 @@
-["bully"]
+bully

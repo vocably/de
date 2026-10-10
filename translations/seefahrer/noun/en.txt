@@ -1,1 +1,2 @@
-["sailor","mariner"]
+sailor
+mariner

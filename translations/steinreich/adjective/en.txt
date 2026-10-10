@@ -1,1 +1,2 @@
-["very rich","filthy rich"]
+very rich
+filthy rich

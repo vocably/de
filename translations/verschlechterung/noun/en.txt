@@ -1,1 +1,2 @@
-["deterioration","worsening"]
+deterioration
+worsening

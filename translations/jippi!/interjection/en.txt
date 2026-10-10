@@ -1,1 +1,2 @@
-["Yippee!","Yay!"]
+Yippee!
+Yay!

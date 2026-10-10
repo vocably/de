@@ -1,1 +1,2 @@
-["to peck","to pick"]
+to peck
+to pick

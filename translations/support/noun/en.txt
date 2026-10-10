@@ -1,1 +1,2 @@
-["support","help"]
+support
+help

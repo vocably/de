@@ -1,1 +1,2 @@
-["inventive","resourceful"]
+inventive
+resourceful

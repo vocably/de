@@ -1,1 +1,2 @@
-["business-related","business-specific"]
+business-related
+business-specific

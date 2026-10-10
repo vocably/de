@@ -1,1 +1,3 @@
-["agonizing","tormenting","excruciating"]
+agonizing
+tormenting
+excruciating

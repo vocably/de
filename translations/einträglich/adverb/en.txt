@@ -1,1 +1,2 @@
-["profitable","lucrative"]
+profitable
+lucrative

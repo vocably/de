@@ -1,1 +1,2 @@
-["head of the family","family head"]
+head of the family
+family head

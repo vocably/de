@@ -1,1 +1,2 @@
-["recite","declaim"]
+recite
+declaim

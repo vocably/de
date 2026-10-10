@@ -1,1 +1,2 @@
-["go to","proceed to"]
+go to
+proceed to

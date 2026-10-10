@@ -1,1 +1,2 @@
-["taking of evidence","presentation of evidence"]
+taking of evidence
+presentation of evidence

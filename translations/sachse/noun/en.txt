@@ -1,1 +1,2 @@
-["Saxon","person from Saxony"]
+Saxon
+person from Saxony

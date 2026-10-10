@@ -1,1 +1,3 @@
-["to support someone","to assist someone","to help someone"]
+to support someone
+to assist someone
+to help someone

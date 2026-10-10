@@ -1,1 +1,2 @@
-["to light up","to flash"]
+to light up
+to flash

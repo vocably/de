@@ -1,1 +1,2 @@
-["germinate","sprout"]
+germinate
+sprout

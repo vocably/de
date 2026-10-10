@@ -1,1 +1,2 @@
-["assembly","module"]
+assembly
+module

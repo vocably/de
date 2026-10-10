@@ -1,1 +1,2 @@
-["spread out","displayed"]
+spread out
+displayed

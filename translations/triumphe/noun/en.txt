@@ -1,1 +1,2 @@
-["triumphs","victories"]
+triumphs
+victories

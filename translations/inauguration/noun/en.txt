@@ -1,1 +1,2 @@
-["inauguration","opening"]
+inauguration
+opening

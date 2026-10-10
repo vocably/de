@@ -1,1 +1,2 @@
-["reader","e-reader"]
+reader
+e-reader

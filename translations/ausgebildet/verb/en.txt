@@ -1,1 +1,3 @@
-["trained","educated","schooled"]
+trained
+educated
+schooled

@@ -1,1 +1,2 @@
-["harmony-addicted","conflict-avoidant"]
+harmony-addicted
+conflict-avoidant

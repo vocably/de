@@ -1,1 +1,2 @@
-["confiscated","seized"]
+confiscated
+seized

@@ -1,1 +1,3 @@
-["sparkled","beaded","trickled"]
+sparkled
+beaded
+trickled

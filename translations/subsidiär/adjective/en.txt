@@ -1,1 +1,2 @@
-["subsidiary","secondary"]
+subsidiary
+secondary

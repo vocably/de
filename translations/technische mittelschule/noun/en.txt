@@ -1,1 +1,2 @@
-["technical middle school","technical secondary school"]
+technical middle school
+technical secondary school

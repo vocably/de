@@ -1,1 +1,3 @@
-["to clamp","to jam","to be stuck"]
+to clamp
+to jam
+to be stuck

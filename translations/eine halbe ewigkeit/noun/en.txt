@@ -1,1 +1,2 @@
-["an eternity","ages"]
+an eternity
+ages

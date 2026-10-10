@@ -1,1 +1,2 @@
-["even more","even more so"]
+even more
+even more so

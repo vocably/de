@@ -1,1 +1,2 @@
-["succeed","work out"]
+succeed
+work out

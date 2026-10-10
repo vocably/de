@@ -1,1 +1,2 @@
-["token","chip"]
+token
+chip

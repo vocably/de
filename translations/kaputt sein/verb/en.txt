@@ -1,1 +1,3 @@
-["to be broken","to be out of order","to be exhausted"]
+to be broken
+to be out of order
+to be exhausted

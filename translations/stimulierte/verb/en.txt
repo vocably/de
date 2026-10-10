@@ -1,1 +1,3 @@
-["stimulated","incited","spurred"]
+stimulated
+incited
+spurred

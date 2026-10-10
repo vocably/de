@@ -1,1 +1,1 @@
-["hemimorphite"]
+hemimorphite

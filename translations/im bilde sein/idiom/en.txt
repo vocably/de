@@ -1,1 +1,3 @@
-["to be in the picture","to be in the know","to be up to date"]
+to be in the picture
+to be in the know
+to be up to date

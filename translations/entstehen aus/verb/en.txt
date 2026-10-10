@@ -1,1 +1,2 @@
-["arise from","emerge from"]
+arise from
+emerge from

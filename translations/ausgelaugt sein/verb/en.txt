@@ -1,1 +1,2 @@
-["to be exhausted","to be drained"]
+to be exhausted
+to be drained

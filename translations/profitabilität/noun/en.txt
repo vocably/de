@@ -1,1 +1,1 @@
-["profitability"]
+profitability

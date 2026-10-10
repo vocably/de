@@ -1,1 +1,2 @@
-["cease-fire","truce"]
+cease-fire
+truce

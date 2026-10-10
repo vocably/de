@@ -1,1 +1,2 @@
-["accessory","add-on device"]
+accessory
+add-on device

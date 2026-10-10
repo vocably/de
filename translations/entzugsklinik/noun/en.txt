@@ -1,1 +1,2 @@
-["rehab clinic","detox clinic"]
+rehab clinic
+detox clinic

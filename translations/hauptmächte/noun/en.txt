@@ -1,1 +1,2 @@
-["main powers","major powers"]
+main powers
+major powers

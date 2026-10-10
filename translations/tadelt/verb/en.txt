@@ -1,1 +1,2 @@
-["criticizes","reprimands"]
+criticizes
+reprimands

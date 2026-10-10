@@ -1,1 +1,2 @@
-["to be haunted","to be plagued"]
+to be haunted
+to be plagued

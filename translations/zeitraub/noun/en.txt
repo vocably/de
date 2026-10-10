@@ -1,1 +1,2 @@
-["time-consuming activity","time sink"]
+time-consuming activity
+time sink

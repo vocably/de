@@ -1,1 +1,2 @@
-["brat","snot-nosed kid"]
+brat
+snot-nosed kid

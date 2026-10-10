@@ -1,1 +1,2 @@
-["compilations","anthologies"]
+compilations
+anthologies

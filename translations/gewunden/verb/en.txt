@@ -1,1 +1,2 @@
-["wound","twisted"]
+wound
+twisted

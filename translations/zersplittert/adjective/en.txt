@@ -1,1 +1,2 @@
-["shattered","fragmented"]
+shattered
+fragmented

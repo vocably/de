@@ -1,1 +1,2 @@
-["cozy","intimate"]
+cozy
+intimate

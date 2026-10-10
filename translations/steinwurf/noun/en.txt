@@ -1,1 +1,2 @@
-["stone's throw","throw of a stone"]
+stone's throw
+throw of a stone

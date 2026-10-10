@@ -1,1 +1,2 @@
-["simultaneously","concurrently"]
+simultaneously
+concurrently

@@ -1,1 +1,2 @@
-["endanger","jeopardize"]
+endanger
+jeopardize

@@ -1,1 +1,1 @@
-["carding machine"]
+carding machine

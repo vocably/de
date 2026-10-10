@@ -1,1 +1,3 @@
-["holey","leaky","full of holes"]
+holey
+leaky
+full of holes

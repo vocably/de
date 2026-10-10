@@ -1,1 +1,3 @@
-["to race","to rage","to rest"]
+to race
+to rage
+to rest

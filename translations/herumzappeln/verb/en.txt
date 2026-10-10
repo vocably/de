@@ -1,1 +1,2 @@
-["to fidget","to squirm"]
+to fidget
+to squirm

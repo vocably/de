@@ -1,1 +1,3 @@
-["come into contact","get in touch","encounter"]
+come into contact
+get in touch
+encounter

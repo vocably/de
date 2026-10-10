@@ -1,1 +1,2 @@
-["important man","big shot"]
+important man
+big shot

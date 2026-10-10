@@ -1,1 +1,2 @@
-["for the","for that"]
+for the
+for that

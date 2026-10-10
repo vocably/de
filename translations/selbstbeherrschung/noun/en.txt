@@ -1,1 +1,2 @@
-["self-control","self-possession"]
+self-control
+self-possession

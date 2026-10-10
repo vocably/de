@@ -1,1 +1,2 @@
-["complete stranger","total stranger"]
+complete stranger
+total stranger

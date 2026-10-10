@@ -1,1 +1,2 @@
-["binge-eating","food-addicted"]
+binge-eating
+food-addicted

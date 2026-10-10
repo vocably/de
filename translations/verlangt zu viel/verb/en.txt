@@ -1,1 +1,2 @@
-["demands too much","asks too much"]
+demands too much
+asks too much

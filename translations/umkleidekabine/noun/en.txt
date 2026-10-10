@@ -1,1 +1,2 @@
-["fitting room","changing room"]
+fitting room
+changing room

@@ -1,1 +1,2 @@
-["speak plainly","talk straight"]
+speak plainly
+talk straight

@@ -1,1 +1,3 @@
-["exhausting","strenuous","tiring"]
+exhausting
+strenuous
+tiring

@@ -1,1 +1,2 @@
-["winch","cable winch"]
+winch
+cable winch

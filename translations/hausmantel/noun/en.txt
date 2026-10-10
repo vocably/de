@@ -1,1 +1,2 @@
-["housecoat","dressing gown"]
+housecoat
+dressing gown

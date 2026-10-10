@@ -1,1 +1,2 @@
-["referee","umpire"]
+referee
+umpire

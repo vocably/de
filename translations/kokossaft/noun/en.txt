@@ -1,1 +1,2 @@
-["coconut water","coconut juice"]
+coconut water
+coconut juice

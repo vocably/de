@@ -1,1 +1,3 @@
-["that","this","the"]
+that
+this
+the

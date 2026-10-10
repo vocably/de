@@ -1,1 +1,2 @@
-["team captain","captain"]
+team captain
+captain

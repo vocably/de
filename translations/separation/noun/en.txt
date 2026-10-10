@@ -1,1 +1,2 @@
-["separation","divorce"]
+separation
+divorce

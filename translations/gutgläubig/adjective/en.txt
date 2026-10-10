@@ -1,1 +1,2 @@
-["gullible","credulous"]
+gullible
+credulous

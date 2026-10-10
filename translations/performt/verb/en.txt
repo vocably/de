@@ -1,1 +1,3 @@
-["performs","is performing","does perform"]
+performs
+is performing
+does perform

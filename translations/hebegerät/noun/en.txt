@@ -1,1 +1,2 @@
-["hoist","lifting device"]
+hoist
+lifting device

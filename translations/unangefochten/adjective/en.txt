@@ -1,1 +1,3 @@
-["undisputed","unchallenged","uncontested"]
+undisputed
+unchallenged
+uncontested

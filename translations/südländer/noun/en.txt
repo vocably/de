@@ -1,1 +1,2 @@
-["southerner","person from a southern country"]
+southerner
+person from a southern country

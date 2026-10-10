@@ -1,1 +1,3 @@
-["campy","flamboyant","theatrical"]
+campy
+flamboyant
+theatrical

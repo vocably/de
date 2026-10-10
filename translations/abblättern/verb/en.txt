@@ -1,1 +1,2 @@
-["to peel off","to flake off"]
+to peel off
+to flake off

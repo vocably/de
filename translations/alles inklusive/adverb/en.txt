@@ -1,1 +1,2 @@
-["all-inclusive","all inclusive"]
+all-inclusive
+all inclusive

@@ -1,1 +1,1 @@
-["reverend"]
+reverend

@@ -1,1 +1,2 @@
-["shortly before","just before"]
+shortly before
+just before

@@ -1,1 +1,2 @@
-["everyday conversation","daily conversation"]
+everyday conversation
+daily conversation

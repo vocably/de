@@ -1,1 +1,2 @@
-["twin room","double room"]
+twin room
+double room

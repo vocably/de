@@ -1,1 +1,2 @@
-["rampage killer","spree killer"]
+rampage killer
+spree killer

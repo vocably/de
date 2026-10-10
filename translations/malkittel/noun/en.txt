@@ -1,1 +1,2 @@
-["smock","painting smock"]
+smock
+painting smock

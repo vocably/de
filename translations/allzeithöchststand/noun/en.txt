@@ -1,1 +1,2 @@
-["all-time high","record high"]
+all-time high
+record high

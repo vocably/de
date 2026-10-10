@@ -1,1 +1,2 @@
-["sadness","distress"]
+sadness
+distress

@@ -1,1 +1,2 @@
-["immediate neighbor","next-door neighbor"]
+immediate neighbor
+next-door neighbor

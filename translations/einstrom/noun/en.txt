@@ -1,1 +1,2 @@
-["inflow","influx"]
+inflow
+influx

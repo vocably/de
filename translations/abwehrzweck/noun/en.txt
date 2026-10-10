@@ -1,1 +1,2 @@
-["defensive purpose","purpose of defense"]
+defensive purpose
+purpose of defense

@@ -1,1 +1,2 @@
-["to core","to pit"]
+to core
+to pit

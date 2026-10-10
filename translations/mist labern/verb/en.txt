@@ -1,1 +1,3 @@
-["talk nonsense","talk rubbish","talk crap"]
+talk nonsense
+talk rubbish
+talk crap

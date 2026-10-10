@@ -1,1 +1,3 @@
-["capitulated","surrendered","gave up"]
+capitulated
+surrendered
+gave up

@@ -1,1 +1,3 @@
-["cares for","looks after","takes care of"]
+cares for
+looks after
+takes care of

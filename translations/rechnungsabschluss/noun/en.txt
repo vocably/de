@@ -1,1 +1,2 @@
-["closing of accounts","financial statement"]
+closing of accounts
+financial statement

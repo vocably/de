@@ -1,1 +1,3 @@
-["faint","queasy","weak"]
+faint
+queasy
+weak

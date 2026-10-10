@@ -1,1 +1,2 @@
-["scare to death","frighten to death"]
+scare to death
+frighten to death

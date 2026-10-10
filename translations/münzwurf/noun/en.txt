@@ -1,1 +1,2 @@
-["coin toss","coin flip"]
+coin toss
+coin flip

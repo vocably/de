@@ -1,1 +1,2 @@
-["bus station","bus depot"]
+bus station
+bus depot

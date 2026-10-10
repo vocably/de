@@ -1,1 +1,2 @@
-["signal phase plan","traffic signal timing plan"]
+signal phase plan
+traffic signal timing plan

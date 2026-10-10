@@ -1,1 +1,2 @@
-["rubber","caoutchouc"]
+rubber
+caoutchouc

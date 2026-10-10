@@ -1,1 +1,2 @@
-["blooming","flourishing"]
+blooming
+flourishing

@@ -1,1 +1,2 @@
-["to heal","to clear up"]
+to heal
+to clear up

@@ -1,1 +1,3 @@
-["to tear down","to pull down","to rip down"]
+to tear down
+to pull down
+to rip down

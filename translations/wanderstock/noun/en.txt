@@ -1,1 +1,2 @@
-["hiking pole","walking stick"]
+hiking pole
+walking stick

@@ -1,1 +1,2 @@
-["to be criticized","to be reviewed"]
+to be criticized
+to be reviewed

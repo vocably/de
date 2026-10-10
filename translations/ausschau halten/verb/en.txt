@@ -1,1 +1,2 @@
-["look out","watch out"]
+look out
+watch out

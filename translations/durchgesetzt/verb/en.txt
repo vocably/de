@@ -1,1 +1,2 @@
-["prevailed","enforced"]
+prevailed
+enforced

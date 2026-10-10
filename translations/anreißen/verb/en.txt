@@ -1,1 +1,3 @@
-["to tear at","to broach","to crack open"]
+to tear at
+to broach
+to crack open

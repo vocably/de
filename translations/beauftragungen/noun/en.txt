@@ -1,1 +1,2 @@
-["commissions","assignments"]
+commissions
+assignments

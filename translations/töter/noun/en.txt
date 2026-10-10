@@ -1,1 +1,2 @@
-["killer","slayer"]
+killer
+slayer

@@ -1,1 +1,2 @@
-["housing complex","apartment complex"]
+housing complex
+apartment complex

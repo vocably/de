@@ -1,1 +1,2 @@
-["mines","quarries"]
+mines
+quarries

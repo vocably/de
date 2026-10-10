@@ -1,1 +1,2 @@
-["scald","scalding"]
+scald
+scalding

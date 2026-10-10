@@ -1,1 +1,2 @@
-["Hölder","Hölderlin"]
+Hölder
+Hölderlin

@@ -1,1 +1,2 @@
-["residential development","housing"]
+residential development
+housing

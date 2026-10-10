@@ -1,1 +1,2 @@
-["tread pattern","tire tread"]
+tread pattern
+tire tread

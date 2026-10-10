@@ -1,1 +1,2 @@
-["euthanize","put down"]
+euthanize
+put down

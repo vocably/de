@@ -1,1 +1,2 @@
-["farsighted","forward-looking"]
+farsighted
+forward-looking

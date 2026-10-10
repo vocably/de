@@ -1,1 +1,2 @@
-["muzzle","gag order"]
+muzzle
+gag order

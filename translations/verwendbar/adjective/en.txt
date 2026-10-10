@@ -1,1 +1,2 @@
-["usable","applicable"]
+usable
+applicable

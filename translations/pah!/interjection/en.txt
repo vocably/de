@@ -1,1 +1,2 @@
-["Pah!","Pooh!"]
+Pah!
+Pooh!

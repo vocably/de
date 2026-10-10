@@ -1,1 +1,2 @@
-["trade journal","industry magazine"]
+trade journal
+industry magazine

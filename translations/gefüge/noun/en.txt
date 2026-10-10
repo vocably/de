@@ -1,1 +1,2 @@
-["structure","fabric"]
+structure
+fabric

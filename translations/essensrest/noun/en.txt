@@ -1,1 +1,2 @@
-["leftovers","food scraps"]
+leftovers
+food scraps

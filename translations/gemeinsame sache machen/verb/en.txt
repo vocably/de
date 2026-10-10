@@ -1,1 +1,2 @@
-["collude","conspire"]
+collude
+conspire

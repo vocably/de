@@ -1,1 +1,2 @@
-["wedding band","wedding ribbon"]
+wedding band
+wedding ribbon

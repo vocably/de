@@ -1,1 +1,2 @@
-["business owner","proprietor"]
+business owner
+proprietor

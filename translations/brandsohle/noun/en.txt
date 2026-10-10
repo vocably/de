@@ -1,1 +1,2 @@
-["insole","footbed"]
+insole
+footbed

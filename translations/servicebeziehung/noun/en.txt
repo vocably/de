@@ -1,1 +1,2 @@
-["service relationship","customer relationship"]
+service relationship
+customer relationship

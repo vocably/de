@@ -1,1 +1,2 @@
-["desirous","covetous"]
+desirous
+covetous

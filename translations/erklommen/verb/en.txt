@@ -1,1 +1,2 @@
-["climbed","scaled"]
+climbed
+scaled

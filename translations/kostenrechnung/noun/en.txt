@@ -1,1 +1,2 @@
-["cost accounting","costing"]
+cost accounting
+costing

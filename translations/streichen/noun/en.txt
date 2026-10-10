@@ -1,1 +1,3 @@
-["painting","stroke","deletion"]
+painting
+stroke
+deletion

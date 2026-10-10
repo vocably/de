@@ -1,1 +1,2 @@
-["USB flash drive","thumb drive"]
+USB flash drive
+thumb drive

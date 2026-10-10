@@ -1,1 +1,2 @@
-["treason","high treason"]
+treason
+high treason

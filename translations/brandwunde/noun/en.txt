@@ -1,1 +1,2 @@
-["burn","scald"]
+burn
+scald

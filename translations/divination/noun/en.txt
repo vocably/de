@@ -1,1 +1,2 @@
-["divination","fortune-telling"]
+divination
+fortune-telling

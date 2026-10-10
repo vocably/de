@@ -1,1 +1,2 @@
-["parliamentary chamber","house of parliament"]
+parliamentary chamber
+house of parliament

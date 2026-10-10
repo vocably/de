@@ -1,1 +1,3 @@
-["do without","get by without","manage without"]
+do without
+get by without
+manage without

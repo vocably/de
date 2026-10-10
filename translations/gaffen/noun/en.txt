@@ -1,1 +1,2 @@
-["gawking","rubbernecking"]
+gawking
+rubbernecking

@@ -1,1 +1,2 @@
-["additional clause","rider"]
+additional clause
+rider

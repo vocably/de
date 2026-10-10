@@ -1,1 +1,2 @@
-["just now","a moment ago"]
+just now
+a moment ago

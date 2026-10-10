@@ -1,1 +1,3 @@
-["flutters","flickers","waves"]
+flutters
+flickers
+waves

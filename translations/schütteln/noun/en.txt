@@ -1,1 +1,2 @@
-["shake","jolt"]
+shake
+jolt

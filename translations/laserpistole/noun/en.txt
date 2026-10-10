@@ -1,1 +1,2 @@
-["laser pistol","ray gun"]
+laser pistol
+ray gun

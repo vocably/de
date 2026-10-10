@@ -1,1 +1,3 @@
-["stump","butt","stub"]
+stump
+butt
+stub

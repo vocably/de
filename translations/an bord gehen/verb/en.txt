@@ -1,1 +1,2 @@
-["to board","to go on board"]
+to board
+to go on board

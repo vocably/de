@@ -1,1 +1,2 @@
-["to supply","to deliver"]
+to supply
+to deliver

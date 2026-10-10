@@ -1,1 +1,2 @@
-["ways","paths"]
+ways
+paths

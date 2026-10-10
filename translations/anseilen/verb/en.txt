@@ -1,1 +1,2 @@
-["to rope up","to tie in"]
+to rope up
+to tie in

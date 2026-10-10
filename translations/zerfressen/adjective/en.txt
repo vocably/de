@@ -1,1 +1,2 @@
-["corroded","eaten away"]
+corroded
+eaten away

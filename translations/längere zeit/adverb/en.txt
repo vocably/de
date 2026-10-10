@@ -1,1 +1,2 @@
-["for a long time","for some time"]
+for a long time
+for some time

@@ -1,1 +1,2 @@
-["physical activity","exercise"]
+physical activity
+exercise

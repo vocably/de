@@ -1,1 +1,2 @@
-["pioneer","trailblazer"]
+pioneer
+trailblazer

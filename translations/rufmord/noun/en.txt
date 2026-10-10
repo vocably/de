@@ -1,1 +1,2 @@
-["character assassination","defamation"]
+character assassination
+defamation

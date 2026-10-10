@@ -1,1 +1,2 @@
-["no","not any"]
+no
+not any

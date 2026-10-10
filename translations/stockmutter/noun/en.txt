@@ -1,1 +1,2 @@
-["coupling nut","long nut"]
+coupling nut
+long nut

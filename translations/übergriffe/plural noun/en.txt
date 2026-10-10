@@ -1,1 +1,2 @@
-["assaults","attacks"]
+assaults
+attacks

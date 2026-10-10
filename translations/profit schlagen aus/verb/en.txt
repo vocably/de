@@ -1,1 +1,3 @@
-["to profit from","to benefit from","to take advantage of"]
+to profit from
+to benefit from
+to take advantage of

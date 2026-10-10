@@ -1,1 +1,2 @@
-["family doctor","general practitioner"]
+family doctor
+general practitioner

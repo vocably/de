@@ -1,1 +1,3 @@
-["stimulated","suggested","lively"]
+stimulated
+suggested
+lively

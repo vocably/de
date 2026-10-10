@@ -1,1 +1,2 @@
-["participate in something","take part in something"]
+participate in something
+take part in something

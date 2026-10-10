@@ -1,1 +1,3 @@
-["inadequate","insufficient","inappropriate"]
+inadequate
+insufficient
+inappropriate

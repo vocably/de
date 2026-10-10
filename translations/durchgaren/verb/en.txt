@@ -1,1 +1,2 @@
-["cook through","cook thoroughly"]
+cook through
+cook thoroughly

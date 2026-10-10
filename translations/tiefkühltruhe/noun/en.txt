@@ -1,1 +1,2 @@
-["freezer","deep freezer"]
+freezer
+deep freezer

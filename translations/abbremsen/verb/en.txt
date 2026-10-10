@@ -1,1 +1,2 @@
-["to brake","to slow down"]
+to brake
+to slow down

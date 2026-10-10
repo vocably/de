@@ -1,1 +1,2 @@
-["commit adultery","be unfaithful"]
+commit adultery
+be unfaithful

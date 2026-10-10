@@ -1,1 +1,2 @@
-["huge success","smash hit"]
+huge success
+smash hit

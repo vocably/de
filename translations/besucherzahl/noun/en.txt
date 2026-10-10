@@ -1,1 +1,2 @@
-["attendance","visitor numbers"]
+attendance
+visitor numbers

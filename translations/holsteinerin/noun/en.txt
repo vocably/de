@@ -1,1 +1,2 @@
-["woman from Holstein","native of Holstein"]
+woman from Holstein
+native of Holstein

@@ -1,1 +1,2 @@
-["reverence","deference"]
+reverence
+deference

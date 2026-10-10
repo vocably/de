@@ -1,1 +1,2 @@
-["rented out","let"]
+rented out
+let

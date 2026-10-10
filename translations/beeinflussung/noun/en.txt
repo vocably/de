@@ -1,1 +1,2 @@
-["influence","manipulation"]
+influence
+manipulation

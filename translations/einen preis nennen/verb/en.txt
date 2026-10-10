@@ -1,1 +1,2 @@
-["quote a price","name a price"]
+quote a price
+name a price

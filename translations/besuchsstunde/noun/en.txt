@@ -1,1 +1,2 @@
-["visiting hours","visiting time"]
+visiting hours
+visiting time

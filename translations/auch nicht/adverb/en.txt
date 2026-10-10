@@ -1,1 +1,2 @@
-["not either","neither"]
+not either
+neither

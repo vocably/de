@@ -1,1 +1,2 @@
-["adherence","compliance"]
+adherence
+compliance

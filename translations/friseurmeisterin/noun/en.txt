@@ -1,1 +1,2 @@
-["master hairdresser","master hairstylist"]
+master hairdresser
+master hairstylist

@@ -1,1 +1,2 @@
-["to barricade","to bar"]
+to barricade
+to bar

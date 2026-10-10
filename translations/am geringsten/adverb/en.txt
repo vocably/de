@@ -1,1 +1,2 @@
-["least","at least"]
+least
+at least

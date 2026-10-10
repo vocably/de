@@ -1,1 +1,3 @@
-["degrades","humiliates","disgraces"]
+degrades
+humiliates
+disgraces

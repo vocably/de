@@ -1,1 +1,3 @@
-["lived with","stayed with","resided with"]
+lived with
+stayed with
+resided with

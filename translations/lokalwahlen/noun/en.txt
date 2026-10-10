@@ -1,1 +1,2 @@
-["local elections","municipal elections"]
+local elections
+municipal elections

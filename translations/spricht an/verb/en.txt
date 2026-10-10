@@ -1,1 +1,3 @@
-["address","appeal to","respond"]
+address
+appeal to
+respond

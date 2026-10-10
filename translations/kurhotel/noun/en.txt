@@ -1,1 +1,2 @@
-["spa hotel","health resort hotel"]
+spa hotel
+health resort hotel

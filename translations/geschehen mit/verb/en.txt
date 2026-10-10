@@ -1,1 +1,3 @@
-["happen to","occur to","befall"]
+happen to
+occur to
+befall

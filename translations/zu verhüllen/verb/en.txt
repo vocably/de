@@ -1,1 +1,2 @@
-["to veil","to conceal"]
+to veil
+to conceal

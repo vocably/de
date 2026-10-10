@@ -1,1 +1,2 @@
-["bent","turned"]
+bent
+turned

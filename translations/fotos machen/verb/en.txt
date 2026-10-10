@@ -1,1 +1,2 @@
-["take photos","take pictures"]
+take photos
+take pictures

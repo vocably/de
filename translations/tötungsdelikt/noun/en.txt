@@ -1,1 +1,2 @@
-["homicide","killing"]
+homicide
+killing

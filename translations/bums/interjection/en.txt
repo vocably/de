@@ -1,1 +1,2 @@
-["Bang!","Wham!"]
+Bang!
+Wham!

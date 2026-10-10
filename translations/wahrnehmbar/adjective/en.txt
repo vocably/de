@@ -1,1 +1,2 @@
-["perceptible","noticeable"]
+perceptible
+noticeable

@@ -1,1 +1,3 @@
-["stop","hold","halt"]
+stop
+hold
+halt

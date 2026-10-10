@@ -1,1 +1,2 @@
-["regional","in some areas"]
+regional
+in some areas

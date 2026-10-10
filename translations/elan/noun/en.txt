@@ -1,1 +1,2 @@
-["enthusiasm","elan"]
+enthusiasm
+elan

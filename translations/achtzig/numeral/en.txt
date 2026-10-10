@@ -1,1 +1,1 @@
-["eighty"]
+eighty

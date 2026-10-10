@@ -1,1 +1,3 @@
-["impressed","made an impression","commanded respect"]
+impressed
+made an impression
+commanded respect

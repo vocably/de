@@ -1,1 +1,2 @@
-["country girl","farm girl"]
+country girl
+farm girl

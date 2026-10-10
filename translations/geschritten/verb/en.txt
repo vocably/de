@@ -1,1 +1,2 @@
-["walked","stepped"]
+walked
+stepped

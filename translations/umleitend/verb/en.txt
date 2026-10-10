@@ -1,1 +1,3 @@
-["diverting","rerouting","redirecting"]
+diverting
+rerouting
+redirecting

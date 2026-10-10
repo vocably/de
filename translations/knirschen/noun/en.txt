@@ -1,1 +1,2 @@
-["crunch","grinding"]
+crunch
+grinding

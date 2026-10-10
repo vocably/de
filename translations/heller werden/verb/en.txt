@@ -1,1 +1,3 @@
-["brighten","lighten","clear up"]
+brighten
+lighten
+clear up

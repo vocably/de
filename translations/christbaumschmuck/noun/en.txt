@@ -1,1 +1,2 @@
-["Christmas tree decorations","ornaments"]
+Christmas tree decorations
+ornaments

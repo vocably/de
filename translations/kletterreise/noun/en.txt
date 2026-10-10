@@ -1,1 +1,2 @@
-["climbing trip","climbing tour"]
+climbing trip
+climbing tour

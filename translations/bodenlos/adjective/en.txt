@@ -1,1 +1,3 @@
-["bottomless","abysmal","outrageous"]
+bottomless
+abysmal
+outrageous

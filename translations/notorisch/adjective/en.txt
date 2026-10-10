@@ -1,1 +1,2 @@
-["notorious","well-known"]
+notorious
+well-known

@@ -1,1 +1,2 @@
-["grapevine","rumor mill"]
+grapevine
+rumor mill

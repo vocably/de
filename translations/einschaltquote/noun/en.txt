@@ -1,1 +1,2 @@
-["rating","audience share"]
+rating
+audience share

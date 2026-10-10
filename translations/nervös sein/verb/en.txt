@@ -1,1 +1,2 @@
-["to be nervous","to be anxious"]
+to be nervous
+to be anxious

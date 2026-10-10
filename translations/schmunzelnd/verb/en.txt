@@ -1,1 +1,2 @@
-["smiling","grinning"]
+smiling
+grinning

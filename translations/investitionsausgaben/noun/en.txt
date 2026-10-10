@@ -1,1 +1,2 @@
-["capital expenditures","investment spending"]
+capital expenditures
+investment spending

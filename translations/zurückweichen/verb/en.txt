@@ -1,1 +1,3 @@
-["recoil","flinch","back away"]
+recoil
+flinch
+back away

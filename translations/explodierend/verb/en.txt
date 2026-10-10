@@ -1,1 +1,2 @@
-["exploding","skyrocketing"]
+exploding
+skyrocketing

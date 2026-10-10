@@ -1,1 +1,2 @@
-["indecision","irresolution"]
+indecision
+irresolution

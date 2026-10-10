@@ -1,1 +1,2 @@
-["treasures","valuables"]
+treasures
+valuables

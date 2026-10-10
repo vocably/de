@@ -1,1 +1,2 @@
-["not nearly","not by a long shot"]
+not nearly
+not by a long shot

@@ -1,1 +1,2 @@
-["painful","embarrassing"]
+painful
+embarrassing

@@ -1,1 +1,2 @@
-["to consider in advance","to pre-evaluate"]
+to consider in advance
+to pre-evaluate

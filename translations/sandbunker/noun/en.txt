@@ -1,1 +1,2 @@
-["sand trap","bunker"]
+sand trap
+bunker

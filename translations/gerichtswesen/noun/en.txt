@@ -1,1 +1,2 @@
-["judiciary","judicial system"]
+judiciary
+judicial system

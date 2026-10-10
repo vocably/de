@@ -1,1 +1,2 @@
-["enforcement","implementation"]
+enforcement
+implementation

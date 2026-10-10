@@ -1,1 +1,2 @@
-["fellow student","classmate"]
+fellow student
+classmate

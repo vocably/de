@@ -1,1 +1,3 @@
-["take root","settle down","become established"]
+take root
+settle down
+become established

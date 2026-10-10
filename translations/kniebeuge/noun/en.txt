@@ -1,1 +1,2 @@
-["squat","knee bend"]
+squat
+knee bend

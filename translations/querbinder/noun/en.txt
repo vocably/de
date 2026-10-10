@@ -1,1 +1,2 @@
-["bow tie","bow-tie"]
+bow tie
+bow-tie

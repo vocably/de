@@ -1,1 +1,2 @@
-["in return for","in exchange for"]
+in return for
+in exchange for

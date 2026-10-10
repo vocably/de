@@ -1,1 +1,2 @@
-["coziness","snugness"]
+coziness
+snugness

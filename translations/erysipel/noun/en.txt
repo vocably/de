@@ -1,1 +1,2 @@
-["erysipelas","St. Anthony's fire"]
+erysipelas
+St. Anthony's fire

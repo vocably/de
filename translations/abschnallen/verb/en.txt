@@ -1,1 +1,2 @@
-["unbuckle","unfasten"]
+unbuckle
+unfasten

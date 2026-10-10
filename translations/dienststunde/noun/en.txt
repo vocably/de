@@ -1,1 +1,2 @@
-["duty hour","service hour"]
+duty hour
+service hour

@@ -1,1 +1,2 @@
-["cleric","clergyman"]
+cleric
+clergyman

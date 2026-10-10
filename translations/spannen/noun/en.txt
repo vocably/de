@@ -1,1 +1,3 @@
-["tensioning","stretching","tightening"]
+tensioning
+stretching
+tightening

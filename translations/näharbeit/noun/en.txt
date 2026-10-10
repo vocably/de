@@ -1,1 +1,2 @@
-["sewing","needlework"]
+sewing
+needlework

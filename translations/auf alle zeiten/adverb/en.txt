@@ -1,1 +1,3 @@
-["forever","for all time","for eternity"]
+forever
+for all time
+for eternity

@@ -1,1 +1,2 @@
-["bridle","tack"]
+bridle
+tack

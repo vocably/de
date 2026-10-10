@@ -1,1 +1,2 @@
-["arrangements","preparations"]
+arrangements
+preparations

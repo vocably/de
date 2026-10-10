@@ -1,1 +1,2 @@
-["ghosts","specters"]
+ghosts
+specters

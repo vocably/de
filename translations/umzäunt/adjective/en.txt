@@ -1,1 +1,2 @@
-["fenced","enclosed"]
+fenced
+enclosed

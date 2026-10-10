@@ -1,1 +1,2 @@
-["European hare","brown hare"]
+European hare
+brown hare

@@ -1,1 +1,2 @@
-["sensations","excitements"]
+sensations
+excitements

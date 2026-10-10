@@ -1,1 +1,3 @@
-["hit hard","tuck in","get a move on"]
+hit hard
+tuck in
+get a move on

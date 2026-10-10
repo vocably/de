@@ -1,1 +1,2 @@
-["penalty shot","seven-meter throw"]
+penalty shot
+seven-meter throw

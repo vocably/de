@@ -1,1 +1,2 @@
-["boil through","cook thoroughly"]
+boil through
+cook thoroughly

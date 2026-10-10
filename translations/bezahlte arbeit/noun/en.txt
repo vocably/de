@@ -1,1 +1,2 @@
-["paid work","employment"]
+paid work
+employment

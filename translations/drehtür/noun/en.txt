@@ -1,1 +1,2 @@
-["revolving door","turnstile"]
+revolving door
+turnstile

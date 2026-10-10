@@ -1,1 +1,2 @@
-["to pay attention","to consider"]
+to pay attention
+to consider

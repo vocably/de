@@ -1,1 +1,3 @@
-["to blaze","to flare","to flame"]
+to blaze
+to flare
+to flame

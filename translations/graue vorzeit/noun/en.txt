@@ -1,1 +1,2 @@
-["hoary antiquity","remote past"]
+hoary antiquity
+remote past

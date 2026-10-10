@@ -1,1 +1,2 @@
-["impassable","inaccessible"]
+impassable
+inaccessible

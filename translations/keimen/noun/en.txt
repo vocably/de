@@ -1,1 +1,2 @@
-["germination","sprouting"]
+germination
+sprouting

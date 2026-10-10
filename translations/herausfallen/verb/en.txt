@@ -1,1 +1,3 @@
-["fall out of","drop out of","fall out"]
+fall out of
+drop out of
+fall out

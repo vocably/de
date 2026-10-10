@@ -1,1 +1,2 @@
-["clandestine","secret"]
+clandestine
+secret

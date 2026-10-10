@@ -1,1 +1,3 @@
-["suspension","mount","hanging"]
+suspension
+mount
+hanging

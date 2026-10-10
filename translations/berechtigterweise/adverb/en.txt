@@ -1,1 +1,3 @@
-["justifiably","rightly","legitimately"]
+justifiably
+rightly
+legitimately

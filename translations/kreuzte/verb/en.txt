@@ -1,1 +1,4 @@
-["crossed","cruised","intersected","canceled out"]
+crossed
+cruised
+intersected
+canceled out

@@ -1,1 +1,2 @@
-["optional equipment","special equipment"]
+optional equipment
+special equipment

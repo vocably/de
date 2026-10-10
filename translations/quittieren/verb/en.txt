@@ -1,1 +1,3 @@
-["sign for","acknowledge","resign from"]
+sign for
+acknowledge
+resign from

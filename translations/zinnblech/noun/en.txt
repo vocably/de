@@ -1,1 +1,2 @@
-["tin plate","tinplate"]
+tin plate
+tinplate

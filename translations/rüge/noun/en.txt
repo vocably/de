@@ -1,1 +1,2 @@
-["reprimand","censure"]
+reprimand
+censure

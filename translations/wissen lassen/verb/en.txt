@@ -1,1 +1,2 @@
-["let know","inform"]
+let know
+inform

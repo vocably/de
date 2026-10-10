@@ -1,1 +1,2 @@
-["welfare payment","social security payment"]
+welfare payment
+social security payment

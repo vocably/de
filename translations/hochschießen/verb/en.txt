@@ -1,1 +1,3 @@
-["shoot up","soar","skyrocket"]
+shoot up
+soar
+skyrocket

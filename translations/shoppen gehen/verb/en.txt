@@ -1,1 +1,2 @@
-["go shopping","go to the mall"]
+go shopping
+go to the mall

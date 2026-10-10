@@ -1,1 +1,2 @@
-["to be open","to be opened"]
+to be open
+to be opened

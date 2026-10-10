@@ -1,1 +1,3 @@
-["Leo","lion","Leopard"]
+Leo
+lion
+Leopard

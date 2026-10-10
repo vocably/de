@@ -1,1 +1,2 @@
-["significance","place value"]
+significance
+place value

@@ -1,1 +1,2 @@
-["obvious","violent"]
+obvious
+violent

@@ -1,1 +1,2 @@
-["right-angled","rectangular"]
+right-angled
+rectangular

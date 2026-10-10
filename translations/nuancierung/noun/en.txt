@@ -1,1 +1,2 @@
-["nuance","shading"]
+nuance
+shading

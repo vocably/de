@@ -1,1 +1,2 @@
-["to speak to someone","to talk to someone"]
+to speak to someone
+to talk to someone

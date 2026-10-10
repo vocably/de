@@ -1,1 +1,2 @@
-["perpetrator","offender"]
+perpetrator
+offender

@@ -1,1 +1,2 @@
-["afforest","plant with trees"]
+afforest
+plant with trees

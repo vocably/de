@@ -1,1 +1,2 @@
-["lenses","spectacle lenses"]
+lenses
+spectacle lenses

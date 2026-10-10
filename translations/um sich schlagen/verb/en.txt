@@ -1,1 +1,3 @@
-["flail around","lash out","spread"]
+flail around
+lash out
+spread

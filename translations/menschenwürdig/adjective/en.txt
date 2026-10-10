@@ -1,1 +1,2 @@
-["humane","dignified"]
+humane
+dignified

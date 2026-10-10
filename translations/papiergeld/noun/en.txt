@@ -1,1 +1,2 @@
-["paper money","banknotes"]
+paper money
+banknotes

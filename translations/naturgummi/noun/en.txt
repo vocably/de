@@ -1,1 +1,2 @@
-["natural rubber","caoutchouc"]
+natural rubber
+caoutchouc

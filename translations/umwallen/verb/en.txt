@@ -1,1 +1,2 @@
-["to wall around","to enclose"]
+to wall around
+to enclose

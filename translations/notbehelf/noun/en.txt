@@ -1,1 +1,2 @@
-["makeshift","stopgap"]
+makeshift
+stopgap

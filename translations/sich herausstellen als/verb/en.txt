@@ -1,1 +1,3 @@
-["to turn out to be","to prove to be","to emerge as"]
+to turn out to be
+to prove to be
+to emerge as

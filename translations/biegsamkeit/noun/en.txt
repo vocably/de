@@ -1,1 +1,2 @@
-["flexibility","pliability"]
+flexibility
+pliability

@@ -1,1 +1,2 @@
-["female bankers","bankers"]
+female bankers
+bankers

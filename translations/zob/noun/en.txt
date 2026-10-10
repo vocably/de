@@ -1,1 +1,2 @@
-["central bus station","ZOB"]
+central bus station
+ZOB

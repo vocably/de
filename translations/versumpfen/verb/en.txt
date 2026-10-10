@@ -1,1 +1,3 @@
-["to become a swamp","to sink into a swamp","to degenerate"]
+to become a swamp
+to sink into a swamp
+to degenerate

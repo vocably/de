@@ -1,1 +1,2 @@
-["remote work","telecommuting"]
+remote work
+telecommuting

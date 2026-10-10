@@ -1,1 +1,2 @@
-["intelligence services","intelligence agencies"]
+intelligence services
+intelligence agencies

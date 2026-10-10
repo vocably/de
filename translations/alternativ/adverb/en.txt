@@ -1,1 +1,2 @@
-["alternatively","as an alternative"]
+alternatively
+as an alternative

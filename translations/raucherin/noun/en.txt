@@ -1,1 +1,1 @@
-["smoker"]
+smoker

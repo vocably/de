@@ -1,1 +1,2 @@
-["encounter","clash"]
+encounter
+clash

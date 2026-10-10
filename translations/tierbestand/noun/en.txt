@@ -1,1 +1,2 @@
-["animal population","livestock"]
+animal population
+livestock

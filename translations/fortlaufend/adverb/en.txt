@@ -1,1 +1,2 @@
-["continuously","ongoing"]
+continuously
+ongoing

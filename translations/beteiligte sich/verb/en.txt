@@ -1,1 +1,3 @@
-["participated","took part","was involved"]
+participated
+took part
+was involved

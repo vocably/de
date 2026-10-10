@@ -1,1 +1,2 @@
-["unadulterated","pure"]
+unadulterated
+pure

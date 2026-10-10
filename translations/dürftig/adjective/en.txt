@@ -1,1 +1,2 @@
-["meager","scanty"]
+meager
+scanty

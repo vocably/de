@@ -1,1 +1,4 @@
-["was created","was established","was set up","was laid out"]
+was created
+was established
+was set up
+was laid out

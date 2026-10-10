@@ -1,1 +1,2 @@
-["highly esteemed","highly valued"]
+highly esteemed
+highly valued

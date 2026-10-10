@@ -1,1 +1,3 @@
-["swallowed","mumbled","engulfed"]
+swallowed
+mumbled
+engulfed

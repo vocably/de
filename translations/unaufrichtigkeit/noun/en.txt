@@ -1,1 +1,2 @@
-["insincerity","duplicity"]
+insincerity
+duplicity

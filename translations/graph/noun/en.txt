@@ -1,1 +1,2 @@
-["graph","chart"]
+graph
+chart

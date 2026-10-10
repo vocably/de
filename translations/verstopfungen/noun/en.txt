@@ -1,1 +1,2 @@
-["blockages","constipation"]
+blockages
+constipation

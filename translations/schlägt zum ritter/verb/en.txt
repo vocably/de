@@ -1,1 +1,2 @@
-["to knight","to dub"]
+to knight
+to dub

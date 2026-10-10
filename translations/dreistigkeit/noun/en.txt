@@ -1,1 +1,2 @@
-["audacity","impudence"]
+audacity
+impudence

@@ -1,1 +1,2 @@
-["bandits","robbers"]
+bandits
+robbers

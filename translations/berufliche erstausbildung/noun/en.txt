@@ -1,1 +1,2 @@
-["initial vocational training","initial professional training"]
+initial vocational training
+initial professional training

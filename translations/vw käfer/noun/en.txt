@@ -1,1 +1,2 @@
-["VW Beetle","VW Bug"]
+VW Beetle
+VW Bug

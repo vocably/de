@@ -1,1 +1,2 @@
-["daily life","everyday life"]
+daily life
+everyday life

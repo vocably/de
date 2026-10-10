@@ -1,1 +1,3 @@
-["cowardly","faint-heartedly","cravenly"]
+cowardly
+faint-heartedly
+cravenly

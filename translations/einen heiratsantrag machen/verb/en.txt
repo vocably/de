@@ -1,1 +1,2 @@
-["propose","propose marriage"]
+propose
+propose marriage

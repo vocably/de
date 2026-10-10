@@ -1,1 +1,3 @@
-["make a mistake","make an error","make a blunder"]
+make a mistake
+make an error
+make a blunder

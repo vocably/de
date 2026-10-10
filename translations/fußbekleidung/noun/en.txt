@@ -1,1 +1,2 @@
-["footwear","footgear"]
+footwear
+footgear

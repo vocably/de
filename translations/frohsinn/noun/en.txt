@@ -1,1 +1,2 @@
-["cheerfulness","gaiety"]
+cheerfulness
+gaiety

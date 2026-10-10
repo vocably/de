@@ -1,1 +1,2 @@
-["burned down","was destroyed by fire"]
+burned down
+was destroyed by fire

@@ -1,1 +1,2 @@
-["field name","field label"]
+field name
+field label

@@ -1,1 +1,2 @@
-["place of remembrance","memorial site"]
+place of remembrance
+memorial site

@@ -1,1 +1,2 @@
-["homeless person","homeless individual"]
+homeless person
+homeless individual

@@ -1,1 +1,2 @@
-["lookout","crow's nest"]
+lookout
+crow's nest

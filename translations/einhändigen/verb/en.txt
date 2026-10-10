@@ -1,1 +1,2 @@
-["hand over","turn in"]
+hand over
+turn in

@@ -1,1 +1,2 @@
-["moralizer","preacher"]
+moralizer
+preacher

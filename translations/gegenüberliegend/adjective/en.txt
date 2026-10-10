@@ -1,1 +1,2 @@
-["opposite","adjoining"]
+opposite
+adjoining

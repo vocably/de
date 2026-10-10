@@ -1,1 +1,2 @@
-["landlady","hostess"]
+landlady
+hostess

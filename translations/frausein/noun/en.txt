@@ -1,1 +1,2 @@
-["womanhood","femaleness"]
+womanhood
+femaleness

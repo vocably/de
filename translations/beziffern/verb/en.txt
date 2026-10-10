@@ -1,1 +1,3 @@
-["to quantify","to estimate","to put a figure on"]
+to quantify
+to estimate
+to put a figure on

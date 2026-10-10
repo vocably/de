@@ -1,1 +1,3 @@
-["differently","variously","disparately"]
+differently
+variously
+disparately

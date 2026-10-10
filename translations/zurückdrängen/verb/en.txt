@@ -1,1 +1,3 @@
-["push back","force back","repel"]
+push back
+force back
+repel

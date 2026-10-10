@@ -1,1 +1,2 @@
-["let out","release"]
+let out
+release

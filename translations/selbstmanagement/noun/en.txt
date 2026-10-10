@@ -1,1 +1,2 @@
-["self-management","self-direction"]
+self-management
+self-direction

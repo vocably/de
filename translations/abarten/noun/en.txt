@@ -1,1 +1,2 @@
-["varieties","deviations"]
+varieties
+deviations

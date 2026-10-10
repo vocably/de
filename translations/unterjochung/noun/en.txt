@@ -1,1 +1,2 @@
-["subjugation","enslavement"]
+subjugation
+enslavement

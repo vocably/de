@@ -1,1 +1,3 @@
-["satisfied","pleased","gratified"]
+satisfied
+pleased
+gratified

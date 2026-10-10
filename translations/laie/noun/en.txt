@@ -1,1 +1,2 @@
-["layperson","novice"]
+layperson
+novice

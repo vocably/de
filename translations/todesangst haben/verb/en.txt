@@ -1,1 +1,2 @@
-["to be scared to death","to be terrified"]
+to be scared to death
+to be terrified

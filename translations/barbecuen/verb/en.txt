@@ -1,1 +1,2 @@
-["to barbecue","to grill"]
+to barbecue
+to grill

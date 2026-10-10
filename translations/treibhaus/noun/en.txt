@@ -1,1 +1,2 @@
-["greenhouse","hothouse"]
+greenhouse
+hothouse

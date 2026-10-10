@@ -1,1 +1,2 @@
-["taxes","levies"]
+taxes
+levies

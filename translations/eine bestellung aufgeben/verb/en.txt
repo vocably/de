@@ -1,1 +1,2 @@
-["to place an order","to make an order"]
+to place an order
+to make an order

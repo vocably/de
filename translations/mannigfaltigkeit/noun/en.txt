@@ -1,1 +1,2 @@
-["diversity","manifold"]
+diversity
+manifold

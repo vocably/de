@@ -1,1 +1,2 @@
-["mixed message","conflicting message"]
+mixed message
+conflicting message

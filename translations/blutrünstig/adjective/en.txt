@@ -1,1 +1,2 @@
-["bloodthirsty","sanguinary"]
+bloodthirsty
+sanguinary

@@ -1,1 +1,2 @@
-["atonement","expiation"]
+atonement
+expiation

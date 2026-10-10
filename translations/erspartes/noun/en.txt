@@ -1,1 +1,2 @@
-["savings","nest egg"]
+savings
+nest egg

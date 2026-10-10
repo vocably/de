@@ -1,1 +1,2 @@
-["to dine","to have dinner"]
+to dine
+to have dinner

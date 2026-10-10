@@ -1,1 +1,2 @@
-["night-light","bedside lamp"]
+night-light
+bedside lamp

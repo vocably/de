@@ -1,1 +1,2 @@
-["tact","discretion"]
+tact
+discretion

@@ -1,1 +1,2 @@
-["harbinger","omen"]
+harbinger
+omen

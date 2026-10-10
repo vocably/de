@@ -1,1 +1,2 @@
-["quilted","stitched"]
+quilted
+stitched

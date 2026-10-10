@@ -1,1 +1,2 @@
-["to place an order","to commission"]
+to place an order
+to commission

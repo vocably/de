@@ -1,1 +1,2 @@
-["surcharges","additional costs"]
+surcharges
+additional costs

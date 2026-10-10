@@ -1,1 +1,2 @@
-["clenched fist","fist"]
+clenched fist
+fist

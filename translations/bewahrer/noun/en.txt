@@ -1,1 +1,2 @@
-["guardian","preserver"]
+guardian
+preserver

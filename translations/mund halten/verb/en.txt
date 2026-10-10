@@ -1,1 +1,3 @@
-["shut up","be quiet","hold one's tongue"]
+shut up
+be quiet
+hold one's tongue

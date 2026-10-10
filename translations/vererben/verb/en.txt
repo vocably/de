@@ -1,1 +1,2 @@
-["bequeath","inherit"]
+bequeath
+inherit

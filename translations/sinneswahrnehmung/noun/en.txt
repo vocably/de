@@ -1,1 +1,2 @@
-["sensory perception","sense perception"]
+sensory perception
+sense perception

@@ -1,1 +1,2 @@
-["enumeration","listing"]
+enumeration
+listing

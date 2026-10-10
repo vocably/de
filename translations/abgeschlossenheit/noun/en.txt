@@ -1,1 +1,3 @@
-["seclusion","completeness","isolation"]
+seclusion
+completeness
+isolation

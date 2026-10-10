@@ -1,1 +1,2 @@
-["test of strength","showdown"]
+test of strength
+showdown

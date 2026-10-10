@@ -1,1 +1,2 @@
-["wordless","silent"]
+wordless
+silent

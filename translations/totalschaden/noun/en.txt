@@ -1,1 +1,2 @@
-["total loss","write-off"]
+total loss
+write-off

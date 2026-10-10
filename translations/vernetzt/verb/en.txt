@@ -1,1 +1,2 @@
-["networked","interconnected"]
+networked
+interconnected

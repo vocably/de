@@ -1,1 +1,2 @@
-["sleepless","insomniac"]
+sleepless
+insomniac

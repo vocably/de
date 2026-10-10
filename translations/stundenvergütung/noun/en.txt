@@ -1,1 +1,2 @@
-["hourly wage","hourly rate"]
+hourly wage
+hourly rate

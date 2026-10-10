@@ -1,1 +1,2 @@
-["literacy","literacy training"]
+literacy
+literacy training

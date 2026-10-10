@@ -1,1 +1,3 @@
-["damned","cursed","condemned"]
+damned
+cursed
+condemned

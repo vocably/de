@@ -1,1 +1,2 @@
-["building block","component"]
+building block
+component

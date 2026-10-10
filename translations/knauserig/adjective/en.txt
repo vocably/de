@@ -1,1 +1,2 @@
-["stingy","tightfisted"]
+stingy
+tightfisted

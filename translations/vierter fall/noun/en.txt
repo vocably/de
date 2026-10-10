@@ -1,1 +1,2 @@
-["accusative case","fourth case"]
+accusative case
+fourth case

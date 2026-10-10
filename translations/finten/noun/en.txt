@@ -1,1 +1,2 @@
-["feints","tricks"]
+feints
+tricks

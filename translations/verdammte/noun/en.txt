@@ -1,1 +1,2 @@
-["damned soul","cursed one"]
+damned soul
+cursed one

@@ -1,1 +1,2 @@
-["rendering","depiction"]
+rendering
+depiction

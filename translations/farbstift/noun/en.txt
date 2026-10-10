@@ -1,1 +1,2 @@
-["colored pencil","crayon"]
+colored pencil
+crayon

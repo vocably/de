@@ -1,1 +1,2 @@
-["consultation","seeking advice"]
+consultation
+seeking advice

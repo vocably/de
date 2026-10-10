@@ -1,1 +1,2 @@
-["nominative case","first case"]
+nominative case
+first case

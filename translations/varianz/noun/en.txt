@@ -1,1 +1,2 @@
-["variance","variability"]
+variance
+variability

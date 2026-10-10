@@ -1,1 +1,2 @@
-["emergency room","emergency department"]
+emergency room
+emergency department

@@ -1,1 +1,2 @@
-["beat around the bush","talk in riddles"]
+beat around the bush
+talk in riddles

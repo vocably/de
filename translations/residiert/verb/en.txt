@@ -1,1 +1,2 @@
-["resides","resided"]
+resides
+resided

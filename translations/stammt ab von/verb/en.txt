@@ -1,1 +1,3 @@
-["descends from","comes from","is derived from"]
+descends from
+comes from
+is derived from

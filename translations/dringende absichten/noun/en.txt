@@ -1,1 +1,2 @@
-["urgent intentions","pressing plans"]
+urgent intentions
+pressing plans

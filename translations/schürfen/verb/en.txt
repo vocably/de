@@ -1,1 +1,2 @@
-["mine","graze"]
+mine
+graze

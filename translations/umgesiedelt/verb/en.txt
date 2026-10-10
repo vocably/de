@@ -1,1 +1,2 @@
-["relocated","resettled"]
+relocated
+resettled

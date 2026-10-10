@@ -1,1 +1,2 @@
-["to seem like","to look like"]
+to seem like
+to look like

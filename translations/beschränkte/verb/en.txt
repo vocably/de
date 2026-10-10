@@ -1,1 +1,3 @@
-["limited","restricted","reduced"]
+limited
+restricted
+reduced

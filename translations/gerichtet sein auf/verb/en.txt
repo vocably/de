@@ -1,1 +1,2 @@
-["to be directed at","to be focused on"]
+to be directed at
+to be focused on

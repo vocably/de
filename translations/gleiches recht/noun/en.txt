@@ -1,1 +1,2 @@
-["equal rights","equal justice"]
+equal rights
+equal justice

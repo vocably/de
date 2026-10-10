@@ -1,1 +1,1 @@
-["hinges"]
+hinges

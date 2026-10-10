@@ -1,1 +1,2 @@
-["run for","stand for"]
+run for
+stand for

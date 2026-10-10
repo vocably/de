@@ -1,1 +1,2 @@
-["rejoice","delight"]
+rejoice
+delight

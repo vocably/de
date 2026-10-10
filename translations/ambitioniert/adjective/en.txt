@@ -1,1 +1,2 @@
-["ambitious","challenging"]
+ambitious
+challenging

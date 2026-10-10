@@ -1,1 +1,2 @@
-["comfortingly","consolingly"]
+comfortingly
+consolingly

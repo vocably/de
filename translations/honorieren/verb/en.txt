@@ -1,1 +1,2 @@
-["to pay","to honor"]
+to pay
+to honor

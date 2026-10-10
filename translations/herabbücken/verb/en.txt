@@ -1,1 +1,2 @@
-["to bend down","to stoop down"]
+to bend down
+to stoop down

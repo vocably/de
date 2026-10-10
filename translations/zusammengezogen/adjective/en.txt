@@ -1,1 +1,3 @@
-["contracted","compressed","cramped"]
+contracted
+compressed
+cramped

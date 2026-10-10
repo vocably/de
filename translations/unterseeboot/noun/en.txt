@@ -1,1 +1,2 @@
-["submarine","U-boat"]
+submarine
+U-boat

@@ -1,1 +1,2 @@
-["shopping behavior","buying behavior"]
+shopping behavior
+buying behavior

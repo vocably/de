@@ -1,1 +1,3 @@
-["to be very busy","to have a lot to do","to have no free time"]
+to be very busy
+to have a lot to do
+to have no free time

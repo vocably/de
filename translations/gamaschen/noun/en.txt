@@ -1,1 +1,2 @@
-["gaiters","spats"]
+gaiters
+spats

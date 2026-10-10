@@ -1,1 +1,2 @@
-["elimination","removal"]
+elimination
+removal

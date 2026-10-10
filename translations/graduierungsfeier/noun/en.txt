@@ -1,1 +1,2 @@
-["graduation ceremony","commencement"]
+graduation ceremony
+commencement

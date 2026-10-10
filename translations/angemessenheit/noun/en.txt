@@ -1,1 +1,2 @@
-["appropriateness","suitability"]
+appropriateness
+suitability

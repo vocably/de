@@ -1,1 +1,2 @@
-["shoulder area","shoulder section"]
+shoulder area
+shoulder section

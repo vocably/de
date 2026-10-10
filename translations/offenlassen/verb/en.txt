@@ -1,1 +1,2 @@
-["leave open","leave undecided"]
+leave open
+leave undecided

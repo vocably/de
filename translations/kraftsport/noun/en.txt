@@ -1,1 +1,2 @@
-["weight training","strength sport"]
+weight training
+strength sport

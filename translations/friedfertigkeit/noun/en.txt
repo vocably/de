@@ -1,1 +1,2 @@
-["peacefulness","peaceableness"]
+peacefulness
+peaceableness

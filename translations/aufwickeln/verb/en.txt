@@ -1,1 +1,2 @@
-["wind up","roll up"]
+wind up
+roll up

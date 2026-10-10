@@ -1,1 +1,3 @@
-["decaying","dilapidated","crumbling"]
+decaying
+dilapidated
+crumbling

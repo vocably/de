@@ -1,1 +1,2 @@
-["pregnancy","gravidity"]
+pregnancy
+gravidity

@@ -1,1 +1,3 @@
-["to fidget","to be antsy","to be restless"]
+to fidget
+to be antsy
+to be restless

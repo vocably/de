@@ -1,1 +1,2 @@
-["to sole","to resole"]
+to sole
+to resole

@@ -1,1 +1,2 @@
-["sooner","earlier"]
+sooner
+earlier

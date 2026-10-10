@@ -1,1 +1,2 @@
-["tipping point","transition point"]
+tipping point
+transition point

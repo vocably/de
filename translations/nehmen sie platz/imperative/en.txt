@@ -1,1 +1,2 @@
-["Have a seat","Sit down"]
+Have a seat
+Sit down

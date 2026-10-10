@@ -1,1 +1,2 @@
-["humanity","being human"]
+humanity
+being human

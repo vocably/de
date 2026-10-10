@@ -1,1 +1,3 @@
-["correspond with","be in agreement with","be related to"]
+correspond with
+be in agreement with
+be related to

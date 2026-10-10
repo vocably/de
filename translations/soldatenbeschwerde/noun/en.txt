@@ -1,1 +1,2 @@
-["soldier's complaint","military grievance"]
+soldier's complaint
+military grievance

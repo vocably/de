@@ -1,1 +1,3 @@
-["synchronized","dubbed","matched"]
+synchronized
+dubbed
+matched

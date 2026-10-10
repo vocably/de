@@ -1,1 +1,2 @@
-["stimulated","excited"]
+stimulated
+excited

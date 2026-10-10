@@ -1,1 +1,2 @@
-["university degree","college degree"]
+university degree
+college degree

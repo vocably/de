@@ -1,1 +1,2 @@
-["amicable","amicably"]
+amicable
+amicably

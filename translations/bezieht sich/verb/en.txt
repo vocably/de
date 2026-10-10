@@ -1,1 +1,3 @@
-["refers to","relates to","concerns"]
+refers to
+relates to
+concerns

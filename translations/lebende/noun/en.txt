@@ -1,1 +1,2 @@
-["living person","living being"]
+living person
+living being

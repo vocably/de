@@ -1,1 +1,2 @@
-["animal identification","animal tagging"]
+animal identification
+animal tagging

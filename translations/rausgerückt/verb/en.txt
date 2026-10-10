@@ -1,1 +1,3 @@
-["to hand over","to reveal","to move out"]
+to hand over
+to reveal
+to move out

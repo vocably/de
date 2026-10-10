@@ -1,1 +1,2 @@
-["plays","spectacles"]
+plays
+spectacles

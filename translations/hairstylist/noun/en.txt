@@ -1,1 +1,2 @@
-["hairstylist","hairdresser"]
+hairstylist
+hairdresser

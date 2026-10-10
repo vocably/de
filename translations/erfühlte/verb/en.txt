@@ -1,1 +1,3 @@
-["felt","sensed","perceived"]
+felt
+sensed
+perceived

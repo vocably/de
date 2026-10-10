@@ -1,1 +1,2 @@
-["coloring","imagining"]
+coloring
+imagining

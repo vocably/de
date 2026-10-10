@@ -1,1 +1,2 @@
-["to stoke","to fuel"]
+to stoke
+to fuel

@@ -1,1 +1,2 @@
-["read up on","look up"]
+read up on
+look up

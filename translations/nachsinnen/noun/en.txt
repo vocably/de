@@ -1,1 +1,2 @@
-["contemplation","reflection"]
+contemplation
+reflection

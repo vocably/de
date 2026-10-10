@@ -1,1 +1,2 @@
-["treatise","tract"]
+treatise
+tract

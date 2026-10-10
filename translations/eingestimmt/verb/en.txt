@@ -1,1 +1,3 @@
-["tuned","prepared","attuned"]
+tuned
+prepared
+attuned

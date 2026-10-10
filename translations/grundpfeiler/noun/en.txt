@@ -1,1 +1,2 @@
-["mainstay","pillar"]
+mainstay
+pillar

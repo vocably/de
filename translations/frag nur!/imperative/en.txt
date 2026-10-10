@@ -1,1 +1,2 @@
-["Just ask!","Go ahead and ask!"]
+Just ask!
+Go ahead and ask!

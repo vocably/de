@@ -1,1 +1,2 @@
-["social benefit","societal benefit"]
+social benefit
+societal benefit

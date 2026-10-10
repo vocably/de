@@ -1,1 +1,3 @@
-["convened","met","gathered"]
+convened
+met
+gathered

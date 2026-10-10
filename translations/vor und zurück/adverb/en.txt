@@ -1,1 +1,2 @@
-["back and forth","to and fro"]
+back and forth
+to and fro

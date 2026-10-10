@@ -1,1 +1,2 @@
-["crushing purpose","shredding purpose"]
+crushing purpose
+shredding purpose

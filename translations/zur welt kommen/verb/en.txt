@@ -1,1 +1,2 @@
-["to be born","to come into the world"]
+to be born
+to come into the world

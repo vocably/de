@@ -1,1 +1,2 @@
-["faithful","devout"]
+faithful
+devout

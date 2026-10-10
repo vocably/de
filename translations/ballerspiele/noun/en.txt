@@ -1,1 +1,2 @@
-["shooter games","first-person shooters"]
+shooter games
+first-person shooters

@@ -1,1 +1,2 @@
-["at any cost","come hell or high water"]
+at any cost
+come hell or high water

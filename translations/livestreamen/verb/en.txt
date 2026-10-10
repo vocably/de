@@ -1,1 +1,2 @@
-["livestream","stream live"]
+livestream
+stream live

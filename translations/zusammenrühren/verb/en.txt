@@ -1,1 +1,2 @@
-["to stir together","to mix together"]
+to stir together
+to mix together

@@ -1,1 +1,2 @@
-["to drool","to slobber"]
+to drool
+to slobber

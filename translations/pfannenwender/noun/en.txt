@@ -1,1 +1,2 @@
-["spatula","turner"]
+spatula
+turner

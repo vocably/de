@@ -1,1 +1,2 @@
-["swayed","fluctuated"]
+swayed
+fluctuated

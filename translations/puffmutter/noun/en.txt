@@ -1,1 +1,2 @@
-["madam","brothel keeper"]
+madam
+brothel keeper

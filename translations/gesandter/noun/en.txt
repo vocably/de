@@ -1,1 +1,2 @@
-["envoy","emissary"]
+envoy
+emissary

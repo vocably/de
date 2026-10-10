@@ -1,1 +1,2 @@
-["mind movie","head cinema"]
+mind movie
+head cinema

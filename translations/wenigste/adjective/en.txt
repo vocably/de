@@ -1,1 +1,2 @@
-["fewest","least"]
+fewest
+least

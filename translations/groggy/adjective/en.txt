@@ -1,1 +1,3 @@
-["groggy","sleepy","shaky"]
+groggy
+sleepy
+shaky

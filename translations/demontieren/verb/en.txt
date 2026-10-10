@@ -1,1 +1,3 @@
-["dismantle","disassemble","demount"]
+dismantle
+disassemble
+demount

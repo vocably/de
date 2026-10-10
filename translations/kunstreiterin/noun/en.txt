@@ -1,1 +1,2 @@
-["equestrienne","circus rider"]
+equestrienne
+circus rider

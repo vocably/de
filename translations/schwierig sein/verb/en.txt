@@ -1,1 +1,3 @@
-["be difficult","be complicated","be challenging"]
+be difficult
+be complicated
+be challenging

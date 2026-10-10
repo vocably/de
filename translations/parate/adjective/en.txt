@@ -1,1 +1,3 @@
-["ready","prepared","at hand"]
+ready
+prepared
+at hand

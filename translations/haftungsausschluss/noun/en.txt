@@ -1,1 +1,2 @@
-["disclaimer","exemption from liability"]
+disclaimer
+exemption from liability

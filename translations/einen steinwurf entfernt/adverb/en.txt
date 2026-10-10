@@ -1,1 +1,2 @@
-["a stone's throw away","a hop, skip, and a jump away"]
+a stone's throw away
+a hop, skip, and a jump away

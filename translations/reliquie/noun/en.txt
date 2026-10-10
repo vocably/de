@@ -1,1 +1,2 @@
-["relic","keepsake"]
+relic
+keepsake

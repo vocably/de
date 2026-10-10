@@ -1,1 +1,2 @@
-["elementary education","early childhood education"]
+elementary education
+early childhood education

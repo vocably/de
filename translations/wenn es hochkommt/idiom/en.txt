@@ -1,1 +1,3 @@
-["at best","at most","at a stretch"]
+at best
+at most
+at a stretch

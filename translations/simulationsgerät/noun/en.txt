@@ -1,1 +1,2 @@
-["simulator","simulation device"]
+simulator
+simulation device

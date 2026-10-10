@@ -1,1 +1,2 @@
-["fate","doom"]
+fate
+doom

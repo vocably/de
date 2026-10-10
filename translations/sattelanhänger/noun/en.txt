@@ -1,1 +1,2 @@
-["semitrailer","articulated lorry"]
+semitrailer
+articulated lorry

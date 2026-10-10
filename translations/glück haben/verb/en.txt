@@ -1,1 +1,2 @@
-["to be lucky","to have luck"]
+to be lucky
+to have luck

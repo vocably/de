@@ -1,1 +1,3 @@
-["tear apart","botch","sprain"]
+tear apart
+botch
+sprain

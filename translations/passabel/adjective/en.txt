@@ -1,1 +1,2 @@
-["acceptable","passable"]
+acceptable
+passable

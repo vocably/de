@@ -1,1 +1,2 @@
-["rurality","rusticity"]
+rurality
+rusticity

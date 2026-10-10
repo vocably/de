@@ -1,1 +1,2 @@
-["center of mass","centroid"]
+center of mass
+centroid

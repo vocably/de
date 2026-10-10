@@ -1,1 +1,2 @@
-["to blast away","to blow up"]
+to blast away
+to blow up

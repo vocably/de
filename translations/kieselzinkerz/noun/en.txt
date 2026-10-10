@@ -1,1 +1,2 @@
-["hemimorphite","calamine"]
+hemimorphite
+calamine

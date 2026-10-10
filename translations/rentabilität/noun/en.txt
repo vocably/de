@@ -1,1 +1,2 @@
-["profitability","return"]
+profitability
+return

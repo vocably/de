@@ -1,1 +1,2 @@
-["polytechnic institute","technical university"]
+polytechnic institute
+technical university

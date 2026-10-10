@@ -1,1 +1,2 @@
-["jury","panel of judges"]
+jury
+panel of judges

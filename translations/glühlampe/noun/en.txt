@@ -1,1 +1,2 @@
-["light bulb","incandescent lamp"]
+light bulb
+incandescent lamp

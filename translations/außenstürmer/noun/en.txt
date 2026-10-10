@@ -1,1 +1,2 @@
-["winger","outside forward"]
+winger
+outside forward

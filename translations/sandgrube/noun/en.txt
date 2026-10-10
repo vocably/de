@@ -1,1 +1,2 @@
-["sand pit","sand quarry"]
+sand pit
+sand quarry

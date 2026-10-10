@@ -1,1 +1,3 @@
-["stuck","stranded","rooted"]
+stuck
+stranded
+rooted

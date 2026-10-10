@@ -1,1 +1,3 @@
-["peppery","spicy","hot"]
+peppery
+spicy
+hot

@@ -1,1 +1,3 @@
-["let's leave","let's allow","let's have"]
+let's leave
+let's allow
+let's have

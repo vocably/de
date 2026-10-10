@@ -1,1 +1,2 @@
-["teacher training colleges","teacher training institutions"]
+teacher training colleges
+teacher training institutions

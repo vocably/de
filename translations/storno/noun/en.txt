@@ -1,1 +1,2 @@
-["cancellation","reversal"]
+cancellation
+reversal

@@ -1,1 +1,3 @@
-["frills","tinsel","junk"]
+frills
+tinsel
+junk

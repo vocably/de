@@ -1,1 +1,2 @@
-["birth order","sequence of births"]
+birth order
+sequence of births

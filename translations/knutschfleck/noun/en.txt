@@ -1,1 +1,2 @@
-["hickey","love bite"]
+hickey
+love bite

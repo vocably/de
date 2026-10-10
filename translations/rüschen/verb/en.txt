@@ -1,1 +1,2 @@
-["to ruffle","to frill"]
+to ruffle
+to frill

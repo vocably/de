@@ -1,1 +1,2 @@
-["forces","enforces"]
+forces
+enforces

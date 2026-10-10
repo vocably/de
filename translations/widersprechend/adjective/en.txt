@@ -1,1 +1,3 @@
-["contradictory","conflicting","dissenting"]
+contradictory
+conflicting
+dissenting

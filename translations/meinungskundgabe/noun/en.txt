@@ -1,1 +1,2 @@
-["expression of opinion","statement of opinion"]
+expression of opinion
+statement of opinion

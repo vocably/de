@@ -1,1 +1,2 @@
-["well-ordered","well-organized"]
+well-ordered
+well-organized

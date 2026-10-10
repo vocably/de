@@ -1,1 +1,2 @@
-["running shoe","trainer"]
+running shoe
+trainer

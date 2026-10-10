@@ -1,1 +1,2 @@
-["community center","parish hall"]
+community center
+parish hall

@@ -1,1 +1,3 @@
-["broke into","collapsed","broke out"]
+broke into
+collapsed
+broke out

@@ -1,1 +1,2 @@
-["holding company","parent company"]
+holding company
+parent company

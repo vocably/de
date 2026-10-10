@@ -1,1 +1,2 @@
-["open fire","fire away"]
+open fire
+fire away

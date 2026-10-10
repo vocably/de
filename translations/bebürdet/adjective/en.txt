@@ -1,1 +1,2 @@
-["burdened","laden"]
+burdened
+laden

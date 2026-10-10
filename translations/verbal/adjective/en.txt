@@ -1,1 +1,3 @@
-["verbal","oral","linguistic"]
+verbal
+oral
+linguistic

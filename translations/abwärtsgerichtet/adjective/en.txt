@@ -1,1 +1,2 @@
-["downward","downward-pointing"]
+downward
+downward-pointing

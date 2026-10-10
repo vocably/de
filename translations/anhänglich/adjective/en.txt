@@ -1,1 +1,2 @@
-["attached","affectionate"]
+attached
+affectionate

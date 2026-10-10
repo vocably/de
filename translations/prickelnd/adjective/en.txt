@@ -1,1 +1,2 @@
-["tingling","exciting"]
+tingling
+exciting

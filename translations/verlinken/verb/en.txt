@@ -1,1 +1,2 @@
-["to link","to cross-reference"]
+to link
+to cross-reference

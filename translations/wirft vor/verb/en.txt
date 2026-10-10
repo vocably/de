@@ -1,1 +1,2 @@
-["accuses","reproaches"]
+accuses
+reproaches

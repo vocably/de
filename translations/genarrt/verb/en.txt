@@ -1,1 +1,2 @@
-["fooled","tricked"]
+fooled
+tricked

@@ -1,1 +1,2 @@
-["lightning fast","in a flash"]
+lightning fast
+in a flash

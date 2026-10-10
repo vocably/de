@@ -1,1 +1,1 @@
-["discus"]
+discus

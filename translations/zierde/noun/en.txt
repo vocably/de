@@ -1,1 +1,2 @@
-["ornament","decoration"]
+ornament
+decoration

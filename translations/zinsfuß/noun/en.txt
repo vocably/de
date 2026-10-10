@@ -1,1 +1,2 @@
-["interest rate","rate of interest"]
+interest rate
+rate of interest

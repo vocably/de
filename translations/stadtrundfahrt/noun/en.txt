@@ -1,1 +1,2 @@
-["city tour","sightseeing tour"]
+city tour
+sightseeing tour

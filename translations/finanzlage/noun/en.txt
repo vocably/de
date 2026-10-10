@@ -1,1 +1,2 @@
-["financial situation","financial position"]
+financial situation
+financial position

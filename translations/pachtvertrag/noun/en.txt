@@ -1,1 +1,2 @@
-["lease agreement","tenancy agreement"]
+lease agreement
+tenancy agreement

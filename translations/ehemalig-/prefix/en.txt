@@ -1,1 +1,2 @@
-["former","erstwhile"]
+former
+erstwhile

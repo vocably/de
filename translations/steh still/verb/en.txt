@@ -1,1 +1,2 @@
-["stand still","stop moving"]
+stand still
+stop moving

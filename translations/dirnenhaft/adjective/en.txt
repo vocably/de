@@ -1,1 +1,2 @@
-["prostitute-like","harlot-like"]
+prostitute-like
+harlot-like

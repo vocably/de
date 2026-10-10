@@ -1,1 +1,2 @@
-["to cooperate","to interact"]
+to cooperate
+to interact

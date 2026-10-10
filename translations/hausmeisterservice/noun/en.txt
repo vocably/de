@@ -1,1 +1,2 @@
-["janitorial service","caretaker service"]
+janitorial service
+caretaker service

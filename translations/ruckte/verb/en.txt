@@ -1,1 +1,2 @@
-["jerked","tugged"]
+jerked
+tugged

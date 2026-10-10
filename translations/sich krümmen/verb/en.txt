@@ -1,1 +1,2 @@
-["to writhe","to bend"]
+to writhe
+to bend

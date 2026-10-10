@@ -1,1 +1,3 @@
-["dysentery","Ruhr (river)","Ruhr region"]
+dysentery
+Ruhr (river)
+Ruhr region

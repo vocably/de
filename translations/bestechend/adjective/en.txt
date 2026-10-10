@@ -1,1 +1,2 @@
-["captivating","compelling"]
+captivating
+compelling

@@ -1,1 +1,2 @@
-["more powerful","more efficient"]
+more powerful
+more efficient

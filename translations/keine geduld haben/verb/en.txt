@@ -1,1 +1,2 @@
-["to have no patience","to be impatient"]
+to have no patience
+to be impatient

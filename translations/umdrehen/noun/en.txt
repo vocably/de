@@ -1,1 +1,2 @@
-["turning around","reversal"]
+turning around
+reversal

@@ -1,1 +1,4 @@
-["appears","occurs","steps","performs"]
+appears
+occurs
+steps
+performs

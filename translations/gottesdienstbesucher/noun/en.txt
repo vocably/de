@@ -1,1 +1,2 @@
-["churchgoer","worshiper"]
+churchgoer
+worshiper

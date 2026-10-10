@@ -1,1 +1,2 @@
-["alumna","former student"]
+alumna
+former student

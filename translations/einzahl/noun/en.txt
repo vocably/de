@@ -1,1 +1,2 @@
-["singular","one"]
+singular
+one

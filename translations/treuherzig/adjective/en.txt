@@ -1,1 +1,2 @@
-["guileless","ingenuous"]
+guileless
+ingenuous

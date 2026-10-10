@@ -1,1 +1,2 @@
-["Yippee!","Hooray!"]
+Yippee!
+Hooray!

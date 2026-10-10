@@ -1,1 +1,2 @@
-["provocative","provoking"]
+provocative
+provoking

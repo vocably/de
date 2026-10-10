@@ -1,1 +1,2 @@
-["to forage","to scrounge"]
+to forage
+to scrounge

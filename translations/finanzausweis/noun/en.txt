@@ -1,1 +1,2 @@
-["financial statement","statement of accounts"]
+financial statement
+statement of accounts

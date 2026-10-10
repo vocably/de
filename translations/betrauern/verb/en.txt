@@ -1,1 +1,2 @@
-["mourn","grieve"]
+mourn
+grieve

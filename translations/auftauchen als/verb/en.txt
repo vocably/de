@@ -1,1 +1,2 @@
-["appear as","emerge as"]
+appear as
+emerge as

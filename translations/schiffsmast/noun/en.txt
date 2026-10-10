@@ -1,1 +1,2 @@
-["mast","ship's mast"]
+mast
+ship's mast

@@ -1,1 +1,2 @@
-["refutation","disproof"]
+refutation
+disproof

@@ -1,1 +1,2 @@
-["global hit","worldwide hit"]
+global hit
+worldwide hit

@@ -1,1 +1,2 @@
-["state study grant","government study grant"]
+state study grant
+government study grant

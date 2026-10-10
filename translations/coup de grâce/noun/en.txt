@@ -1,1 +1,3 @@
-["coup de grâce","deathblow","finishing blow"]
+coup de grâce
+deathblow
+finishing blow

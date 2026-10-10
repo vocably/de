@@ -1,1 +1,3 @@
-["lacking","deficient","insufficient"]
+lacking
+deficient
+insufficient

@@ -1,1 +1,2 @@
-["rearm","re-arm"]
+rearm
+re-arm

@@ -1,1 +1,3 @@
-["confidentially","in private","between ourselves"]
+confidentially
+in private
+between ourselves

@@ -1,1 +1,2 @@
-["insidious plan","devious plan"]
+insidious plan
+devious plan

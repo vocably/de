@@ -1,1 +1,2 @@
-["sports festival","sports day"]
+sports festival
+sports day

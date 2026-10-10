@@ -1,1 +1,2 @@
-["allocate","allot"]
+allocate
+allot

@@ -1,1 +1,3 @@
-["beyond","in addition to","exceeding"]
+beyond
+in addition to
+exceeding

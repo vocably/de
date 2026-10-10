@@ -1,1 +1,3 @@
-["dewy","thawing","melting"]
+dewy
+thawing
+melting

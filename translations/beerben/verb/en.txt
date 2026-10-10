@@ -1,1 +1,2 @@
-["to inherit","to succeed"]
+to inherit
+to succeed

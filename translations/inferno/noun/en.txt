@@ -1,1 +1,3 @@
-["inferno","hell","conflagration"]
+inferno
+hell
+conflagration

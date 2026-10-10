@@ -1,1 +1,2 @@
-["assassination attempt","attempted murder"]
+assassination attempt
+attempted murder

@@ -1,1 +1,2 @@
-["captain","skipper"]
+captain
+skipper

@@ -1,1 +1,2 @@
-["acted","feigned"]
+acted
+feigned

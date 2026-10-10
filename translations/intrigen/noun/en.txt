@@ -1,1 +1,2 @@
-["intrigues","plots"]
+intrigues
+plots

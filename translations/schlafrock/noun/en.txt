@@ -1,1 +1,2 @@
-["nightgown","dressing gown"]
+nightgown
+dressing gown

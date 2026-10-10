@@ -1,1 +1,2 @@
-["advantage","plus point"]
+advantage
+plus point

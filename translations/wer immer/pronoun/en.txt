@@ -1,1 +1,2 @@
-["whoever","whosoever"]
+whoever
+whosoever

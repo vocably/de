@@ -1,1 +1,3 @@
-["unobtrusive","discreet","low-key"]
+unobtrusive
+discreet
+low-key

@@ -1,1 +1,2 @@
-["haunch","hind leg"]
+haunch
+hind leg

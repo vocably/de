@@ -1,1 +1,3 @@
-["invested","put money into","spent"]
+invested
+put money into
+spent

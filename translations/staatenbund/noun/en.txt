@@ -1,1 +1,2 @@
-["confederation","union of states"]
+confederation
+union of states

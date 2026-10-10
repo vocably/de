@@ -1,1 +1,2 @@
-["broom","sweeping brush"]
+broom
+sweeping brush

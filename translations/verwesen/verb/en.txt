@@ -1,1 +1,2 @@
-["decompose","rot"]
+decompose
+rot

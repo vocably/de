@@ -1,1 +1,2 @@
-["to take","to consume"]
+to take
+to consume

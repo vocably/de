@@ -1,1 +1,1 @@
-["analgesic"]
+analgesic

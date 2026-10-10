@@ -1,1 +1,2 @@
-["job openings","vacancies"]
+job openings
+vacancies

@@ -1,1 +1,3 @@
-["flaming","blazing","fiery"]
+flaming
+blazing
+fiery

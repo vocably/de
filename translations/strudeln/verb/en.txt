@@ -1,1 +1,3 @@
-["swirl","bubble","stream"]
+swirl
+bubble
+stream

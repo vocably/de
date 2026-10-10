@@ -1,1 +1,2 @@
-["forfeited","lost"]
+forfeited
+lost

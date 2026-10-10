@@ -1,1 +1,2 @@
-["housing shortage","housing crisis"]
+housing shortage
+housing crisis

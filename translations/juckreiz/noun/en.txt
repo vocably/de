@@ -1,1 +1,2 @@
-["itch","itching"]
+itch
+itching

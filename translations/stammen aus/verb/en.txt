@@ -1,1 +1,3 @@
-["come from","originate from","descend from"]
+come from
+originate from
+descend from

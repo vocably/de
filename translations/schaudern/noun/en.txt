@@ -1,1 +1,2 @@
-["shudder","shiver"]
+shudder
+shiver

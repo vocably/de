@@ -1,1 +1,2 @@
-["halftime score","half-time result"]
+halftime score
+half-time result

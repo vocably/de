@@ -1,1 +1,2 @@
-["factual","objective"]
+factual
+objective

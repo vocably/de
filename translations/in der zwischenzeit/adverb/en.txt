@@ -1,1 +1,2 @@
-["meanwhile","in the meantime"]
+meanwhile
+in the meantime

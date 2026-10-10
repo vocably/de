@@ -1,1 +1,2 @@
-["involuntary","unintentional"]
+involuntary
+unintentional

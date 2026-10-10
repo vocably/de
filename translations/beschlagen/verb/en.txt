@@ -1,1 +1,3 @@
-["fogged up","shod","well-versed"]
+fogged up
+shod
+well-versed

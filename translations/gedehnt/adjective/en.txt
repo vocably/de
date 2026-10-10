@@ -1,1 +1,2 @@
-["drawn out","slow"]
+drawn out
+slow

@@ -1,1 +1,2 @@
-["rudder","tail fin"]
+rudder
+tail fin

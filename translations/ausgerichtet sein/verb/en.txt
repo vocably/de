@@ -1,1 +1,3 @@
-["to be aligned","to be geared","to be focused"]
+to be aligned
+to be geared
+to be focused

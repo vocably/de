@@ -1,1 +1,2 @@
-["energetic","dynamic"]
+energetic
+dynamic

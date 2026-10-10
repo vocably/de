@@ -1,1 +1,2 @@
-["flushes","rushes of blood"]
+flushes
+rushes of blood

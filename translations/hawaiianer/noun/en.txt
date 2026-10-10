@@ -1,1 +1,2 @@
-["Hawaiian","native Hawaiian"]
+Hawaiian
+native Hawaiian

@@ -1,1 +1,2 @@
-["defiantly","sulkily"]
+defiantly
+sulkily

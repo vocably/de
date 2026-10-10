@@ -1,1 +1,2 @@
-["bedroom","bedchamber"]
+bedroom
+bedchamber

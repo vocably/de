@@ -1,1 +1,2 @@
-["Go ahead","By all means"]
+Go ahead
+By all means

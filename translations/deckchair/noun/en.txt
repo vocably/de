@@ -1,1 +1,2 @@
-["deckchair","lounge chair"]
+deckchair
+lounge chair

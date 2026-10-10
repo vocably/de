@@ -1,1 +1,2 @@
-["declines","decreases"]
+declines
+decreases

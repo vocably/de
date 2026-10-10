@@ -1,1 +1,2 @@
-["kills","murders"]
+kills
+murders

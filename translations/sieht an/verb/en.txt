@@ -1,1 +1,3 @@
-["looks at","views","examines"]
+looks at
+views
+examines

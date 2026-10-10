@@ -1,1 +1,2 @@
-["I agree.","I'm in."]
+I agree.
+I'm in.

@@ -1,1 +1,2 @@
-["to gulp down","to wolf down"]
+to gulp down
+to wolf down

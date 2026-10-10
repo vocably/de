@@ -1,1 +1,2 @@
-["conciliatory","placatory"]
+conciliatory
+placatory

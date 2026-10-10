@@ -1,1 +1,3 @@
-["far-reaching","incisive","intervening"]
+far-reaching
+incisive
+intervening

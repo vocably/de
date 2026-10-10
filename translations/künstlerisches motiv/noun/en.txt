@@ -1,1 +1,2 @@
-["artistic motif","artistic theme"]
+artistic motif
+artistic theme

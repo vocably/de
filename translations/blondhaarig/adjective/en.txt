@@ -1,1 +1,2 @@
-["blond-haired","fair-haired"]
+blond-haired
+fair-haired

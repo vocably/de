@@ -1,1 +1,2 @@
-["lyric poet","lyricist"]
+lyric poet
+lyricist

@@ -1,1 +1,2 @@
-["familiarity","intimacy"]
+familiarity
+intimacy

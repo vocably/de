@@ -1,1 +1,2 @@
-["Of course!","Naturally!"]
+Of course!
+Naturally!

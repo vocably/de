@@ -1,1 +1,2 @@
-["Shoot!","Go ahead!"]
+Shoot!
+Go ahead!

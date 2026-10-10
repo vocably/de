@@ -1,1 +1,2 @@
-["bred","cultivated"]
+bred
+cultivated

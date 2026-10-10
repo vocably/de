@@ -1,1 +1,2 @@
-["freedom of movement","liberty of movement"]
+freedom of movement
+liberty of movement

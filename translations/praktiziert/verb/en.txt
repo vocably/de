@@ -1,1 +1,2 @@
-["practiced","exercised"]
+practiced
+exercised

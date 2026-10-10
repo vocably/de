@@ -1,1 +1,2 @@
-["organized sports","structured sports"]
+organized sports
+structured sports

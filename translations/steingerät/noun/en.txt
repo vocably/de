@@ -1,1 +1,2 @@
-["stone tool","stone implement"]
+stone tool
+stone implement

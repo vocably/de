@@ -1,1 +1,2 @@
-["unlike","contrary to"]
+unlike
+contrary to

@@ -1,1 +1,2 @@
-["cosmopolitan city","global city"]
+cosmopolitan city
+global city

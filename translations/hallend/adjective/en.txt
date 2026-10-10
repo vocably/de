@@ -1,1 +1,2 @@
-["reverberant","echoing"]
+reverberant
+echoing

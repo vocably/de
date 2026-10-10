@@ -1,1 +1,2 @@
-["similar thing","something similar"]
+similar thing
+something similar

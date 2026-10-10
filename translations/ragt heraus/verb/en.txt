@@ -1,1 +1,3 @@
-["stands out","protrudes","juts out"]
+stands out
+protrudes
+juts out

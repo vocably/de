@@ -1,1 +1,4 @@
-["get going","get into gear","get into full swing","get into one's stride"]
+get going
+get into gear
+get into full swing
+get into one's stride

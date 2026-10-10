@@ -1,1 +1,3 @@
-["enacts","issues","releases"]
+enacts
+issues
+releases

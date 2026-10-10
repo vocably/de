@@ -1,1 +1,3 @@
-["reproduction","copy","playback"]
+reproduction
+copy
+playback

@@ -1,1 +1,2 @@
-["hosts","is hosting"]
+hosts
+is hosting

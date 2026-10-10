@@ -1,1 +1,2 @@
-["simplification","streamlining"]
+simplification
+streamlining

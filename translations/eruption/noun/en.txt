@@ -1,1 +1,2 @@
-["eruption","outbreak"]
+eruption
+outbreak

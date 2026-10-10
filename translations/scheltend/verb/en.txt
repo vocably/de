@@ -1,1 +1,3 @@
-["reproachful","reproving","scolding"]
+reproachful
+reproving
+scolding

@@ -1,1 +1,2 @@
-["public good","common good"]
+public good
+common good

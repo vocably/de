@@ -1,1 +1,3 @@
-["to deworm","to be worm-infested","to torment"]
+to deworm
+to be worm-infested
+to torment

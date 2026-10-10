@@ -1,1 +1,2 @@
-["collective term","umbrella term"]
+collective term
+umbrella term

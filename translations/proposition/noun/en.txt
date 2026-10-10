@@ -1,1 +1,2 @@
-["proposition","proposal"]
+proposition
+proposal

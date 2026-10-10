@@ -1,1 +1,2 @@
-["warded off","fended off"]
+warded off
+fended off

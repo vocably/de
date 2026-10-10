@@ -1,1 +1,2 @@
-["likes","thumbs-up"]
+likes
+thumbs-up

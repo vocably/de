@@ -1,1 +1,2 @@
-["defender","advocate"]
+defender
+advocate

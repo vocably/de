@@ -1,1 +1,3 @@
-["secondhand","indirectly","used"]
+secondhand
+indirectly
+used

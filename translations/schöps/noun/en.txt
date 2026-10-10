@@ -1,1 +1,2 @@
-["wether","simpleton"]
+wether
+simpleton

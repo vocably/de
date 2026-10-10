@@ -1,1 +1,2 @@
-["to be close friends","to be good friends"]
+to be close friends
+to be good friends

@@ -1,1 +1,2 @@
-["nightcap","bedtime drink"]
+nightcap
+bedtime drink

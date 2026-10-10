@@ -1,1 +1,2 @@
-["old wives' tale","superstition"]
+old wives' tale
+superstition

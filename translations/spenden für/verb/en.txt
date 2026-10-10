@@ -1,1 +1,2 @@
-["donate to","contribute to"]
+donate to
+contribute to

@@ -1,1 +1,2 @@
-["business magnate","tycoon"]
+business magnate
+tycoon

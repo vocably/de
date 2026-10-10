@@ -1,1 +1,2 @@
-["stubbornness","obstinacy"]
+stubbornness
+obstinacy

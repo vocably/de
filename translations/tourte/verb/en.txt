@@ -1,1 +1,2 @@
-["toured","traveled around"]
+toured
+traveled around

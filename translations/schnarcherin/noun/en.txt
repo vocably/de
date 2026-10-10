@@ -1,1 +1,1 @@
-["snorer"]
+snorer

@@ -1,1 +1,2 @@
-["coughed up","coughed out"]
+coughed up
+coughed out

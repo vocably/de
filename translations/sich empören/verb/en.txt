@@ -1,1 +1,2 @@
-["to be indignant","to be outraged"]
+to be indignant
+to be outraged

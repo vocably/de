@@ -1,1 +1,3 @@
-["whereupon","whereat","after which"]
+whereupon
+whereat
+after which

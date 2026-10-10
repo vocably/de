@@ -1,1 +1,2 @@
-["enchanted","charmed"]
+enchanted
+charmed

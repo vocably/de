@@ -1,1 +1,2 @@
-["grievance","malpractice"]
+grievance
+malpractice

@@ -1,1 +1,2 @@
-["interstitial","interstitial ad"]
+interstitial
+interstitial ad

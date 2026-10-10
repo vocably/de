@@ -1,1 +1,3 @@
-["broods","incubates","hatches"]
+broods
+incubates
+hatches

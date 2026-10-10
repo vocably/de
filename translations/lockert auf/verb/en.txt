@@ -1,1 +1,3 @@
-["loosen up","relax","brighten up"]
+loosen up
+relax
+brighten up

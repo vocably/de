@@ -1,1 +1,2 @@
-["to be snowed in","to be snowbound"]
+to be snowed in
+to be snowbound

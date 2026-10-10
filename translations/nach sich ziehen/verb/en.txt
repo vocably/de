@@ -1,1 +1,3 @@
-["to entail","to result in","to lead to"]
+to entail
+to result in
+to lead to

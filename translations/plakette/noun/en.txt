@@ -1,1 +1,2 @@
-["plaque","badge"]
+plaque
+badge

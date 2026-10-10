@@ -1,1 +1,2 @@
-["regain","recover"]
+regain
+recover

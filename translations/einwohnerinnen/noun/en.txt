@@ -1,1 +1,2 @@
-["residents","inhabitants"]
+residents
+inhabitants

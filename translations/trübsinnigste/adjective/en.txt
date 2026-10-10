@@ -1,1 +1,2 @@
-["gloomiest","saddest"]
+gloomiest
+saddest

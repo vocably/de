@@ -1,1 +1,3 @@
-["readings","lectures","recitals"]
+readings
+lectures
+recitals

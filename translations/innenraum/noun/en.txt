@@ -1,1 +1,2 @@
-["interior","inside"]
+interior
+inside

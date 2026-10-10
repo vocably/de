@@ -1,1 +1,2 @@
-["tourist information center","visitor center"]
+tourist information center
+visitor center

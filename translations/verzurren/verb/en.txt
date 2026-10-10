@@ -1,1 +1,2 @@
-["to lash","to strap down"]
+to lash
+to strap down

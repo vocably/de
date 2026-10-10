@@ -1,1 +1,2 @@
-["spit out","expectorate"]
+spit out
+expectorate

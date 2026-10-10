@@ -1,1 +1,2 @@
-["suspension","springing"]
+suspension
+springing

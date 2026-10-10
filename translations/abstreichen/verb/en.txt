@@ -1,1 +1,3 @@
-["to scrape off","to cross off","to write off"]
+to scrape off
+to cross off
+to write off

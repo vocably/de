@@ -1,1 +1,2 @@
-["peppermint candy","peppermint"]
+peppermint candy
+peppermint

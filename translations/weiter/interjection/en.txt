@@ -1,1 +1,2 @@
-["Go on","Keep going"]
+Go on
+Keep going

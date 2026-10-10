@@ -1,1 +1,2 @@
-["total","sum total"]
+total
+sum total

@@ -1,1 +1,2 @@
-["divide","share"]
+divide
+share

@@ -1,1 +1,2 @@
-["art education","art pedagogy"]
+art education
+art pedagogy

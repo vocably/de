@@ -1,1 +1,2 @@
-["areas of responsibility","responsibilities"]
+areas of responsibility
+responsibilities

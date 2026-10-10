@@ -1,1 +1,2 @@
-["Good day!","Hello!"]
+Good day!
+Hello!

@@ -1,1 +1,2 @@
-["something of the sort","something like that"]
+something of the sort
+something like that

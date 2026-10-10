@@ -1,1 +1,3 @@
-["satisfies","pleases","meets"]
+satisfies
+pleases
+meets

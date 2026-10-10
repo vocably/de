@@ -1,1 +1,2 @@
-["cigarette break","smoke break"]
+cigarette break
+smoke break

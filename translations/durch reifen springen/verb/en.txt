@@ -1,1 +1,2 @@
-["jump through hoops","jump through a tire"]
+jump through hoops
+jump through a tire

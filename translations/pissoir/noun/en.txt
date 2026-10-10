@@ -1,1 +1,2 @@
-["urinal","pissoir"]
+urinal
+pissoir

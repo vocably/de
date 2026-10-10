@@ -1,1 +1,2 @@
-["tent peg","tent stake"]
+tent peg
+tent stake

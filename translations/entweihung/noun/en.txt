@@ -1,1 +1,2 @@
-["desecration","profanation"]
+desecration
+profanation

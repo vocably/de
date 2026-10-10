@@ -1,1 +1,2 @@
-["urgent goal","pressing objective"]
+urgent goal
+pressing objective

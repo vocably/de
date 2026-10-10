@@ -1,1 +1,2 @@
-["weight room","strength room"]
+weight room
+strength room

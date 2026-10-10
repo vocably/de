@@ -1,1 +1,2 @@
-["lock away","lock up"]
+lock away
+lock up

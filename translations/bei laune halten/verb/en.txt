@@ -1,1 +1,2 @@
-["to keep in a good mood","to entertain"]
+to keep in a good mood
+to entertain

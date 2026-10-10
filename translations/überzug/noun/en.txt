@@ -1,1 +1,2 @@
-["coating","cover"]
+coating
+cover

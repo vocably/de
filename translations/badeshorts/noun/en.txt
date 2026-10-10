@@ -1,1 +1,2 @@
-["swim trunks","swimming shorts"]
+swim trunks
+swimming shorts

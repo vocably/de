@@ -1,1 +1,2 @@
-["early shifts","morning shifts"]
+early shifts
+morning shifts

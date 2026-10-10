@@ -1,1 +1,2 @@
-["individual","person"]
+individual
+person

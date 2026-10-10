@@ -1,1 +1,2 @@
-["costal arch","rib cage"]
+costal arch
+rib cage

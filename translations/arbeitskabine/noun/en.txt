@@ -1,1 +1,2 @@
-["workstation","cubicle"]
+workstation
+cubicle

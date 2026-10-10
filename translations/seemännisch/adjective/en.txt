@@ -1,1 +1,2 @@
-["nautical","seamanlike"]
+nautical
+seamanlike

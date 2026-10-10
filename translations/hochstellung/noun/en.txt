@@ -1,1 +1,2 @@
-["raised position","superscript"]
+raised position
+superscript

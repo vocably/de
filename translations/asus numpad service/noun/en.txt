@@ -1,1 +1,1 @@
-["Asus Numpad Service"]
+Asus Numpad Service

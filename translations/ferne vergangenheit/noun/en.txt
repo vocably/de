@@ -1,1 +1,2 @@
-["distant past","remote past"]
+distant past
+remote past

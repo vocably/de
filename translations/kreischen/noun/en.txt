@@ -1,1 +1,2 @@
-["screech","shriek"]
+screech
+shriek

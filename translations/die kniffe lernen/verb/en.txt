@@ -1,1 +1,2 @@
-["learn the ropes","learn the tricks"]
+learn the ropes
+learn the tricks

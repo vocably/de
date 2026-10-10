@@ -1,1 +1,2 @@
-["suspension","postponement"]
+suspension
+postponement

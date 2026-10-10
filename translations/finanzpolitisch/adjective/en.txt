@@ -1,1 +1,2 @@
-["fiscal","financially political"]
+fiscal
+financially political

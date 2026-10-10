@@ -1,1 +1,3 @@
-["doubt","concern","scruple"]
+doubt
+concern
+scruple

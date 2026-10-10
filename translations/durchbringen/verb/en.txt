@@ -1,1 +1,3 @@
-["pull through","get through","bring through"]
+pull through
+get through
+bring through

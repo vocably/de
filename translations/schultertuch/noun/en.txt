@@ -1,1 +1,2 @@
-["shawl","scarf"]
+shawl
+scarf

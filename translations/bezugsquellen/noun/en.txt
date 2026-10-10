@@ -1,1 +1,2 @@
-["sources","suppliers"]
+sources
+suppliers

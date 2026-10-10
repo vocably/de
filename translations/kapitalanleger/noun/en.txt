@@ -1,1 +1,2 @@
-["investor","capital investor"]
+investor
+capital investor

@@ -1,1 +1,2 @@
-["community vote","community voting"]
+community vote
+community voting

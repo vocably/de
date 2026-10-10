@@ -1,1 +1,2 @@
-["more often","frequently"]
+more often
+frequently

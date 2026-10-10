@@ -1,1 +1,2 @@
-["to love","to be fond of"]
+to love
+to be fond of

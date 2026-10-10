@@ -1,1 +1,2 @@
-["funds","financial resources"]
+funds
+financial resources

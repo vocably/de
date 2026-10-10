@@ -1,1 +1,2 @@
-["unarmed","weaponless"]
+unarmed
+weaponless

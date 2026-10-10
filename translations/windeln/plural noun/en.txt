@@ -1,1 +1,2 @@
-["diapers","nappies"]
+diapers
+nappies

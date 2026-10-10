@@ -1,1 +1,2 @@
-["stats","attributes"]
+stats
+attributes

@@ -1,1 +1,2 @@
-["filing a lawsuit","filing a complaint"]
+filing a lawsuit
+filing a complaint

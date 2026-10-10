@@ -1,1 +1,2 @@
-["drawing class","art class"]
+drawing class
+art class

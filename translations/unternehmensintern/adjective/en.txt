@@ -1,1 +1,2 @@
-["in-company","internal"]
+in-company
+internal

@@ -1,1 +1,2 @@
-["digestive tract","alimentary canal"]
+digestive tract
+alimentary canal

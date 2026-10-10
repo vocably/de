@@ -1,1 +1,2 @@
-["imagined","fancied"]
+imagined
+fancied

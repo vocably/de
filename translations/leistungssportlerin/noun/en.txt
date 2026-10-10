@@ -1,1 +1,2 @@
-["competitive athlete","professional athlete"]
+competitive athlete
+professional athlete

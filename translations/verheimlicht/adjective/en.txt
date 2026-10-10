@@ -1,1 +1,2 @@
-["secret","hidden"]
+secret
+hidden

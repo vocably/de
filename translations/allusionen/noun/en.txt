@@ -1,1 +1,2 @@
-["allusions","references"]
+allusions
+references

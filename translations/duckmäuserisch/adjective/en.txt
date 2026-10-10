@@ -1,1 +1,2 @@
-["submissive","cowardly"]
+submissive
+cowardly

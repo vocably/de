@@ -1,1 +1,2 @@
-["handling","operating"]
+handling
+operating

@@ -1,1 +1,2 @@
-["proof","galley proof"]
+proof
+galley proof

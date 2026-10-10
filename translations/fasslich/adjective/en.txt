@@ -1,1 +1,3 @@
-["comprehensible","understandable","intelligible"]
+comprehensible
+understandable
+intelligible

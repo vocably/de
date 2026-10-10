@@ -1,1 +1,3 @@
-["starts playing","hits","opens"]
+starts playing
+hits
+opens

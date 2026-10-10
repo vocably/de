@@ -1,1 +1,2 @@
-["identify oneself","show ID"]
+identify oneself
+show ID

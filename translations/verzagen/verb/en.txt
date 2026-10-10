@@ -1,1 +1,2 @@
-["despair","lose heart"]
+despair
+lose heart

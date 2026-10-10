@@ -1,1 +1,2 @@
-["Feb.","Feb"]
+Feb.
+Feb

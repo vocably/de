@@ -1,1 +1,3 @@
-["to knot","to tie in a knot","to tangle"]
+to knot
+to tie in a knot
+to tangle

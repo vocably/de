@@ -1,1 +1,2 @@
-["skilled worker's wage","journeyman's wage"]
+skilled worker's wage
+journeyman's wage

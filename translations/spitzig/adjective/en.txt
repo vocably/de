@@ -1,1 +1,3 @@
-["pointy","sharp","witty"]
+pointy
+sharp
+witty

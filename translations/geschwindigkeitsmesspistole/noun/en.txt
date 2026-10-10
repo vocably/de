@@ -1,1 +1,2 @@
-["radar gun","speed gun"]
+radar gun
+speed gun

@@ -1,1 +1,2 @@
-["offset","counterbalance"]
+offset
+counterbalance

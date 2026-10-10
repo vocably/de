@@ -1,1 +1,2 @@
-["wildlife park","game park"]
+wildlife park
+game park

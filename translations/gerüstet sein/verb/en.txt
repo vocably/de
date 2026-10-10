@@ -1,1 +1,2 @@
-["to be prepared","to be equipped"]
+to be prepared
+to be equipped

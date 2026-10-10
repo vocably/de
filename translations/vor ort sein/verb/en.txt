@@ -1,1 +1,2 @@
-["to be on site","to be present"]
+to be on site
+to be present

@@ -1,1 +1,3 @@
-["obtain information","gather information","get information"]
+obtain information
+gather information
+get information

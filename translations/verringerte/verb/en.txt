@@ -1,1 +1,3 @@
-["reduced","decreased","lessened"]
+reduced
+decreased
+lessened

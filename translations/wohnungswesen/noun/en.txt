@@ -1,1 +1,2 @@
-["housing","housing industry"]
+housing
+housing industry

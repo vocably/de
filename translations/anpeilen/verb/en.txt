@@ -1,1 +1,2 @@
-["to head for","to aim for"]
+to head for
+to aim for

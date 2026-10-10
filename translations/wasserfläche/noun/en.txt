@@ -1,1 +1,2 @@
-["water surface","expanse of water"]
+water surface
+expanse of water

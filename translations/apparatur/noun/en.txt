@@ -1,1 +1,2 @@
-["apparatus","equipment"]
+apparatus
+equipment

@@ -1,1 +1,2 @@
-["as possible","as soon as possible"]
+as possible
+as soon as possible

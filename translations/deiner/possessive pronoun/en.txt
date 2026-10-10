@@ -1,1 +1,3 @@
-["yours","of you","of yours"]
+yours
+of you
+of yours

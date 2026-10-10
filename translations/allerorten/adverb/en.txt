@@ -1,1 +1,2 @@
-["everywhere","in all places"]
+everywhere
+in all places

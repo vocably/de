@@ -1,1 +1,2 @@
-["range hood","extractor hood"]
+range hood
+extractor hood

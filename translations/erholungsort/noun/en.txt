@@ -1,1 +1,2 @@
-["resort","recreation area"]
+resort
+recreation area

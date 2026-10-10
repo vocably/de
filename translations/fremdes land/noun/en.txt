@@ -1,1 +1,2 @@
-["foreign country","strange land"]
+foreign country
+strange land

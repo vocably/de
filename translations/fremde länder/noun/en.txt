@@ -1,1 +1,2 @@
-["foreign countries","other countries"]
+foreign countries
+other countries

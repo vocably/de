@@ -1,1 +1,2 @@
-["presuppose","assume"]
+presuppose
+assume

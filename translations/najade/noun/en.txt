@@ -1,1 +1,2 @@
-["naiad","freshwater polyp"]
+naiad
+freshwater polyp

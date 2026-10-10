@@ -1,1 +1,3 @@
-["bend","flexion","fold"]
+bend
+flexion
+fold

@@ -1,1 +1,3 @@
-["asserts","claims","enforces"]
+asserts
+claims
+enforces

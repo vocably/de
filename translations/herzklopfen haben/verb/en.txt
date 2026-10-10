@@ -1,1 +1,3 @@
-["to have heart palpitations","to have a pounding heart","to feel one's heart pound"]
+to have heart palpitations
+to have a pounding heart
+to feel one's heart pound

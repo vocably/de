@@ -1,1 +1,2 @@
-["to border","to adjoin"]
+to border
+to adjoin

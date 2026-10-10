@@ -1,1 +1,2 @@
-["umbrella term","hypernym"]
+umbrella term
+hypernym

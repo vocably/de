@@ -1,1 +1,2 @@
-["fictional","fictive"]
+fictional
+fictive

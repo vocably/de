@@ -1,1 +1,2 @@
-["landmark","point of reference"]
+landmark
+point of reference

@@ -1,1 +1,2 @@
-["accuse","charge"]
+accuse
+charge

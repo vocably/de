@@ -1,1 +1,2 @@
-["conditional","conditional mood"]
+conditional
+conditional mood

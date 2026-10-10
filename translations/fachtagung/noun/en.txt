@@ -1,1 +1,2 @@
-["conference","symposium"]
+conference
+symposium

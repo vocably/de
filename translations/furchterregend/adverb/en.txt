@@ -1,1 +1,2 @@
-["frighteningly","terrifyingly"]
+frighteningly
+terrifyingly

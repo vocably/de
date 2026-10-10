@@ -1,1 +1,2 @@
-["queen bee","queen"]
+queen bee
+queen

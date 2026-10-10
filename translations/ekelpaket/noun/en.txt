@@ -1,1 +1,2 @@
-["creep","disgusting person"]
+creep
+disgusting person

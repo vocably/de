@@ -1,1 +1,3 @@
-["to be preserved","to be conserved","to be canned"]
+to be preserved
+to be conserved
+to be canned

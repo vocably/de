@@ -1,1 +1,2 @@
-["wether","castrated ram"]
+wether
+castrated ram

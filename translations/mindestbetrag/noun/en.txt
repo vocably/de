@@ -1,1 +1,2 @@
-["minimum amount","minimum"]
+minimum amount
+minimum

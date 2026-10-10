@@ -1,1 +1,2 @@
-["backcourt player","back player"]
+backcourt player
+back player

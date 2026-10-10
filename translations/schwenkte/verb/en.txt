@@ -1,1 +1,3 @@
-["swung","pivoted","veered"]
+swung
+pivoted
+veered

@@ -1,1 +1,2 @@
-["influencer","opinion leader"]
+influencer
+opinion leader

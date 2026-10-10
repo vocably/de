@@ -1,1 +1,2 @@
-["battery status report","battery report"]
+battery status report
+battery report

@@ -1,1 +1,2 @@
-["permanently","constantly"]
+permanently
+constantly

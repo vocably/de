@@ -1,1 +1,2 @@
-["carbonation","carbon dioxide content"]
+carbonation
+carbon dioxide content

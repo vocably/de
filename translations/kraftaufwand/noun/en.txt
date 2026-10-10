@@ -1,1 +1,2 @@
-["effort","exertion"]
+effort
+exertion

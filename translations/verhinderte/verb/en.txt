@@ -1,1 +1,2 @@
-["prevented","hindered"]
+prevented
+hindered

@@ -1,1 +1,2 @@
-["transition phase","transitional phase"]
+transition phase
+transitional phase

@@ -1,1 +1,3 @@
-["continuously","incessantly","uninterruptedly"]
+continuously
+incessantly
+uninterruptedly

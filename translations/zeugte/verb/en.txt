@@ -1,1 +1,2 @@
-["begot","testified"]
+begot
+testified

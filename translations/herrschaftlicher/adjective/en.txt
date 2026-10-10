@@ -1,1 +1,2 @@
-["more stately","more lordly"]
+more stately
+more lordly

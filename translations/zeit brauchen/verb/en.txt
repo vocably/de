@@ -1,1 +1,2 @@
-["to take time","to need time"]
+to take time
+to need time

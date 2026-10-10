@@ -1,1 +1,2 @@
-["snake venom","serpent venom"]
+snake venom
+serpent venom

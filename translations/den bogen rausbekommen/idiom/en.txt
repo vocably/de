@@ -1,1 +1,3 @@
-["to get the hang of it","to get the knack of it","to learn the ropes"]
+to get the hang of it
+to get the knack of it
+to learn the ropes

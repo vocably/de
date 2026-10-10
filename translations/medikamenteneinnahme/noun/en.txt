@@ -1,1 +1,2 @@
-["medication intake","taking medication"]
+medication intake
+taking medication

@@ -1,1 +1,4 @@
-["puts on","starts","uses","installs"]
+puts on
+starts
+uses
+installs

@@ -1,1 +1,3 @@
-["dawn","grow dim","begin to understand"]
+dawn
+grow dim
+begin to understand

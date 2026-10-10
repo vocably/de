@@ -1,1 +1,2 @@
-["forage","search for food"]
+forage
+search for food

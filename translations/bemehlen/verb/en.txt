@@ -1,1 +1,2 @@
-["to flour","to dust with flour"]
+to flour
+to dust with flour

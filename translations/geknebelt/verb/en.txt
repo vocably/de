@@ -1,1 +1,3 @@
-["gagged","muzzled","fettered"]
+gagged
+muzzled
+fettered

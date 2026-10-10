@@ -1,1 +1,2 @@
-["error point","penalty point"]
+error point
+penalty point

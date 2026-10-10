@@ -1,1 +1,2 @@
-["implicit","implied"]
+implicit
+implied

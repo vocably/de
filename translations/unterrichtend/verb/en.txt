@@ -1,1 +1,3 @@
-["teaching","instructing","educating"]
+teaching
+instructing
+educating

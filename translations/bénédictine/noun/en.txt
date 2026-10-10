@@ -1,1 +1,2 @@
-["Bénédictine","Benedictine nun"]
+Bénédictine
+Benedictine nun

@@ -1,1 +1,2 @@
-["disloyal","untrue"]
+disloyal
+untrue

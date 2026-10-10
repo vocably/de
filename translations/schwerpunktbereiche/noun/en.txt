@@ -1,1 +1,2 @@
-["priority areas","key areas"]
+priority areas
+key areas

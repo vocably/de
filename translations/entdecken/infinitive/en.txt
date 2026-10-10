@@ -1,1 +1,3 @@
-["discover","detect","uncover"]
+discover
+detect
+uncover

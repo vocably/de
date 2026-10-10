@@ -1,1 +1,3 @@
-["drifted away","deviated","lapsed"]
+drifted away
+deviated
+lapsed

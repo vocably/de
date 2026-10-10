@@ -1,1 +1,2 @@
-["bequeath","will"]
+bequeath
+will

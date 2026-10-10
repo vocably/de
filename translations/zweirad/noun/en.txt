@@ -1,1 +1,2 @@
-["two-wheeler","bicycle"]
+two-wheeler
+bicycle

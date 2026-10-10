@@ -1,1 +1,2 @@
-["disadvantaged","underprivileged"]
+disadvantaged
+underprivileged

@@ -1,1 +1,3 @@
-["come into view","appear","become clear"]
+come into view
+appear
+become clear

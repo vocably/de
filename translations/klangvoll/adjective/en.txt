@@ -1,1 +1,2 @@
-["sonorous","resonant"]
+sonorous
+resonant

@@ -1,1 +1,2 @@
-["mortar","howitzer"]
+mortar
+howitzer

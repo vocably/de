@@ -1,1 +1,3 @@
-["Black woman","black coffee","black person"]
+Black woman
+black coffee
+black person

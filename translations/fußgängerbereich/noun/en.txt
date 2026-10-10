@@ -1,1 +1,2 @@
-["pedestrian zone","pedestrian area"]
+pedestrian zone
+pedestrian area

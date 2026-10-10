@@ -1,1 +1,3 @@
-["cancel","earn","haul in"]
+cancel
+earn
+haul in

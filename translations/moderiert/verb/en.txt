@@ -1,1 +1,2 @@
-["moderates","has moderated"]
+moderates
+has moderated

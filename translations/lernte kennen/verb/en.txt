@@ -1,1 +1,2 @@
-["met","got to know"]
+met
+got to know

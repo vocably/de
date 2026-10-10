@@ -1,1 +1,2 @@
-["means of transport","mode of transport"]
+means of transport
+mode of transport

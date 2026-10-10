@@ -1,1 +1,2 @@
-["palatine tonsils","tonsils"]
+palatine tonsils
+tonsils

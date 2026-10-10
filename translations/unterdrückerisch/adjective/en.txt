@@ -1,1 +1,2 @@
-["oppressive","repressive"]
+oppressive
+repressive

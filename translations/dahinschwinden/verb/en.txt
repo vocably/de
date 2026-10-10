@@ -1,1 +1,2 @@
-["fade away","dwindle"]
+fade away
+dwindle

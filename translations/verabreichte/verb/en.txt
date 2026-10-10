@@ -1,1 +1,2 @@
-["administered","gave"]
+administered
+gave

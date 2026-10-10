@@ -1,1 +1,2 @@
-["excavation","dig"]
+excavation
+dig

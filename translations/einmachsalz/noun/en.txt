@@ -1,1 +1,2 @@
-["pickling salt","canning salt"]
+pickling salt
+canning salt

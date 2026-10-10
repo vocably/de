@@ -1,1 +1,2 @@
-["get along with","manage with"]
+get along with
+manage with

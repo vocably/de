@@ -1,1 +1,2 @@
-["disparagingly","deprecatingly"]
+disparagingly
+deprecatingly

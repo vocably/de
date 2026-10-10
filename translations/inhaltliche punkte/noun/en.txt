@@ -1,1 +1,2 @@
-["substantive points","content-related issues"]
+substantive points
+content-related issues

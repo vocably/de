@@ -1,1 +1,2 @@
-["quenching","deterrence"]
+quenching
+deterrence

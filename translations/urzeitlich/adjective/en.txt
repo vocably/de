@@ -1,1 +1,2 @@
-["prehistoric","primeval"]
+prehistoric
+primeval

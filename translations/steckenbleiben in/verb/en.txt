@@ -1,1 +1,3 @@
-["get stuck in","bog down in","be stalled in"]
+get stuck in
+bog down in
+be stalled in

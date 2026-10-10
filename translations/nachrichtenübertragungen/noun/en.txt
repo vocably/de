@@ -1,1 +1,2 @@
-["news broadcasts","news transmissions"]
+news broadcasts
+news transmissions

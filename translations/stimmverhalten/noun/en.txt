@@ -1,1 +1,2 @@
-["voting behavior","vocal behavior"]
+voting behavior
+vocal behavior

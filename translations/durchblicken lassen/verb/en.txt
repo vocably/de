@@ -1,1 +1,2 @@
-["to hint","to imply"]
+to hint
+to imply

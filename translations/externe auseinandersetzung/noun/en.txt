@@ -1,1 +1,2 @@
-["external dispute","external debate"]
+external dispute
+external debate

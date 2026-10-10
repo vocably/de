@@ -1,1 +1,2 @@
-["equates","sets equal"]
+equates
+sets equal

@@ -1,1 +1,2 @@
-["police officer","member of the police force"]
+police officer
+member of the police force

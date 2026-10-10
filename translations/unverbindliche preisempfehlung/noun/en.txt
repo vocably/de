@@ -1,1 +1,2 @@
-["suggested retail price","recommended retail price"]
+suggested retail price
+recommended retail price

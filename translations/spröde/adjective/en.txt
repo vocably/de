@@ -1,1 +1,3 @@
-["brittle","dry","aloof"]
+brittle
+dry
+aloof

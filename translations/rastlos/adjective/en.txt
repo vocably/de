@@ -1,1 +1,2 @@
-["restless","unquiet"]
+restless
+unquiet

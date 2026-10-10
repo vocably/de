@@ -1,1 +1,2 @@
-["gnaw","chew"]
+gnaw
+chew

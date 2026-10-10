@@ -1,1 +1,2 @@
-["reprehensible","condemnable"]
+reprehensible
+condemnable

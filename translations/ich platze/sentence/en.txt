@@ -1,1 +1,3 @@
-["I'm stuffed.","I'm about to explode.","I'm bursting with curiosity."]
+I'm stuffed.
+I'm about to explode.
+I'm bursting with curiosity.

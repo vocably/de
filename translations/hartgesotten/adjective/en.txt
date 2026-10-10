@@ -1,1 +1,2 @@
-["hardened","tough"]
+hardened
+tough

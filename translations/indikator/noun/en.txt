@@ -1,1 +1,2 @@
-["indicator","gauge"]
+indicator
+gauge

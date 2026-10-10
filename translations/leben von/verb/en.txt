@@ -1,1 +1,2 @@
-["to live on","to subsist on"]
+to live on
+to subsist on

@@ -1,1 +1,3 @@
-["to be named","to be called","to be designated"]
+to be named
+to be called
+to be designated

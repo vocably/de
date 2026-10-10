@@ -1,1 +1,2 @@
-["win","carry off the victory"]
+win
+carry off the victory

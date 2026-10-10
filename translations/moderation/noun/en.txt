@@ -1,1 +1,2 @@
-["moderation","hosting"]
+moderation
+hosting

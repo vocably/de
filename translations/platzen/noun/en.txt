@@ -1,1 +1,2 @@
-["bursting","failure"]
+bursting
+failure

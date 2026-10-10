@@ -1,1 +1,2 @@
-["amount of damage","loss amount"]
+amount of damage
+loss amount

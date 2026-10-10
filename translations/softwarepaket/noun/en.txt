@@ -1,1 +1,2 @@
-["software package","software suite"]
+software package
+software suite

@@ -1,1 +1,2 @@
-["work-related","job-related"]
+work-related
+job-related

@@ -1,1 +1,1 @@
-["part-time"]
+part-time

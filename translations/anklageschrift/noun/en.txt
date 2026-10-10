@@ -1,1 +1,2 @@
-["indictment","charge sheet"]
+indictment
+charge sheet

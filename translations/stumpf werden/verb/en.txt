@@ -1,1 +1,2 @@
-["to become dull","to become blunt"]
+to become dull
+to become blunt

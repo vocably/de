@@ -1,1 +1,2 @@
-["disparagingly","contemptuously"]
+disparagingly
+contemptuously

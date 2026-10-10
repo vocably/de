@@ -1,1 +1,2 @@
-["is against it","is opposed to it"]
+is against it
+is opposed to it

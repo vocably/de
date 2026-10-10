@@ -1,1 +1,2 @@
-["make friends","form friendships"]
+make friends
+form friendships

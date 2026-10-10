@@ -1,1 +1,2 @@
-["crack","cracking"]
+crack
+cracking

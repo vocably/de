@@ -1,1 +1,2 @@
-["to palpate","to scan"]
+to palpate
+to scan

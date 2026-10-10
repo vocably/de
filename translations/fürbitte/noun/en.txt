@@ -1,1 +1,2 @@
-["intercession","plea"]
+intercession
+plea

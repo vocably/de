@@ -1,1 +1,2 @@
-["ironically","ironic"]
+ironically
+ironic

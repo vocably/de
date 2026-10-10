@@ -1,1 +1,2 @@
-["daily special","deal of the day"]
+daily special
+deal of the day

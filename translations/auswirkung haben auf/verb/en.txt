@@ -1,1 +1,3 @@
-["affect","impact","have an effect on"]
+affect
+impact
+have an effect on

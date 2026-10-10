@@ -1,1 +1,2 @@
-["deep-seated","ingrained"]
+deep-seated
+ingrained

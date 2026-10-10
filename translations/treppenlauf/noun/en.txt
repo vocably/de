@@ -1,1 +1,2 @@
-["flight of stairs","staircase"]
+flight of stairs
+staircase

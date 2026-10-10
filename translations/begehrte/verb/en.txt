@@ -1,1 +1,3 @@
-["coveted","desired","longed for"]
+coveted
+desired
+longed for

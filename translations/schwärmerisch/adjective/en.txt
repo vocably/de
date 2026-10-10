@@ -1,1 +1,2 @@
-["dreamy","romantic"]
+dreamy
+romantic

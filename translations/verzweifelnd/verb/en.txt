@@ -1,1 +1,3 @@
-["despairing","desperately","in despair"]
+despairing
+desperately
+in despair

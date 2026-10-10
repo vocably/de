@@ -1,1 +1,2 @@
-["ore lode","ore vein"]
+ore lode
+ore vein

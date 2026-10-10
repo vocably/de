@@ -1,1 +1,3 @@
-["conscientious","dutiful","responsible"]
+conscientious
+dutiful
+responsible

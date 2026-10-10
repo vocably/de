@@ -1,1 +1,3 @@
-["partition","division","subdivision"]
+partition
+division
+subdivision

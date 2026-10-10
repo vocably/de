@@ -1,1 +1,2 @@
-["worries","is concerned"]
+worries
+is concerned

@@ -1,1 +1,3 @@
-["pardoned","showed mercy to","forgave"]
+pardoned
+showed mercy to
+forgave

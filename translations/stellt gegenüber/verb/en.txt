@@ -1,1 +1,3 @@
-["compares","contrasts","confronts"]
+compares
+contrasts
+confronts

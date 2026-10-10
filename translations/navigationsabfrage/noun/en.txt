@@ -1,1 +1,1 @@
-["navigation query"]
+navigation query

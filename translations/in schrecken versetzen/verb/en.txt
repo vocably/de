@@ -1,1 +1,2 @@
-["to frighten","to terrify"]
+to frighten
+to terrify

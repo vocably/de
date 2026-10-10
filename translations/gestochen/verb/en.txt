@@ -1,1 +1,3 @@
-["stung","pierced","engraved"]
+stung
+pierced
+engraved

@@ -1,1 +1,2 @@
-["educational","education"]
+educational
+education

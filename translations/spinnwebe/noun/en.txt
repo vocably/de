@@ -1,1 +1,2 @@
-["cobweb","spiderweb"]
+cobweb
+spiderweb

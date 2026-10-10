@@ -1,1 +1,2 @@
-["ecstatic","rapturous"]
+ecstatic
+rapturous

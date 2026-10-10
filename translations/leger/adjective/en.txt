@@ -1,1 +1,2 @@
-["casual","informal"]
+casual
+informal

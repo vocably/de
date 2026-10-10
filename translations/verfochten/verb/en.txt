@@ -1,1 +1,2 @@
-["advocated","defended"]
+advocated
+defended

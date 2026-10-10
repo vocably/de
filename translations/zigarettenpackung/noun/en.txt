@@ -1,1 +1,2 @@
-["pack of cigarettes","cigarette pack"]
+pack of cigarettes
+cigarette pack

@@ -1,1 +1,2 @@
-["labor pain","contraction pain"]
+labor pain
+contraction pain

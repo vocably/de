@@ -1,1 +1,2 @@
-["arrogate","presume"]
+arrogate
+presume

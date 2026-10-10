@@ -1,1 +1,2 @@
-["federal elections","general elections"]
+federal elections
+general elections

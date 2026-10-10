@@ -1,1 +1,2 @@
-["falls asleep","goes to sleep"]
+falls asleep
+goes to sleep

@@ -1,1 +1,2 @@
-["indirect route","roundabout way"]
+indirect route
+roundabout way

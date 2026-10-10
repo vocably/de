@@ -1,1 +1,3 @@
-["mine","mining pit","refill"]
+mine
+mining pit
+refill

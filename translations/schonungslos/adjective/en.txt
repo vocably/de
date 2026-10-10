@@ -1,1 +1,2 @@
-["merciless","unsparing"]
+merciless
+unsparing

@@ -1,1 +1,2 @@
-["darkest","gloomiest"]
+darkest
+gloomiest

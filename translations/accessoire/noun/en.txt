@@ -1,1 +1,2 @@
-["accessory","fashion accessory"]
+accessory
+fashion accessory

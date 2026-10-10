@@ -1,1 +1,3 @@
-["add","gain","increase"]
+add
+gain
+increase

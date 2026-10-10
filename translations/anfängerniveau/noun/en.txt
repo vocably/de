@@ -1,1 +1,2 @@
-["beginner level","introductory level"]
+beginner level
+introductory level

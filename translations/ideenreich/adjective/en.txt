@@ -1,1 +1,2 @@
-["imaginative","inventive"]
+imaginative
+inventive

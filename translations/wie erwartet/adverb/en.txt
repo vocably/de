@@ -1,1 +1,2 @@
-["as expected","as anticipated"]
+as expected
+as anticipated

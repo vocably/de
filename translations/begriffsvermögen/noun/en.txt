@@ -1,1 +1,2 @@
-["comprehension","intellect"]
+comprehension
+intellect

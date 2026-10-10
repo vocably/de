@@ -1,1 +1,2 @@
-["location","localization"]
+location
+localization

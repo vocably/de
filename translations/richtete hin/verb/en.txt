@@ -1,1 +1,2 @@
-["executed","put to death"]
+executed
+put to death

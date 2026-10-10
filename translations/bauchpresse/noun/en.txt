@@ -1,1 +1,2 @@
-["valsalva maneuver","abdominal press"]
+valsalva maneuver
+abdominal press

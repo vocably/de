@@ -1,1 +1,2 @@
-["to oil","to lubricate"]
+to oil
+to lubricate

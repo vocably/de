@@ -1,1 +1,3 @@
-["to aim at","to target","to allude to"]
+to aim at
+to target
+to allude to

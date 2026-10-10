@@ -1,1 +1,2 @@
-["ping-pong","back-and-forth"]
+ping-pong
+back-and-forth

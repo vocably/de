@@ -1,1 +1,3 @@
-["introduces","presents","imagines"]
+introduces
+presents
+imagines

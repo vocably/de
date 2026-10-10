@@ -1,1 +1,2 @@
-["preached","sermonized"]
+preached
+sermonized

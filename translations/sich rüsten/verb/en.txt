@@ -1,1 +1,2 @@
-["to prepare","to arm"]
+to prepare
+to arm

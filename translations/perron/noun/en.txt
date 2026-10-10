@@ -1,1 +1,2 @@
-["platform","railway platform"]
+platform
+railway platform

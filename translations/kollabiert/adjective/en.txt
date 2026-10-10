@@ -1,1 +1,2 @@
-["collapsed","comatose"]
+collapsed
+comatose

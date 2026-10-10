@@ -1,1 +1,3 @@
-["interception","catching","trapping"]
+interception
+catching
+trapping

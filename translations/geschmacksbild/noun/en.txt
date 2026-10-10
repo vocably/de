@@ -1,1 +1,2 @@
-["flavor profile","taste profile"]
+flavor profile
+taste profile

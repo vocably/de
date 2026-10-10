@@ -1,1 +1,2 @@
-["dream vacation","dream holiday"]
+dream vacation
+dream holiday

@@ -1,1 +1,2 @@
-["Viennese woman","woman from Vienna"]
+Viennese woman
+woman from Vienna

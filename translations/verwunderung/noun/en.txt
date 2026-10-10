@@ -1,1 +1,2 @@
-["astonishment","surprise"]
+astonishment
+surprise

@@ -1,1 +1,2 @@
-["nitpicking","hairsplitting"]
+nitpicking
+hairsplitting

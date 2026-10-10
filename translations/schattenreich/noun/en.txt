@@ -1,1 +1,2 @@
-["underworld","shadow realm"]
+underworld
+shadow realm

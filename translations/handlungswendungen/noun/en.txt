@@ -1,1 +1,2 @@
-["plot twists","turns of events"]
+plot twists
+turns of events

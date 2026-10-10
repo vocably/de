@@ -1,1 +1,2 @@
-["electric stove","electric range"]
+electric stove
+electric range

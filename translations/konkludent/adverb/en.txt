@@ -1,1 +1,2 @@
-["conclusively","implicitly"]
+conclusively
+implicitly

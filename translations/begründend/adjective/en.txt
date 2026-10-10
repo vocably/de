@@ -1,1 +1,2 @@
-["justificatory","substantiating"]
+justificatory
+substantiating

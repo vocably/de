@@ -1,1 +1,2 @@
-["instead of","rather than"]
+instead of
+rather than

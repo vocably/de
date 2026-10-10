@@ -1,1 +1,2 @@
-["taillight","tail lamp"]
+taillight
+tail lamp

@@ -1,1 +1,2 @@
-["Stop!","Hold it!"]
+Stop!
+Hold it!

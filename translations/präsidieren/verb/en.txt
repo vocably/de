@@ -1,1 +1,2 @@
-["preside","chair"]
+preside
+chair

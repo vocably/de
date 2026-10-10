@@ -1,1 +1,3 @@
-["leafy","flaky","foliated"]
+leafy
+flaky
+foliated

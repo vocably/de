@@ -1,1 +1,2 @@
-["With pleasure!","Gladly!"]
+With pleasure!
+Gladly!

@@ -1,1 +1,2 @@
-["long-standing","for many years"]
+long-standing
+for many years

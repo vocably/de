@@ -1,1 +1,2 @@
-["defrost","thaw"]
+defrost
+thaw

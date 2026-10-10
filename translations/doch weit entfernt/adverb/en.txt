@@ -1,1 +1,2 @@
-["still a long way off","far from it"]
+still a long way off
+far from it

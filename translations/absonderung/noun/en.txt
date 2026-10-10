@@ -1,1 +1,2 @@
-["secretion","isolation"]
+secretion
+isolation

@@ -1,1 +1,3 @@
-["cheer up","brighten up","lighten up"]
+cheer up
+brighten up
+lighten up

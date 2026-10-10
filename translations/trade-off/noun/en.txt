@@ -1,1 +1,2 @@
-["trade-off","compromise"]
+trade-off
+compromise

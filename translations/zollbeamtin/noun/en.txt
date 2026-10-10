@@ -1,1 +1,2 @@
-["customs officer","customs official"]
+customs officer
+customs official

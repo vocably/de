@@ -1,1 +1,2 @@
-["to barricade","to blockade"]
+to barricade
+to blockade

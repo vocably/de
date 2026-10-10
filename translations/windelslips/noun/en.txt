@@ -1,1 +1,2 @@
-["diaper briefs","adult diapers"]
+diaper briefs
+adult diapers

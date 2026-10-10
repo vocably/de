@@ -1,1 +1,2 @@
-["whim","quirk"]
+whim
+quirk

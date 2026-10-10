@@ -1,1 +1,3 @@
-["successively","gradually","step-by-step"]
+successively
+gradually
+step-by-step

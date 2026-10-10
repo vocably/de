@@ -1,1 +1,2 @@
-["masterstroke","brilliant feat"]
+masterstroke
+brilliant feat

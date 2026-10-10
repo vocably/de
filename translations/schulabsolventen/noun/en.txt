@@ -1,1 +1,2 @@
-["graduates","school leavers"]
+graduates
+school leavers

@@ -1,1 +1,1 @@
-["final boss"]
+final boss

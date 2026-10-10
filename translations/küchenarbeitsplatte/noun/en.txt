@@ -1,1 +1,2 @@
-["kitchen countertop","countertop"]
+kitchen countertop
+countertop

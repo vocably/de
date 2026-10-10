@@ -1,1 +1,2 @@
-["to amount to","to come to"]
+to amount to
+to come to

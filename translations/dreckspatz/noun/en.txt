@@ -1,1 +1,2 @@
-["dirty person","grubby child"]
+dirty person
+grubby child

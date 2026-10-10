@@ -1,1 +1,2 @@
-["kindred","soulmate"]
+kindred
+soulmate

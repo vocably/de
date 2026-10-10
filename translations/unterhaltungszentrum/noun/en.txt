@@ -1,1 +1,2 @@
-["entertainment center","leisure center"]
+entertainment center
+leisure center

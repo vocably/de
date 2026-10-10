@@ -1,1 +1,3 @@
-["reductions","drops","depressions"]
+reductions
+drops
+depressions

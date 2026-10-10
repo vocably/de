@@ -1,1 +1,2 @@
-["mandatory","routine"]
+mandatory
+routine

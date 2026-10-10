@@ -1,1 +1,2 @@
-["indications","reasons"]
+indications
+reasons

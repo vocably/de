@@ -1,1 +1,3 @@
-["off the cuff","extemporaneously","impromptu"]
+off the cuff
+extemporaneously
+impromptu

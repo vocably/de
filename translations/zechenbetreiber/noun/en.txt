@@ -1,1 +1,2 @@
-["mine operator","colliery operator"]
+mine operator
+colliery operator

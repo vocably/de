@@ -1,1 +1,2 @@
-["to mother","to fuss over"]
+to mother
+to fuss over

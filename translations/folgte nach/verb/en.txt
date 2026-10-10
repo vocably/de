@@ -1,1 +1,3 @@
-["followed","succeeded","took over"]
+followed
+succeeded
+took over

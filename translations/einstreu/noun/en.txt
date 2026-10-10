@@ -1,1 +1,2 @@
-["bedding","litter"]
+bedding
+litter

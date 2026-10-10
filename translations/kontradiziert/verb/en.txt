@@ -1,1 +1,3 @@
-["contradicts","gainsays","negates"]
+contradicts
+gainsays
+negates

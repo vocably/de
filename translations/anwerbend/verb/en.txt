@@ -1,1 +1,2 @@
-["recruiting","canvassing"]
+recruiting
+canvassing

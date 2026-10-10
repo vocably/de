@@ -1,1 +1,2 @@
-["confectioner","candymaker"]
+confectioner
+candymaker

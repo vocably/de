@@ -1,1 +1,2 @@
-["thaw","détente"]
+thaw
+détente

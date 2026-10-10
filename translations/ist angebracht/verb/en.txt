@@ -1,1 +1,2 @@
-["is appropriate","is fitting"]
+is appropriate
+is fitting

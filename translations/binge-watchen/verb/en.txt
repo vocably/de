@@ -1,1 +1,2 @@
-["binge-watch","binge-view"]
+binge-watch
+binge-view

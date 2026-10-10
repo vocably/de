@@ -1,1 +1,2 @@
-["tourist office","tourism office"]
+tourist office
+tourism office

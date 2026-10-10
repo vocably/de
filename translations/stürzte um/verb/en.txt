@@ -1,1 +1,3 @@
-["fell over","toppled over","collapsed"]
+fell over
+toppled over
+collapsed

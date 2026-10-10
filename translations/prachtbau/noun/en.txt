@@ -1,1 +1,2 @@
-["magnificent building","splendid building"]
+magnificent building
+splendid building

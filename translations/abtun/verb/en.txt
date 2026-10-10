@@ -1,1 +1,3 @@
-["dismiss","take off","do"]
+dismiss
+take off
+do

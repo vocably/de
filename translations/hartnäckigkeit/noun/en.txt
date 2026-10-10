@@ -1,1 +1,2 @@
-["persistence","tenacity"]
+persistence
+tenacity

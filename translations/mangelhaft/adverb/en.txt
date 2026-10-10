@@ -1,1 +1,2 @@
-["deficiently","poorly"]
+deficiently
+poorly

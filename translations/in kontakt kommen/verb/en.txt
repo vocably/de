@@ -1,1 +1,2 @@
-["get in touch","make contact"]
+get in touch
+make contact

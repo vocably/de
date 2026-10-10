@@ -1,1 +1,2 @@
-["decency","propriety"]
+decency
+propriety

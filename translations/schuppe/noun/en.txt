@@ -1,1 +1,3 @@
-["scale","dandruff","flake"]
+scale
+dandruff
+flake

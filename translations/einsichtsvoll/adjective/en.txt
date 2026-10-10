@@ -1,1 +1,2 @@
-["insightful","perceptive"]
+insightful
+perceptive

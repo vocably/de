@@ -1,1 +1,2 @@
-["silverware","silver"]
+silverware
+silver

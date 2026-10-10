@@ -1,1 +1,2 @@
-["organic","systematic"]
+organic
+systematic

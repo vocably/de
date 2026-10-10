@@ -1,1 +1,2 @@
-["imprecise","inaccurate"]
+imprecise
+inaccurate

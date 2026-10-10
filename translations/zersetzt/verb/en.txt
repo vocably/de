@@ -1,1 +1,3 @@
-["decomposes","disintegrates","corrodes"]
+decomposes
+disintegrates
+corrodes

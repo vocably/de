@@ -1,1 +1,2 @@
-["twilight sky","dusk sky"]
+twilight sky
+dusk sky

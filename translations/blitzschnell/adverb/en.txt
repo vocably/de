@@ -1,1 +1,2 @@
-["lightning fast","very fast"]
+lightning fast
+very fast

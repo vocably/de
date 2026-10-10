@@ -1,1 +1,2 @@
-["in itself","as such"]
+in itself
+as such

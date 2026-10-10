@@ -1,1 +1,2 @@
-["acceptable","reasonable"]
+acceptable
+reasonable

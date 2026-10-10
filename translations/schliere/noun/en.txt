@@ -1,1 +1,2 @@
-["smear","streak"]
+smear
+streak

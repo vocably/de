@@ -1,1 +1,2 @@
-["undertakings","ventures"]
+undertakings
+ventures

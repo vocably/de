@@ -1,1 +1,2 @@
-["was silent","kept silent"]
+was silent
+kept silent

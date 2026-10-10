@@ -1,1 +1,2 @@
-["licensed","approved"]
+licensed
+approved

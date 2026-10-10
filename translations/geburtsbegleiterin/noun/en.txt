@@ -1,1 +1,2 @@
-["doula","birth companion"]
+doula
+birth companion

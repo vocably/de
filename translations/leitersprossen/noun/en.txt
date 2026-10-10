@@ -1,1 +1,2 @@
-["rungs","ladder rungs"]
+rungs
+ladder rungs

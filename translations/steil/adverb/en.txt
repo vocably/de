@@ -1,1 +1,2 @@
-["steeply","sharply"]
+steeply
+sharply

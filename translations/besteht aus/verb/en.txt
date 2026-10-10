@@ -1,1 +1,2 @@
-["consists of","is made of"]
+consists of
+is made of

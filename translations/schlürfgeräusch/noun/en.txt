@@ -1,1 +1,2 @@
-["slurping sound","slurp"]
+slurping sound
+slurp

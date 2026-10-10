@@ -1,1 +1,2 @@
-["insanely","madly"]
+insanely
+madly

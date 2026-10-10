@@ -1,1 +1,2 @@
-["curtsy","bow"]
+curtsy
+bow

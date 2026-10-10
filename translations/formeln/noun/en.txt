@@ -1,1 +1,2 @@
-["formulas","phrases"]
+formulas
+phrases

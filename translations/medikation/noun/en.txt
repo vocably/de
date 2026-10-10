@@ -1,1 +1,2 @@
-["medication","medicine"]
+medication
+medicine

@@ -1,1 +1,3 @@
-["attacks","assaults","offensives"]
+attacks
+assaults
+offensives

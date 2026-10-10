@@ -1,1 +1,2 @@
-["to be worth it","to be worthwhile"]
+to be worth it
+to be worthwhile

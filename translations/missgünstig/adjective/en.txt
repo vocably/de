@@ -1,1 +1,2 @@
-["envious","jealous"]
+envious
+jealous

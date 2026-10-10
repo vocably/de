@@ -1,1 +1,2 @@
-["to make a decision","to decide"]
+to make a decision
+to decide

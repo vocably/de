@@ -1,1 +1,3 @@
-["to be attentive","to pay attention","to be observant"]
+to be attentive
+to pay attention
+to be observant

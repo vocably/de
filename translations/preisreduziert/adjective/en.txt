@@ -1,1 +1,2 @@
-["reduced-price","on sale"]
+reduced-price
+on sale

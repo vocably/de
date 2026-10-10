@@ -1,1 +1,2 @@
-["publisher's","of the publisher"]
+publisher's
+of the publisher

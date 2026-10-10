@@ -1,1 +1,3 @@
-["to form","to take shape","to develop"]
+to form
+to take shape
+to develop

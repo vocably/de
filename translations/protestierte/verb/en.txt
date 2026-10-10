@@ -1,1 +1,2 @@
-["protested","objected"]
+protested
+objected

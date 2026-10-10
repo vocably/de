@@ -1,1 +1,2 @@
-["develops","evolves"]
+develops
+evolves

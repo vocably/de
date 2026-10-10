@@ -1,1 +1,2 @@
-["main focus","main emphasis"]
+main focus
+main emphasis

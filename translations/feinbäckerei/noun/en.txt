@@ -1,1 +1,2 @@
-["patisserie","fine bakery"]
+patisserie
+fine bakery

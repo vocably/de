@@ -1,1 +1,2 @@
-["liable","accountable"]
+liable
+accountable

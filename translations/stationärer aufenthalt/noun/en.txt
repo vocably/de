@@ -1,1 +1,2 @@
-["inpatient stay","hospitalization"]
+inpatient stay
+hospitalization

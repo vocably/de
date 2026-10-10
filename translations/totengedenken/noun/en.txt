@@ -1,1 +1,2 @@
-["commemoration of the dead","memorial service"]
+commemoration of the dead
+memorial service

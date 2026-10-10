@@ -1,1 +1,2 @@
-["bitterness","resentment"]
+bitterness
+resentment

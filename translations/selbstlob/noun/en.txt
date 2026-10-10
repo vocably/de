@@ -1,1 +1,2 @@
-["self-praise","bragging"]
+self-praise
+bragging

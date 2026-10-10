@@ -1,1 +1,2 @@
-["mediocre","middling"]
+mediocre
+middling

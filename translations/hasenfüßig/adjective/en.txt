@@ -1,1 +1,2 @@
-["timid","cowardly"]
+timid
+cowardly

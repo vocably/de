@@ -1,1 +1,2 @@
-["behave like that","act like that"]
+behave like that
+act like that

@@ -1,1 +1,2 @@
-["circular walk","round trip"]
+circular walk
+round trip

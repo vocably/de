@@ -1,1 +1,2 @@
-["world-class format","world-class standard"]
+world-class format
+world-class standard

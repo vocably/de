@@ -1,1 +1,2 @@
-["northward","northwards"]
+northward
+northwards

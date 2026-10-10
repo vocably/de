@@ -1,1 +1,2 @@
-["dress up","spruce up"]
+dress up
+spruce up

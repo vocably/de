@@ -1,1 +1,2 @@
-["implored","pleaded"]
+implored
+pleaded

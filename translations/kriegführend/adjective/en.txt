@@ -1,1 +1,2 @@
-["belligerent","warring"]
+belligerent
+warring

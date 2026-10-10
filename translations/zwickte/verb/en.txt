@@ -1,1 +1,3 @@
-["pinched","nipped","twinged"]
+pinched
+nipped
+twinged

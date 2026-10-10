@@ -1,1 +1,2 @@
-["was left over","remained"]
+was left over
+remained

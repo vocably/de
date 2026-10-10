@@ -1,1 +1,2 @@
-["mode of action","mechanism of action"]
+mode of action
+mechanism of action

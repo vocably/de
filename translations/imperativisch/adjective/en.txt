@@ -1,1 +1,2 @@
-["imperative","commanding"]
+imperative
+commanding

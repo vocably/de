@@ -1,1 +1,3 @@
-["types","kinds","characters"]
+types
+kinds
+characters

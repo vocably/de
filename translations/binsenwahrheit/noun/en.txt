@@ -1,1 +1,2 @@
-["truism","platitude"]
+truism
+platitude

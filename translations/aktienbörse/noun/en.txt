@@ -1,1 +1,2 @@
-["stock exchange","stock market"]
+stock exchange
+stock market

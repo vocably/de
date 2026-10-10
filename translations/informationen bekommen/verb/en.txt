@@ -1,1 +1,2 @@
-["get information","receive information"]
+get information
+receive information

@@ -1,1 +1,2 @@
-["Bavarian woman","Bavarian"]
+Bavarian woman
+Bavarian

@@ -1,1 +1,2 @@
-["struggle for survival","fight for survival"]
+struggle for survival
+fight for survival

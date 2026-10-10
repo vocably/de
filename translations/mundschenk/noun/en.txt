@@ -1,1 +1,2 @@
-["cup-bearer","butler"]
+cup-bearer
+butler

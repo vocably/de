@@ -1,1 +1,3 @@
-["habitus","demeanor","disposition"]
+habitus
+demeanor
+disposition

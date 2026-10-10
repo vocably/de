@@ -1,1 +1,2 @@
-["alongside","side-by-side"]
+alongside
+side-by-side

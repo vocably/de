@@ -1,1 +1,3 @@
-["expressed","stated","articulated"]
+expressed
+stated
+articulated

@@ -1,1 +1,2 @@
-["instant","instantaneous"]
+instant
+instantaneous

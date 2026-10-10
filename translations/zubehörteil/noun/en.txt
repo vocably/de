@@ -1,1 +1,2 @@
-["accessory","attachment"]
+accessory
+attachment

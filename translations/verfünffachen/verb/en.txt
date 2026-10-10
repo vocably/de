@@ -1,1 +1,2 @@
-["quintuple","increase fivefold"]
+quintuple
+increase fivefold

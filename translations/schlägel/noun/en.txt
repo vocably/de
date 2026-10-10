@@ -1,1 +1,3 @@
-["mallet","drumstick","leg"]
+mallet
+drumstick
+leg

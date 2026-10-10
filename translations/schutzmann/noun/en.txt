@@ -1,1 +1,2 @@
-["policeman","patrolman"]
+policeman
+patrolman

@@ -1,1 +1,2 @@
-["supervisor","warden"]
+supervisor
+warden

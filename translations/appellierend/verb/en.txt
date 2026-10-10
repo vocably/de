@@ -1,1 +1,2 @@
-["appealing","pleading"]
+appealing
+pleading

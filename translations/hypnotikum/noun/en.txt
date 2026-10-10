@@ -1,1 +1,2 @@
-["hypnotic","sleeping pill"]
+hypnotic
+sleeping pill

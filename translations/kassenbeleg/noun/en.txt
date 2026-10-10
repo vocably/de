@@ -1,1 +1,2 @@
-["receipt","sales receipt"]
+receipt
+sales receipt

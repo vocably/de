@@ -1,1 +1,2 @@
-["aperture","opening"]
+aperture
+opening

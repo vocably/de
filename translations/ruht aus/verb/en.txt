@@ -1,1 +1,2 @@
-["rests","relaxes"]
+rests
+relaxes

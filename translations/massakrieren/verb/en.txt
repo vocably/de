@@ -1,1 +1,2 @@
-["massacre","butcher"]
+massacre
+butcher

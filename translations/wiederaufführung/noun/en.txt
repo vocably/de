@@ -1,1 +1,2 @@
-["revival","re-staging"]
+revival
+re-staging

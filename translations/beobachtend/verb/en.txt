@@ -1,1 +1,2 @@
-["observing","watching"]
+observing
+watching

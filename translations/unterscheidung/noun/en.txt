@@ -1,1 +1,2 @@
-["distinction","differentiation"]
+distinction
+differentiation

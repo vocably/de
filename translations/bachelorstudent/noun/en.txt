@@ -1,1 +1,2 @@
-["undergraduate student","bachelor's student"]
+undergraduate student
+bachelor's student

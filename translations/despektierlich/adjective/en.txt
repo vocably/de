@@ -1,1 +1,2 @@
-["disrespectful","disparaging"]
+disrespectful
+disparaging

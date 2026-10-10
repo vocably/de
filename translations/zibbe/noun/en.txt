@@ -1,1 +1,2 @@
-["ewe","nanny goat"]
+ewe
+nanny goat

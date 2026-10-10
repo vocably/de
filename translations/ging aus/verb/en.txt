@@ -1,1 +1,4 @@
-["went out","exited","emerged","was published"]
+went out
+exited
+emerged
+was published

@@ -1,1 +1,2 @@
-["document verification","document authentication"]
+document verification
+document authentication

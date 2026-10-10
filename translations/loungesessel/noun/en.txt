@@ -1,1 +1,2 @@
-["lounge chair","easy chair"]
+lounge chair
+easy chair

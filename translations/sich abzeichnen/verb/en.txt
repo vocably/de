@@ -1,1 +1,3 @@
-["to emerge","to become apparent","to show through"]
+to emerge
+to become apparent
+to show through

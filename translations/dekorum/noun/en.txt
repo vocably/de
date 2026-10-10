@@ -1,1 +1,2 @@
-["decorum","propriety"]
+decorum
+propriety

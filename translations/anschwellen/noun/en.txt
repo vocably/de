@@ -1,1 +1,2 @@
-["swelling","engorgement"]
+swelling
+engorgement

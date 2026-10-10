@@ -1,1 +1,2 @@
-["smell good","smell nice"]
+smell good
+smell nice

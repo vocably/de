@@ -1,1 +1,2 @@
-["rigid","inflexible"]
+rigid
+inflexible

@@ -1,1 +1,2 @@
-["gravy","meat juice"]
+gravy
+meat juice

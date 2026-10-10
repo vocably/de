@@ -1,1 +1,2 @@
-["notify someone","inform someone"]
+notify someone
+inform someone

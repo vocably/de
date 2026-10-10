@@ -1,1 +1,3 @@
-["went through","got through","pulled an all-nighter"]
+went through
+got through
+pulled an all-nighter

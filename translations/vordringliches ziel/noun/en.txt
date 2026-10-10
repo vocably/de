@@ -1,1 +1,2 @@
-["urgent goal","top priority"]
+urgent goal
+top priority

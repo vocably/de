@@ -1,1 +1,2 @@
-["victory declaration","declaration of victory"]
+victory declaration
+declaration of victory

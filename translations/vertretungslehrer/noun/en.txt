@@ -1,1 +1,2 @@
-["substitute teacher","supply teacher"]
+substitute teacher
+supply teacher

@@ -1,1 +1,4 @@
-["takeoff","withdrawal","lifting","standing out"]
+takeoff
+withdrawal
+lifting
+standing out

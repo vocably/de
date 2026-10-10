@@ -1,1 +1,2 @@
-["electron spin resonance","ESR"]
+electron spin resonance
+ESR

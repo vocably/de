@@ -1,1 +1,2 @@
-["reputation","character"]
+reputation
+character

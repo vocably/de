@@ -1,1 +1,2 @@
-["editor","text editor"]
+editor
+text editor

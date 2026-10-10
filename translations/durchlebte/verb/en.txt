@@ -1,1 +1,2 @@
-["went through","experienced"]
+went through
+experienced

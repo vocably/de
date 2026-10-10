@@ -1,1 +1,2 @@
-["legal validity","res judicata"]
+legal validity
+res judicata

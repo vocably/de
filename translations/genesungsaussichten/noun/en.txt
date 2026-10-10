@@ -1,1 +1,2 @@
-["prognosis","recovery outlook"]
+prognosis
+recovery outlook

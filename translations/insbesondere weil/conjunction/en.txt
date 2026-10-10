@@ -1,1 +1,2 @@
-["especially because","particularly because"]
+especially because
+particularly because

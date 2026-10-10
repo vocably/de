@@ -1,1 +1,2 @@
-["livelihood","basis of income"]
+livelihood
+basis of income

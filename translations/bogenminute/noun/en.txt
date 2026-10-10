@@ -1,1 +1,2 @@
-["arcminute","minute of arc"]
+arcminute
+minute of arc

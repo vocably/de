@@ -1,1 +1,2 @@
-["overshadowing","eclipsing"]
+overshadowing
+eclipsing

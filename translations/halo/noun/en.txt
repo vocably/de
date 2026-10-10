@@ -1,1 +1,3 @@
-["halo","nimbus","aureole"]
+halo
+nimbus
+aureole

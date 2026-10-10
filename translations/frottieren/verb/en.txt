@@ -1,1 +1,2 @@
-["to rub","to chafe"]
+to rub
+to chafe

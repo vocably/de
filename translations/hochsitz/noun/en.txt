@@ -1,1 +1,2 @@
-["hunting blind","high seat"]
+hunting blind
+high seat

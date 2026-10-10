@@ -1,1 +1,3 @@
-["missed","let slip","passed up"]
+missed
+let slip
+passed up

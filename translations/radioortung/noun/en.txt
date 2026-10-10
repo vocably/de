@@ -1,1 +1,2 @@
-["radiolocation","radio detection"]
+radiolocation
+radio detection

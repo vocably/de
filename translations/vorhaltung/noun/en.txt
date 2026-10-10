@@ -1,1 +1,2 @@
-["reprimand","provision"]
+reprimand
+provision

@@ -1,1 +1,2 @@
-["assassination","murder"]
+assassination
+murder

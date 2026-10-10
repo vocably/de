@@ -1,1 +1,2 @@
-["chose","selected"]
+chose
+selected

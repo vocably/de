@@ -1,1 +1,2 @@
-["city cleaning","municipal sanitation"]
+city cleaning
+municipal sanitation

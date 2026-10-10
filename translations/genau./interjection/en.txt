@@ -1,1 +1,2 @@
-["Exactly.","Precisely."]
+Exactly.
+Precisely.

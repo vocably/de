@@ -1,1 +1,2 @@
-["scaly","flaky"]
+scaly
+flaky

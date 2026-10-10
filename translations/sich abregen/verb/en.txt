@@ -1,1 +1,2 @@
-["calm down","cool off"]
+calm down
+cool off

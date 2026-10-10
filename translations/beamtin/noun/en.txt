@@ -1,1 +1,2 @@
-["female official","civil servant"]
+female official
+civil servant

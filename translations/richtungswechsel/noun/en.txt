@@ -1,1 +1,2 @@
-["change of direction","U-turn"]
+change of direction
+U-turn

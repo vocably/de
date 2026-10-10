@@ -1,1 +1,2 @@
-["paws","mitts"]
+paws
+mitts

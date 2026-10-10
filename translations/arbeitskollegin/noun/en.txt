@@ -1,1 +1,2 @@
-["colleague","co-worker"]
+colleague
+co-worker

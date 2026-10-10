@@ -1,1 +1,2 @@
-["to be empty","to be vacant"]
+to be empty
+to be vacant

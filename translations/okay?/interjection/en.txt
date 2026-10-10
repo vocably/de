@@ -1,1 +1,2 @@
-["Okay?","All right?"]
+Okay?
+All right?

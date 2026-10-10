@@ -1,1 +1,2 @@
-["cordless","wireless"]
+cordless
+wireless

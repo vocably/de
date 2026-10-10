@@ -1,1 +1,2 @@
-["serve as","act as"]
+serve as
+act as

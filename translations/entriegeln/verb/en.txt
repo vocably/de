@@ -1,1 +1,2 @@
-["to unlock","to unlatch"]
+to unlock
+to unlatch

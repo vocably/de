@@ -1,1 +1,2 @@
-["degree of correspondence","degree of agreement"]
+degree of correspondence
+degree of agreement

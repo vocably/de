@@ -1,1 +1,2 @@
-["responsibilities","duties"]
+responsibilities
+duties

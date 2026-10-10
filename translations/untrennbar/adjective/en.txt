@@ -1,1 +1,2 @@
-["inseparable","indivisible"]
+inseparable
+indivisible

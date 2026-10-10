@@ -1,1 +1,2 @@
-["insult","abuse"]
+insult
+abuse

@@ -1,1 +1,2 @@
-["university campus","campus"]
+university campus
+campus

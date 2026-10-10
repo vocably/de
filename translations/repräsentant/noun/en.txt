@@ -1,1 +1,2 @@
-["representative","delegate"]
+representative
+delegate

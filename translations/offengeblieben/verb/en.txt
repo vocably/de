@@ -1,1 +1,2 @@
-["remained open","remained unresolved"]
+remained open
+remained unresolved

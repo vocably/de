@@ -1,1 +1,2 @@
-["abominable","detestable"]
+abominable
+detestable

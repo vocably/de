@@ -1,1 +1,2 @@
-["peaceful","leisurely"]
+peaceful
+leisurely

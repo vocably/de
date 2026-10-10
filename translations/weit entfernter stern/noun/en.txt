@@ -1,1 +1,2 @@
-["distant star","remote star"]
+distant star
+remote star

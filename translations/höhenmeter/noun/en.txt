@@ -1,1 +1,2 @@
-["vertical meters","meters of elevation"]
+vertical meters
+meters of elevation

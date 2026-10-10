@@ -1,1 +1,2 @@
-["arbitration","mediation"]
+arbitration
+mediation

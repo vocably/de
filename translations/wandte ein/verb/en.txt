@@ -1,1 +1,3 @@
-["objected","argued","protested"]
+objected
+argued
+protested

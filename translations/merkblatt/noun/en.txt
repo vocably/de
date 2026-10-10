@@ -1,1 +1,2 @@
-["fact sheet","handout"]
+fact sheet
+handout

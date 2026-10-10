@@ -1,1 +1,2 @@
-["remoteness","seclusion"]
+remoteness
+seclusion

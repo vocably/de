@@ -1,1 +1,2 @@
-["branch of sport","type of sport"]
+branch of sport
+type of sport

@@ -1,1 +1,2 @@
-["occupied","busy"]
+occupied
+busy

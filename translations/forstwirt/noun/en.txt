@@ -1,1 +1,2 @@
-["forester","forestry worker"]
+forester
+forestry worker

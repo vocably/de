@@ -1,1 +1,3 @@
-["controlled","checked","supervised"]
+controlled
+checked
+supervised

@@ -1,1 +1,2 @@
-["arm oneself","equip oneself"]
+arm oneself
+equip oneself

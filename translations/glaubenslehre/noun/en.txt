@@ -1,1 +1,2 @@
-["doctrine","dogma"]
+doctrine
+dogma

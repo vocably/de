@@ -1,1 +1,2 @@
-["produced","manufactured"]
+produced
+manufactured

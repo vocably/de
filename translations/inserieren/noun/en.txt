@@ -1,1 +1,2 @@
-["advertising","placing an ad"]
+advertising
+placing an ad

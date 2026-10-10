@@ -1,1 +1,3 @@
-["salvation","welfare","well-being"]
+salvation
+welfare
+well-being

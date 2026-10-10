@@ -1,1 +1,2 @@
-["exchangeable","returnable"]
+exchangeable
+returnable

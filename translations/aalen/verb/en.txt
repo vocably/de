@@ -1,1 +1,2 @@
-["bask","lounge"]
+bask
+lounge

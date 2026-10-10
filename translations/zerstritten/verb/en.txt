@@ -1,1 +1,3 @@
-["to be at odds","to be estranged","to have fallen out"]
+to be at odds
+to be estranged
+to have fallen out

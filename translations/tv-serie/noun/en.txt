@@ -1,1 +1,2 @@
-["TV series","TV show"]
+TV series
+TV show

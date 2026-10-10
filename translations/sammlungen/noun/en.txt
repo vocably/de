@@ -1,1 +1,3 @@
-["collections","gatherings","accumulations"]
+collections
+gatherings
+accumulations

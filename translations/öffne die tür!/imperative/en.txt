@@ -1,1 +1,1 @@
-["Open the door!"]
+Open the door!

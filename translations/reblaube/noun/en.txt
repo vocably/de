@@ -1,1 +1,2 @@
-["arbor","pergola"]
+arbor
+pergola

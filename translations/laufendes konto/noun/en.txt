@@ -1,1 +1,2 @@
-["checking account","current account"]
+checking account
+current account

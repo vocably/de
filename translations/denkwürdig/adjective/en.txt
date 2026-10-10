@@ -1,1 +1,2 @@
-["memorable","momentous"]
+memorable
+momentous

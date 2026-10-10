@@ -1,1 +1,2 @@
-["to kiss","to smooch"]
+to kiss
+to smooch

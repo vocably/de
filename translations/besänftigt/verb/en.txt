@@ -1,1 +1,2 @@
-["calmed","soothed"]
+calmed
+soothed

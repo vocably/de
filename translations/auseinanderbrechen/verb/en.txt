@@ -1,1 +1,2 @@
-["break apart","fall apart"]
+break apart
+fall apart

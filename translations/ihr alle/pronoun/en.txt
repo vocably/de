@@ -1,1 +1,2 @@
-["all of you","you all"]
+all of you
+you all

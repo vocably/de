@@ -1,1 +1,2 @@
-["compilation","anthology"]
+compilation
+anthology

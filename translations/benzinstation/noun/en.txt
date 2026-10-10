@@ -1,1 +1,2 @@
-["gas station","filling station"]
+gas station
+filling station

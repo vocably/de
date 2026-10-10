@@ -1,1 +1,2 @@
-["coughed up","expectorated"]
+coughed up
+expectorated

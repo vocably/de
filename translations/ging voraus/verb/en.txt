@@ -1,1 +1,2 @@
-["preceded","went ahead"]
+preceded
+went ahead

@@ -1,1 +1,2 @@
-["have access to","be able to access"]
+have access to
+be able to access

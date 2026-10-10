@@ -1,1 +1,2 @@
-["foxhole","slit trench"]
+foxhole
+slit trench

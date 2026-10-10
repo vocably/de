@@ -1,1 +1,2 @@
-["recipes","cookbooks"]
+recipes
+cookbooks

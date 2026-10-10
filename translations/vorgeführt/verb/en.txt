@@ -1,1 +1,3 @@
-["showed","demonstrated","humiliated"]
+showed
+demonstrated
+humiliated

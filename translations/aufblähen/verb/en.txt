@@ -1,1 +1,3 @@
-["inflate","bloat","exaggerate"]
+inflate
+bloat
+exaggerate

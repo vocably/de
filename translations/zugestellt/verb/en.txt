@@ -1,1 +1,2 @@
-["delivered","served"]
+delivered
+served

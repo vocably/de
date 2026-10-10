@@ -1,1 +1,2 @@
-["desired salary","expected salary"]
+desired salary
+expected salary

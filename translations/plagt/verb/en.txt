@@ -1,1 +1,2 @@
-["plagues","torments"]
+plagues
+torments

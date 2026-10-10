@@ -1,1 +1,2 @@
-["to be persuaded","to be convinced"]
+to be persuaded
+to be convinced

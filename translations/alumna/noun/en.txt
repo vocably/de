@@ -1,1 +1,2 @@
-["alumna","graduate"]
+alumna
+graduate

@@ -1,1 +1,2 @@
-["powdering","dusting"]
+powdering
+dusting

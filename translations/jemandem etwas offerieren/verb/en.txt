@@ -1,1 +1,3 @@
-["to offer someone something","to propose something to someone","to provide someone with something"]
+to offer someone something
+to propose something to someone
+to provide someone with something

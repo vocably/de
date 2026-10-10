@@ -1,1 +1,2 @@
-["insurance cover","insurance coverage"]
+insurance cover
+insurance coverage

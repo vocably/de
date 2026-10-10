@@ -1,1 +1,2 @@
-["mistress of the house","lady of the house"]
+mistress of the house
+lady of the house

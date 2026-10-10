@@ -1,1 +1,2 @@
-["outsmarted","tricked"]
+outsmarted
+tricked

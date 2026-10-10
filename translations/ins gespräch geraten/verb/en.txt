@@ -1,1 +1,2 @@
-["to get into conversation","to start talking"]
+to get into conversation
+to start talking

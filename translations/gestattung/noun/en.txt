@@ -1,1 +1,2 @@
-["permission","allowance"]
+permission
+allowance

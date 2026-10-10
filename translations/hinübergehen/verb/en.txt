@@ -1,1 +1,3 @@
-["go over","cross over","pass over"]
+go over
+cross over
+pass over

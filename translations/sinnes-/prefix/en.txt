@@ -1,1 +1,2 @@
-["sensory","sense"]
+sensory
+sense

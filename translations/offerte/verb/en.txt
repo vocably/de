@@ -1,1 +1,3 @@
-["offered","tendered","proffered"]
+offered
+tendered
+proffered

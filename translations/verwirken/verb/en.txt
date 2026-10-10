@@ -1,1 +1,2 @@
-["forfeit","lose"]
+forfeit
+lose

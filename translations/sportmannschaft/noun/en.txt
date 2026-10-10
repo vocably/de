@@ -1,1 +1,2 @@
-["sports team","team"]
+sports team
+team

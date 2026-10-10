@@ -1,1 +1,2 @@
-["prosperity","boom"]
+prosperity
+boom

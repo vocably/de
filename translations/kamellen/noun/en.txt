@@ -1,1 +1,2 @@
-["candy","old news"]
+candy
+old news

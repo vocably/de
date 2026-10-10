@@ -1,1 +1,2 @@
-["Agreed","Alright"]
+Agreed
+Alright

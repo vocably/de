@@ -1,1 +1,2 @@
-["quite the contrary","on the contrary"]
+quite the contrary
+on the contrary

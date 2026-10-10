@@ -1,1 +1,2 @@
-["I pick berries.","I gather berries."]
+I pick berries.
+I gather berries.

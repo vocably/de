@@ -1,1 +1,1 @@
-["supervisory"]
+supervisory

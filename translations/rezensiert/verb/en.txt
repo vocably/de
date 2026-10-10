@@ -1,1 +1,2 @@
-["reviewed","critiqued"]
+reviewed
+critiqued

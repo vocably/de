@@ -1,1 +1,2 @@
-["would prefer","would favor"]
+would prefer
+would favor

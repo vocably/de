@@ -1,1 +1,2 @@
-["urinary bladder","bladder"]
+urinary bladder
+bladder

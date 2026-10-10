@@ -1,1 +1,2 @@
-["ridge","mountain ridge"]
+ridge
+mountain ridge

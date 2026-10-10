@@ -1,1 +1,2 @@
-["river delta","delta"]
+river delta
+delta

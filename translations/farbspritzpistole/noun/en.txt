@@ -1,1 +1,2 @@
-["spray gun","paint gun"]
+spray gun
+paint gun

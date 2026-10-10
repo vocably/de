@@ -1,1 +1,2 @@
-["infancy","babyhood"]
+infancy
+babyhood

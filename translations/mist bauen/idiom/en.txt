@@ -1,1 +1,3 @@
-["to mess up","to screw up","to make a mistake"]
+to mess up
+to screw up
+to make a mistake

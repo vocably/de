@@ -1,1 +1,2 @@
-["tanning","browning"]
+tanning
+browning

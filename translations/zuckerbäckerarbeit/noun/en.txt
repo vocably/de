@@ -1,1 +1,2 @@
-["confectionery","pastry work"]
+confectionery
+pastry work

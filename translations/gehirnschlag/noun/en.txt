@@ -1,1 +1,2 @@
-["stroke","cerebral hemorrhage"]
+stroke
+cerebral hemorrhage

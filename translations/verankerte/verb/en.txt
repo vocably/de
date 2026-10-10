@@ -1,1 +1,2 @@
-["anchored","embedded"]
+anchored
+embedded

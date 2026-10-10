@@ -1,1 +1,2 @@
-["bar selection","bar offerings"]
+bar selection
+bar offerings

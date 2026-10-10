@@ -1,1 +1,3 @@
-["calmed","soothed","reassured"]
+calmed
+soothed
+reassured

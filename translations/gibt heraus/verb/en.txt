@@ -1,1 +1,3 @@
-["publishes","issues","distributes"]
+publishes
+issues
+distributes

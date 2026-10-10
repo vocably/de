@@ -1,1 +1,2 @@
-["believed","thought"]
+believed
+thought

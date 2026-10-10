@@ -1,1 +1,2 @@
-["animated series","cartoon series"]
+animated series
+cartoon series

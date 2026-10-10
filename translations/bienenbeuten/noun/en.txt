@@ -1,1 +1,2 @@
-["beehives","hives"]
+beehives
+hives

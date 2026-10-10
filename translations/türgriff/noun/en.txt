@@ -1,1 +1,2 @@
-["doorknob","door handle"]
+doorknob
+door handle

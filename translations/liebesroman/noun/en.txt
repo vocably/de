@@ -1,1 +1,2 @@
-["romance novel","love story"]
+romance novel
+love story

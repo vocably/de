@@ -1,1 +1,2 @@
-["destroyed","devastated"]
+destroyed
+devastated

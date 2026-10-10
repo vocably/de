@@ -1,1 +1,2 @@
-["informer","denunciator"]
+informer
+denunciator

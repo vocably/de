@@ -1,1 +1,2 @@
-["although","though"]
+although
+though

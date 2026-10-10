@@ -1,1 +1,2 @@
-["freshly shaven","clean-shaven"]
+freshly shaven
+clean-shaven

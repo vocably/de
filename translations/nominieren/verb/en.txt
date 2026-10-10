@@ -1,1 +1,2 @@
-["nominate","designate"]
+nominate
+designate

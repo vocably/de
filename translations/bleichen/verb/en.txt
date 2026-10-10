@@ -1,1 +1,3 @@
-["to bleach","to fade","to turn pale"]
+to bleach
+to fade
+to turn pale

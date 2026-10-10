@@ -1,1 +1,2 @@
-["emphatically","urgently"]
+emphatically
+urgently

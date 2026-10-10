@@ -1,1 +1,2 @@
-["glorious","illustrious"]
+glorious
+illustrious

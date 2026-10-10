@@ -1,1 +1,2 @@
-["stick insect","walking stick"]
+stick insect
+walking stick

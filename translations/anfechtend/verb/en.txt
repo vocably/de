@@ -1,1 +1,2 @@
-["challenging","contentious"]
+challenging
+contentious

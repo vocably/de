@@ -1,1 +1,3 @@
-["copes with","overcomes","manages"]
+copes with
+overcomes
+manages

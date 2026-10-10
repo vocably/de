@@ -1,1 +1,2 @@
-["squeal","squeak"]
+squeal
+squeak

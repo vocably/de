@@ -1,1 +1,2 @@
-["cubicle","office cubicle"]
+cubicle
+office cubicle

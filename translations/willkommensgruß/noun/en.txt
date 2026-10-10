@@ -1,1 +1,2 @@
-["welcome","greeting"]
+welcome
+greeting

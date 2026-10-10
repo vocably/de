@@ -1,1 +1,2 @@
-["instructions for use","directions for use"]
+instructions for use
+directions for use

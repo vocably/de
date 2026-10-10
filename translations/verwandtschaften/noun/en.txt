@@ -1,1 +1,2 @@
-["relatives","kinship"]
+relatives
+kinship

@@ -1,1 +1,3 @@
-["gives in","yields","gives way"]
+gives in
+yields
+gives way

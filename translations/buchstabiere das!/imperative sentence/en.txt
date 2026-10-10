@@ -1,1 +1,2 @@
-["Spell that!","Spell it!"]
+Spell that!
+Spell it!

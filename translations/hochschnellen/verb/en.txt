@@ -1,1 +1,2 @@
-["to shoot up","to rocket"]
+to shoot up
+to rocket

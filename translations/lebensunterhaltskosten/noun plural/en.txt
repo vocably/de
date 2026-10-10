@@ -1,1 +1,2 @@
-["cost of living","living expenses"]
+cost of living
+living expenses

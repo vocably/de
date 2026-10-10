@@ -1,1 +1,2 @@
-["mailroom","incoming mail department"]
+mailroom
+incoming mail department

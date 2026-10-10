@@ -1,1 +1,2 @@
-["professorship","chair"]
+professorship
+chair

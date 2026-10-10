@@ -1,1 +1,2 @@
-["fleece","nonwoven fabric"]
+fleece
+nonwoven fabric

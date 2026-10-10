@@ -1,1 +1,2 @@
-["become valid","come into effect"]
+become valid
+come into effect

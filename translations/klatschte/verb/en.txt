@@ -1,1 +1,3 @@
-["clapped","slapped","gossiped"]
+clapped
+slapped
+gossiped

@@ -1,1 +1,2 @@
-["powerlessness","impotence"]
+powerlessness
+impotence

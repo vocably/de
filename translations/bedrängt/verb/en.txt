@@ -1,1 +1,3 @@
-["harassed","oppressed","molested"]
+harassed
+oppressed
+molested

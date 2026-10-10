@@ -1,1 +1,2 @@
-["to duck","to cower"]
+to duck
+to cower

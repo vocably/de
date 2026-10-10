@@ -1,1 +1,2 @@
-["point of contact","common ground"]
+point of contact
+common ground

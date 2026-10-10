@@ -1,1 +1,2 @@
-["impracticable","unfeasible"]
+impracticable
+unfeasible

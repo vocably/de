@@ -1,1 +1,3 @@
-["happened","occurred","taken place"]
+happened
+occurred
+taken place

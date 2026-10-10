@@ -1,1 +1,2 @@
-["to run toward","to run up to"]
+to run toward
+to run up to

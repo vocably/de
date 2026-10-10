@@ -1,1 +1,3 @@
-["assignments","allocations","attributions"]
+assignments
+allocations
+attributions

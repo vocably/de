@@ -1,1 +1,2 @@
-["excessive","exaggerated"]
+excessive
+exaggerated

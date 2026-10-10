@@ -1,1 +1,2 @@
-["point","prong"]
+point
+prong

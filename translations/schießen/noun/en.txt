@@ -1,1 +1,3 @@
-["shooting","firing","shot"]
+shooting
+firing
+shot

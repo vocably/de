@@ -1,1 +1,2 @@
-["purchase quantity","purchase volume"]
+purchase quantity
+purchase volume

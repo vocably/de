@@ -1,1 +1,2 @@
-["alarm button","panic button"]
+alarm button
+panic button

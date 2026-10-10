@@ -1,1 +1,2 @@
-["stage set","scenery"]
+stage set
+scenery

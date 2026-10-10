@@ -1,1 +1,3 @@
-["to freak out","to flip out","to lose it"]
+to freak out
+to flip out
+to lose it

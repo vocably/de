@@ -1,1 +1,2 @@
-["quintessence","gist"]
+quintessence
+gist

@@ -1,1 +1,2 @@
-["specialist medical training","residency"]
+specialist medical training
+residency

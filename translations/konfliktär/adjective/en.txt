@@ -1,1 +1,2 @@
-["conflictual","conflict-ridden"]
+conflictual
+conflict-ridden

@@ -1,1 +1,2 @@
-["to stumble","to falter"]
+to stumble
+to falter

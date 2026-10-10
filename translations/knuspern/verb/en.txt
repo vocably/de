@@ -1,1 +1,2 @@
-["to crunch","to nibble"]
+to crunch
+to nibble

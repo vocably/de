@@ -1,1 +1,2 @@
-["female urologists","women urologists"]
+female urologists
+women urologists

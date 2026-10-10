@@ -1,1 +1,2 @@
-["to wave over","to beckon over"]
+to wave over
+to beckon over

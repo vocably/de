@@ -1,1 +1,2 @@
-["substantially","materially"]
+substantially
+materially

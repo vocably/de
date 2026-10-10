@@ -1,1 +1,2 @@
-["cancer","malignancy"]
+cancer
+malignancy

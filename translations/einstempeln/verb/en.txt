@@ -1,1 +1,2 @@
-["to punch in","to pigeonhole"]
+to punch in
+to pigeonhole

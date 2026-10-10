@@ -1,1 +1,3 @@
-["winding up","handling","unwinding"]
+winding up
+handling
+unwinding

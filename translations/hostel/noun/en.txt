@@ -1,1 +1,2 @@
-["hostel","youth hostel"]
+hostel
+youth hostel

@@ -1,1 +1,2 @@
-["overrated","overestimated"]
+overrated
+overestimated

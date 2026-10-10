@@ -1,1 +1,2 @@
-["appeasingly","placatingly"]
+appeasingly
+placatingly

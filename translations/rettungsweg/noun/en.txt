@@ -1,1 +1,2 @@
-["escape route","emergency exit"]
+escape route
+emergency exit

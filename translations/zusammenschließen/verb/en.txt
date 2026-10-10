@@ -1,1 +1,2 @@
-["merge","join forces"]
+merge
+join forces

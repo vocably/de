@@ -1,1 +1,2 @@
-["future tense","future"]
+future tense
+future

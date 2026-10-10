@@ -1,1 +1,2 @@
-["continued presence","ongoing presence"]
+continued presence
+ongoing presence

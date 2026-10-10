@@ -1,1 +1,2 @@
-["physician assistant","PA"]
+physician assistant
+PA

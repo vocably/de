@@ -1,1 +1,2 @@
-["swirl","whirl"]
+swirl
+whirl

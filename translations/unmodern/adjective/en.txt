@@ -1,1 +1,2 @@
-["unfashionable","outmoded"]
+unfashionable
+outmoded

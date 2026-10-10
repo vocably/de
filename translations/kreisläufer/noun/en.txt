@@ -1,1 +1,2 @@
-["pivot","line player"]
+pivot
+line player

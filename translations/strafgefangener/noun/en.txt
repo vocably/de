@@ -1,1 +1,2 @@
-["convict","prisoner"]
+convict
+prisoner

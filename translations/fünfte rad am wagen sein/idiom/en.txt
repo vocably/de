@@ -1,1 +1,3 @@
-["be the fifth wheel","be a fifth wheel","be the odd one out"]
+be the fifth wheel
+be a fifth wheel
+be the odd one out

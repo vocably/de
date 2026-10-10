@@ -1,1 +1,2 @@
-["daycare center","day center"]
+daycare center
+day center

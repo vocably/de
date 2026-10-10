@@ -1,1 +1,2 @@
-["cunning plan","clever plan"]
+cunning plan
+clever plan

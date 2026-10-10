@@ -1,1 +1,2 @@
-["applaud","clap"]
+applaud
+clap

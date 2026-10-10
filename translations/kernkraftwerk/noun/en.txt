@@ -1,1 +1,2 @@
-["nuclear power plant","nuclear power station"]
+nuclear power plant
+nuclear power station

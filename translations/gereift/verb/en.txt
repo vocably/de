@@ -1,1 +1,3 @@
-["matured","ripened","aged"]
+matured
+ripened
+aged

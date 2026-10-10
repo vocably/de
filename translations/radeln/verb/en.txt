@@ -1,1 +1,2 @@
-["to bike","to cycle"]
+to bike
+to cycle

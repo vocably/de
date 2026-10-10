@@ -1,1 +1,2 @@
-["arbitration award","award"]
+arbitration award
+award

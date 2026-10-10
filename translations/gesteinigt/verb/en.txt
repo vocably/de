@@ -1,1 +1,2 @@
-["stoned","pelted with stones"]
+stoned
+pelted with stones

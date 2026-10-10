@@ -1,1 +1,2 @@
-["hyperactive","overexcited"]
+hyperactive
+overexcited

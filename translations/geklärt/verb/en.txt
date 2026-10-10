@@ -1,1 +1,2 @@
-["clarified","resolved"]
+clarified
+resolved

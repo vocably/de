@@ -1,1 +1,2 @@
-["intermediate school certificates","secondary school diplomas"]
+intermediate school certificates
+secondary school diplomas

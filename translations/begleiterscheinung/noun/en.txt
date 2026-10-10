@@ -1,1 +1,2 @@
-["side effect","concomitant phenomenon"]
+side effect
+concomitant phenomenon

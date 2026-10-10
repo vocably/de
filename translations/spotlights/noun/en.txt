@@ -1,1 +1,2 @@
-["spotlights","limelight"]
+spotlights
+limelight

@@ -1,1 +1,2 @@
-["outlet store","power outlet"]
+outlet store
+power outlet

@@ -1,1 +1,2 @@
-["values","emphasizes"]
+values
+emphasizes

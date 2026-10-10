@@ -1,1 +1,2 @@
-["impoverished","destitute"]
+impoverished
+destitute

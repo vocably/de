@@ -1,1 +1,2 @@
-["pleasurably","enjoyably"]
+pleasurably
+enjoyably

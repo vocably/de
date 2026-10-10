@@ -1,1 +1,2 @@
-["moralize","preach"]
+moralize
+preach

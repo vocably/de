@@ -1,1 +1,2 @@
-["drastically","severely"]
+drastically
+severely

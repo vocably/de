@@ -1,1 +1,2 @@
-["blue-eyed","naive"]
+blue-eyed
+naive

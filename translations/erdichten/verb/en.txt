@@ -1,1 +1,2 @@
-["invent","make up"]
+invent
+make up

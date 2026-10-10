@@ -1,1 +1,2 @@
-["admission","confession"]
+admission
+confession

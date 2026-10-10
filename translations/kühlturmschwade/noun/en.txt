@@ -1,1 +1,2 @@
-["cooling tower plume","plume"]
+cooling tower plume
+plume

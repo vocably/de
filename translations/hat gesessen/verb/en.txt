@@ -1,1 +1,3 @@
-["sat","fit","was"]
+sat
+fit
+was

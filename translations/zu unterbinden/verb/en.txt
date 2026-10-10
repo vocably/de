@@ -1,1 +1,3 @@
-["to prevent","to stop","to suppress"]
+to prevent
+to stop
+to suppress

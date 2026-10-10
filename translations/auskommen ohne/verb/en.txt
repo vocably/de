@@ -1,1 +1,2 @@
-["do without","get by without"]
+do without
+get by without

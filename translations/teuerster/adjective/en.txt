@@ -1,1 +1,2 @@
-["most expensive","priciest"]
+most expensive
+priciest

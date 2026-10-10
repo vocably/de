@@ -1,1 +1,2 @@
-["administration of justice","judicature"]
+administration of justice
+judicature

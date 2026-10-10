@@ -1,1 +1,2 @@
-["graduate","high school graduate"]
+graduate
+high school graduate

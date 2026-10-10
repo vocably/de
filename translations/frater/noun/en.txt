@@ -1,1 +1,2 @@
-["friar","seminarian"]
+friar
+seminarian

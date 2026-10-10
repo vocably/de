@@ -1,1 +1,3 @@
-["dynamic","lively","energetic"]
+dynamic
+lively
+energetic

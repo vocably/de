@@ -1,1 +1,3 @@
-["disturbing","annoying","bothersome"]
+disturbing
+annoying
+bothersome

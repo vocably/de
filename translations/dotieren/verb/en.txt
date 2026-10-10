@@ -1,1 +1,2 @@
-["endow","remunerate"]
+endow
+remunerate

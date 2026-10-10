@@ -1,1 +1,2 @@
-["injurious","offensive"]
+injurious
+offensive

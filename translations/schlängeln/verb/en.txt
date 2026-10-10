@@ -1,1 +1,2 @@
-["to wind","to meander"]
+to wind
+to meander

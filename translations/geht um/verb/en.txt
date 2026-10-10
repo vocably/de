@@ -1,1 +1,3 @@
-["is about","is a matter of","concerns"]
+is about
+is a matter of
+concerns

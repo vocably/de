@@ -1,1 +1,3 @@
-["advertises","campaigns","solicits"]
+advertises
+campaigns
+solicits

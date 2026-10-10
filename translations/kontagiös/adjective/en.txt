@@ -1,1 +1,2 @@
-["contagious","infectious"]
+contagious
+infectious

@@ -1,1 +1,2 @@
-["audio puzzle","sound puzzle"]
+audio puzzle
+sound puzzle

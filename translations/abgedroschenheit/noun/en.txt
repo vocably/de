@@ -1,1 +1,2 @@
-["triteness","hackneyedness"]
+triteness
+hackneyedness

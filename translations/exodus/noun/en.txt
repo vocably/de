@@ -1,1 +1,2 @@
-["exodus","departure"]
+exodus
+departure

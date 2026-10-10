@@ -1,1 +1,3 @@
-["material","physical","financial"]
+material
+physical
+financial

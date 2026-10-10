@@ -1,1 +1,2 @@
-["tipsy","buzzed"]
+tipsy
+buzzed

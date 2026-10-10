@@ -1,1 +1,3 @@
-["tender","dinghy","bid"]
+tender
+dinghy
+bid

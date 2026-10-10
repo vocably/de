@@ -1,1 +1,2 @@
-["That's final.","That's it."]
+That's final.
+That's it.

@@ -1,1 +1,2 @@
-["belittled","demeaned"]
+belittled
+demeaned

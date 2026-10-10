@@ -1,1 +1,2 @@
-["meeting point","rendezvous point"]
+meeting point
+rendezvous point

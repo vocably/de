@@ -1,1 +1,2 @@
-["undervalued","underestimated"]
+undervalued
+underestimated

@@ -1,1 +1,2 @@
-["love of adventure","adventurousness"]
+love of adventure
+adventurousness

@@ -1,1 +1,2 @@
-["tartan pattern","plaid pattern"]
+tartan pattern
+plaid pattern

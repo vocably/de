@@ -1,1 +1,3 @@
-["ally","unite","join forces"]
+ally
+unite
+join forces

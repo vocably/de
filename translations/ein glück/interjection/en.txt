@@ -1,1 +1,2 @@
-["Thank goodness!","What a relief!"]
+Thank goodness!
+What a relief!

@@ -1,1 +1,3 @@
-["executes","carries out","performs"]
+executes
+carries out
+performs

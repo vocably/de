@@ -1,1 +1,2 @@
-["ladle","soup ladle"]
+ladle
+soup ladle

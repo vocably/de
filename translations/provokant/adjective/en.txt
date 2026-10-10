@@ -1,1 +1,2 @@
-["provocative","challenging"]
+provocative
+challenging

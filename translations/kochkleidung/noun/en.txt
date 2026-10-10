@@ -1,1 +1,2 @@
-["chef's uniform","cook's clothes"]
+chef's uniform
+cook's clothes

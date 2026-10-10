@@ -1,1 +1,2 @@
-["enroll","matriculate"]
+enroll
+matriculate

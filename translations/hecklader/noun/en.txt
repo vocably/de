@@ -1,1 +1,2 @@
-["backhoe","rear loader"]
+backhoe
+rear loader

@@ -1,1 +1,2 @@
-["xenophobia","fear of foreigners"]
+xenophobia
+fear of foreigners

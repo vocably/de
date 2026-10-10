@@ -1,1 +1,2 @@
-["encapsulate","enclose"]
+encapsulate
+enclose

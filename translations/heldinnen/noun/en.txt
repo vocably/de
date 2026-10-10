@@ -1,1 +1,1 @@
-["heroines"]
+heroines

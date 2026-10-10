@@ -1,1 +1,2 @@
-["moralized","lectured"]
+moralized
+lectured

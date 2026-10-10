@@ -1,1 +1,2 @@
-["apprenticeship","training period"]
+apprenticeship
+training period

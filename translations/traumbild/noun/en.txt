@@ -1,1 +1,2 @@
-["dream image","vision"]
+dream image
+vision

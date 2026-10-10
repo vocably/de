@@ -1,1 +1,2 @@
-["beech forest","Buchenwald"]
+beech forest
+Buchenwald

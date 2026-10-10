@@ -1,1 +1,2 @@
-["spa area","wellness area"]
+spa area
+wellness area

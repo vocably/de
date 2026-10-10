@@ -1,1 +1,2 @@
-["visitation","visit"]
+visitation
+visit

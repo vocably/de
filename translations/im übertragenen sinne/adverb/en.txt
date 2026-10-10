@@ -1,1 +1,2 @@
-["figuratively","metaphorically"]
+figuratively
+metaphorically

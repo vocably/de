@@ -1,1 +1,2 @@
-["radar","radar unit"]
+radar
+radar unit

@@ -1,1 +1,2 @@
-["blab","spill the beans"]
+blab
+spill the beans

@@ -1,1 +1,2 @@
-["old-age pension","retirement pension"]
+old-age pension
+retirement pension

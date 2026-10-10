@@ -1,1 +1,2 @@
-["comforting","consoling"]
+comforting
+consoling

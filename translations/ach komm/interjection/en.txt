@@ -1,1 +1,3 @@
-["oh come on","come on","oh, come on"]
+oh come on
+come on
+oh, come on

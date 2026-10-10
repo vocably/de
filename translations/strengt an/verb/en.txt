@@ -1,1 +1,2 @@
-["strains","tires"]
+strains
+tires

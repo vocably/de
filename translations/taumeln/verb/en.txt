@@ -1,1 +1,2 @@
-["to stagger","to lurch"]
+to stagger
+to lurch

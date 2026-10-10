@@ -1,1 +1,2 @@
-["journalist","press officer"]
+journalist
+press officer

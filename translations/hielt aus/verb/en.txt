@@ -1,1 +1,3 @@
-["endured","tolerated","put up with"]
+endured
+tolerated
+put up with

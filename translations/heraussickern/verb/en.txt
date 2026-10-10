@@ -1,1 +1,2 @@
-["to seep out","to leak out"]
+to seep out
+to leak out

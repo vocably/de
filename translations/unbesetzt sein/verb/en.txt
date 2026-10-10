@@ -1,1 +1,3 @@
-["to be vacant","to be unoccupied","to be free"]
+to be vacant
+to be unoccupied
+to be free

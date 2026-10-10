@@ -1,1 +1,2 @@
-["clumsy person","awkward person"]
+clumsy person
+awkward person

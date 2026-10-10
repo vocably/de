@@ -1,1 +1,2 @@
-["main power","major power"]
+main power
+major power

@@ -1,1 +1,2 @@
-["numbered","counted"]
+numbered
+counted

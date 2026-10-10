@@ -1,1 +1,3 @@
-["referred to","related to","was about"]
+referred to
+related to
+was about

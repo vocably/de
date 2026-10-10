@@ -1,1 +1,3 @@
-["hip","trendy","fashionable"]
+hip
+trendy
+fashionable

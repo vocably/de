@@ -1,1 +1,3 @@
-["to kid someone","to fool someone","to pull someone's leg"]
+to kid someone
+to fool someone
+to pull someone's leg

@@ -1,1 +1,2 @@
-["loser","underdog"]
+loser
+underdog

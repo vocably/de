@@ -1,1 +1,2 @@
-["sniffing","snooping"]
+sniffing
+snooping

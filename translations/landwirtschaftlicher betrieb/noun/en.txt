@@ -1,1 +1,2 @@
-["farm","agricultural business"]
+farm
+agricultural business

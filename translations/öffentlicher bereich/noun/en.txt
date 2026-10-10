@@ -1,1 +1,2 @@
-["public sector","public domain"]
+public sector
+public domain

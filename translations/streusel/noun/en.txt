@@ -1,1 +1,2 @@
-["crumbles","sprinkles"]
+crumbles
+sprinkles

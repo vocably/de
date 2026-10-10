@@ -1,1 +1,2 @@
-["abdomen","belly"]
+abdomen
+belly

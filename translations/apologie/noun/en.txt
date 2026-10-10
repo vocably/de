@@ -1,1 +1,2 @@
-["apology","apologia"]
+apology
+apologia

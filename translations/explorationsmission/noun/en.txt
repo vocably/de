@@ -1,1 +1,2 @@
-["exploration mission","exploratory mission"]
+exploration mission
+exploratory mission

@@ -1,1 +1,2 @@
-["withdrawal symptom","withdrawal"]
+withdrawal symptom
+withdrawal

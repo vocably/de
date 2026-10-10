@@ -1,1 +1,2 @@
-["area management","divisional management"]
+area management
+divisional management

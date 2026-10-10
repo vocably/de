@@ -1,1 +1,2 @@
-["compostable waste","organic waste"]
+compostable waste
+organic waste

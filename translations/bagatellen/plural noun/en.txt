@@ -1,1 +1,3 @@
-["trivialities","trifles","minor matters"]
+trivialities
+trifles
+minor matters

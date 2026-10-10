@@ -1,1 +1,2 @@
-["to scratch","to deface"]
+to scratch
+to deface

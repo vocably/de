@@ -1,1 +1,1 @@
-["redcurrants"]
+redcurrants

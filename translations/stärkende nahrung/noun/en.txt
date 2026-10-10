@@ -1,1 +1,2 @@
-["tonic food","strengthening food"]
+tonic food
+strengthening food

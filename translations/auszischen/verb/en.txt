@@ -1,1 +1,2 @@
-["to hiss (at)","to escape with a hiss"]
+to hiss (at)
+to escape with a hiss

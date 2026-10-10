@@ -1,1 +1,3 @@
-["contradicts","hinders","is an obstacle to"]
+contradicts
+hinders
+is an obstacle to

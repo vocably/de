@@ -1,1 +1,2 @@
-["printer","print shop worker"]
+printer
+print shop worker

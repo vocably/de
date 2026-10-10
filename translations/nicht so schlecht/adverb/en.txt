@@ -1,1 +1,2 @@
-["not bad","not too bad"]
+not bad
+not too bad

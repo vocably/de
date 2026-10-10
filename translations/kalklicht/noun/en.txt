@@ -1,1 +1,2 @@
-["limelight","calcium light"]
+limelight
+calcium light

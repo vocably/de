@@ -1,1 +1,2 @@
-["lilac","lilac-colored"]
+lilac
+lilac-colored

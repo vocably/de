@@ -1,1 +1,2 @@
-["debauchery","excess"]
+debauchery
+excess

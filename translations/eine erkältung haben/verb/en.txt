@@ -1,1 +1,2 @@
-["have a cold","catch a cold"]
+have a cold
+catch a cold

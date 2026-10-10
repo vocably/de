@@ -1,1 +1,2 @@
-["consistently","consequently"]
+consistently
+consequently

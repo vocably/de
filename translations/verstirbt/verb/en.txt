@@ -1,1 +1,3 @@
-["dies","passes away","perishes"]
+dies
+passes away
+perishes

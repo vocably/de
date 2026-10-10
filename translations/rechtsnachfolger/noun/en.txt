@@ -1,1 +1,2 @@
-["successor","legal successor"]
+successor
+legal successor

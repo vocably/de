@@ -1,1 +1,2 @@
-["crouch","huddle"]
+crouch
+huddle

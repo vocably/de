@@ -1,1 +1,3 @@
-["return","return flow","return line"]
+return
+return flow
+return line

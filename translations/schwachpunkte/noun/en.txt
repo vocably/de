@@ -1,1 +1,2 @@
-["weaknesses","flaws"]
+weaknesses
+flaws

@@ -1,1 +1,2 @@
-["time management","scheduling"]
+time management
+scheduling

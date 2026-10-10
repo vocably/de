@@ -1,1 +1,3 @@
-["drifting apart","diverging","moving apart"]
+drifting apart
+diverging
+moving apart

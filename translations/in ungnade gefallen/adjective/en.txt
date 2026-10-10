@@ -1,1 +1,3 @@
-["disgraced","out of favor","fallen from grace"]
+disgraced
+out of favor
+fallen from grace

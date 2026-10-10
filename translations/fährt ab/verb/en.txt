@@ -1,1 +1,3 @@
-["departs","leaves","is keen on"]
+departs
+leaves
+is keen on

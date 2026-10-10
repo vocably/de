@@ -1,1 +1,3 @@
-["working","laboring","toiling"]
+working
+laboring
+toiling

@@ -1,1 +1,2 @@
-["striving","endeavor"]
+striving
+endeavor

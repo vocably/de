@@ -1,1 +1,3 @@
-["put aside","set aside","disregard"]
+put aside
+set aside
+disregard

@@ -1,1 +1,2 @@
-["turn a blind eye","look the other way"]
+turn a blind eye
+look the other way

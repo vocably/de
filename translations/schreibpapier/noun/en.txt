@@ -1,1 +1,2 @@
-["writing paper","stationery"]
+writing paper
+stationery

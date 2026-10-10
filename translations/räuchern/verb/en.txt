@@ -1,1 +1,2 @@
-["to smoke","to cure"]
+to smoke
+to cure

@@ -1,1 +1,2 @@
-["forehead","front of the head"]
+forehead
+front of the head

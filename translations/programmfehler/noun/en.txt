@@ -1,1 +1,2 @@
-["bug","glitch"]
+bug
+glitch

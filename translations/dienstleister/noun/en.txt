@@ -1,1 +1,2 @@
-["service provider","contractor"]
+service provider
+contractor

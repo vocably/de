@@ -1,1 +1,2 @@
-["myself","I myself"]
+myself
+I myself

@@ -1,1 +1,2 @@
-["applicant","candidate"]
+applicant
+candidate

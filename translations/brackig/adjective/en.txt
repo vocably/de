@@ -1,1 +1,2 @@
-["brackish","foul"]
+brackish
+foul

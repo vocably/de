@@ -1,1 +1,2 @@
-["undergraduate student","freshman"]
+undergraduate student
+freshman

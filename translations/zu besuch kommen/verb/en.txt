@@ -1,1 +1,2 @@
-["to visit","to come over"]
+to visit
+to come over

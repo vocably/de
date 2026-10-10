@@ -1,1 +1,2 @@
-["designed","conceived"]
+designed
+conceived

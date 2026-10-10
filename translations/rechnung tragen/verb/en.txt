@@ -1,1 +1,3 @@
-["take into account","consider","take account of"]
+take into account
+consider
+take account of

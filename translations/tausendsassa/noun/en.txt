@@ -1,1 +1,2 @@
-["jack-of-all-trades","all-rounder"]
+jack-of-all-trades
+all-rounder

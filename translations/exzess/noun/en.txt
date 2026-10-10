@@ -1,1 +1,2 @@
-["excess","spree"]
+excess
+spree

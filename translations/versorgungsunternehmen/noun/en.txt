@@ -1,1 +1,2 @@
-["utility company","public utility"]
+utility company
+public utility

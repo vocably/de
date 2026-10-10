@@ -1,1 +1,2 @@
-["Go away!","Get out!"]
+Go away!
+Get out!

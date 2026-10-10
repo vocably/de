@@ -1,1 +1,2 @@
-["parish hall","church hall"]
+parish hall
+church hall

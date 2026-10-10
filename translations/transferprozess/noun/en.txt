@@ -1,1 +1,2 @@
-["transfer process","transfer procedure"]
+transfer process
+transfer procedure

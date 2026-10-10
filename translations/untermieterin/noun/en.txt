@@ -1,1 +1,2 @@
-["subtenant","lodger"]
+subtenant
+lodger

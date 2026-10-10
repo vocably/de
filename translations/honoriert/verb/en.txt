@@ -1,1 +1,2 @@
-["paid","rewarded"]
+paid
+rewarded

@@ -1,1 +1,3 @@
-["to be in a good mood","to be optimistic","to be cheerful"]
+to be in a good mood
+to be optimistic
+to be cheerful

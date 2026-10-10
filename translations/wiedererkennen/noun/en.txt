@@ -1,1 +1,2 @@
-["recognition","identification"]
+recognition
+identification

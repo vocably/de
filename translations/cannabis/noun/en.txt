@@ -1,1 +1,2 @@
-["cannabis","marijuana"]
+cannabis
+marijuana

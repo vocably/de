@@ -1,1 +1,2 @@
-["let off steam","blow off steam"]
+let off steam
+blow off steam

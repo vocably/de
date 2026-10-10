@@ -1,1 +1,3 @@
-["tie","lace","constrict"]
+tie
+lace
+constrict

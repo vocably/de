@@ -1,1 +1,2 @@
-["agricultural products","farm products"]
+agricultural products
+farm products

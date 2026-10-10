@@ -1,1 +1,1 @@
-["nightcap"]
+nightcap

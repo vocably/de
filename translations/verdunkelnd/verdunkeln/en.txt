@@ -1,1 +1,3 @@
-["darkening","obscuring","dimming"]
+darkening
+obscuring
+dimming

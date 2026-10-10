@@ -1,1 +1,2 @@
-["personal data","personally identifiable information"]
+personal data
+personally identifiable information

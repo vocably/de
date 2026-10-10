@@ -1,1 +1,2 @@
-["door handle","latch"]
+door handle
+latch

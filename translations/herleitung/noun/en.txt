@@ -1,1 +1,2 @@
-["derivation","deduction"]
+derivation
+deduction

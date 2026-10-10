@@ -1,1 +1,1 @@
-["toggle switch"]
+toggle switch

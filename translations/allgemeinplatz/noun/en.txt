@@ -1,1 +1,2 @@
-["platitude","cliché"]
+platitude
+cliché

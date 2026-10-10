@@ -1,1 +1,3 @@
-["fool around","mess around","horse around"]
+fool around
+mess around
+horse around

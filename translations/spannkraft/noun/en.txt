@@ -1,1 +1,3 @@
-["elasticity","resilience","springiness"]
+elasticity
+resilience
+springiness

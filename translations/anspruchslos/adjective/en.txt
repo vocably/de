@@ -1,1 +1,2 @@
-["undemanding","modest"]
+undemanding
+modest

@@ -1,1 +1,2 @@
-["glowing","ardent"]
+glowing
+ardent

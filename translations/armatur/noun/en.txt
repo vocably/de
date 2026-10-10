@@ -1,1 +1,2 @@
-["faucet","fitting"]
+faucet
+fitting

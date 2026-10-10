@@ -1,1 +1,2 @@
-["hair-thin","razor-thin"]
+hair-thin
+razor-thin

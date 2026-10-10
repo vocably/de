@@ -1,1 +1,2 @@
-["gondola lift","cable car"]
+gondola lift
+cable car

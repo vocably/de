@@ -1,1 +1,3 @@
-["follow","succeed","come after"]
+follow
+succeed
+come after

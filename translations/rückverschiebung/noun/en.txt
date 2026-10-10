@@ -1,1 +1,3 @@
-["postponement","setback","regression"]
+postponement
+setback
+regression

@@ -1,1 +1,2 @@
-["enlivens","animates"]
+enlivens
+animates

@@ -1,1 +1,2 @@
-["affiliation","association"]
+affiliation
+association

@@ -1,1 +1,2 @@
-["puzzle","test of patience"]
+puzzle
+test of patience

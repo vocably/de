@@ -1,1 +1,2 @@
-["bowls","dishes"]
+bowls
+dishes

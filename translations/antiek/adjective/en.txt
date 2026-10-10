@@ -1,1 +1,2 @@
-["antique","ancient"]
+antique
+ancient

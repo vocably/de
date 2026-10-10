@@ -1,1 +1,2 @@
-["wage war against","fight"]
+wage war against
+fight

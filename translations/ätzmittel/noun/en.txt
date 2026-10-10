@@ -1,1 +1,2 @@
-["corrosive","etchant"]
+corrosive
+etchant

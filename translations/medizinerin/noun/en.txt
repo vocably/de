@@ -1,1 +1,2 @@
-["physician","doctor"]
+physician
+doctor

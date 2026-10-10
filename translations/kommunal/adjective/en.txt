@@ -1,1 +1,2 @@
-["municipal","local"]
+municipal
+local

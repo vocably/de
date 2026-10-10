@@ -1,1 +1,2 @@
-["thriller","suspense novel"]
+thriller
+suspense novel

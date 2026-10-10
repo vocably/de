@@ -1,1 +1,3 @@
-["doubted","questioned","disbelieved"]
+doubted
+questioned
+disbelieved

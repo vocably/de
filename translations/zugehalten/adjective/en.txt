@@ -1,1 +1,2 @@
-["closed","covered"]
+closed
+covered

@@ -1,1 +1,2 @@
-["lampoon","libel"]
+lampoon
+libel

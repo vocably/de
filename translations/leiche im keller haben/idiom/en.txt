@@ -1,1 +1,2 @@
-["have a skeleton in the closet","have a dark secret"]
+have a skeleton in the closet
+have a dark secret

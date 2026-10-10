@@ -1,1 +1,2 @@
-["colorful","brightly colored"]
+colorful
+brightly colored

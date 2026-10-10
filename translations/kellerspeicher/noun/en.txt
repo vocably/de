@@ -1,1 +1,2 @@
-["cellar storage","basement storage"]
+cellar storage
+basement storage

@@ -1,1 +1,2 @@
-["efficiency","degree of efficiency"]
+efficiency
+degree of efficiency

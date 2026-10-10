@@ -1,1 +1,2 @@
-["rise again","be resurrected"]
+rise again
+be resurrected

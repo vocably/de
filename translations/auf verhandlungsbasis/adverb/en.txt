@@ -1,1 +1,2 @@
-["negotiable","on a negotiation basis"]
+negotiable
+on a negotiation basis

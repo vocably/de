@@ -1,1 +1,3 @@
-["to prune","to curtail","to circumcise"]
+to prune
+to curtail
+to circumcise

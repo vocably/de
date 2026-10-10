@@ -1,1 +1,2 @@
-["some time ago","a while ago"]
+some time ago
+a while ago

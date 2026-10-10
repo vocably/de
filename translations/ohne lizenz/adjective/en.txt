@@ -1,1 +1,2 @@
-["unlicensed","unauthorized"]
+unlicensed
+unauthorized

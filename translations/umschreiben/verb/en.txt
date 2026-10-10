@@ -1,1 +1,3 @@
-["rephrase","rewrite","circumscribe"]
+rephrase
+rewrite
+circumscribe

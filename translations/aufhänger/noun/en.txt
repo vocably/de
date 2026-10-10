@@ -1,1 +1,3 @@
-["hanger","hook","pretext"]
+hanger
+hook
+pretext

@@ -1,1 +1,3 @@
-["live","real-time","current"]
+live
+real-time
+current

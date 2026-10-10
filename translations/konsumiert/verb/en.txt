@@ -1,1 +1,3 @@
-["consumes","has consumed","is consuming"]
+consumes
+has consumed
+is consuming

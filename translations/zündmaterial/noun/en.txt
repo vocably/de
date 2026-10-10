@@ -1,1 +1,2 @@
-["kindling","tinder"]
+kindling
+tinder

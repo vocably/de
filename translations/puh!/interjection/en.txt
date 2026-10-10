@@ -1,1 +1,2 @@
-["Phew!","Ugh!"]
+Phew!
+Ugh!

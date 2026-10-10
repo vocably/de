@@ -1,1 +1,2 @@
-["big shot","top dog"]
+big shot
+top dog

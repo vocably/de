@@ -1,1 +1,3 @@
-["loosened","relaxed","eased"]
+loosened
+relaxed
+eased

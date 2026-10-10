@@ -1,1 +1,2 @@
-["paralyze","cripple"]
+paralyze
+cripple

@@ -1,1 +1,2 @@
-["That's all well and good","That's fine and dandy"]
+That's all well and good
+That's fine and dandy

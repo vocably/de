@@ -1,1 +1,2 @@
-["kidnapper","abductor"]
+kidnapper
+abductor

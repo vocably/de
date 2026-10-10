@@ -1,1 +1,2 @@
-["carbonization","carburization"]
+carbonization
+carburization

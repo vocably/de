@@ -1,1 +1,2 @@
-["exciting","arousing"]
+exciting
+arousing

@@ -1,1 +1,2 @@
-["health emergency","health crisis"]
+health emergency
+health crisis

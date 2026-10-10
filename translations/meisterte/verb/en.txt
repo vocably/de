@@ -1,1 +1,2 @@
-["mastered","overcame"]
+mastered
+overcame

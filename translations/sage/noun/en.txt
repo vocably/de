@@ -1,1 +1,2 @@
-["legend","saga"]
+legend
+saga

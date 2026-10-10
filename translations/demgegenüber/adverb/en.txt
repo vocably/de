@@ -1,1 +1,3 @@
-["in contrast","on the other hand","compared to that"]
+in contrast
+on the other hand
+compared to that

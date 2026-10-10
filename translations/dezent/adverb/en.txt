@@ -1,1 +1,2 @@
-["discreetly","subtly"]
+discreetly
+subtly

@@ -1,1 +1,3 @@
-["be legally binding","be legally valid","be legally effective"]
+be legally binding
+be legally valid
+be legally effective

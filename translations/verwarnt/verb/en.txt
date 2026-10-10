@@ -1,1 +1,2 @@
-["warned","cautioned"]
+warned
+cautioned

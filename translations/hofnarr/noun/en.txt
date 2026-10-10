@@ -1,1 +1,2 @@
-["jester","court fool"]
+jester
+court fool

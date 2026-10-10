@@ -1,1 +1,2 @@
-["from memory","by heart"]
+from memory
+by heart

@@ -1,1 +1,2 @@
-["paid off","paid in full"]
+paid off
+paid in full

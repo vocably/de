@@ -1,1 +1,2 @@
-["celebration","commemoration"]
+celebration
+commemoration

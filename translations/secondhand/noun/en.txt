@@ -1,1 +1,2 @@
-["thrift store","secondhand store"]
+thrift store
+secondhand store

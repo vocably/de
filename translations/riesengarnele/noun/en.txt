@@ -1,1 +1,2 @@
-["prawn","jumbo shrimp"]
+prawn
+jumbo shrimp

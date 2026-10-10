@@ -1,1 +1,3 @@
-["to be reprimanded","to be admonished","to be corrected"]
+to be reprimanded
+to be admonished
+to be corrected

@@ -1,1 +1,2 @@
-["century","age"]
+century
+age

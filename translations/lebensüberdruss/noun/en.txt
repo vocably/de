@@ -1,1 +1,2 @@
-["weariness of life","world-weariness"]
+weariness of life
+world-weariness

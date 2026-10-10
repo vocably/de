@@ -1,1 +1,2 @@
-["to roam","to stray"]
+to roam
+to stray

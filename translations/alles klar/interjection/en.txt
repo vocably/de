@@ -1,1 +1,3 @@
-["all right","okay","alright"]
+all right
+okay
+alright

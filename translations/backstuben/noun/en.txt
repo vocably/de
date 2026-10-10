@@ -1,1 +1,2 @@
-["bakeries","bakehouses"]
+bakeries
+bakehouses

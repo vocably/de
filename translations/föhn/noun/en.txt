@@ -1,1 +1,2 @@
-["hair dryer","f"]
+hair dryer
+f

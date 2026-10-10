@@ -1,1 +1,2 @@
-["pounce on","dive into"]
+pounce on
+dive into

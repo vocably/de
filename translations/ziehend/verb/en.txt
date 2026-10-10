@@ -1,1 +1,3 @@
-["pulling","drawing","tugging"]
+pulling
+drawing
+tugging

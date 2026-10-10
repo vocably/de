@@ -1,1 +1,3 @@
-["stray from the path","go astray","lose one's way"]
+stray from the path
+go astray
+lose one's way

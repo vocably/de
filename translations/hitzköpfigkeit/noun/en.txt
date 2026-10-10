@@ -1,1 +1,2 @@
-["hot-headedness","impetuosity"]
+hot-headedness
+impetuosity

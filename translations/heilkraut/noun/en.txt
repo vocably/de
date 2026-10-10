@@ -1,1 +1,2 @@
-["medicinal herb","healing herb"]
+medicinal herb
+healing herb

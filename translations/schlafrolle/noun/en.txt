@@ -1,1 +1,2 @@
-["sleeping pad","bedroll"]
+sleeping pad
+bedroll

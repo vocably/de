@@ -1,1 +1,2 @@
-["periodical","journal"]
+periodical
+journal

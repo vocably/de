@@ -1,1 +1,2 @@
-["to pause","to take a break"]
+to pause
+to take a break

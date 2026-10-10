@@ -1,1 +1,2 @@
-["with difficulty","with effort"]
+with difficulty
+with effort

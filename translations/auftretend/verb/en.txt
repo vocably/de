@@ -1,1 +1,4 @@
-["appearing","occurring","acting","emerging"]
+appearing
+occurring
+acting
+emerging

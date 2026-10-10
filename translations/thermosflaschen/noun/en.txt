@@ -1,1 +1,2 @@
-["thermos bottles","vacuum flasks"]
+thermos bottles
+vacuum flasks

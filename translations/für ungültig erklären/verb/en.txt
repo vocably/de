@@ -1,1 +1,2 @@
-["to invalidate","to annul"]
+to invalidate
+to annul

@@ -1,1 +1,2 @@
-["as a result of","due to"]
+as a result of
+due to

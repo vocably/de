@@ -1,1 +1,2 @@
-["to lace up","to constrict"]
+to lace up
+to constrict

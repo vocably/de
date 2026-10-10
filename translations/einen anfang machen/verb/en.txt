@@ -1,1 +1,3 @@
-["to make a start","to make a beginning","to get something going"]
+to make a start
+to make a beginning
+to get something going

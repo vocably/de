@@ -1,1 +1,2 @@
-["ordinariness","commonness"]
+ordinariness
+commonness

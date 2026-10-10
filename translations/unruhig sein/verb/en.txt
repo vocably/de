@@ -1,1 +1,3 @@
-["to be restless","to be uneasy","to be anxious"]
+to be restless
+to be uneasy
+to be anxious

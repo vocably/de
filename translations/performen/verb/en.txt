@@ -1,1 +1,3 @@
-["perform","function","work"]
+perform
+function
+work

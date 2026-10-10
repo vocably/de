@@ -1,1 +1,2 @@
-["handle","grip"]
+handle
+grip

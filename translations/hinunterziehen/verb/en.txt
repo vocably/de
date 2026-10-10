@@ -1,1 +1,2 @@
-["pull down","drag down"]
+pull down
+drag down

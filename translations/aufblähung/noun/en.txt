@@ -1,1 +1,2 @@
-["bloating","inflation"]
+bloating
+inflation

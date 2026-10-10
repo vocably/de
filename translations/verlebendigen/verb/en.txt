@@ -1,1 +1,2 @@
-["enliven","animate"]
+enliven
+animate

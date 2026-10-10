@@ -1,1 +1,2 @@
-["demotivate","discourage"]
+demotivate
+discourage

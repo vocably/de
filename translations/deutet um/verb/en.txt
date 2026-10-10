@@ -1,1 +1,2 @@
-["reinterprets","redefines"]
+reinterprets
+redefines

@@ -1,1 +1,3 @@
-["lucrative","profitable","remunerative"]
+lucrative
+profitable
+remunerative

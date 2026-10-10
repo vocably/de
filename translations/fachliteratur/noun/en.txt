@@ -1,1 +1,2 @@
-["specialist literature","technical literature"]
+specialist literature
+technical literature

@@ -1,1 +1,2 @@
-["to gawk","to stare"]
+to gawk
+to stare

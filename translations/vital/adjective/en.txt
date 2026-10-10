@@ -1,1 +1,3 @@
-["vital","essential","crucial"]
+vital
+essential
+crucial

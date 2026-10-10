@@ -1,1 +1,2 @@
-["embarrassed","awkward"]
+embarrassed
+awkward

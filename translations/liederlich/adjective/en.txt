@@ -1,1 +1,2 @@
-["dissolute","sloppy"]
+dissolute
+sloppy

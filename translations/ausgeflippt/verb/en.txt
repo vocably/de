@@ -1,1 +1,3 @@
-["flipped out","freaked out","went crazy"]
+flipped out
+freaked out
+went crazy

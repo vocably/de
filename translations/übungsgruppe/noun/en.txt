@@ -1,1 +1,2 @@
-["study group","practice group"]
+study group
+practice group

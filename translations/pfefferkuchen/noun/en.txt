@@ -1,1 +1,2 @@
-["gingerbread","Pfefferkuchen"]
+gingerbread
+Pfefferkuchen

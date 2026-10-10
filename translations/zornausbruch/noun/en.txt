@@ -1,1 +1,2 @@
-["outburst of anger","fit of rage"]
+outburst of anger
+fit of rage

@@ -1,1 +1,2 @@
-["gaps","spaces"]
+gaps
+spaces

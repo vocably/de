@@ -1,1 +1,2 @@
-["to smoke","to fumigate"]
+to smoke
+to fumigate

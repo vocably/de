@@ -1,1 +1,3 @@
-["incited","stirred up","egged on"]
+incited
+stirred up
+egged on

@@ -1,1 +1,2 @@
-["female neighbors","women next door"]
+female neighbors
+women next door

@@ -1,1 +1,2 @@
-["vise","bench vise"]
+vise
+bench vise

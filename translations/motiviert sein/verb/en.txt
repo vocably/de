@@ -1,1 +1,2 @@
-["to be motivated","to be enthusiastic"]
+to be motivated
+to be enthusiastic

@@ -1,1 +1,2 @@
-["control panel","console"]
+control panel
+console

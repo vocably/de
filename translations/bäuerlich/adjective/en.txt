@@ -1,1 +1,2 @@
-["rural","peasant"]
+rural
+peasant

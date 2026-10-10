@@ -1,1 +1,2 @@
-["sabbatical","research semester"]
+sabbatical
+research semester

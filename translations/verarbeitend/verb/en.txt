@@ -1,1 +1,2 @@
-["processing","manufacturing"]
+processing
+manufacturing

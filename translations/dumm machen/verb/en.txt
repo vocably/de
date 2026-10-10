@@ -1,1 +1,3 @@
-["to fool","to confuse","to play dumb"]
+to fool
+to confuse
+to play dumb

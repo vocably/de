@@ -1,1 +1,2 @@
-["deliberated","consulted"]
+deliberated
+consulted

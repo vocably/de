@@ -1,1 +1,2 @@
-["emergency vehicle","response vehicle"]
+emergency vehicle
+response vehicle

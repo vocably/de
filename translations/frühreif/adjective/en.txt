@@ -1,1 +1,2 @@
-["precocious","early-maturing"]
+precocious
+early-maturing

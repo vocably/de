@@ -1,1 +1,2 @@
-["relieve pressure","reduce stress"]
+relieve pressure
+reduce stress

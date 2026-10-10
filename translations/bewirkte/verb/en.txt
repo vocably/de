@@ -1,1 +1,3 @@
-["caused","effected","brought about"]
+caused
+effected
+brought about

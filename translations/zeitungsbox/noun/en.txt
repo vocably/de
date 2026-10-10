@@ -1,1 +1,2 @@
-["newspaper box","paperboy bag"]
+newspaper box
+paperboy bag

@@ -1,1 +1,3 @@
-["stabbed","stung","pricked"]
+stabbed
+stung
+pricked

@@ -1,1 +1,2 @@
-["polluter","contaminator"]
+polluter
+contaminator

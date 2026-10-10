@@ -1,1 +1,2 @@
-["company-related","firm-specific"]
+company-related
+firm-specific

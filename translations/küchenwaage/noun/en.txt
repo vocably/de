@@ -1,1 +1,2 @@
-["kitchen scale","kitchen scales"]
+kitchen scale
+kitchen scales

@@ -1,1 +1,2 @@
-["camel","clumsy oaf"]
+camel
+clumsy oaf

@@ -1,1 +1,3 @@
-["questioning","inquisitive","probing"]
+questioning
+inquisitive
+probing

@@ -1,1 +1,3 @@
-["stem from","originate from","be due to"]
+stem from
+originate from
+be due to

@@ -1,1 +1,2 @@
-["vine-covered roof","arbor"]
+vine-covered roof
+arbor

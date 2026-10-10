@@ -1,1 +1,2 @@
-["triviality","minor matter"]
+triviality
+minor matter

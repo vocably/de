@@ -1,1 +1,2 @@
-["area of responsibility","sphere of duty"]
+area of responsibility
+sphere of duty

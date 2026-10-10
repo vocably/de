@@ -1,1 +1,2 @@
-["pointed at","indicated"]
+pointed at
+indicated

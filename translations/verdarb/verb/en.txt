@@ -1,1 +1,3 @@
-["spoiled","went bad","corrupted"]
+spoiled
+went bad
+corrupted

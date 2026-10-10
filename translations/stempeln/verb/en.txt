@@ -1,1 +1,3 @@
-["to stamp","to punch in/out","to brand"]
+to stamp
+to punch in/out
+to brand

@@ -1,1 +1,3 @@
-["filters","strains","screens"]
+filters
+strains
+screens

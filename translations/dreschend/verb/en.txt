@@ -1,1 +1,3 @@
-["threshing","flailing","thrashing"]
+threshing
+flailing
+thrashing

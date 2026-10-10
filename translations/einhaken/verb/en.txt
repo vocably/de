@@ -1,1 +1,3 @@
-["to hook in","to interject","to link arms"]
+to hook in
+to interject
+to link arms

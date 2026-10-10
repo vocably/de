@@ -1,1 +1,3 @@
-["is amused","is having fun","is enjoying himself"]
+is amused
+is having fun
+is enjoying himself

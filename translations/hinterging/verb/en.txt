@@ -1,1 +1,3 @@
-["betrayed","deceived","double-crossed"]
+betrayed
+deceived
+double-crossed

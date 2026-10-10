@@ -1,1 +1,2 @@
-["to be vacant","to be open"]
+to be vacant
+to be open

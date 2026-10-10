@@ -1,1 +1,3 @@
-["compensates","makes up for","reimburses"]
+compensates
+makes up for
+reimburses

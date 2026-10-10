@@ -1,1 +1,2 @@
-["fat pot","pocket of fat"]
+fat pot
+pocket of fat

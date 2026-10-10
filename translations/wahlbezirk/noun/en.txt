@@ -1,1 +1,2 @@
-["precinct","electoral district"]
+precinct
+electoral district

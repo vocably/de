@@ -1,1 +1,2 @@
-["suitcase","valise"]
+suitcase
+valise

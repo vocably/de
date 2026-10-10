@@ -1,1 +1,2 @@
-["northern part","north part"]
+northern part
+north part

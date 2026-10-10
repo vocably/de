@@ -1,1 +1,2 @@
-["Lappish","Sami"]
+Lappish
+Sami

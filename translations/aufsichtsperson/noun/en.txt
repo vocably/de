@@ -1,1 +1,2 @@
-["supervisor","supervising person"]
+supervisor
+supervising person

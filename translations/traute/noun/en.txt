@@ -1,1 +1,2 @@
-["confidence","courage"]
+confidence
+courage

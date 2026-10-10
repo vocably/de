@@ -1,1 +1,2 @@
-["plume of steam from a cooling tower","cooling tower plume"]
+plume of steam from a cooling tower
+cooling tower plume

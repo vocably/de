@@ -1,1 +1,2 @@
-["precursor","forerunner"]
+precursor
+forerunner

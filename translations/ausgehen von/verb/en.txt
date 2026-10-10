@@ -1,1 +1,2 @@
-["to assume","to proceed on the assumption of"]
+to assume
+to proceed on the assumption of

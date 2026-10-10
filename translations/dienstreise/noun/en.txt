@@ -1,1 +1,2 @@
-["business trip","work trip"]
+business trip
+work trip

@@ -1,1 +1,2 @@
-["irritated","annoyed"]
+irritated
+annoyed

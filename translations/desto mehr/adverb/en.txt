@@ -1,1 +1,2 @@
-["the more","all the more"]
+the more
+all the more

@@ -1,1 +1,3 @@
-["identifier","ID","identification"]
+identifier
+ID
+identification

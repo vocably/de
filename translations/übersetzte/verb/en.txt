@@ -1,1 +1,3 @@
-["translate","interpret","render"]
+translate
+interpret
+render

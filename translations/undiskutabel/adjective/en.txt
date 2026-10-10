@@ -1,1 +1,3 @@
-["indisputable","undiscussable","not open for discussion"]
+indisputable
+undiscussable
+not open for discussion

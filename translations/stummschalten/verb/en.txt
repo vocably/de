@@ -1,1 +1,2 @@
-["to mute","to silence"]
+to mute
+to silence

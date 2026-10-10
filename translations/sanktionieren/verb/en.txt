@@ -1,1 +1,2 @@
-["sanction","approve"]
+sanction
+approve

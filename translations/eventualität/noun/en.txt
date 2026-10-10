@@ -1,1 +1,2 @@
-["eventuality","contingency"]
+eventuality
+contingency

@@ -1,1 +1,2 @@
-["final result","outcome"]
+final result
+outcome

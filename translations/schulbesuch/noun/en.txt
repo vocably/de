@@ -1,1 +1,2 @@
-["school attendance","attending school"]
+school attendance
+attending school

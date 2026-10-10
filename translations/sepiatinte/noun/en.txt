@@ -1,1 +1,2 @@
-["sepia ink","sepia"]
+sepia ink
+sepia

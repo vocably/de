@@ -1,1 +1,2 @@
-["scarlet","scarlet fever"]
+scarlet
+scarlet fever

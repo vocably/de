@@ -1,1 +1,2 @@
-["to crumple","to crease"]
+to crumple
+to crease

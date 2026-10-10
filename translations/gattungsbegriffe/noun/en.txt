@@ -1,1 +1,2 @@
-["generic terms","superordinate terms"]
+generic terms
+superordinate terms

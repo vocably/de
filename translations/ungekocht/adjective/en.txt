@@ -1,1 +1,2 @@
-["uncooked","raw"]
+uncooked
+raw

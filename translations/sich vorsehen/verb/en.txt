@@ -1,1 +1,2 @@
-["to be careful","to watch out"]
+to be careful
+to watch out

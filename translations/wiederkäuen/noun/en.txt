@@ -1,1 +1,2 @@
-["rumination","repetition"]
+rumination
+repetition

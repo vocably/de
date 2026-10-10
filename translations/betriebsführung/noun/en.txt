@@ -1,1 +1,2 @@
-["management","business management"]
+management
+business management

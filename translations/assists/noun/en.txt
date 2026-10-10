@@ -1,1 +1,2 @@
-["assists","helpers"]
+assists
+helpers

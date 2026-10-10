@@ -1,1 +1,2 @@
-["deduce","infer"]
+deduce
+infer

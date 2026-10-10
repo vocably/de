@@ -1,1 +1,2 @@
-["to snap at","to bark at"]
+to snap at
+to bark at

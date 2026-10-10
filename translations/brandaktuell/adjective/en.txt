@@ -1,1 +1,3 @@
-["red-hot","brand-new","hot off the press"]
+red-hot
+brand-new
+hot off the press

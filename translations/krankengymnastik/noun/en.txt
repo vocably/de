@@ -1,1 +1,2 @@
-["physical therapy","physiotherapy"]
+physical therapy
+physiotherapy

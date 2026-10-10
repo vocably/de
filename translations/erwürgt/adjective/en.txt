@@ -1,1 +1,2 @@
-["strangled","choked"]
+strangled
+choked

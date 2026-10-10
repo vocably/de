@@ -1,1 +1,3 @@
-["enter","come into effect","join"]
+enter
+come into effect
+join

@@ -1,1 +1,4 @@
-["burdened","strained","charged","incriminated"]
+burdened
+strained
+charged
+incriminated

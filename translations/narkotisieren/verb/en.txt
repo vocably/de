@@ -1,1 +1,2 @@
-["to anesthetize","to narcotize"]
+to anesthetize
+to narcotize

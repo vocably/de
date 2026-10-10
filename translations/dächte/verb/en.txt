@@ -1,1 +1,2 @@
-["thought","would think"]
+thought
+would think

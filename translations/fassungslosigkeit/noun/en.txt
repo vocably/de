@@ -1,1 +1,2 @@
-["speechlessness","dismay"]
+speechlessness
+dismay

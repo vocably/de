@@ -1,1 +1,2 @@
-["tend","be prone"]
+tend
+be prone

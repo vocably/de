@@ -1,1 +1,2 @@
-["Bavarian","Bavarian dialect"]
+Bavarian
+Bavarian dialect

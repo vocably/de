@@ -1,1 +1,2 @@
-["industrial magnate","captain of industry"]
+industrial magnate
+captain of industry

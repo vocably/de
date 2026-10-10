@@ -1,1 +1,2 @@
-["content with little","easily satisfied"]
+content with little
+easily satisfied

@@ -1,1 +1,2 @@
-["capital expenditure","investment in tangible assets"]
+capital expenditure
+investment in tangible assets

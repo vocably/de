@@ -1,1 +1,2 @@
-["to stink","to reek"]
+to stink
+to reek

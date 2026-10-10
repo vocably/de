@@ -1,1 +1,2 @@
-["uptrend","upward trend"]
+uptrend
+upward trend

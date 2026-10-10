@@ -1,1 +1,2 @@
-["come home","get home"]
+come home
+get home

@@ -1,1 +1,4 @@
-["fixed","set","arrested","detained"]
+fixed
+set
+arrested
+detained

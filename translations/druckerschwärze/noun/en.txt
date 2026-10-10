@@ -1,1 +1,2 @@
-["printing ink","printer's ink"]
+printing ink
+printer's ink

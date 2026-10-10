@@ -1,1 +1,2 @@
-["subtenant","temporary tenant"]
+subtenant
+temporary tenant

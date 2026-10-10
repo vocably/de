@@ -1,1 +1,2 @@
-["fainting spell","syncope"]
+fainting spell
+syncope

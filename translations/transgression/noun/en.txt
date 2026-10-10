@@ -1,1 +1,3 @@
-["transgression","violation","infringement"]
+transgression
+violation
+infringement

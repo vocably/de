@@ -1,1 +1,2 @@
-["florin","guilder"]
+florin
+guilder

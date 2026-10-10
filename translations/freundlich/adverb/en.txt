@@ -1,1 +1,2 @@
-["kindly","friendly"]
+kindly
+friendly

@@ -1,1 +1,2 @@
-["to ripple","to curl"]
+to ripple
+to curl

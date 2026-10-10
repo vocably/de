@@ -1,1 +1,2 @@
-["thawing","dewy"]
+thawing
+dewy

@@ -1,1 +1,2 @@
-["in the middle","in the center"]
+in the middle
+in the center

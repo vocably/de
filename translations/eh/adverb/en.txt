@@ -1,1 +1,3 @@
-["anyway","anyhow","already"]
+anyway
+anyhow
+already

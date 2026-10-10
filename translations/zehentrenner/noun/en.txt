@@ -1,1 +1,2 @@
-["flip-flop","toe separator"]
+flip-flop
+toe separator

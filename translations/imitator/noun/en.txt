@@ -1,1 +1,2 @@
-["imitator","mimic"]
+imitator
+mimic

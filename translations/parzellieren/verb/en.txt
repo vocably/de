@@ -1,1 +1,2 @@
-["to parcel out","to divide into plots"]
+to parcel out
+to divide into plots

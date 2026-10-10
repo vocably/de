@@ -1,1 +1,2 @@
-["to fall asleep","to doze off"]
+to fall asleep
+to doze off

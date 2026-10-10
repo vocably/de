@@ -1,1 +1,2 @@
-["yawn","gaping"]
+yawn
+gaping

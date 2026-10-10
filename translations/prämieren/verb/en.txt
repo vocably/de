@@ -1,1 +1,2 @@
-["award","give a prize"]
+award
+give a prize

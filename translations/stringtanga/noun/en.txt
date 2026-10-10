@@ -1,1 +1,2 @@
-["thong","G-string"]
+thong
+G-string

@@ -1,1 +1,2 @@
-["forestomach","proventriculus"]
+forestomach
+proventriculus

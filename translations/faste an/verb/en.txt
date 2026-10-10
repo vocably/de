@@ -1,1 +1,3 @@
-["touched","grabbed","took"]
+touched
+grabbed
+took

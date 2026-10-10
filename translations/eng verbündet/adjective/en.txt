@@ -1,1 +1,2 @@
-["allied","in league"]
+allied
+in league

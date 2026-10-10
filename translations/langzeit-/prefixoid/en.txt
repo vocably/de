@@ -1,1 +1,2 @@
-["long-term","long-range"]
+long-term
+long-range

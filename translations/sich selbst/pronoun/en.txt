@@ -1,1 +1,2 @@
-["himself","herself"]
+himself
+herself

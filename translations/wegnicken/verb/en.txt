@@ -1,1 +1,2 @@
-["doze off","nod off"]
+doze off
+nod off

@@ -1,1 +1,2 @@
-["triggers","causes"]
+triggers
+causes

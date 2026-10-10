@@ -1,1 +1,2 @@
-["cunning","shrewdness"]
+cunning
+shrewdness

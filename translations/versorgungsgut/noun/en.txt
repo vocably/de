@@ -1,1 +1,2 @@
-["supply item","provision"]
+supply item
+provision

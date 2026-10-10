@@ -1,1 +1,3 @@
-["up-to-date","current","modern"]
+up-to-date
+current
+modern

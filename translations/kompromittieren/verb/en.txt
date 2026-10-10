@@ -1,1 +1,3 @@
-["compromise","discredit","incriminate"]
+compromise
+discredit
+incriminate

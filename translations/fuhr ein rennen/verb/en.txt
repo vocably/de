@@ -1,1 +1,2 @@
-["raced","competed"]
+raced
+competed

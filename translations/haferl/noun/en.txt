@@ -1,1 +1,2 @@
-["mug","cup"]
+mug
+cup

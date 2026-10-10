@@ -1,1 +1,2 @@
-["to clear the way","to pave the way"]
+to clear the way
+to pave the way

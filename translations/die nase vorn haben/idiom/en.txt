@@ -1,1 +1,3 @@
-["to be ahead","to be in the lead","to be one step ahead"]
+to be ahead
+to be in the lead
+to be one step ahead

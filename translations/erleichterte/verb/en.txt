@@ -1,1 +1,3 @@
-["eased","relieved","facilitated"]
+eased
+relieved
+facilitated

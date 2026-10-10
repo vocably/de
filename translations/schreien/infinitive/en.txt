@@ -1,1 +1,2 @@
-["to scream","to shout"]
+to scream
+to shout

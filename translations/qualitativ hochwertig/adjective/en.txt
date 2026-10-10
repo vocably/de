@@ -1,1 +1,2 @@
-["high-quality","of high quality"]
+high-quality
+of high quality

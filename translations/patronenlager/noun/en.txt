@@ -1,1 +1,2 @@
-["magazine","cartridge chamber"]
+magazine
+cartridge chamber

@@ -1,1 +1,2 @@
-["until","by the time that"]
+until
+by the time that

@@ -1,1 +1,2 @@
-["venom","animal poison"]
+venom
+animal poison

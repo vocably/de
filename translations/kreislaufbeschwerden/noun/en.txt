@@ -1,1 +1,2 @@
-["circulatory problems","dizziness"]
+circulatory problems
+dizziness

@@ -1,1 +1,2 @@
-["to cream","to waste"]
+to cream
+to waste

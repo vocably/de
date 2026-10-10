@@ -1,1 +1,2 @@
-["emaciated","haggard"]
+emaciated
+haggard

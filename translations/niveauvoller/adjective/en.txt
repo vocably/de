@@ -1,1 +1,3 @@
-["sophisticated","high-class","high-quality"]
+sophisticated
+high-class
+high-quality

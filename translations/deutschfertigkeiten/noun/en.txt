@@ -1,1 +1,2 @@
-["German skills","German language skills"]
+German skills
+German language skills

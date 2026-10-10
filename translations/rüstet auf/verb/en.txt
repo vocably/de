@@ -1,1 +1,2 @@
-["arms itself","prepares itself"]
+arms itself
+prepares itself

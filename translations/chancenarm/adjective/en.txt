@@ -1,1 +1,2 @@
-["with few opportunities","with poor prospects"]
+with few opportunities
+with poor prospects

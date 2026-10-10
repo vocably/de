@@ -1,1 +1,2 @@
-["instruct","teach"]
+instruct
+teach

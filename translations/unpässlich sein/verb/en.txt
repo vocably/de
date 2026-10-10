@@ -1,1 +1,3 @@
-["to be indisposed","to be unwell","to be under the weather"]
+to be indisposed
+to be unwell
+to be under the weather

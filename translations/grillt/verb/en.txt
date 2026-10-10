@@ -1,1 +1,2 @@
-["grills","barbecues"]
+grills
+barbecues

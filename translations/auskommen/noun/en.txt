@@ -1,1 +1,3 @@
-["livelihood","subsistence","income"]
+livelihood
+subsistence
+income

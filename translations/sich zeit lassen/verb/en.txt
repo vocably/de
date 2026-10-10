@@ -1,1 +1,3 @@
-["take one's time","take your time","take his time"]
+take one's time
+take your time
+take his time

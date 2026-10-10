@@ -1,1 +1,2 @@
-["coffin maker","casket maker"]
+coffin maker
+casket maker

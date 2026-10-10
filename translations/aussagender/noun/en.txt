@@ -1,1 +1,2 @@
-["declarant","deponent"]
+declarant
+deponent

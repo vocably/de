@@ -1,1 +1,1 @@
-["sequel"]
+sequel

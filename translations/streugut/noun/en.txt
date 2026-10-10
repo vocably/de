@@ -1,1 +1,2 @@
-["grit","spreading material"]
+grit
+spreading material

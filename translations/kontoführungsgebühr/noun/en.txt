@@ -1,1 +1,2 @@
-["account maintenance fee","account management fee"]
+account maintenance fee
+account management fee

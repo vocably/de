@@ -1,1 +1,2 @@
-["float","parade float"]
+float
+parade float

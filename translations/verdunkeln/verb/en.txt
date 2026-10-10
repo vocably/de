@@ -1,1 +1,3 @@
-["to darken","to obscure","to black out"]
+to darken
+to obscure
+to black out

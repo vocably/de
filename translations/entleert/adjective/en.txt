@@ -1,1 +1,3 @@
-["empty","emptied","drained"]
+empty
+emptied
+drained

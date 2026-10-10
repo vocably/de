@@ -1,1 +1,2 @@
-["insidiousness","perfidy"]
+insidiousness
+perfidy

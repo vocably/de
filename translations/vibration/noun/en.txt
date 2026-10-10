@@ -1,1 +1,2 @@
-["vibration","oscillation"]
+vibration
+oscillation

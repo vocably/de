@@ -1,1 +1,2 @@
-["blackboard eraser","chalkboard eraser"]
+blackboard eraser
+chalkboard eraser

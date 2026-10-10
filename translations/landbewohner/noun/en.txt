@@ -1,1 +1,2 @@
-["country dweller","rural inhabitant"]
+country dweller
+rural inhabitant

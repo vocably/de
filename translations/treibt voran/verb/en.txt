@@ -1,1 +1,2 @@
-["drives forward","promotes"]
+drives forward
+promotes

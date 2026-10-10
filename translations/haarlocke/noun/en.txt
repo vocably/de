@@ -1,1 +1,2 @@
-["curl","lock of hair"]
+curl
+lock of hair

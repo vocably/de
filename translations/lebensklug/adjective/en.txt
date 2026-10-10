@@ -1,1 +1,2 @@
-["wise","prudent"]
+wise
+prudent

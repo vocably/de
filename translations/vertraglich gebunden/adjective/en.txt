@@ -1,1 +1,2 @@
-["contractually bound","under contract"]
+contractually bound
+under contract

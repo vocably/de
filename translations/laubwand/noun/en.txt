@@ -1,1 +1,2 @@
-["foliage wall","leaf wall"]
+foliage wall
+leaf wall

@@ -1,1 +1,2 @@
-["fear of missing out","FOMO"]
+fear of missing out
+FOMO

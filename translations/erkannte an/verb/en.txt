@@ -1,1 +1,3 @@
-["acknowledged","recognized","accredited"]
+acknowledged
+recognized
+accredited

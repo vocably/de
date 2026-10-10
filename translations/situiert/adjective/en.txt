@@ -1,1 +1,2 @@
-["situated","well-off"]
+situated
+well-off

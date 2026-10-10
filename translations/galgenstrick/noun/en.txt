@@ -1,1 +1,2 @@
-["hangman's noose","rascal"]
+hangman's noose
+rascal

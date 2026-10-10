@@ -1,1 +1,2 @@
-["areas of responsibility","purviews"]
+areas of responsibility
+purviews

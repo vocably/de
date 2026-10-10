@@ -1,1 +1,2 @@
-["violet","purple"]
+violet
+purple

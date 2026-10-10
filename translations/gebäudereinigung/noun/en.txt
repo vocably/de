@@ -1,1 +1,2 @@
-["building cleaning","janitorial service"]
+building cleaning
+janitorial service

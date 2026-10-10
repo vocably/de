@@ -1,1 +1,2 @@
-["medicine","art of healing"]
+medicine
+art of healing

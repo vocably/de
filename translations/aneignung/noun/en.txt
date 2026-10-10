@@ -1,1 +1,2 @@
-["appropriation","acquisition"]
+appropriation
+acquisition

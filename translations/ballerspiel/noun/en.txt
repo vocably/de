@@ -1,1 +1,2 @@
-["shooter game","shooting game"]
+shooter game
+shooting game

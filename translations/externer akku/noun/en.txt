@@ -1,1 +1,2 @@
-["power bank","portable charger"]
+power bank
+portable charger

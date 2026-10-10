@@ -1,1 +1,2 @@
-["treestand","tree seat"]
+treestand
+tree seat

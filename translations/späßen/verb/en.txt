@@ -1,1 +1,2 @@
-["to joke","to kid"]
+to joke
+to kid

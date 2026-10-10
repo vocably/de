@@ -1,1 +1,2 @@
-["all-purpose bag","utility bag"]
+all-purpose bag
+utility bag

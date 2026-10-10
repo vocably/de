@@ -1,1 +1,2 @@
-["reconnaissance mission","intelligence-gathering mission"]
+reconnaissance mission
+intelligence-gathering mission

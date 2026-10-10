@@ -1,1 +1,2 @@
-["newspaper censorship","press censorship"]
+newspaper censorship
+press censorship

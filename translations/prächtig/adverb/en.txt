@@ -1,1 +1,2 @@
-["splendidly","magnificently"]
+splendidly
+magnificently

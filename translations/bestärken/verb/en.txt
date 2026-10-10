@@ -1,1 +1,2 @@
-["strengthen","encourage"]
+strengthen
+encourage

@@ -1,1 +1,2 @@
-["refugee","displaced person"]
+refugee
+displaced person

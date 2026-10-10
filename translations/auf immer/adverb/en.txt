@@ -1,1 +1,3 @@
-["forever","for good","for always"]
+forever
+for good
+for always

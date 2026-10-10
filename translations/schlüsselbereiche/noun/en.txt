@@ -1,1 +1,2 @@
-["key areas","key sectors"]
+key areas
+key sectors

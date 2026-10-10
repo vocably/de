@@ -1,1 +1,2 @@
-["secrete","excrete"]
+secrete
+excrete

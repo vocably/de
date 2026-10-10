@@ -1,1 +1,2 @@
-["disclosure","revelation"]
+disclosure
+revelation

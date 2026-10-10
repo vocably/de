@@ -1,1 +1,2 @@
-["pot scrubber","scourer"]
+pot scrubber
+scourer

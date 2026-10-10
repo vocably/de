@@ -1,1 +1,3 @@
-["surge","billow","heave"]
+surge
+billow
+heave

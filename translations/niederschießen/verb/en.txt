@@ -1,1 +1,2 @@
-["shoot down","gun down"]
+shoot down
+gun down

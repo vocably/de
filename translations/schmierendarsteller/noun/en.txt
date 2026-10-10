@@ -1,1 +1,2 @@
-["ham actor","bad actor"]
+ham actor
+bad actor

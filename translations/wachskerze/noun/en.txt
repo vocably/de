@@ -1,1 +1,2 @@
-["wax candle","taper"]
+wax candle
+taper

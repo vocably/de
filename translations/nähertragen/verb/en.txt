@@ -1,1 +1,2 @@
-["carry closer","bring closer"]
+carry closer
+bring closer

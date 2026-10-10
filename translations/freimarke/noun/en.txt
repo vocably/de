@@ -1,1 +1,2 @@
-["postage stamp","stamp"]
+postage stamp
+stamp

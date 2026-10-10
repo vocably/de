@@ -1,1 +1,2 @@
-["seizure","convulsion"]
+seizure
+convulsion

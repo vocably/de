@@ -1,1 +1,2 @@
-["vote for","cast a vote for"]
+vote for
+cast a vote for

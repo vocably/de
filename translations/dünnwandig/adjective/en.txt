@@ -1,1 +1,1 @@
-["thin-walled"]
+thin-walled

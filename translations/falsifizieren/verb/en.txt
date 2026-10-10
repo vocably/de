@@ -1,1 +1,2 @@
-["falsify","refute"]
+falsify
+refute

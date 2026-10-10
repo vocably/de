@@ -1,1 +1,2 @@
-["allow oneself","permit oneself"]
+allow oneself
+permit oneself

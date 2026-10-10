@@ -1,1 +1,2 @@
-["anesthetize","numb"]
+anesthetize
+numb

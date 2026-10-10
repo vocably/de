@@ -1,1 +1,2 @@
-["properly","duly"]
+properly
+duly

@@ -1,1 +1,2 @@
-["doctorate","doctor's degree"]
+doctorate
+doctor's degree

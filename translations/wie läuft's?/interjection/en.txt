@@ -1,1 +1,2 @@
-["How's it going?","What's up?"]
+How's it going?
+What's up?

@@ -1,1 +1,3 @@
-["to coddle","to pamper","to fondle"]
+to coddle
+to pamper
+to fondle

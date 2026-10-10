@@ -1,1 +1,2 @@
-["military complaint","servicemember complaint"]
+military complaint
+servicemember complaint

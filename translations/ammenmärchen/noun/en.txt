@@ -1,1 +1,2 @@
-["old wives' tale","fairy tale"]
+old wives' tale
+fairy tale

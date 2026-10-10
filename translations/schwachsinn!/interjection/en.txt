@@ -1,1 +1,2 @@
-["Nonsense!","Bullshit!"]
+Nonsense!
+Bullshit!

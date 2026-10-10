@@ -1,1 +1,2 @@
-["to dive headfirst","to plunge headfirst"]
+to dive headfirst
+to plunge headfirst

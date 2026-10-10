@@ -1,1 +1,2 @@
-["tilt","hold at an angle"]
+tilt
+hold at an angle

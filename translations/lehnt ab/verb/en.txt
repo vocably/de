@@ -1,1 +1,2 @@
-["rejects","declines"]
+rejects
+declines

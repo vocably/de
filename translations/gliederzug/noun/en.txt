@@ -1,1 +1,2 @@
-["articulated train","multiple unit train"]
+articulated train
+multiple unit train

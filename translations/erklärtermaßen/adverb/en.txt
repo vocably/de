@@ -1,1 +1,3 @@
-["avowedly","professedly","admittedly"]
+avowedly
+professedly
+admittedly

@@ -1,1 +1,2 @@
-["secrecy","furtiveness"]
+secrecy
+furtiveness

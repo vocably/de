@@ -1,1 +1,2 @@
-["Got it!","Understood!"]
+Got it!
+Understood!

@@ -1,1 +1,3 @@
-["to be connected with","to be related to","to be linked to"]
+to be connected with
+to be related to
+to be linked to

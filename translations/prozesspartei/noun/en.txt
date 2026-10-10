@@ -1,1 +1,2 @@
-["litigant","party to a lawsuit"]
+litigant
+party to a lawsuit

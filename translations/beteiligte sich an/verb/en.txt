@@ -1,1 +1,2 @@
-["participated in","took part in"]
+participated in
+took part in

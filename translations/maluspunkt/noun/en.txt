@@ -1,1 +1,2 @@
-["penalty point","demerit point"]
+penalty point
+demerit point

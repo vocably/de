@@ -1,1 +1,2 @@
-["rifle shot","gunshot"]
+rifle shot
+gunshot

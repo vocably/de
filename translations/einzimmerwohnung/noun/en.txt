@@ -1,1 +1,2 @@
-["studio apartment","studio"]
+studio apartment
+studio

@@ -1,1 +1,2 @@
-["personal computer","PC"]
+personal computer
+PC

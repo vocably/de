@@ -1,1 +1,2 @@
-["travel blanket","lap blanket"]
+travel blanket
+lap blanket

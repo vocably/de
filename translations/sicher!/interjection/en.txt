@@ -1,1 +1,2 @@
-["Sure!","Certainly!"]
+Sure!
+Certainly!

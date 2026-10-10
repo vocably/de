@@ -1,1 +1,2 @@
-["firming","tightening"]
+firming
+tightening

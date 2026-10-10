@@ -1,1 +1,2 @@
-["wiping","swipe"]
+wiping
+swipe

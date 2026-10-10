@@ -1,1 +1,3 @@
-["concisely","succinctly","pithily"]
+concisely
+succinctly
+pithily

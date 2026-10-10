@@ -1,1 +1,2 @@
-["commercial building","office building"]
+commercial building
+office building

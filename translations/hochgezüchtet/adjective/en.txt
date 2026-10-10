@@ -1,1 +1,2 @@
-["high-bred","highly cultivated"]
+high-bred
+highly cultivated

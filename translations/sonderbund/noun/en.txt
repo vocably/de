@@ -1,1 +1,2 @@
-["separate league","special league"]
+separate league
+special league

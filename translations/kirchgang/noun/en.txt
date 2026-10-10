@@ -1,1 +1,2 @@
-["church attendance","going to church"]
+church attendance
+going to church

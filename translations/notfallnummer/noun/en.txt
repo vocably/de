@@ -1,1 +1,2 @@
-["emergency number","emergency telephone number"]
+emergency number
+emergency telephone number

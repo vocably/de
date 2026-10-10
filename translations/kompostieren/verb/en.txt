@@ -1,1 +1,2 @@
-["compost","rot down"]
+compost
+rot down

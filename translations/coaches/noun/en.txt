@@ -1,1 +1,2 @@
-["coaches","trainers"]
+coaches
+trainers

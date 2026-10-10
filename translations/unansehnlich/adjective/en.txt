@@ -1,1 +1,3 @@
-["ugly","unsightly","unprepossessing"]
+ugly
+unsightly
+unprepossessing

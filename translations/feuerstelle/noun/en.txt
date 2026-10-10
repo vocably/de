@@ -1,1 +1,2 @@
-["fireplace","fire pit"]
+fireplace
+fire pit

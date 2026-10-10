@@ -1,1 +1,2 @@
-["internal policy","company policy"]
+internal policy
+company policy

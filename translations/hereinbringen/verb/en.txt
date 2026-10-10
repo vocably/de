@@ -1,1 +1,2 @@
-["bring in","carry in"]
+bring in
+carry in

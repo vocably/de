@@ -1,1 +1,3 @@
-["coming","upcoming","approaching"]
+coming
+upcoming
+approaching

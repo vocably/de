@@ -1,1 +1,3 @@
-["twelve","noon","dozen"]
+twelve
+noon
+dozen

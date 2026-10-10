@@ -1,1 +1,2 @@
-["average wage","average salary"]
+average wage
+average salary

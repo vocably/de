@@ -1,1 +1,2 @@
-["conflict-avoiding","conflict-averse"]
+conflict-avoiding
+conflict-averse

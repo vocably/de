@@ -1,1 +1,2 @@
-["crash into each other","collapse"]
+crash into each other
+collapse

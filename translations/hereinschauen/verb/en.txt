@@ -1,1 +1,2 @@
-["stop by","look in"]
+stop by
+look in

@@ -1,1 +1,3 @@
-["fluctuation","turnover","change"]
+fluctuation
+turnover
+change

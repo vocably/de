@@ -1,1 +1,3 @@
-["guided","managed","escorted"]
+guided
+managed
+escorted

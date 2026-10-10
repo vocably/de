@@ -1,1 +1,2 @@
-["spotting scope","telescope"]
+spotting scope
+telescope

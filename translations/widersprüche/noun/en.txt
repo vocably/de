@@ -1,1 +1,2 @@
-["contradictions","conflicts"]
+contradictions
+conflicts

@@ -1,1 +1,2 @@
-["vehemence","intensity"]
+vehemence
+intensity

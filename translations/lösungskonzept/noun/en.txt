@@ -1,1 +1,2 @@
-["solution concept","concept for a solution"]
+solution concept
+concept for a solution

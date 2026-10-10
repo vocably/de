@@ -1,1 +1,2 @@
-["to chip off","to splinter off"]
+to chip off
+to splinter off

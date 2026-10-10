@@ -1,1 +1,2 @@
-["exhalation","breathing out"]
+exhalation
+breathing out

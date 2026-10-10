@@ -1,1 +1,2 @@
-["read aloud","read out loud"]
+read aloud
+read out loud

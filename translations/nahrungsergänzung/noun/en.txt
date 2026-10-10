@@ -1,1 +1,2 @@
-["dietary supplement","food supplement"]
+dietary supplement
+food supplement

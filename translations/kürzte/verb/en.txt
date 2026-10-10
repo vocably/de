@@ -1,1 +1,3 @@
-["shortened","cut","reduced"]
+shortened
+cut
+reduced

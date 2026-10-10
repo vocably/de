@@ -1,1 +1,3 @@
-["cover","sleeve","jacket"]
+cover
+sleeve
+jacket

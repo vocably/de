@@ -1,1 +1,2 @@
-["permanent presence","lasting presence"]
+permanent presence
+lasting presence

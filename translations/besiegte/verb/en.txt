@@ -1,1 +1,2 @@
-["defeated","overcame"]
+defeated
+overcame

@@ -1,1 +1,2 @@
-["to set the price","to fix the price"]
+to set the price
+to fix the price

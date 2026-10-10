@@ -1,1 +1,2 @@
-["winding","coil"]
+winding
+coil

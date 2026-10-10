@@ -1,1 +1,2 @@
-["contractions","shortenings"]
+contractions
+shortenings

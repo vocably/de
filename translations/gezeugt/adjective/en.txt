@@ -1,1 +1,2 @@
-["begotten","conceived"]
+begotten
+conceived

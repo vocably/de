@@ -1,1 +1,2 @@
-["to snarl","to bare"]
+to snarl
+to bare

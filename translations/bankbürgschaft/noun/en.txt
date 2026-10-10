@@ -1,1 +1,2 @@
-["bank guarantee","letter of credit"]
+bank guarantee
+letter of credit

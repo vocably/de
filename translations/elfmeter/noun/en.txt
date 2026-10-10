@@ -1,1 +1,2 @@
-["penalty kick","penalty"]
+penalty kick
+penalty

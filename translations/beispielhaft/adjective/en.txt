@@ -1,1 +1,3 @@
-["exemplary","as an example","model"]
+exemplary
+as an example
+model

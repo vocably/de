@@ -1,1 +1,2 @@
-["stroke of fate","blow of fate"]
+stroke of fate
+blow of fate

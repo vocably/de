@@ -1,1 +1,2 @@
-["employment opportunity","job opportunity"]
+employment opportunity
+job opportunity

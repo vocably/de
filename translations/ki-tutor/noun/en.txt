@@ -1,1 +1,2 @@
-["AI tutor","AI-powered tutor"]
+AI tutor
+AI-powered tutor

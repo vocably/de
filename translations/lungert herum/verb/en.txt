@@ -1,1 +1,2 @@
-["loiters around","hangs around"]
+loiters around
+hangs around

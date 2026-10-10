@@ -1,1 +1,2 @@
-["deliberation","consultation"]
+deliberation
+consultation

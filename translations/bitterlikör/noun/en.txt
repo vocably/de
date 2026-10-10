@@ -1,1 +1,2 @@
-["bitter liqueur","amaro"]
+bitter liqueur
+amaro

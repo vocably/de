@@ -1,1 +1,3 @@
-["dwindled","waned","faded"]
+dwindled
+waned
+faded

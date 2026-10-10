@@ -1,1 +1,2 @@
-["medical check-up","health check"]
+medical check-up
+health check

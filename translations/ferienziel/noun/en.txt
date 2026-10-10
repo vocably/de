@@ -1,1 +1,2 @@
-["vacation destination","holiday destination"]
+vacation destination
+holiday destination

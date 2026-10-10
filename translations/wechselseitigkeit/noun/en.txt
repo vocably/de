@@ -1,1 +1,2 @@
-["reciprocity","mutuality"]
+reciprocity
+mutuality

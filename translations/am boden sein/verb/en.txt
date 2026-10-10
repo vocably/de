@@ -1,1 +1,3 @@
-["to be down","to be devastated","to be at rock bottom"]
+to be down
+to be devastated
+to be at rock bottom

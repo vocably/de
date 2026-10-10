@@ -1,1 +1,2 @@
-["coffee machine","vending machine"]
+coffee machine
+vending machine

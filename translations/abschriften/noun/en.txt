@@ -1,1 +1,2 @@
-["transcripts","copies"]
+transcripts
+copies

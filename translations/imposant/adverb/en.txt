@@ -1,1 +1,2 @@
-["imposingly","impressively"]
+imposingly
+impressively

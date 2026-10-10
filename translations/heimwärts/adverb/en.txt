@@ -1,1 +1,2 @@
-["homeward","home"]
+homeward
+home

@@ -1,1 +1,2 @@
-["bet on","wager on"]
+bet on
+wager on

@@ -1,1 +1,2 @@
-["impression","impact"]
+impression
+impact

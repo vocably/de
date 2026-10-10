@@ -1,1 +1,2 @@
-["decant","pour off"]
+decant
+pour off

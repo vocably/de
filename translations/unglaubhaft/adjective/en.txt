@@ -1,1 +1,2 @@
-["unbelievable","incredible"]
+unbelievable
+incredible

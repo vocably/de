@@ -1,1 +1,2 @@
-["public sector","public authorities"]
+public sector
+public authorities

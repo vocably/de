@@ -1,1 +1,2 @@
-["sniffer dog","tracker dog"]
+sniffer dog
+tracker dog

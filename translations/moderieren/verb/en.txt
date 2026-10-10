@@ -1,1 +1,2 @@
-["to moderate","to host"]
+to moderate
+to host

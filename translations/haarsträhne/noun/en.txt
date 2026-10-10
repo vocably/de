@@ -1,1 +1,2 @@
-["strand of hair","tress"]
+strand of hair
+tress

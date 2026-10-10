@@ -1,1 +1,2 @@
-["Nonsense!","Rubbish!"]
+Nonsense!
+Rubbish!

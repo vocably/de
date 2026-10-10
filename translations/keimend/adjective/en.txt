@@ -1,1 +1,2 @@
-["germinating","nascent"]
+germinating
+nascent

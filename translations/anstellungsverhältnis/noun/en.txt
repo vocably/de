@@ -1,1 +1,2 @@
-["employment relationship","contract of employment"]
+employment relationship
+contract of employment

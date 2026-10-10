@@ -1,1 +1,2 @@
-["cosmetic case","beauty case"]
+cosmetic case
+beauty case

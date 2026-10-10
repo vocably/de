@@ -1,1 +1,2 @@
-["tree stand","Christmas tree stand"]
+tree stand
+Christmas tree stand

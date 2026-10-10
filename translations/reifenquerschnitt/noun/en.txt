@@ -1,1 +1,2 @@
-["aspect ratio","tire cross-section"]
+aspect ratio
+tire cross-section

@@ -1,1 +1,2 @@
-["Ruhrpott","Ruhr district"]
+Ruhrpott
+Ruhr district

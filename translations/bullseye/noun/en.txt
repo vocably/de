@@ -1,1 +1,2 @@
-["bullseye","dead center"]
+bullseye
+dead center

@@ -1,1 +1,2 @@
-["executed","carried out"]
+executed
+carried out

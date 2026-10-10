@@ -1,1 +1,2 @@
-["one thousand eighty","a thousand eighty"]
+one thousand eighty
+a thousand eighty

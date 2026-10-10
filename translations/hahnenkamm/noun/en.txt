@@ -1,1 +1,3 @@
-["cockscomb","celosia","Hahnenkamm"]
+cockscomb
+celosia
+Hahnenkamm

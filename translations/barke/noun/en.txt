@@ -1,1 +1,2 @@
-["barge","bark"]
+barge
+bark

@@ -1,1 +1,2 @@
-["cutlery tray","cutlery drawer"]
+cutlery tray
+cutlery drawer

@@ -1,1 +1,2 @@
-["lose weight","waste away"]
+lose weight
+waste away

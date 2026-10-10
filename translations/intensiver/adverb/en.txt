@@ -1,1 +1,2 @@
-["more intensely","more intensively"]
+more intensely
+more intensively

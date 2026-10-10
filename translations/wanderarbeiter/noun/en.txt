@@ -1,1 +1,2 @@
-["migrant worker","itinerant worker"]
+migrant worker
+itinerant worker

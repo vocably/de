@@ -1,1 +1,2 @@
-["interchangeable","replaceable"]
+interchangeable
+replaceable

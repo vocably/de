@@ -1,1 +1,2 @@
-["Everything is possible.","Anything is possible."]
+Everything is possible.
+Anything is possible.

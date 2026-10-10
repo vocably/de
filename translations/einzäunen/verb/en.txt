@@ -1,1 +1,2 @@
-["to fence in","to enclose"]
+to fence in
+to enclose

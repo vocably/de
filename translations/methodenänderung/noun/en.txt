@@ -1,1 +1,2 @@
-["method change","change of method"]
+method change
+change of method

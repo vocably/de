@@ -1,1 +1,2 @@
-["daily routine","daily grind"]
+daily routine
+daily grind

@@ -1,1 +1,2 @@
-["resentment","envy"]
+resentment
+envy

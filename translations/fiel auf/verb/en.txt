@@ -1,1 +1,3 @@
-["noticed","realized","struck"]
+noticed
+realized
+struck

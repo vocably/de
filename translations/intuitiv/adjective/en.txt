@@ -1,1 +1,2 @@
-["intuitive","easy to use"]
+intuitive
+easy to use

@@ -1,1 +1,2 @@
-["resolutely","determinedly"]
+resolutely
+determinedly

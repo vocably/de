@@ -1,1 +1,2 @@
-["worldwide","globally"]
+worldwide
+globally

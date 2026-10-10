@@ -1,1 +1,3 @@
-["literally","verbatim","word for word"]
+literally
+verbatim
+word for word

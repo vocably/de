@@ -1,1 +1,2 @@
-["normal case","usual case"]
+normal case
+usual case

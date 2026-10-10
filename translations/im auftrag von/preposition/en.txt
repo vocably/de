@@ -1,1 +1,2 @@
-["on behalf of","by order of"]
+on behalf of
+by order of

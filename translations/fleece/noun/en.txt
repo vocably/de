@@ -1,1 +1,2 @@
-["fleece","fleece (of sheep)"]
+fleece
+fleece (of sheep)

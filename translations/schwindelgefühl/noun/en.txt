@@ -1,1 +1,2 @@
-["dizziness","vertigo"]
+dizziness
+vertigo

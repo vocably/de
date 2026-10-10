@@ -1,1 +1,4 @@
-["to be present","to be in attendance","to be here","to be there"]
+to be present
+to be in attendance
+to be here
+to be there

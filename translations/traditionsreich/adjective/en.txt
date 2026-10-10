@@ -1,1 +1,2 @@
-["traditional","rich in tradition"]
+traditional
+rich in tradition

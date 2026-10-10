@@ -1,1 +1,2 @@
-["interior decorator","room fitter"]
+interior decorator
+room fitter

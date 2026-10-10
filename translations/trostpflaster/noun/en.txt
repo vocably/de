@@ -1,1 +1,2 @@
-["consolation","booby prize"]
+consolation
+booby prize

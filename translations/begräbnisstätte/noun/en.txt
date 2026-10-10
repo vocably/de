@@ -1,1 +1,2 @@
-["burial ground","cemetery"]
+burial ground
+cemetery

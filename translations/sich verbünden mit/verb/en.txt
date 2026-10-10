@@ -1,1 +1,3 @@
-["ally with","join forces with","make common cause with"]
+ally with
+join forces with
+make common cause with

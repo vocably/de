@@ -1,1 +1,2 @@
-["special feature","specific characteristic"]
+special feature
+specific characteristic

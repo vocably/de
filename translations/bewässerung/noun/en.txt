@@ -1,1 +1,2 @@
-["irrigation","watering"]
+irrigation
+watering

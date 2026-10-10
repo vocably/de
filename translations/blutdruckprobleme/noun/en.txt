@@ -1,1 +1,2 @@
-["blood pressure problems","hypertension"]
+blood pressure problems
+hypertension

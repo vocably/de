@@ -1,1 +1,2 @@
-["justification","block format"]
+justification
+block format

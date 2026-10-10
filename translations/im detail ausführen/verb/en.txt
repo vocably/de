@@ -1,1 +1,2 @@
-["explain in detail","elaborate"]
+explain in detail
+elaborate

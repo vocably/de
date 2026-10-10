@@ -1,1 +1,2 @@
-["worn out","threadbare"]
+worn out
+threadbare

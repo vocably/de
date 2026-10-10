@@ -1,1 +1,2 @@
-["parking lot","parking area"]
+parking lot
+parking area

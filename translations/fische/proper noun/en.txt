@@ -1,1 +1,2 @@
-["Pisces","Fish"]
+Pisces
+Fish

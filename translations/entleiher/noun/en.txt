@@ -1,1 +1,2 @@
-["borrower","user"]
+borrower
+user

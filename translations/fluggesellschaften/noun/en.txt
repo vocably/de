@@ -1,1 +1,2 @@
-["airlines","air carriers"]
+airlines
+air carriers

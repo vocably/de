@@ -1,1 +1,2 @@
-["The Tin Drum","Tin Drum"]
+The Tin Drum
+Tin Drum

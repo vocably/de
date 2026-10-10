@@ -1,1 +1,2 @@
-["cheeses","types of cheese"]
+cheeses
+types of cheese

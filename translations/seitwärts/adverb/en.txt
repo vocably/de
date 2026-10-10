@@ -1,1 +1,2 @@
-["sideways","to the side"]
+sideways
+to the side

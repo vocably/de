@@ -1,1 +1,2 @@
-["bad weather","inclement weather"]
+bad weather
+inclement weather

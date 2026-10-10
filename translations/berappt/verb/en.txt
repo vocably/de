@@ -1,1 +1,2 @@
-["paid","defrayed"]
+paid
+defrayed

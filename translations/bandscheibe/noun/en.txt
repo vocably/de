@@ -1,1 +1,2 @@
-["intervertebral disc","slipped disc"]
+intervertebral disc
+slipped disc

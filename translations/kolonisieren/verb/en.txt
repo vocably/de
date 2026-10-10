@@ -1,1 +1,2 @@
-["colonize","settle"]
+colonize
+settle

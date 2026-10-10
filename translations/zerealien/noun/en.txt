@@ -1,1 +1,2 @@
-["cereals","grains"]
+cereals
+grains

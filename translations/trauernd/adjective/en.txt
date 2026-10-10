@@ -1,1 +1,2 @@
-["mourning","grieving"]
+mourning
+grieving

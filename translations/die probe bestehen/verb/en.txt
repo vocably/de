@@ -1,1 +1,2 @@
-["pass the test","stand the test"]
+pass the test
+stand the test

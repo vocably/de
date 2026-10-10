@@ -1,1 +1,2 @@
-["hoarfrost","frost"]
+hoarfrost
+frost

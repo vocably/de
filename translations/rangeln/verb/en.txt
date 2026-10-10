@@ -1,1 +1,2 @@
-["wrestle","scuffle"]
+wrestle
+scuffle

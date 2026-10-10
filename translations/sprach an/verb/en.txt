@@ -1,1 +1,3 @@
-["addressed","appealed to","spoke to"]
+addressed
+appealed to
+spoke to

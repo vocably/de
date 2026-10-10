@@ -1,1 +1,2 @@
-["conscription","draft"]
+conscription
+draft

@@ -1,1 +1,2 @@
-["proved to be","turned out to be"]
+proved to be
+turned out to be

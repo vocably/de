@@ -1,1 +1,2 @@
-["traffic jams","traffic congestion"]
+traffic jams
+traffic congestion

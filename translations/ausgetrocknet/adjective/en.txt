@@ -1,1 +1,2 @@
-["dried out","parched"]
+dried out
+parched

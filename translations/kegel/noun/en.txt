@@ -1,1 +1,3 @@
-["cone","pin","cornet"]
+cone
+pin
+cornet

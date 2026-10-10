@@ -1,1 +1,3 @@
-["fall through","be canceled","not take place"]
+fall through
+be canceled
+not take place

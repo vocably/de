@@ -1,1 +1,3 @@
-["to become blurred","to blur","to become fuzzy"]
+to become blurred
+to blur
+to become fuzzy

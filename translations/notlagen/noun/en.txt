@@ -1,1 +1,2 @@
-["emergencies","distress"]
+emergencies
+distress

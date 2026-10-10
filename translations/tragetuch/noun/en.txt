@@ -1,1 +1,2 @@
-["baby carrier","sling"]
+baby carrier
+sling

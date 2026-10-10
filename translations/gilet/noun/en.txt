@@ -1,1 +1,2 @@
-["vest","waistcoat"]
+vest
+waistcoat

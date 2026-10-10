@@ -1,1 +1,2 @@
-["publication","surrender"]
+publication
+surrender

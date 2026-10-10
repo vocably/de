@@ -1,1 +1,1 @@
-["cost of living"]
+cost of living

@@ -1,1 +1,3 @@
-["to map","to chart","to survey"]
+to map
+to chart
+to survey

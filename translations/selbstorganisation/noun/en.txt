@@ -1,1 +1,2 @@
-["self-organization","self-organisation"]
+self-organization
+self-organisation

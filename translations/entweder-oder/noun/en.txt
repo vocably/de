@@ -1,1 +1,2 @@
-["either-or","dilemma"]
+either-or
+dilemma

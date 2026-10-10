@@ -1,1 +1,2 @@
-["prodigality","wastefulness"]
+prodigality
+wastefulness

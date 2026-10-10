@@ -1,1 +1,2 @@
-["windowsill","ledge"]
+windowsill
+ledge

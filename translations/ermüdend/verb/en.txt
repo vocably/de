@@ -1,1 +1,2 @@
-["tiring","fatiguing"]
+tiring
+fatiguing

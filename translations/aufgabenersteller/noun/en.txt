@@ -1,1 +1,2 @@
-["task creator","assignment creator"]
+task creator
+assignment creator

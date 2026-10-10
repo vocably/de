@@ -1,1 +1,2 @@
-["the same","the aforementioned"]
+the same
+the aforementioned

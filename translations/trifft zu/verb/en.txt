@@ -1,1 +1,2 @@
-["applies","is true"]
+applies
+is true

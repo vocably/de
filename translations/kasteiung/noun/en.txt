@@ -1,1 +1,2 @@
-["chastisement","mortification"]
+chastisement
+mortification

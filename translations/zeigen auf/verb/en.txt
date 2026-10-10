@@ -1,1 +1,2 @@
-["point at","point to"]
+point at
+point to

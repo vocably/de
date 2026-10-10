@@ -1,1 +1,3 @@
-["drove","propelled","spurred on"]
+drove
+propelled
+spurred on

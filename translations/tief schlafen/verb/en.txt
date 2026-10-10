@@ -1,1 +1,2 @@
-["sleep deeply","be fast asleep"]
+sleep deeply
+be fast asleep

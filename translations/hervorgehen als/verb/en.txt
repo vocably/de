@@ -1,1 +1,2 @@
-["emerge as","turn out to be"]
+emerge as
+turn out to be

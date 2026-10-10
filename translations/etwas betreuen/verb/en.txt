@@ -1,1 +1,3 @@
-["to look after","to supervise","to take care of"]
+to look after
+to supervise
+to take care of

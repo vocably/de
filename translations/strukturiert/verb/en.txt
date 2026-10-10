@@ -1,1 +1,2 @@
-["structured","organized"]
+structured
+organized

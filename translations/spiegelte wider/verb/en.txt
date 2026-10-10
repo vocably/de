@@ -1,1 +1,3 @@
-["reflected","mirrored","expressed"]
+reflected
+mirrored
+expressed

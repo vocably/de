@@ -1,1 +1,2 @@
-["to be clear","to clarify"]
+to be clear
+to clarify

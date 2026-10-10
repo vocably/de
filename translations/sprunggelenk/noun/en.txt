@@ -1,1 +1,2 @@
-["ankle","ankle joint"]
+ankle
+ankle joint

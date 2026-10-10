@@ -1,1 +1,2 @@
-["prerogative","privilege"]
+prerogative
+privilege

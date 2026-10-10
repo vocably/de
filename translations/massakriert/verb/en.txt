@@ -1,1 +1,2 @@
-["massacred","butchered"]
+massacred
+butchered

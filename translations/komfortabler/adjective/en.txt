@@ -1,1 +1,2 @@
-["comfortable","comfy"]
+comfortable
+comfy

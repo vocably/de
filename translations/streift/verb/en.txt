@@ -1,1 +1,4 @@
-["grazes","roams","skims","strips"]
+grazes
+roams
+skims
+strips

@@ -1,1 +1,2 @@
-["umbrella brand","corporate brand"]
+umbrella brand
+corporate brand

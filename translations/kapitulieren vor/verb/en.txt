@@ -1,1 +1,2 @@
-["capitulate to","surrender to"]
+capitulate to
+surrender to

@@ -1,1 +1,2 @@
-["shaping","formation"]
+shaping
+formation

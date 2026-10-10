@@ -1,1 +1,2 @@
-["high society","polite society"]
+high society
+polite society

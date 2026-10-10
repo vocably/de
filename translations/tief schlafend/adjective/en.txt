@@ -1,1 +1,2 @@
-["fast asleep","sound asleep"]
+fast asleep
+sound asleep

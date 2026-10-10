@@ -1,1 +1,2 @@
-["That's awesome!","That's wild!"]
+That's awesome!
+That's wild!

@@ -1,1 +1,2 @@
-["pellet","shot"]
+pellet
+shot

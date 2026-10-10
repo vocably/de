@@ -1,1 +1,2 @@
-["kick up dust","cause a stir"]
+kick up dust
+cause a stir

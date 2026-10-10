@@ -1,1 +1,2 @@
-["herbal liqueur","digestif"]
+herbal liqueur
+digestif

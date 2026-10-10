@@ -1,1 +1,2 @@
-["smock dress","pinafore dress"]
+smock dress
+pinafore dress

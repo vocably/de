@@ -1,1 +1,3 @@
-["wisely","cleverly","smartly"]
+wisely
+cleverly
+smartly

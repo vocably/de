@@ -1,1 +1,2 @@
-["confidentiality obligation","duty of confidentiality"]
+confidentiality obligation
+duty of confidentiality

@@ -1,1 +1,2 @@
-["psyllium seed","flea seed"]
+psyllium seed
+flea seed

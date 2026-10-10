@@ -1,1 +1,2 @@
-["time-waster","waster of time"]
+time-waster
+waster of time

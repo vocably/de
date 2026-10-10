@@ -1,1 +1,2 @@
-["correctness","accuracy"]
+correctness
+accuracy

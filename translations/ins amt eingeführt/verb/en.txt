@@ -1,1 +1,2 @@
-["inaugurated","inducted"]
+inaugurated
+inducted

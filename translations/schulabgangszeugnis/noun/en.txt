@@ -1,1 +1,2 @@
-["school-leaving certificate","diploma"]
+school-leaving certificate
+diploma

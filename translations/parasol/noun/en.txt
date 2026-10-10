@@ -1,1 +1,2 @@
-["parasol","sunshade"]
+parasol
+sunshade

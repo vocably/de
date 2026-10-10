@@ -1,1 +1,2 @@
-["to be well attended","to be popular"]
+to be well attended
+to be popular

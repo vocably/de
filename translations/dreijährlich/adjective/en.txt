@@ -1,1 +1,1 @@
-["triennial"]
+triennial

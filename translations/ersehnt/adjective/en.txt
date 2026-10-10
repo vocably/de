@@ -1,1 +1,2 @@
-["longed-for","yearned-for"]
+longed-for
+yearned-for

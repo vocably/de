@@ -1,1 +1,2 @@
-["Seriously?","For real?"]
+Seriously?
+For real?

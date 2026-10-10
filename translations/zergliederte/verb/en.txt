@@ -1,1 +1,2 @@
-["dissected","analyzed"]
+dissected
+analyzed

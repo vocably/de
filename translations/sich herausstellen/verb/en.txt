@@ -1,1 +1,2 @@
-["turn out","prove"]
+turn out
+prove

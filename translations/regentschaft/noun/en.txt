@@ -1,1 +1,2 @@
-["regency","reign"]
+regency
+reign

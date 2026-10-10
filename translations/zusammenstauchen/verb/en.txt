@@ -1,1 +1,2 @@
-["to chew out","to compress"]
+to chew out
+to compress

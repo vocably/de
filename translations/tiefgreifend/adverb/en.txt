@@ -1,1 +1,3 @@
-["profoundly","deeply","far-reaching"]
+profoundly
+deeply
+far-reaching

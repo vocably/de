@@ -1,1 +1,3 @@
-["to dim","to dip","to fade out"]
+to dim
+to dip
+to fade out

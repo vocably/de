@@ -1,1 +1,2 @@
-["language proficiency","mastery of a language"]
+language proficiency
+mastery of a language

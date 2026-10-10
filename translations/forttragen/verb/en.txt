@@ -1,1 +1,2 @@
-["carry away","carry off"]
+carry away
+carry off

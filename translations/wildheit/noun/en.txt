@@ -1,1 +1,2 @@
-["wildness","ferocity"]
+wildness
+ferocity

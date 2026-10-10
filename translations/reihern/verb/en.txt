@@ -1,1 +1,2 @@
-["vomit","throw up"]
+vomit
+throw up

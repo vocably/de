@@ -1,1 +1,3 @@
-["yeah","yes","of course"]
+yeah
+yes
+of course

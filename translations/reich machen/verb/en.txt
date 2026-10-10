@@ -1,1 +1,2 @@
-["to enrich","to make rich"]
+to enrich
+to make rich

@@ -1,1 +1,2 @@
-["force majeure","act of God"]
+force majeure
+act of God

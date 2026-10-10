@@ -1,1 +1,2 @@
-["more poorly","more shabbily"]
+more poorly
+more shabbily

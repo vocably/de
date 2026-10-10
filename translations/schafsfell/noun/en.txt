@@ -1,1 +1,2 @@
-["sheepskin","fleece"]
+sheepskin
+fleece

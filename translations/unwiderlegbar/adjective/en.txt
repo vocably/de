@@ -1,1 +1,2 @@
-["irrefutable","indisputable"]
+irrefutable
+indisputable

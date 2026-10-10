@@ -1,1 +1,2 @@
-["sweeper","street sweeper"]
+sweeper
+street sweeper

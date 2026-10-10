@@ -1,1 +1,2 @@
-["ask aside","take aside"]
+ask aside
+take aside

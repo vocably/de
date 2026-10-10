@@ -1,1 +1,3 @@
-["to pardon","to reprieve","to show mercy"]
+to pardon
+to reprieve
+to show mercy

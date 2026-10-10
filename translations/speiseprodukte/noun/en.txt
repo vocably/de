@@ -1,1 +1,2 @@
-["food products","edible products"]
+food products
+edible products

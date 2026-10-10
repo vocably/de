@@ -1,1 +1,3 @@
-["connects","adjoins","follows"]
+connects
+adjoins
+follows

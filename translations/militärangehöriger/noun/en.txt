@@ -1,1 +1,2 @@
-["service member","member of the armed forces"]
+service member
+member of the armed forces

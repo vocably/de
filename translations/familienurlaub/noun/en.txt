@@ -1,1 +1,2 @@
-["family vacation","family holiday"]
+family vacation
+family holiday

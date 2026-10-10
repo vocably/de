@@ -1,1 +1,2 @@
-["descend","climb down"]
+descend
+climb down

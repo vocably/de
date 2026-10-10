@@ -1,1 +1,2 @@
-["deforest","clear-cut"]
+deforest
+clear-cut

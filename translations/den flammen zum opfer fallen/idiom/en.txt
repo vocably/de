@@ -1,1 +1,2 @@
-["to be destroyed by fire","to burn down"]
+to be destroyed by fire
+to burn down

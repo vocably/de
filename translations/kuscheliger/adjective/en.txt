@@ -1,1 +1,2 @@
-["cozier","snugglier"]
+cozier
+snugglier

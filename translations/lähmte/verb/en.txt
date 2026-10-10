@@ -1,1 +1,2 @@
-["paralyzed","crippled"]
+paralyzed
+crippled

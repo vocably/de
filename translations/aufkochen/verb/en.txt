@@ -1,1 +1,2 @@
-["boil","bring to a boil"]
+boil
+bring to a boil

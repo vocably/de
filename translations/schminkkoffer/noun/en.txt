@@ -1,1 +1,2 @@
-["makeup case","vanity case"]
+makeup case
+vanity case

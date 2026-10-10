@@ -1,1 +1,2 @@
-["yielding","giving way"]
+yielding
+giving way

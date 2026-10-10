@@ -1,1 +1,2 @@
-["varieties","diversities"]
+varieties
+diversities

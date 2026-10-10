@@ -1,1 +1,2 @@
-["multi-faceted","versatile"]
+multi-faceted
+versatile

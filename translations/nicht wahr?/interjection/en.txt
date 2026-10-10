@@ -1,1 +1,2 @@
-["right?","isn't it?"]
+right?
+isn't it?

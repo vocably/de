@@ -1,1 +1,2 @@
-["to be expected","to be anticipated"]
+to be expected
+to be anticipated

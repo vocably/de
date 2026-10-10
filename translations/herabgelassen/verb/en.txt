@@ -1,1 +1,2 @@
-["lowered","let down"]
+lowered
+let down

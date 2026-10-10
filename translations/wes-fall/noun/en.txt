@@ -1,1 +1,2 @@
-["genitive case","possessive case"]
+genitive case
+possessive case

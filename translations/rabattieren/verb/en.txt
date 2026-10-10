@@ -1,1 +1,2 @@
-["to discount","to give a discount"]
+to discount
+to give a discount

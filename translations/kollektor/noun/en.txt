@@ -1,1 +1,3 @@
-["collector","commutator","solar collector"]
+collector
+commutator
+solar collector

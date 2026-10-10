@@ -1,1 +1,3 @@
-["to butter","to make butter","to flatter"]
+to butter
+to make butter
+to flatter

@@ -1,1 +1,2 @@
-["most common","most customary"]
+most common
+most customary

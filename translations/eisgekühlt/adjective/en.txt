@@ -1,1 +1,2 @@
-["ice-cold","chilled"]
+ice-cold
+chilled

@@ -1,1 +1,3 @@
-["decompose","corrode","subvert"]
+decompose
+corrode
+subvert

@@ -1,1 +1,2 @@
-["powerless","weak"]
+powerless
+weak

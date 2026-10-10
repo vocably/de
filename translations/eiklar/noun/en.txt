@@ -1,1 +1,2 @@
-["egg white","albumen"]
+egg white
+albumen

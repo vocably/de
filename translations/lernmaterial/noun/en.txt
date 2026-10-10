@@ -1,1 +1,2 @@
-["learning material","study material"]
+learning material
+study material

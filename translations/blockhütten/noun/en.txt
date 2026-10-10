@@ -1,1 +1,2 @@
-["log cabins","cabins"]
+log cabins
+cabins

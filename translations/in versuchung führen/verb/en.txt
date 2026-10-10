@@ -1,1 +1,2 @@
-["tempt","lead into temptation"]
+tempt
+lead into temptation

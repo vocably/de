@@ -1,1 +1,3 @@
-["What?","Excuse me?","Come again?"]
+What?
+Excuse me?
+Come again?

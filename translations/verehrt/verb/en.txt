@@ -1,1 +1,3 @@
-["revered","adored","worshipped"]
+revered
+adored
+worshipped

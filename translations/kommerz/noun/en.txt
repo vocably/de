@@ -1,1 +1,2 @@
-["commerce","trade"]
+commerce
+trade

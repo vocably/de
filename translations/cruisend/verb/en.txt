@@ -1,1 +1,2 @@
-["cruising","on a cruise"]
+cruising
+on a cruise

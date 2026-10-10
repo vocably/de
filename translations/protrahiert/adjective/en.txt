@@ -1,1 +1,3 @@
-["protracted","prolonged","delayed"]
+protracted
+prolonged
+delayed

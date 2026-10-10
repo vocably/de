@@ -1,1 +1,2 @@
-["adventurousness","sense of adventure"]
+adventurousness
+sense of adventure

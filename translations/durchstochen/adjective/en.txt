@@ -1,1 +1,2 @@
-["pierced","punctured"]
+pierced
+punctured

@@ -1,1 +1,2 @@
-["run of bad luck","losing streak"]
+run of bad luck
+losing streak

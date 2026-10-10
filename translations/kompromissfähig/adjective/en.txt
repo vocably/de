@@ -1,1 +1,2 @@
-["able to compromise","willing to compromise"]
+able to compromise
+willing to compromise

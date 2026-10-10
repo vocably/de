@@ -1,1 +1,2 @@
-["in the future","from now on"]
+in the future
+from now on

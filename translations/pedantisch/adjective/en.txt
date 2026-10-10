@@ -1,1 +1,2 @@
-["pedantic","fussy"]
+pedantic
+fussy

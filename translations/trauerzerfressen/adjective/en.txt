@@ -1,1 +1,2 @@
-["grief-stricken","grief-racked"]
+grief-stricken
+grief-racked

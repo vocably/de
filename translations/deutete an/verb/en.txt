@@ -1,1 +1,3 @@
-["hinted","implied","suggested"]
+hinted
+implied
+suggested

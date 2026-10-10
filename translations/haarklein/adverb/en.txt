@@ -1,1 +1,2 @@
-["in great detail","in minute detail"]
+in great detail
+in minute detail

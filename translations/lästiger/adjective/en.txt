@@ -1,1 +1,2 @@
-["annoying","bothersome"]
+annoying
+bothersome

@@ -1,1 +1,3 @@
-["whatever","I don't care","it doesn't matter"]
+whatever
+I don't care
+it doesn't matter

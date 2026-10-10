@@ -1,1 +1,2 @@
-["to blame","to accuse"]
+to blame
+to accuse

@@ -1,1 +1,2 @@
-["tyrant","despot"]
+tyrant
+despot

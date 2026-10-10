@@ -1,1 +1,2 @@
-["wagging","fawning"]
+wagging
+fawning

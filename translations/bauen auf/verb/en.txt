@@ -1,1 +1,2 @@
-["to rely on","to build on"]
+to rely on
+to build on

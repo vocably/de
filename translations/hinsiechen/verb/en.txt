@@ -1,1 +1,2 @@
-["languish","pine away"]
+languish
+pine away

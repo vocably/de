@@ -1,1 +1,2 @@
-["drift punch","prick punch"]
+drift punch
+prick punch

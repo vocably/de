@@ -1,1 +1,2 @@
-["eloquent","articulate"]
+eloquent
+articulate

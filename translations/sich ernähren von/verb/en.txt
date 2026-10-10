@@ -1,1 +1,2 @@
-["to feed on","to live on"]
+to feed on
+to live on

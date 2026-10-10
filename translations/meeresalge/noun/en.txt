@@ -1,1 +1,2 @@
-["seaweed","marine algae"]
+seaweed
+marine algae

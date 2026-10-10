@@ -1,1 +1,2 @@
-["cling to","adhere to"]
+cling to
+adhere to

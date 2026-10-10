@@ -1,1 +1,2 @@
-["farm animal","livestock"]
+farm animal
+livestock

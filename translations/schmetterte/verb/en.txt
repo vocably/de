@@ -1,1 +1,3 @@
-["smashed","slammed","belted out"]
+smashed
+slammed
+belted out

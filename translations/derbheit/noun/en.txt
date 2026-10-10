@@ -1,1 +1,2 @@
-["coarseness","crudeness"]
+coarseness
+crudeness

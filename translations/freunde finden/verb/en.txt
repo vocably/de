@@ -1,1 +1,2 @@
-["make friends","find friends"]
+make friends
+find friends

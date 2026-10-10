@@ -1,1 +1,3 @@
-["I'm about to burst","I'm about to explode","I'm about to pop"]
+I'm about to burst
+I'm about to explode
+I'm about to pop

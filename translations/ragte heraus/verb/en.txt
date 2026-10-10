@@ -1,1 +1,3 @@
-["stood out","protruded","jutted out"]
+stood out
+protruded
+jutted out

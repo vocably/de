@@ -1,1 +1,2 @@
-["stubborn","uncooperative"]
+stubborn
+uncooperative

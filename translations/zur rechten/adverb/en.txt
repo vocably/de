@@ -1,1 +1,2 @@
-["on the right","to the right"]
+on the right
+to the right

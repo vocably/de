@@ -1,1 +1,2 @@
-["lessor","leasing provider"]
+lessor
+leasing provider

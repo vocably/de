@@ -1,1 +1,2 @@
-["to race","to run a race"]
+to race
+to run a race

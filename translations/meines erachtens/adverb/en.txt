@@ -1,1 +1,2 @@
-["in my opinion","to my mind"]
+in my opinion
+to my mind

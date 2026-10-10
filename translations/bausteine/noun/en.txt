@@ -1,1 +1,2 @@
-["building blocks","components"]
+building blocks
+components

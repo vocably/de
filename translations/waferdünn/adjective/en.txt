@@ -1,1 +1,2 @@
-["wafer-thin","razor-thin"]
+wafer-thin
+razor-thin

@@ -1,1 +1,2 @@
-["preliminary exam","pre-assessment"]
+preliminary exam
+pre-assessment

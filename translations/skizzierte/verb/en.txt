@@ -1,1 +1,2 @@
-["sketched","outlined"]
+sketched
+outlined

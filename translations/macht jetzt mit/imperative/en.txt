@@ -1,1 +1,2 @@
-["join in now","participate now"]
+join in now
+participate now

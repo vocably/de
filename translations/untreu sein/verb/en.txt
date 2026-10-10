@@ -1,1 +1,2 @@
-["to be unfaithful","to be disloyal"]
+to be unfaithful
+to be disloyal

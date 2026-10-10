@@ -1,1 +1,2 @@
-["downturn","slump"]
+downturn
+slump

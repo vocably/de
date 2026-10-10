@@ -1,1 +1,2 @@
-["to condition","to train"]
+to condition
+to train

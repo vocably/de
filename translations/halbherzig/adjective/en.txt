@@ -1,1 +1,2 @@
-["half-hearted","lackadaisical"]
+half-hearted
+lackadaisical

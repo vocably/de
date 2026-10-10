@@ -1,1 +1,2 @@
-["settlement","payment"]
+settlement
+payment

@@ -1,1 +1,2 @@
-["grief-stricken","sorrow-laden"]
+grief-stricken
+sorrow-laden

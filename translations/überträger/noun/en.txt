@@ -1,1 +1,3 @@
-["carrier","transmitter","vector"]
+carrier
+transmitter
+vector

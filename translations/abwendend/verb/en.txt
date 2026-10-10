@@ -1,1 +1,2 @@
-["averting","warding off"]
+averting
+warding off

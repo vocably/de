@@ -1,1 +1,2 @@
-["launchpad","starting ramp"]
+launchpad
+starting ramp

@@ -1,1 +1,3 @@
-["switch over","turn over","reposition"]
+switch over
+turn over
+reposition

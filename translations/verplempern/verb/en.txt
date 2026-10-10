@@ -1,1 +1,2 @@
-["squander","waste"]
+squander
+waste

@@ -1,1 +1,2 @@
-["triennial","triennale"]
+triennial
+triennale

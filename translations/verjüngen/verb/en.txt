@@ -1,1 +1,2 @@
-["rejuvenate","renew"]
+rejuvenate
+renew

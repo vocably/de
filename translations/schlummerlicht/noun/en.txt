@@ -1,1 +1,2 @@
-["night-light","sleep light"]
+night-light
+sleep light

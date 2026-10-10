@@ -1,1 +1,3 @@
-["serving","operating","attending"]
+serving
+operating
+attending

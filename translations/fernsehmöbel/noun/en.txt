@@ -1,1 +1,2 @@
-["TV stand","media console"]
+TV stand
+media console

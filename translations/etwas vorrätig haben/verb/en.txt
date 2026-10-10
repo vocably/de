@@ -1,1 +1,3 @@
-["to have something in stock","to have something available","to have something on hand"]
+to have something in stock
+to have something available
+to have something on hand

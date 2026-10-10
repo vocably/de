@@ -1,1 +1,2 @@
-["foul play","unfair play"]
+foul play
+unfair play

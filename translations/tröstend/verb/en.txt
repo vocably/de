@@ -1,1 +1,3 @@
-["comforting","consoling","soothing"]
+comforting
+consoling
+soothing

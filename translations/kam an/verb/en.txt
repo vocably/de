@@ -1,1 +1,3 @@
-["arrived","reached","got to"]
+arrived
+reached
+got to

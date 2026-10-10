@@ -1,1 +1,2 @@
-["clashes","gets into an argument"]
+clashes
+gets into an argument

@@ -1,1 +1,2 @@
-["to major in","to specialize in"]
+to major in
+to specialize in

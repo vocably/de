@@ -1,1 +1,2 @@
-["tinker","puzzle"]
+tinker
+puzzle

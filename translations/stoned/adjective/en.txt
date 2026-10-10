@@ -1,1 +1,3 @@
-["stoned","high","baked"]
+stoned
+high
+baked

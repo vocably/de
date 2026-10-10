@@ -1,1 +1,2 @@
-["global success","worldwide success"]
+global success
+worldwide success

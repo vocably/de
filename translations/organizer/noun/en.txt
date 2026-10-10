@@ -1,1 +1,2 @@
-["organizer","planner"]
+organizer
+planner

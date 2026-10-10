@@ -1,1 +1,2 @@
-["amount to","come to"]
+amount to
+come to

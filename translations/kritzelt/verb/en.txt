@@ -1,1 +1,2 @@
-["scribbles","doodles"]
+scribbles
+doodles

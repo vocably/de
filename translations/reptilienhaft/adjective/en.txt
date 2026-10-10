@@ -1,1 +1,2 @@
-["reptilian","cold-blooded"]
+reptilian
+cold-blooded

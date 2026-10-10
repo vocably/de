@@ -1,1 +1,2 @@
-["slander","defamation"]
+slander
+defamation

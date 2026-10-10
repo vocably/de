@@ -1,1 +1,2 @@
-["salesclerk","shop assistant"]
+salesclerk
+shop assistant

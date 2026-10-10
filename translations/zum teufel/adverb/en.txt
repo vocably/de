@@ -1,1 +1,3 @@
-["to hell","what the hell","go to hell"]
+to hell
+what the hell
+go to hell

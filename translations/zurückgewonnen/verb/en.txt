@@ -1,1 +1,2 @@
-["recovered","regained"]
+recovered
+regained

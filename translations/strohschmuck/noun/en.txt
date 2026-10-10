@@ -1,1 +1,2 @@
-["straw decoration","straw ornament"]
+straw decoration
+straw ornament

@@ -1,1 +1,2 @@
-["nosedive","plummet"]
+nosedive
+plummet

@@ -1,1 +1,2 @@
-["execution units","firing squads"]
+execution units
+firing squads

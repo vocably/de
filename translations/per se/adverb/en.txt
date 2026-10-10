@@ -1,1 +1,3 @@
-["per se","in itself","by itself"]
+per se
+in itself
+by itself

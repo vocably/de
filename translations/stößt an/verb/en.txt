@@ -1,1 +1,3 @@
-["clinks glasses","bumps into","offends"]
+clinks glasses
+bumps into
+offends

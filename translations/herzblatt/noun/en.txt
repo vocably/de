@@ -1,1 +1,3 @@
-["sweetheart","darling","twayblade"]
+sweetheart
+darling
+twayblade

@@ -1,1 +1,2 @@
-["to shock","to appall"]
+to shock
+to appall

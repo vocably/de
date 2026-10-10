@@ -1,1 +1,3 @@
-["roam","wander","stray"]
+roam
+wander
+stray

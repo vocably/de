@@ -1,1 +1,2 @@
-["digital attachment","digital bond"]
+digital attachment
+digital bond

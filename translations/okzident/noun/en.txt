@@ -1,1 +1,2 @@
-["Occident","the West"]
+Occident
+the West

@@ -1,1 +1,2 @@
-["revaluation","upgrading"]
+revaluation
+upgrading

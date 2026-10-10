@@ -1,1 +1,2 @@
-["special commission","special committee"]
+special commission
+special committee

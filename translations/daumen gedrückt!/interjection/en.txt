@@ -1,1 +1,2 @@
-["Fingers crossed!","Good luck!"]
+Fingers crossed!
+Good luck!

@@ -1,1 +1,2 @@
-["tertiary sector","service sector"]
+tertiary sector
+service sector

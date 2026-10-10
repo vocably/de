@@ -1,1 +1,2 @@
-["yelp","bark"]
+yelp
+bark

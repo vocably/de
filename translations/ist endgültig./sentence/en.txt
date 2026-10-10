@@ -1,1 +1,3 @@
-["It is final.","It is definitive.","It is irrevocable."]
+It is final.
+It is definitive.
+It is irrevocable.

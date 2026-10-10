@@ -1,1 +1,2 @@
-["feel unwell","feel uncomfortable"]
+feel unwell
+feel uncomfortable

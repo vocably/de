@@ -1,1 +1,2 @@
-["infiltrated","undermined"]
+infiltrated
+undermined

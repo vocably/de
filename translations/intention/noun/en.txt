@@ -1,1 +1,2 @@
-["intention","intent"]
+intention
+intent

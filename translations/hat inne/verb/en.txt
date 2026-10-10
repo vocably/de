@@ -1,1 +1,3 @@
-["holds","occupies","possesses"]
+holds
+occupies
+possesses

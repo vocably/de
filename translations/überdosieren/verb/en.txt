@@ -1,1 +1,2 @@
-["overdose","overdose on"]
+overdose
+overdose on

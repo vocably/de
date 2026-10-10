@@ -1,1 +1,2 @@
-["euphemist","whitewasher"]
+euphemist
+whitewasher

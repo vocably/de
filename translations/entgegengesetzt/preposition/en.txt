@@ -1,1 +1,2 @@
-["opposite","contrary to"]
+opposite
+contrary to

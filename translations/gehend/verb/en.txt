@@ -1,1 +1,3 @@
-["going","walking","running"]
+going
+walking
+running

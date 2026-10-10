@@ -1,1 +1,2 @@
-["advertising effectiveness","ad effectiveness"]
+advertising effectiveness
+ad effectiveness

@@ -1,1 +1,2 @@
-["undulate","wave"]
+undulate
+wave

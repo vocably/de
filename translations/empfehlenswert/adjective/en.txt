@@ -1,1 +1,2 @@
-["recommendable","advisable"]
+recommendable
+advisable

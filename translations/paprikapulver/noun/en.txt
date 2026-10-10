@@ -1,1 +1,2 @@
-["paprika","paprika powder"]
+paprika
+paprika powder

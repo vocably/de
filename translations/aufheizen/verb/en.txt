@@ -1,1 +1,2 @@
-["heat up","warm up"]
+heat up
+warm up

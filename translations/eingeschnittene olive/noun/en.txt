@@ -1,1 +1,2 @@
-["sliced olive","cut olive"]
+sliced olive
+cut olive

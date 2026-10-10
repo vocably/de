@@ -1,1 +1,2 @@
-["coarse-grained","gritty"]
+coarse-grained
+gritty

@@ -1,1 +1,2 @@
-["garbage collection","memory cleanup"]
+garbage collection
+memory cleanup

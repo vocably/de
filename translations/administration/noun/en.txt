@@ -1,1 +1,2 @@
-["administration","management"]
+administration
+management

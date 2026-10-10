@@ -1,1 +1,2 @@
-["ablaze","on fire"]
+ablaze
+on fire

@@ -1,1 +1,2 @@
-["bachelor pad","studio apartment"]
+bachelor pad
+studio apartment

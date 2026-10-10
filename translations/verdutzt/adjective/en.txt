@@ -1,1 +1,2 @@
-["perplexed","puzzled"]
+perplexed
+puzzled

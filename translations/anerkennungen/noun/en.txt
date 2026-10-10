@@ -1,1 +1,2 @@
-["acknowledgements","recognitions"]
+acknowledgements
+recognitions

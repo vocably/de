@@ -1,1 +1,2 @@
-["upper leather","shoe upper"]
+upper leather
+shoe upper

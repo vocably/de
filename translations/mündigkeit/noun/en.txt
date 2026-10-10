@@ -1,1 +1,2 @@
-["legal majority","autonomy"]
+legal majority
+autonomy

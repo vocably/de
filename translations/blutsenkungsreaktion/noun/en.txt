@@ -1,1 +1,2 @@
-["erythrocyte sedimentation rate","sedimentation rate"]
+erythrocyte sedimentation rate
+sedimentation rate

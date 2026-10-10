@@ -1,1 +1,2 @@
-["ink cartridge","toner cartridge"]
+ink cartridge
+toner cartridge

@@ -1,1 +1,2 @@
-["energetic","energy-related"]
+energetic
+energy-related

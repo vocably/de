@@ -1,1 +1,2 @@
-["disapproved","frowned upon"]
+disapproved
+frowned upon

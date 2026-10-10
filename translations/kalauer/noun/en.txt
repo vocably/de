@@ -1,1 +1,3 @@
-["pun","corny joke","bad joke"]
+pun
+corny joke
+bad joke

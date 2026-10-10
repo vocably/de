@@ -1,1 +1,2 @@
-["restaging","re-enactment"]
+restaging
+re-enactment

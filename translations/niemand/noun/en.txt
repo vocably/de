@@ -1,1 +1,2 @@
-["nobody","no one"]
+nobody
+no one

@@ -1,1 +1,2 @@
-["to dismay","to appall"]
+to dismay
+to appall

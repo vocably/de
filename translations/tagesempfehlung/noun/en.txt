@@ -1,1 +1,2 @@
-["daily special","daily recommendation"]
+daily special
+daily recommendation

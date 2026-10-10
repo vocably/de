@@ -1,1 +1,3 @@
-["accompanying","attending","concurrent"]
+accompanying
+attending
+concurrent

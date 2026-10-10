@@ -1,1 +1,2 @@
-["tram","streetcar"]
+tram
+streetcar

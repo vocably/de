@@ -1,1 +1,3 @@
-["continued to run","walked on","went on"]
+continued to run
+walked on
+went on

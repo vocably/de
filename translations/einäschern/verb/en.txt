@@ -1,1 +1,2 @@
-["cremate","incinerate"]
+cremate
+incinerate

@@ -1,1 +1,2 @@
-["freight train","goods train"]
+freight train
+goods train

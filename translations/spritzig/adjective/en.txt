@@ -1,1 +1,3 @@
-["lively","sparkling","witty"]
+lively
+sparkling
+witty

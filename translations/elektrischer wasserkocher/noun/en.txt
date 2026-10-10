@@ -1,1 +1,2 @@
-["electric kettle","electric water heater"]
+electric kettle
+electric water heater

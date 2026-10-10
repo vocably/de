@@ -1,1 +1,2 @@
-["respected","honored"]
+respected
+honored

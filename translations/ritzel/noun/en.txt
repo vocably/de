@@ -1,1 +1,2 @@
-["sprocket","pinion"]
+sprocket
+pinion

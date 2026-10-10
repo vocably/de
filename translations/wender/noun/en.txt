@@ -1,1 +1,3 @@
-["turner","spatula","tedder"]
+turner
+spatula
+tedder

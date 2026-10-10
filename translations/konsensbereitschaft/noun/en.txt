@@ -1,1 +1,2 @@
-["willingness to compromise","readiness for consensus"]
+willingness to compromise
+readiness for consensus

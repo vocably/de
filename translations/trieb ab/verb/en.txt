@@ -1,1 +1,3 @@
-["drifted","aborted","drove"]
+drifted
+aborted
+drove

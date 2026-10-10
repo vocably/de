@@ -1,1 +1,2 @@
-["memorials","memorial sites"]
+memorials
+memorial sites

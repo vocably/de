@@ -1,1 +1,2 @@
-["chandelier","luster"]
+chandelier
+luster

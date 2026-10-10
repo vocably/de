@@ -1,1 +1,2 @@
-["red-haired","ginger"]
+red-haired
+ginger

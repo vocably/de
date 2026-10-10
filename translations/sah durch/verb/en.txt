@@ -1,1 +1,2 @@
-["looked through","saw through"]
+looked through
+saw through

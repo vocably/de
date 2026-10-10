@@ -1,1 +1,2 @@
-["cloth handkerchief","fabric handkerchief"]
+cloth handkerchief
+fabric handkerchief

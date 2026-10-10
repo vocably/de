@@ -1,1 +1,2 @@
-["emotional eating","stress eating"]
+emotional eating
+stress eating

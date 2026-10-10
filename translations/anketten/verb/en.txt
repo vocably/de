@@ -1,1 +1,2 @@
-["to chain up","to shackle"]
+to chain up
+to shackle

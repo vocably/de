@@ -1,1 +1,2 @@
-["binge eating","eating spree"]
+binge eating
+eating spree

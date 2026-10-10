@@ -1,1 +1,2 @@
-["slit","slash"]
+slit
+slash

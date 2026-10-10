@@ -1,1 +1,2 @@
-["bank transfer","wire transfer"]
+bank transfer
+wire transfer

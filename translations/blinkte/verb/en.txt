@@ -1,1 +1,2 @@
-["flashed","blinked"]
+flashed
+blinked

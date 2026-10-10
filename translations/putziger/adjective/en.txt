@@ -1,1 +1,2 @@
-["cute","funny"]
+cute
+funny

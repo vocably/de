@@ -1,1 +1,2 @@
-["take one's time","make time"]
+take one's time
+make time

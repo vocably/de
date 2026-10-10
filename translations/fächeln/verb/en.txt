@@ -1,1 +1,3 @@
-["to fan","to wave","to waft"]
+to fan
+to wave
+to waft

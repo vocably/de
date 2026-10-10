@@ -1,1 +1,2 @@
-["main responsibility","primary responsibility"]
+main responsibility
+primary responsibility

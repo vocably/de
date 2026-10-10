@@ -1,1 +1,2 @@
-["freezing","congelation"]
+freezing
+congelation

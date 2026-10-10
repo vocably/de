@@ -1,1 +1,3 @@
-["accepts","assumes","supposes"]
+accepts
+assumes
+supposes

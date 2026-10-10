@@ -1,1 +1,3 @@
-["threw","chucked","flung"]
+threw
+chucked
+flung

@@ -1,1 +1,2 @@
-["world sensation","global sensation"]
+world sensation
+global sensation

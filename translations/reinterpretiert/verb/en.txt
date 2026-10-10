@@ -1,1 +1,2 @@
-["reinterpreted","re-interpreted"]
+reinterpreted
+re-interpreted

@@ -1,1 +1,2 @@
-["strand","streak"]
+strand
+streak

@@ -1,1 +1,2 @@
-["common agreement","mutual agreement"]
+common agreement
+mutual agreement

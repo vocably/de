@@ -1,1 +1,2 @@
-["internalize","incorporate"]
+internalize
+incorporate

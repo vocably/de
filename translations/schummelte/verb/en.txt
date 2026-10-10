@@ -1,1 +1,3 @@
-["cheated","fudged","swindled"]
+cheated
+fudged
+swindled

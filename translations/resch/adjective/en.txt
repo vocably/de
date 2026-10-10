@@ -1,1 +1,3 @@
-["crisp","crusty","spicy"]
+crisp
+crusty
+spicy

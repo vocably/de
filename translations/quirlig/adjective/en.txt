@@ -1,1 +1,2 @@
-["lively","bustling"]
+lively
+bustling

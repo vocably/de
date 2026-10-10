@@ -1,1 +1,2 @@
-["another","a different"]
+another
+a different

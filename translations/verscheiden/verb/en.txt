@@ -1,1 +1,2 @@
-["pass away","die"]
+pass away
+die

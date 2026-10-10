@@ -1,1 +1,2 @@
-["assembly point","muster point"]
+assembly point
+muster point

@@ -1,1 +1,2 @@
-["swaddle","sleep sack"]
+swaddle
+sleep sack

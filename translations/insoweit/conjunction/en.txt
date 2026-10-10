@@ -1,1 +1,2 @@
-["insofar as","to the extent that"]
+insofar as
+to the extent that

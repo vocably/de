@@ -1,1 +1,2 @@
-["moral philosophy","ethics"]
+moral philosophy
+ethics

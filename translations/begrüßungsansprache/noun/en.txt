@@ -1,1 +1,2 @@
-["welcome address","welcoming speech"]
+welcome address
+welcoming speech

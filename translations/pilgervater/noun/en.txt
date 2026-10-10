@@ -1,1 +1,2 @@
-["Pilgrim Father","Pilgrim"]
+Pilgrim Father
+Pilgrim

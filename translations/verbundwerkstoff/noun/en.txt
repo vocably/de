@@ -1,1 +1,2 @@
-["composite material","composite"]
+composite material
+composite

@@ -1,1 +1,2 @@
-["parcels","lots"]
+parcels
+lots

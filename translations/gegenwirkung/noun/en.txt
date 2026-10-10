@@ -1,1 +1,2 @@
-["counteraction","reaction"]
+counteraction
+reaction

@@ -1,1 +1,4 @@
-["closest","narrowest","tightest","most intimate"]
+closest
+narrowest
+tightest
+most intimate

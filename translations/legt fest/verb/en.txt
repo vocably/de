@@ -1,1 +1,3 @@
-["determines","sets","stipulates"]
+determines
+sets
+stipulates

@@ -1,1 +1,3 @@
-["absorbed","soaked up","processed"]
+absorbed
+soaked up
+processed

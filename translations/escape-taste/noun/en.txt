@@ -1,1 +1,2 @@
-["escape key","Esc key"]
+escape key
+Esc key

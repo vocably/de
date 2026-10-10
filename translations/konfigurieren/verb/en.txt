@@ -1,1 +1,2 @@
-["to configure","to set up"]
+to configure
+to set up

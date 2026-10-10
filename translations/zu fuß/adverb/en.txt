@@ -1,1 +1,2 @@
-["on foot","walking"]
+on foot
+walking

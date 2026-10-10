@@ -1,1 +1,2 @@
-["tour guide","guide"]
+tour guide
+guide

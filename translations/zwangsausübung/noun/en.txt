@@ -1,1 +1,2 @@
-["coercion","duress"]
+coercion
+duress

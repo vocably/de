@@ -1,1 +1,2 @@
-["lanky person","beanpole"]
+lanky person
+beanpole

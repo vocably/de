@@ -1,1 +1,2 @@
-["heater","heating unit"]
+heater
+heating unit

@@ -1,1 +1,2 @@
-["exclusively","privately"]
+exclusively
+privately

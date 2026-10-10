@@ -1,1 +1,3 @@
-["stepped forward","emerged","stood out"]
+stepped forward
+emerged
+stood out

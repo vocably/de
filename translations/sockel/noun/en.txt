@@ -1,1 +1,3 @@
-["pedestal","base","socket"]
+pedestal
+base
+socket

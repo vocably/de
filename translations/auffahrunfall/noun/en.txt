@@ -1,1 +1,2 @@
-["rear-end collision","pile-up"]
+rear-end collision
+pile-up

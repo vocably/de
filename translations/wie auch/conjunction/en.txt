@@ -1,1 +1,2 @@
-["as well as","as also"]
+as well as
+as also

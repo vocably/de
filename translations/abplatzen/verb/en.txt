@@ -1,1 +1,2 @@
-["chip off","flake off"]
+chip off
+flake off

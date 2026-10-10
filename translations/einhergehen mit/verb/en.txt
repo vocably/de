@@ -1,1 +1,3 @@
-["accompany","go hand in hand with","be associated with"]
+accompany
+go hand in hand with
+be associated with

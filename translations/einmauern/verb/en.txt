@@ -1,1 +1,2 @@
-["wall up","immure"]
+wall up
+immure

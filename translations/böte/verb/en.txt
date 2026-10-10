@@ -1,1 +1,2 @@
-["would offer","would provide"]
+would offer
+would provide

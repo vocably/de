@@ -1,1 +1,2 @@
-["enraptured","delighted"]
+enraptured
+delighted

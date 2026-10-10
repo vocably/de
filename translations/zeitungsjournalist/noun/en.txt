@@ -1,1 +1,2 @@
-["newspaper journalist","print journalist"]
+newspaper journalist
+print journalist

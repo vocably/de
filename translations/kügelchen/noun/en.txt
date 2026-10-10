@@ -1,1 +1,2 @@
-["pellet","globule"]
+pellet
+globule

@@ -1,1 +1,3 @@
-["assuming","accepting","presuming"]
+assuming
+accepting
+presuming

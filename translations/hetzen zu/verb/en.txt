@@ -1,1 +1,2 @@
-["urge to","rush to"]
+urge to
+rush to

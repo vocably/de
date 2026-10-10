@@ -1,1 +1,2 @@
-["inverse","reciprocal"]
+inverse
+reciprocal

@@ -1,1 +1,2 @@
-["maturity exam","final exam"]
+maturity exam
+final exam

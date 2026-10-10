@@ -1,1 +1,2 @@
-["assembly line","mounting tape"]
+assembly line
+mounting tape

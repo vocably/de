@@ -1,1 +1,2 @@
-["aims at","targets"]
+aims at
+targets

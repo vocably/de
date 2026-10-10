@@ -1,1 +1,2 @@
-["interpret","translate"]
+interpret
+translate

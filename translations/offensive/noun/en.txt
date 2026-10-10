@@ -1,1 +1,3 @@
-["offensive","attack","campaign"]
+offensive
+attack
+campaign

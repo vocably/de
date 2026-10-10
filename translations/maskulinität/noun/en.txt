@@ -1,1 +1,2 @@
-["masculinity","manliness"]
+masculinity
+manliness

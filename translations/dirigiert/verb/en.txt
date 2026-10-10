@@ -1,1 +1,2 @@
-["conducts","directs"]
+conducts
+directs

@@ -1,1 +1,2 @@
-["makeshift solution","stopgap measure"]
+makeshift solution
+stopgap measure

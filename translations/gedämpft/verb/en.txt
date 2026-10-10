@@ -1,1 +1,2 @@
-["dimmed","steamed"]
+dimmed
+steamed

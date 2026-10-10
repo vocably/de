@@ -1,1 +1,2 @@
-["to pile up","to stack up"]
+to pile up
+to stack up

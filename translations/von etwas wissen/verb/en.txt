@@ -1,1 +1,2 @@
-["to know about something","to be aware of something"]
+to know about something
+to be aware of something

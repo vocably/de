@@ -1,1 +1,2 @@
-["specialized training","advanced training"]
+specialized training
+advanced training

@@ -1,1 +1,2 @@
-["comprehension","perceptiveness"]
+comprehension
+perceptiveness

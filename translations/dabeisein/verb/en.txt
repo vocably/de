@@ -1,1 +1,3 @@
-["to be present","to participate","to join in"]
+to be present
+to participate
+to join in

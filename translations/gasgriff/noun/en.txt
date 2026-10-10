@@ -1,1 +1,2 @@
-["throttle grip","twist grip"]
+throttle grip
+twist grip

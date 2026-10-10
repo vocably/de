@@ -1,1 +1,2 @@
-["subsection","sub-section"]
+subsection
+sub-section

@@ -1,1 +1,2 @@
-["moods","states of mind"]
+moods
+states of mind

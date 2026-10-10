@@ -1,1 +1,2 @@
-["generous","liberal"]
+generous
+liberal

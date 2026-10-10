@@ -1,1 +1,2 @@
-["execution units","functional units"]
+execution units
+functional units

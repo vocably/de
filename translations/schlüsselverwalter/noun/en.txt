@@ -1,1 +1,2 @@
-["key manager","key master"]
+key manager
+key master

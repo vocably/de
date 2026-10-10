@@ -1,1 +1,3 @@
-["etch","corrode","be caustic"]
+etch
+corrode
+be caustic

@@ -1,1 +1,2 @@
-["withdrawal","confiscation"]
+withdrawal
+confiscation

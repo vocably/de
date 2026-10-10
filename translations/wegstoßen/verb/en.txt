@@ -1,1 +1,2 @@
-["push away","repel"]
+push away
+repel

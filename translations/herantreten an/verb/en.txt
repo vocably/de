@@ -1,1 +1,2 @@
-["approach","step up to"]
+approach
+step up to

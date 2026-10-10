@@ -1,1 +1,2 @@
-["suspicious","wary"]
+suspicious
+wary

@@ -1,1 +1,2 @@
-["to mine","to booby-trap"]
+to mine
+to booby-trap

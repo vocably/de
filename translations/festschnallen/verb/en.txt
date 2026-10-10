@@ -1,1 +1,2 @@
-["to buckle up","to strap in"]
+to buckle up
+to strap in

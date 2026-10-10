@@ -1,1 +1,3 @@
-["tends","is inclined","has a tendency"]
+tends
+is inclined
+has a tendency

@@ -1,1 +1,2 @@
-["varied","diversified"]
+varied
+diversified

@@ -1,1 +1,3 @@
-["knotty","gnarled","nodular"]
+knotty
+gnarled
+nodular

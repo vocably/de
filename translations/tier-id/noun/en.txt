@@ -1,1 +1,2 @@
-["animal ID","pet ID"]
+animal ID
+pet ID

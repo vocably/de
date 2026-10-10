@@ -1,1 +1,2 @@
-["loner","maverick"]
+loner
+maverick

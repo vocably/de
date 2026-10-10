@@ -1,1 +1,2 @@
-["sheltered","wind-protected"]
+sheltered
+wind-protected

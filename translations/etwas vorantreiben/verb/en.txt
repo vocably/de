@@ -1,1 +1,2 @@
-["to advance something","to push something forward"]
+to advance something
+to push something forward

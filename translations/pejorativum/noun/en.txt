@@ -1,1 +1,2 @@
-["pejorative","swear word"]
+pejorative
+swear word

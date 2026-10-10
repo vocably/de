@@ -1,1 +1,2 @@
-["Federal Chancellery","Chancellery"]
+Federal Chancellery
+Chancellery

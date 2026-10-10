@@ -1,1 +1,3 @@
-["to conceal","to gloss over","to laminate"]
+to conceal
+to gloss over
+to laminate

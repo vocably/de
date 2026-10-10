@@ -1,1 +1,2 @@
-["walkie-talkie","handheld radio"]
+walkie-talkie
+handheld radio

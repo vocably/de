@@ -1,1 +1,2 @@
-["deliberately","intentionally"]
+deliberately
+intentionally

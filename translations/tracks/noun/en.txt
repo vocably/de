@@ -1,1 +1,3 @@
-["tracks","traces","lanes"]
+tracks
+traces
+lanes

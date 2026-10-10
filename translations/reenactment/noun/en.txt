@@ -1,1 +1,2 @@
-["reenactment","re-enactment"]
+reenactment
+re-enactment

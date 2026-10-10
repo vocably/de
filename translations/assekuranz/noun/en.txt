@@ -1,1 +1,2 @@
-["insurance","insurance company"]
+insurance
+insurance company

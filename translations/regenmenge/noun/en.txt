@@ -1,1 +1,2 @@
-["rainfall amount","amount of rain"]
+rainfall amount
+amount of rain

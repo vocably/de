@@ -1,1 +1,2 @@
-["past","over"]
+past
+over

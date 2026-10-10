@@ -1,1 +1,2 @@
-["time-honored","venerable"]
+time-honored
+venerable

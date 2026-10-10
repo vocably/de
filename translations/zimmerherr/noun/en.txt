@@ -1,1 +1,2 @@
-["lodger","roomer"]
+lodger
+roomer

@@ -1,1 +1,3 @@
-["gradation","grading","progression"]
+gradation
+grading
+progression

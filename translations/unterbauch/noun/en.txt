@@ -1,1 +1,2 @@
-["lower abdomen","hypogastrium"]
+lower abdomen
+hypogastrium

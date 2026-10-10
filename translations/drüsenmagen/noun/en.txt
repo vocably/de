@@ -1,1 +1,2 @@
-["proventriculus","glandular stomach"]
+proventriculus
+glandular stomach

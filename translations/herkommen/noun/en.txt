@@ -1,1 +1,2 @@
-["origin","tradition"]
+origin
+tradition

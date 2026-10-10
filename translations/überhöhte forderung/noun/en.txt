@@ -1,1 +1,2 @@
-["excessive demand","exorbitant demand"]
+excessive demand
+exorbitant demand

@@ -1,1 +1,2 @@
-["industrialist","magnate"]
+industrialist
+magnate

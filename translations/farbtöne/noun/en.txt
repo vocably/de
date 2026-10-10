@@ -1,1 +1,2 @@
-["shades","hues"]
+shades
+hues

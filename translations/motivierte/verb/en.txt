@@ -1,1 +1,2 @@
-["motivated","inspired"]
+motivated
+inspired

@@ -1,1 +1,2 @@
-["investor","female investor"]
+investor
+female investor

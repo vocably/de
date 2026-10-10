@@ -1,1 +1,2 @@
-["to be legally binding","to be final"]
+to be legally binding
+to be final

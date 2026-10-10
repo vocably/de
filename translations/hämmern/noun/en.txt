@@ -1,1 +1,2 @@
-["hammering","pounding"]
+hammering
+pounding

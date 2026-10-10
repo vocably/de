@@ -1,1 +1,2 @@
-["to crush","to pulverize"]
+to crush
+to pulverize

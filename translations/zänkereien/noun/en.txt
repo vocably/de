@@ -1,1 +1,2 @@
-["quarrels","bickering"]
+quarrels
+bickering

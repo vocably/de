@@ -1,1 +1,2 @@
-["listens to","heeds"]
+listens to
+heeds

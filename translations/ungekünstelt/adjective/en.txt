@@ -1,1 +1,3 @@
-["unaffected","natural","artless"]
+unaffected
+natural
+artless

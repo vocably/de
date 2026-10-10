@@ -1,1 +1,3 @@
-["let pass","overlook","tolerate"]
+let pass
+overlook
+tolerate

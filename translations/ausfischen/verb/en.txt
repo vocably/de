@@ -1,1 +1,2 @@
-["fish out","deplete of fish"]
+fish out
+deplete of fish

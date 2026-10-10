@@ -1,1 +1,2 @@
-["kale","collard greens"]
+kale
+collard greens

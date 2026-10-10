@@ -1,1 +1,2 @@
-["company pension","occupational pension"]
+company pension
+occupational pension

@@ -1,1 +1,2 @@
-["to stagger","to totter"]
+to stagger
+to totter

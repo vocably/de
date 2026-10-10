@@ -1,1 +1,2 @@
-["read up on","inform oneself about"]
+read up on
+inform oneself about

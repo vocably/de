@@ -1,1 +1,2 @@
-["intensify","step up"]
+intensify
+step up

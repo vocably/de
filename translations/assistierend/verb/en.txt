@@ -1,1 +1,2 @@
-["assisting","helping"]
+assisting
+helping

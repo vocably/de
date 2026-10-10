@@ -1,1 +1,3 @@
-["go to","walk to","head to"]
+go to
+walk to
+head to

@@ -1,1 +1,3 @@
-["reasonably","sensibly","rationally"]
+reasonably
+sensibly
+rationally

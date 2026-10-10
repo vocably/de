@@ -1,1 +1,3 @@
-["disreputable","unsavory","shady"]
+disreputable
+unsavory
+shady

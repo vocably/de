@@ -1,1 +1,3 @@
-["splaying","spreading","straddling"]
+splaying
+spreading
+straddling

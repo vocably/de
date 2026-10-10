@@ -1,1 +1,2 @@
-["bicycle","bike"]
+bicycle
+bike

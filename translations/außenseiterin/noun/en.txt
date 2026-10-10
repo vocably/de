@@ -1,1 +1,2 @@
-["outsider","long shot"]
+outsider
+long shot

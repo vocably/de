@@ -1,1 +1,2 @@
-["knelt down","kneeled down"]
+knelt down
+kneeled down

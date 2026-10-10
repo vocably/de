@@ -1,1 +1,2 @@
-["thermos","vacuum flask"]
+thermos
+vacuum flask

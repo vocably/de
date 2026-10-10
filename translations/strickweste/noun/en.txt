@@ -1,1 +1,2 @@
-["cardigan","knitted vest"]
+cardigan
+knitted vest

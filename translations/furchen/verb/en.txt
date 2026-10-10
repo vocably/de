@@ -1,1 +1,2 @@
-["to furrow","to plow"]
+to furrow
+to plow

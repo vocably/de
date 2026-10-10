@@ -1,1 +1,2 @@
-["fifty percent","half"]
+fifty percent
+half

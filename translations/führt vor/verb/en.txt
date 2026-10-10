@@ -1,1 +1,3 @@
-["demonstrates","presents","shows"]
+demonstrates
+presents
+shows

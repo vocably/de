@@ -1,1 +1,3 @@
-["to head for","to make for","to approach"]
+to head for
+to make for
+to approach

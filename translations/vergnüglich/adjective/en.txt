@@ -1,1 +1,2 @@
-["enjoyable","amusing"]
+enjoyable
+amusing

@@ -1,1 +1,2 @@
-["common sense","wit"]
+common sense
+wit

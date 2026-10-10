@@ -1,1 +1,2 @@
-["Chancellery","Chancellor's Office"]
+Chancellery
+Chancellor's Office

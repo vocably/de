@@ -1,1 +1,2 @@
-["nursing support center","care support center"]
+nursing support center
+care support center

@@ -1,1 +1,2 @@
-["stank","smelled"]
+stank
+smelled

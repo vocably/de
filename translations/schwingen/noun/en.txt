@@ -1,1 +1,2 @@
-["wings","blades"]
+wings
+blades

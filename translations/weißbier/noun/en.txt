@@ -1,1 +1,2 @@
-["wheat beer","weissbier"]
+wheat beer
+weissbier

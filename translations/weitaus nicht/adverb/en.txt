@@ -1,1 +1,3 @@
-["by far not","not nearly","not at all"]
+by far not
+not nearly
+not at all

@@ -1,1 +1,2 @@
-["withdrawal","elimination"]
+withdrawal
+elimination

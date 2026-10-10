@@ -1,1 +1,2 @@
-["caregivers","nursing staff"]
+caregivers
+nursing staff

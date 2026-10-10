@@ -1,1 +1,2 @@
-["embarrassed","shy"]
+embarrassed
+shy

@@ -1,1 +1,3 @@
-["to be important","to be relevant","to matter"]
+to be important
+to be relevant
+to matter

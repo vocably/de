@@ -1,1 +1,2 @@
-["sustainable","future-proof"]
+sustainable
+future-proof

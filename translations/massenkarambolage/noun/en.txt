@@ -1,1 +1,2 @@
-["pile-up","multiple-vehicle collision"]
+pile-up
+multiple-vehicle collision

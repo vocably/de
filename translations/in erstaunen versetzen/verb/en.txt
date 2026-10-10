@@ -1,1 +1,2 @@
-["to amaze","to astonish"]
+to amaze
+to astonish

@@ -1,1 +1,2 @@
-["filing stack","in-tray"]
+filing stack
+in-tray

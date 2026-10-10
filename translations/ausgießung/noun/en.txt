@@ -1,1 +1,2 @@
-["pouring","effusion"]
+pouring
+effusion

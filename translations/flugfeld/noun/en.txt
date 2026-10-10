@@ -1,1 +1,2 @@
-["airfield","aerodrome"]
+airfield
+aerodrome

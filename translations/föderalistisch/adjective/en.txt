@@ -1,1 +1,2 @@
-["federalist","federal"]
+federalist
+federal

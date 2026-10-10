@@ -1,1 +1,2 @@
-["approaching","impending"]
+approaching
+impending

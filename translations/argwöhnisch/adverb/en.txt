@@ -1,1 +1,2 @@
-["suspiciously","skeptically"]
+suspiciously
+skeptically

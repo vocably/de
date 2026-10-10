@@ -1,1 +1,2 @@
-["turn up","make louder"]
+turn up
+make louder

@@ -1,1 +1,2 @@
-["tailoring style","cut"]
+tailoring style
+cut

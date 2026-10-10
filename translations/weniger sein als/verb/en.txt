@@ -1,1 +1,2 @@
-["to be less than","to be fewer than"]
+to be less than
+to be fewer than

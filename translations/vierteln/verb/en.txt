@@ -1,1 +1,2 @@
-["to quarter","to divide into four"]
+to quarter
+to divide into four

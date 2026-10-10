@@ -1,1 +1,3 @@
-["distribution","spread","allocation"]
+distribution
+spread
+allocation

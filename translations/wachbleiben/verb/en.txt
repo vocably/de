@@ -1,1 +1,2 @@
-["stay awake","stay up"]
+stay awake
+stay up

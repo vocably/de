@@ -1,1 +1,2 @@
-["applications","appliques"]
+applications
+appliques

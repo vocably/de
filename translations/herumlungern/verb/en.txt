@@ -1,1 +1,2 @@
-["to loiter","to hang around"]
+to loiter
+to hang around

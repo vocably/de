@@ -1,1 +1,2 @@
-["disappointingly","unfortunately"]
+disappointingly
+unfortunately

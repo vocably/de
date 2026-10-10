@@ -1,1 +1,2 @@
-["to request from","to ask for"]
+to request from
+to ask for

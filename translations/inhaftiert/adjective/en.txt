@@ -1,1 +1,2 @@
-["imprisoned","detained"]
+imprisoned
+detained

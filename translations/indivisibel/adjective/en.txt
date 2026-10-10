@@ -1,1 +1,1 @@
-["indivisible"]
+indivisible

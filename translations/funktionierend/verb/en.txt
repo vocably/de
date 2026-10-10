@@ -1,1 +1,3 @@
-["functioning","working","operational"]
+functioning
+working
+operational

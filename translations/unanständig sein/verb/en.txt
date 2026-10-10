@@ -1,1 +1,3 @@
-["to be indecent","to be naughty","to be improper"]
+to be indecent
+to be naughty
+to be improper

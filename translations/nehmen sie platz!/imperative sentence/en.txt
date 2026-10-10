@@ -1,1 +1,2 @@
-["Have a seat!","Take a seat!"]
+Have a seat!
+Take a seat!

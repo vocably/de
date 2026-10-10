@@ -1,1 +1,2 @@
-["glance","cursory glance"]
+glance
+cursory glance

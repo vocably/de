@@ -1,1 +1,2 @@
-["nerve-strengthening","calming"]
+nerve-strengthening
+calming

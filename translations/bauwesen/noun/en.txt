@@ -1,1 +1,2 @@
-["construction industry","civil engineering"]
+construction industry
+civil engineering

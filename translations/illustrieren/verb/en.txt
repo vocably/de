@@ -1,1 +1,2 @@
-["illustrate","exemplify"]
+illustrate
+exemplify

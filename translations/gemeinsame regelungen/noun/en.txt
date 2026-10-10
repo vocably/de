@@ -1,1 +1,2 @@
-["common regulations","joint rules"]
+common regulations
+joint rules

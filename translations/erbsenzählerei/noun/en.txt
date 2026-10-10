@@ -1,1 +1,2 @@
-["nitpicking","bean counting"]
+nitpicking
+bean counting

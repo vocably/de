@@ -1,1 +1,2 @@
-["hesitated","wavered"]
+hesitated
+wavered

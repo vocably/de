@@ -1,1 +1,2 @@
-["to be obvious","to be evident"]
+to be obvious
+to be evident

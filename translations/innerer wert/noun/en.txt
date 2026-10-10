@@ -1,1 +1,2 @@
-["intrinsic value","inherent value"]
+intrinsic value
+inherent value

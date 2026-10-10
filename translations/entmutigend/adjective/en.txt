@@ -1,1 +1,2 @@
-["discouraging","daunting"]
+discouraging
+daunting

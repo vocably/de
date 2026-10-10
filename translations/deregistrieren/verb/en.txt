@@ -1,1 +1,2 @@
-["deregister","unregister"]
+deregister
+unregister

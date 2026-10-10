@@ -1,1 +1,2 @@
-["exceptionally","unusually"]
+exceptionally
+unusually

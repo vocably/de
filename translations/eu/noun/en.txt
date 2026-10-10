@@ -1,1 +1,2 @@
-["European Union","EU"]
+European Union
+EU

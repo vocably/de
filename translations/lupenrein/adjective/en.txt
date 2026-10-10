@@ -1,1 +1,2 @@
-["flawless","perfect"]
+flawless
+perfect

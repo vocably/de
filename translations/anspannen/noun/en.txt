@@ -1,1 +1,2 @@
-["tensing","tightening"]
+tensing
+tightening

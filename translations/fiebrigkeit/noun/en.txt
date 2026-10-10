@@ -1,1 +1,2 @@
-["feverishness","fever"]
+feverishness
+fever

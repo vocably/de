@@ -1,1 +1,2 @@
-["traffic light control","traffic signal control"]
+traffic light control
+traffic signal control

@@ -1,1 +1,2 @@
-["amuse","entertain"]
+amuse
+entertain

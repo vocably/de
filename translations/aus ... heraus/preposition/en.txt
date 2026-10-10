@@ -1,1 +1,2 @@
-["out of","from"]
+out of
+from

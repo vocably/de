@@ -1,1 +1,2 @@
-["seedlings","sprouts"]
+seedlings
+sprouts

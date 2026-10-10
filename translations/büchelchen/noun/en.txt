@@ -1,1 +1,2 @@
-["booklet","bundle"]
+booklet
+bundle

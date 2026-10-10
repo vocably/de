@@ -1,1 +1,2 @@
-["walking aid","mobility aid"]
+walking aid
+mobility aid

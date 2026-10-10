@@ -1,1 +1,2 @@
-["attending physician","treating doctor"]
+attending physician
+treating doctor

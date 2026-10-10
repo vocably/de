@@ -1,1 +1,2 @@
-["automatic","self-acting"]
+automatic
+self-acting

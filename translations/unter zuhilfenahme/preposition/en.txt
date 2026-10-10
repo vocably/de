@@ -1,1 +1,2 @@
-["with the help of","by means of"]
+with the help of
+by means of

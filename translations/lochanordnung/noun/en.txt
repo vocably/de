@@ -1,1 +1,2 @@
-["hole arrangement","hole pattern"]
+hole arrangement
+hole pattern

@@ -1,1 +1,2 @@
-["to become a citizen","to get naturalized"]
+to become a citizen
+to get naturalized

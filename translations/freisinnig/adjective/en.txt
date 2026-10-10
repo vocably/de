@@ -1,1 +1,3 @@
-["liberal","freethinking","progressive"]
+liberal
+freethinking
+progressive

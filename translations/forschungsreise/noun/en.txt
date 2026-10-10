@@ -1,1 +1,2 @@
-["research trip","expedition"]
+research trip
+expedition

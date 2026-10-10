@@ -1,1 +1,4 @@
-["tightest","firmest","most disciplined","most energetic"]
+tightest
+firmest
+most disciplined
+most energetic

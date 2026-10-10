@@ -1,1 +1,2 @@
-["baseball glove","glove"]
+baseball glove
+glove

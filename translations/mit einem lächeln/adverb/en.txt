@@ -1,1 +1,2 @@
-["with a smile","smilingly"]
+with a smile
+smilingly

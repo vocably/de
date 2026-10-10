@@ -1,1 +1,2 @@
-["conscientiously","diligently"]
+conscientiously
+diligently

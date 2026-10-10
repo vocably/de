@@ -1,1 +1,3 @@
-["is located","is situated","is placed"]
+is located
+is situated
+is placed

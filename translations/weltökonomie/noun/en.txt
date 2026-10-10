@@ -1,1 +1,2 @@
-["world economy","global economy"]
+world economy
+global economy

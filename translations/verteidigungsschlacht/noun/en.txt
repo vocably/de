@@ -1,1 +1,2 @@
-["defensive battle","battle of attrition"]
+defensive battle
+battle of attrition

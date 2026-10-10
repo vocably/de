@@ -1,1 +1,2 @@
-["indistinctly","unclearly"]
+indistinctly
+unclearly

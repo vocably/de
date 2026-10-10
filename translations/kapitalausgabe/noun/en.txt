@@ -1,1 +1,2 @@
-["capital expenditure","capital outlay"]
+capital expenditure
+capital outlay

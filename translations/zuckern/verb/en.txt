@@ -1,1 +1,2 @@
-["to sugar","to sweeten"]
+to sugar
+to sweeten

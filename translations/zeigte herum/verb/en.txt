@@ -1,1 +1,2 @@
-["showed around","showed off"]
+showed around
+showed off

@@ -1,1 +1,3 @@
-["horrified","appalled","shocked"]
+horrified
+appalled
+shocked

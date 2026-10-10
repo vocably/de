@@ -1,1 +1,2 @@
-["incidents","occurrences"]
+incidents
+occurrences

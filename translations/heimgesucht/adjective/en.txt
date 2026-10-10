@@ -1,1 +1,2 @@
-["haunted","plagued"]
+haunted
+plagued

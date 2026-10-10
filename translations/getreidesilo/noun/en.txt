@@ -1,1 +1,2 @@
-["grain elevator","grain silo"]
+grain elevator
+grain silo

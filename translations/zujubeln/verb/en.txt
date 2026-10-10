@@ -1,1 +1,2 @@
-["to cheer","to applaud"]
+to cheer
+to applaud

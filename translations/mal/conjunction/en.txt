@@ -1,1 +1,3 @@
-["just","once","for a change"]
+just
+once
+for a change

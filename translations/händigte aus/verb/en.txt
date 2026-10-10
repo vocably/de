@@ -1,1 +1,2 @@
-["handed over","handed out"]
+handed over
+handed out

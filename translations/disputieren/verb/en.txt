@@ -1,1 +1,2 @@
-["to dispute","to debate"]
+to dispute
+to debate

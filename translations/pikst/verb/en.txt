@@ -1,1 +1,2 @@
-["pricks","stings"]
+pricks
+stings

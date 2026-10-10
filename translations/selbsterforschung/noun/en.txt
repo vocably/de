@@ -1,1 +1,2 @@
-["self-exploration","introspection"]
+self-exploration
+introspection

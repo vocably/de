@@ -1,1 +1,2 @@
-["masterpiece","masterstroke"]
+masterpiece
+masterstroke

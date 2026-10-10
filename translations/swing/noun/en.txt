@@ -1,1 +1,3 @@
-["swing","rhythm","groove"]
+swing
+rhythm
+groove

@@ -1,1 +1,2 @@
-["strapped in","buckled up"]
+strapped in
+buckled up

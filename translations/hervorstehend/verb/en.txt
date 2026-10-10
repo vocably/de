@@ -1,1 +1,2 @@
-["protruding","prominent"]
+protruding
+prominent

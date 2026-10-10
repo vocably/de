@@ -1,1 +1,2 @@
-["electrical appliances","electric devices"]
+electrical appliances
+electric devices

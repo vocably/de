@@ -1,1 +1,2 @@
-["quarrelsome","contentious"]
+quarrelsome
+contentious

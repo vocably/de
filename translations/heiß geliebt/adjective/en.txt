@@ -1,1 +1,2 @@
-["dearly loved","hotly loved"]
+dearly loved
+hotly loved

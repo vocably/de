@@ -1,1 +1,2 @@
-["pedestrian bridge","footbridge"]
+pedestrian bridge
+footbridge

@@ -1,1 +1,2 @@
-["cash offer","cash bid"]
+cash offer
+cash bid

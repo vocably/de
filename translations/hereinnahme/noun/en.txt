@@ -1,1 +1,3 @@
-["inclusion","incorporation","admission"]
+inclusion
+incorporation
+admission

@@ -1,1 +1,3 @@
-["to tackle","to approach","to answer"]
+to tackle
+to approach
+to answer

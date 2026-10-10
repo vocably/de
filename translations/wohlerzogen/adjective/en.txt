@@ -1,1 +1,2 @@
-["well-behaved","well-bred"]
+well-behaved
+well-bred

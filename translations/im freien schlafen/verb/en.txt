@@ -1,1 +1,2 @@
-["sleep outdoors","sleep outside"]
+sleep outdoors
+sleep outside

@@ -1,1 +1,3 @@
-["participating","attending","sympathetic"]
+participating
+attending
+sympathetic

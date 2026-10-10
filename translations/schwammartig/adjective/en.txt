@@ -1,1 +1,2 @@
-["spongy","sponge-like"]
+spongy
+sponge-like

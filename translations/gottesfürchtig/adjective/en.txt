@@ -1,1 +1,2 @@
-["god-fearing","pious"]
+god-fearing
+pious

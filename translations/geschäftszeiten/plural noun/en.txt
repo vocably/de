@@ -1,1 +1,2 @@
-["business hours","opening hours"]
+business hours
+opening hours

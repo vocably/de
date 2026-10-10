@@ -1,1 +1,3 @@
-["dump","stockpile","heap"]
+dump
+stockpile
+heap

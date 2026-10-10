@@ -1,1 +1,2 @@
-["gender equality","gender equity"]
+gender equality
+gender equity

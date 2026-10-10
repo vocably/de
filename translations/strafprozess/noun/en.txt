@@ -1,1 +1,2 @@
-["criminal trial","criminal proceedings"]
+criminal trial
+criminal proceedings

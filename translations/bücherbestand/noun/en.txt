@@ -1,1 +1,2 @@
-["book collection","book stock"]
+book collection
+book stock

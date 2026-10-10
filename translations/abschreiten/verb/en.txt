@@ -1,1 +1,2 @@
-["to pace out","to inspect"]
+to pace out
+to inspect

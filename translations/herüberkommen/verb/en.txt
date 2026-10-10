@@ -1,1 +1,3 @@
-["come over","come across","come by"]
+come over
+come across
+come by

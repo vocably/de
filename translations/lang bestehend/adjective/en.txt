@@ -1,1 +1,2 @@
-["long-standing","long-term"]
+long-standing
+long-term

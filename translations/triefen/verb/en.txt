@@ -1,1 +1,3 @@
-["drip","be soaking wet","be saturated"]
+drip
+be soaking wet
+be saturated

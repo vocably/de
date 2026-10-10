@@ -1,1 +1,2 @@
-["to bridle","to fence"]
+to bridle
+to fence

@@ -1,1 +1,2 @@
-["painting","drawing"]
+painting
+drawing

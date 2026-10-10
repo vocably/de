@@ -1,1 +1,2 @@
-["downstairs","down the stairs"]
+downstairs
+down the stairs

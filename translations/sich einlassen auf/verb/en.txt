@@ -1,1 +1,3 @@
-["get involved in","engage in","embark on"]
+get involved in
+engage in
+embark on

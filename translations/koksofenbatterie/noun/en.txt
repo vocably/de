@@ -1,1 +1,1 @@
-["coke oven battery"]
+coke oven battery

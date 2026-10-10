@@ -1,1 +1,2 @@
-["press releases","news releases"]
+press releases
+news releases

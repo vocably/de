@@ -1,1 +1,2 @@
-["diner","restaurant guest"]
+diner
+restaurant guest

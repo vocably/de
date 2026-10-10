@@ -1,1 +1,2 @@
-["voracious","greedy"]
+voracious
+greedy

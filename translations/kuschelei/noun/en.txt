@@ -1,1 +1,2 @@
-["cuddling","snuggling"]
+cuddling
+snuggling

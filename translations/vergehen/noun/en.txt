@@ -1,1 +1,2 @@
-["offense","lapse"]
+offense
+lapse

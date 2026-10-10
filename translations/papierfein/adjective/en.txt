@@ -1,1 +1,2 @@
-["paper-thin","wafer-thin"]
+paper-thin
+wafer-thin

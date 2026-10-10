@@ -1,1 +1,2 @@
-["extra hour","additional hour"]
+extra hour
+additional hour

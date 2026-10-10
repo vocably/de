@@ -1,1 +1,3 @@
-["stopped","halted","interrupted"]
+stopped
+halted
+interrupted

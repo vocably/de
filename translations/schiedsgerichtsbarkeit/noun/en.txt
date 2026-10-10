@@ -1,1 +1,1 @@
-["arbitration"]
+arbitration

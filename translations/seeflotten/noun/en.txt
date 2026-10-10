@@ -1,1 +1,2 @@
-["fleets","navies"]
+fleets
+navies

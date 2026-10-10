@@ -1,1 +1,2 @@
-["arrival","occurrence"]
+arrival
+occurrence

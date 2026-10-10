@@ -1,1 +1,2 @@
-["swab","cotton swab"]
+swab
+cotton swab

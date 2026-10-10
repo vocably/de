@@ -1,1 +1,2 @@
-["willingness to take risks","risk-taking propensity"]
+willingness to take risks
+risk-taking propensity

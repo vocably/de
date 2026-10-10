@@ -1,1 +1,2 @@
-["prune","dried plum"]
+prune
+dried plum

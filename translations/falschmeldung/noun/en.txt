@@ -1,1 +1,2 @@
-["false report","fake news"]
+false report
+fake news

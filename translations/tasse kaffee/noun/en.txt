@@ -1,1 +1,2 @@
-["cup of coffee","coffee"]
+cup of coffee
+coffee

@@ -1,1 +1,2 @@
-["social integration","social inclusion"]
+social integration
+social inclusion

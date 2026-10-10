@@ -1,1 +1,2 @@
-["timeout","time-out"]
+timeout
+time-out

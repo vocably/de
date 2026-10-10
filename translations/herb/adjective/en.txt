@@ -1,1 +1,3 @@
-["tart","harsh","austere"]
+tart
+harsh
+austere

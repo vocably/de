@@ -1,1 +1,2 @@
-["cane","birch rod"]
+cane
+birch rod

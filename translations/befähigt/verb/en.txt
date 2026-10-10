@@ -1,1 +1,2 @@
-["enables","qualifies"]
+enables
+qualifies

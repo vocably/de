@@ -1,1 +1,2 @@
-["headset","boom mic"]
+headset
+boom mic

@@ -1,1 +1,2 @@
-["shaved","razed"]
+shaved
+razed

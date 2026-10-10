@@ -1,1 +1,2 @@
-["amount of damage","extent of damage"]
+amount of damage
+extent of damage

@@ -1,1 +1,2 @@
-["communities","groups"]
+communities
+groups

@@ -1,1 +1,2 @@
-["resume","curriculum vitae"]
+resume
+curriculum vitae

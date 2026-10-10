@@ -1,1 +1,2 @@
-["happenings","events"]
+happenings
+events

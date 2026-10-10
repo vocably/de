@@ -1,1 +1,2 @@
-["defends itself","resists"]
+defends itself
+resists

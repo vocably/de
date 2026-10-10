@@ -1,1 +1,2 @@
-["haste","rush"]
+haste
+rush

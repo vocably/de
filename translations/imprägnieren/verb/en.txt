@@ -1,1 +1,2 @@
-["waterproof","impregnate"]
+waterproof
+impregnate

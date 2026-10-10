@@ -1,1 +1,2 @@
-["sweetener","sugar substitute"]
+sweetener
+sugar substitute

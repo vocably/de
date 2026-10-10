@@ -1,1 +1,2 @@
-["traineeship","internship"]
+traineeship
+internship

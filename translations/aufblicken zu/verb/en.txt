@@ -1,1 +1,2 @@
-["look up to","look up"]
+look up to
+look up

@@ -1,1 +1,2 @@
-["abrasive","wearing"]
+abrasive
+wearing

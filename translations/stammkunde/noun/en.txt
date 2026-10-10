@@ -1,1 +1,2 @@
-["regular customer","loyal customer"]
+regular customer
+loyal customer

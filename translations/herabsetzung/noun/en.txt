@@ -1,1 +1,3 @@
-["reduction","degradation","demotion"]
+reduction
+degradation
+demotion

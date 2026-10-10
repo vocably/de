@@ -1,1 +1,2 @@
-["become a citizen","naturalize"]
+become a citizen
+naturalize

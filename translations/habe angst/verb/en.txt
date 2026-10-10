@@ -1,1 +1,2 @@
-["be afraid","be scared"]
+be afraid
+be scared

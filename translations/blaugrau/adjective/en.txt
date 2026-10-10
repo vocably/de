@@ -1,1 +1,2 @@
-["blue-gray","slate-gray"]
+blue-gray
+slate-gray

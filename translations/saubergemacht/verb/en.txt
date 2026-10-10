@@ -1,1 +1,3 @@
-["cleaned","tidied up","made clean"]
+cleaned
+tidied up
+made clean

@@ -1,1 +1,2 @@
-["pasture","grazing land"]
+pasture
+grazing land

@@ -1,1 +1,2 @@
-["madman","lunatic"]
+madman
+lunatic

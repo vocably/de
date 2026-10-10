@@ -1,1 +1,2 @@
-["to sputter","to crackle"]
+to sputter
+to crackle

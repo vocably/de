@@ -1,1 +1,2 @@
-["to purify","to clean"]
+to purify
+to clean

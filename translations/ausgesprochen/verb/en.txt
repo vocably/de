@@ -1,1 +1,3 @@
-["pronounced","expressed","uttered"]
+pronounced
+expressed
+uttered

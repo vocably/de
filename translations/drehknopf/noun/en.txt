@@ -1,1 +1,2 @@
-["rotary knob","dial"]
+rotary knob
+dial

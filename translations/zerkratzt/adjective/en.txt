@@ -1,1 +1,2 @@
-["scratched","marred"]
+scratched
+marred

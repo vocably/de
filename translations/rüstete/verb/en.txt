@@ -1,1 +1,2 @@
-["equipped","prepared"]
+equipped
+prepared

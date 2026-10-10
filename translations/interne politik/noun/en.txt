@@ -1,1 +1,2 @@
-["internal politics","domestic policy"]
+internal politics
+domestic policy

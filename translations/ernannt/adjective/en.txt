@@ -1,1 +1,2 @@
-["appointed","designated"]
+appointed
+designated

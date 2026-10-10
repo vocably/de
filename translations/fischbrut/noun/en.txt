@@ -1,1 +1,2 @@
-["fry","fish fry"]
+fry
+fish fry

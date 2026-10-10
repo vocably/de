@@ -1,1 +1,2 @@
-["to contract","to enter into a contract"]
+to contract
+to enter into a contract

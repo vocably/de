@@ -1,1 +1,2 @@
-["interested party","prospective buyer"]
+interested party
+prospective buyer

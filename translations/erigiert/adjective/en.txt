@@ -1,1 +1,3 @@
-["erect","rigid","upright"]
+erect
+rigid
+upright

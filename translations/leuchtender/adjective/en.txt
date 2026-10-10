@@ -1,1 +1,3 @@
-["luminous","bright","shining"]
+luminous
+bright
+shining

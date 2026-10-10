@@ -1,1 +1,2 @@
-["to trudge","to plod"]
+to trudge
+to plod

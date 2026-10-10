@@ -1,1 +1,2 @@
-["to dare","to venture"]
+to dare
+to venture

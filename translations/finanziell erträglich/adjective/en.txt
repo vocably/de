@@ -1,1 +1,2 @@
-["affordable","bearable"]
+affordable
+bearable

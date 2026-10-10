@@ -1,1 +1,3 @@
-["proven","demonstrably","verifiably"]
+proven
+demonstrably
+verifiably

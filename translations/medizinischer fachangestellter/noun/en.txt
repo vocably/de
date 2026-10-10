@@ -1,1 +1,2 @@
-["Medical Assistant","Certified Medical Assistant"]
+Medical Assistant
+Certified Medical Assistant

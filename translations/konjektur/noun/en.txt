@@ -1,1 +1,2 @@
-["conjecture","surmise"]
+conjecture
+surmise

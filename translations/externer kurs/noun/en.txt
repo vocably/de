@@ -1,1 +1,2 @@
-["external course","outside course"]
+external course
+outside course

@@ -1,1 +1,2 @@
-["government student loan","federal student loan"]
+government student loan
+federal student loan

@@ -1,1 +1,2 @@
-["extravagance","wastefulness"]
+extravagance
+wastefulness

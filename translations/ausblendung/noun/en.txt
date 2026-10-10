@@ -1,1 +1,2 @@
-["fade","mask"]
+fade
+mask

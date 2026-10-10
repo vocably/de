@@ -1,1 +1,2 @@
-["hanging basket","hanging planter"]
+hanging basket
+hanging planter

@@ -1,1 +1,2 @@
-["online","on the net"]
+online
+on the net

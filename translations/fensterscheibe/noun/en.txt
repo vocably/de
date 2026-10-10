@@ -1,1 +1,2 @@
-["windowpane","window"]
+windowpane
+window

@@ -1,1 +1,2 @@
-["looked up","gazed upward"]
+looked up
+gazed upward
