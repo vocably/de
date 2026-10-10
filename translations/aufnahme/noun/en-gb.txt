@@ -1,0 +1,4 @@
+admission
+recording
+reception
+intake
