@@ -1,0 +1,4 @@
+off
+out
+finished
+exhausted
