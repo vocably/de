@@ -1,0 +1,2 @@
+spotlight
+point light

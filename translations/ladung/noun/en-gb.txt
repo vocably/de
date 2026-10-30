@@ -1,0 +1,5 @@
+cargo
+freight
+charge
+load
+consignment

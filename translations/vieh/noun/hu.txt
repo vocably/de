@@ -1,0 +1,3 @@
+állat
+marha
+jószág

@@ -1,0 +1,3 @@
+interfészek
+csatlakozási pontok
+illesztőfelületek

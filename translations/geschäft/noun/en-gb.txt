@@ -1,0 +1,4 @@
+shop
+business
+deal
+affair

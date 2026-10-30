@@ -1,0 +1,4 @@
+osztály
+évfolyam
+kategória
+rang

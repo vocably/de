@@ -1,0 +1,5 @@
+take
+choose
+have
+use
+accept
