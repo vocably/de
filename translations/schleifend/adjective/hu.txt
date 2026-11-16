@@ -1,0 +1,3 @@
+csúszó
+húzódó
+lassú

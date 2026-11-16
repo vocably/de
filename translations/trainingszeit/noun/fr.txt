@@ -1,0 +1,2 @@
+temps d'entraînement
+durée d'entraînement

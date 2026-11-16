@@ -1,0 +1,2 @@
+inquiry stop
+request stop

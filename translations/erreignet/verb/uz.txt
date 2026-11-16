@@ -1,0 +1,2 @@
+sodir bermoq
+yuz bermoq
